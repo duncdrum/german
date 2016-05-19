@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E03A685C-8AC3-48C8-A609-E0F604B4FA58">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E03A685C-8AC3-48C8-A609-E0F604B4FA58">
     <name type="personal">
         <namePart lang="chi" script="Hant">西松二郎譯</namePart>
         <role>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-785EC577-439B-4EF8-A370-6350EDA7BFBB">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-785EC577-439B-4EF8-A370-6350EDA7BFBB">
     <name type="personal">
         <namePart lang="chi" script="Hant">荻野由之校閱　長谷川清編</namePart>
         <role>

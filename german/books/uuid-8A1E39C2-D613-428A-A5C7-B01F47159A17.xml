@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8A1E39C2-D613-428A-A5C7-B01F47159A17">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8A1E39C2-D613-428A-A5C7-B01F47159A17">
     <titleInfo lang="chi" script="Hant">
         <title>愛爾蘭威廉母傳</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 70</note>
-    <abstract lang="chi" type="summary"> 愛爾蘭威廉母傳一卷 農學報本   [英]熱地農學報本，農學報館譯，威廉母姓盂爾器，盂爾器譯言游行之人也，為 愛爾蘭望族，傳中所紀皆威廉母措施農商，設立行棧各情形，并稱其善於種 植加非，並精於泡製以致巨富云。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">愛爾蘭威廉母傳一卷 農學報本 [英]熱地農學報本，農學報館譯，威廉母姓盂爾器，盂爾器譯言游行之人也，為 愛爾蘭望族，傳中所紀皆威廉母措施農商，設立行棧各情形，并稱其善於種 植加非，並精於泡製以致巨富云。 [顧補]</abstract>
     <identifier type="mh">book_94</identifier>
 </mods>

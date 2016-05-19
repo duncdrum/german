@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2905193C-2B2E-406B-928B-095D26A66A91">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2905193C-2B2E-406B-928B-095D26A66A91">
     <titleInfo lang="chi" script="Hant">
         <title>少年世界</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 262</note>
-    <abstract lang="chi" type="summary"> 少年世界　卷 蒙學報本   [日本]高山林次郎著，[日本]松林孝純譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">少年世界　卷 蒙學報本 [日本]高山林次郎著，[日本]松林孝純譯。 [顧補]</abstract>
     <identifier type="mh">book_814</identifier>
 </mods>

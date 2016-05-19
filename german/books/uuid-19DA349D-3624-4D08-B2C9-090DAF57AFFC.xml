@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-19DA349D-3624-4D08-B2C9-090DAF57AFFC">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-19DA349D-3624-4D08-B2C9-090DAF57AFFC">
     <titleInfo lang="chi" script="Hant">
         <title>東遊紀略</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 268</note>
-    <abstract lang="chi" type="summary"> 東遊紀略五卷 通學齋叢書本   [英]艾約瑟著，當中國元世祖時有歐洲加路博俄革五博士相繼東遊亞地，即 所見聞，各有著述，艾君就其所作摘譯，以成斯書。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">東遊紀略五卷 通學齋叢書本 [英]艾約瑟著，當中國元世祖時有歐洲加路博俄革五博士相繼東遊亞地，即 所見聞，各有著述，艾君就其所作摘譯，以成斯書。 [顧補]</abstract>
     <identifier type="mh">book_840</identifier>
 </mods>

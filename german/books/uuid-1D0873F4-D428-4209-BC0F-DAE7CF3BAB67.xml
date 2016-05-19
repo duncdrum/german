@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1D0873F4-D428-4209-BC0F-DAE7CF3BAB67">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1D0873F4-D428-4209-BC0F-DAE7CF3BAB67">
     <titleInfo lang="chi" script="Hant">
         <title>斐洲遊記</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 267</note>
-    <abstract lang="chi" type="summary"> 斐洲遊記四卷 上海中西書室排印本   [英]施登萊著，滙報館譯，述洲內地方物產、民情甚詳，附圖若干幅，坊間刪改其 書，名三洲游記，殊嫌割裂。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">斐洲遊記四卷 上海中西書室排印本 [英]施登萊著，滙報館譯，述洲內地方物產、民情甚詳，附圖若干幅，坊間刪改其 書，名三洲游記，殊嫌割裂。 [顧補]</abstract>
     <identifier type="mh">book_836</identifier>
 </mods>

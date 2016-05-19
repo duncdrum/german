@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-70783A73-05F3-4E1A-81DB-7E440025F73D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-70783A73-05F3-4E1A-81DB-7E440025F73D">
     <name type="personal">
         <namePart lang="chi" script="Hant">富山房編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>植物學新書 《普通學全書》第十二篇 </title>
+        <title>植物學新書 《普通學全書》第十二篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,植物學,p 650</note>
     <note type="price">二角</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-68F3550B-BC5F-4B05-9C3B-869A1B03D4B4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-68F3550B-BC5F-4B05-9C3B-869A1B03D4B4">
     <name type="personal">
         <namePart lang="chi" script="Hant">三尾重定編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 增補再版 明治女用文</title>
+        <title>增補再版 明治女用文</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,女用文章,p 1057</note>
     <note type="price">四角</note>

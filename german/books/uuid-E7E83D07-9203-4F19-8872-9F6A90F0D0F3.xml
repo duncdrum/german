@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E7E83D07-9203-4F19-8872-9F6A90F0D0F3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E7E83D07-9203-4F19-8872-9F6A90F0D0F3">
     <titleInfo lang="chi" script="Hant">
-        <title>戶外遊戲法 英文 </title>
+        <title>戶外遊戲法 英文</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,遊戲書,p 1123</note>
     <note type="price">一角</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-961291B4-DA84-4CE4-9332-566FC32A6FD2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-961291B4-DA84-4CE4-9332-566FC32A6FD2">
     <name type="personal">
         <namePart lang="chi" script="Hant">幸田虎太郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《勸農叢書》 栽桑手引</title>
+        <title>《勸農叢書》 栽桑手引</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,蠶桑書,p 857</note>
     <note type="price">二角五分</note>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-72CA0FA3-8C84-4678-A9A9-3CE5C1990E10">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-72CA0FA3-8C84-4678-A9A9-3CE5C1990E10">
     <titleInfo lang="chi" script="Hant">
         <title>重學淺說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,重學第十三,重學,p 195</note>
-    <abstract lang="chi" type="summary"> 重學淺說一卷 上海排印本，在王氏西學輯存中一冊。   [英]偉烈亞力譯，王韜述，首述重學源流，備舉創法諸人，後論分科發原權衡動 靜等理，又有總論，曰簡器、曰繁器，而總名之曰助力器，意簡詞明，最便省覽。 </abstract>
+    <abstract lang="chi" type="summary">重學淺說一卷 上海排印本，在王氏西學輯存中一冊。 [英]偉烈亞力譯，王韜述，首述重學源流，備舉創法諸人，後論分科發原權衡動 靜等理，又有總論，曰簡器、曰繁器，而總名之曰助力器，意簡詞明，最便省覽。</abstract>
     <identifier type="mh">book_556</identifier>
 </mods>

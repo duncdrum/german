@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B3C6B71A-0E35-44B1-8FD3-A29F8ED12116">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B3C6B71A-0E35-44B1-8FD3-A29F8ED12116">
     <name type="personal">
         <namePart lang="chi" script="Hant">岡村政子著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 普通小學 畫學階梯 小學校用 </title>
+        <title>普通小學 畫學階梯 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1110</note>
     <note type="price">七角九分</note>

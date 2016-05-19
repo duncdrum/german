@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-48F2EED2-F2A8-4780-AE03-D35FA77C3408">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-48F2EED2-F2A8-4780-AE03-D35FA77C3408">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木弘恭著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 東京大家 十四家集評論辨 卷一春部 </title>
+        <title>東京大家 十四家集評論辨 卷一春部</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,歌學及歌集,p 977</note>
     <note type="price">二角五分</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7177C2BD-20BF-4C86-918A-0CF9694E1415">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7177C2BD-20BF-4C86-918A-0CF9694E1415">
     <name type="personal">
         <namePart lang="chi" script="Hant">安積五郎編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 小學校用 國民讀本 尋常科用 </title>
+        <title>小學校用 國民讀本 尋常科用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,小學讀本,p 950</note>
     <note type="price">五角八分五釐</note>

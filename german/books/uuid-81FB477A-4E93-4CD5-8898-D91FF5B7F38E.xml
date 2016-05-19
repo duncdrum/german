@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-81FB477A-4E93-4CD5-8898-D91FF5B7F38E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-81FB477A-4E93-4CD5-8898-D91FF5B7F38E">
     <name type="personal">
         <namePart lang="chi" script="Hant">三遊亭圓朝著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 歐洲小說 黃薔薇</title>
+        <title>歐洲小說 黃薔薇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1178</note>
     <identifier type="mh">book_8109</identifier>

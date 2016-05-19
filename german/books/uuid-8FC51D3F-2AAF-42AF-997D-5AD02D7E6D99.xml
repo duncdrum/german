@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8FC51D3F-2AAF-42AF-997D-5AD02D7E6D99">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8FC51D3F-2AAF-42AF-997D-5AD02D7E6D99">
     <name type="personal">
         <namePart lang="chi" script="Hant">祖山、原田、龜井合著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 實地練習 商業活法</title>
+        <title>實地練習 商業活法</title>
     </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,商業書,p 890</note>
     <note type="price">四角</note>

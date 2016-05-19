@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-020CB4FE-614E-41D6-87D9-A641FD8BFDB5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-020CB4FE-614E-41D6-87D9-A641FD8BFDB5">
     <name type="personal">
         <namePart lang="chi" script="Hant">立石定準著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 俗說正誤 匠家必用記</title>
+        <title>俗說正誤 匠家必用記</title>
     </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note>
     <note type="price">三角</note>

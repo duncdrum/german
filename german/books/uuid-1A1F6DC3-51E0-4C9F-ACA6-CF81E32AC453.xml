@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1A1F6DC3-51E0-4C9F-ACA6-CF81E32AC453">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1A1F6DC3-51E0-4C9F-ACA6-CF81E32AC453">
     <titleInfo lang="chi" script="Hant">
         <title>國際公法總論</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 89</note>
-    <abstract lang="chi" type="summary"> 國際公法總論　卷 東亞報本   [日本]角谷大三郎譯，從最近世國際公法譯出，國際公法者非法律也，無一定 裁制，無一定法廷，又無一定立法，要以保本國權力，不使外人干預為主腦，雖 強國不能出其範圍，謂之地球和平之具，誰曰不宜。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">國際公法總論　卷 東亞報本 [日本]角谷大三郎譯，從最近世國際公法譯出，國際公法者非法律也，無一定 裁制，無一定法廷，又無一定立法，要以保本國權力，不使外人干預為主腦，雖 強國不能出其範圍，謂之地球和平之具，誰曰不宜。 [顧補]</abstract>
     <identifier type="mh">book_167</identifier>
 </mods>

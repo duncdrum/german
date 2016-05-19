@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6A5D8CFB-DF4A-4939-BE4F-5F4658DBD434">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6A5D8CFB-DF4A-4939-BE4F-5F4658DBD434">
     <name type="personal">
         <namePart lang="chi" script="Hant">高井月松著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 獨習自在 月琴端歌集</title>
+        <title>獨習自在 月琴端歌集</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,音曲,p 1118</note>
     <note type="price">一角二分</note>

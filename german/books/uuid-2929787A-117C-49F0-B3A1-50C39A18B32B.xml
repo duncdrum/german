@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2929787A-117C-49F0-B3A1-50C39A18B32B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2929787A-117C-49F0-B3A1-50C39A18B32B">
     <titleInfo lang="chi" script="Hant">
         <title>學校管理法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 82</note>
-    <abstract lang="chi" type="summary"> 學校管理法一卷 教育世界本   [日本]田中敬一編，周家樹譯，不知教育學而管理學校，猶之不明工藝學而管 理製造廠，不惟無益且甚危險。是書分十章，一緒論、二校舍、三校具、四教科、五 學級、六教員、七管理狹義、八衛生、九經濟即理財、十表簿。舉學校關係之事一 一詳其利弊，我國近日士夫競言學校，不可不熟玩是書。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">學校管理法一卷 教育世界本 [日本]田中敬一編，周家樹譯，不知教育學而管理學校，猶之不明工藝學而管 理製造廠，不惟無益且甚危險。是書分十章，一緒論、二校舍、三校具、四教科、五 學級、六教員、七管理狹義、八衛生、九經濟即理財、十表簿。舉學校關係之事一 一詳其利弊，我國近日士夫競言學校，不可不熟玩是書。 [徐補]</abstract>
     <identifier type="mh">book_141</identifier>
 </mods>

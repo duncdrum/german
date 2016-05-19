@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4B61DC1F-3367-4804-B64C-B6F586697A33">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4B61DC1F-3367-4804-B64C-B6F586697A33">
     <titleInfo lang="chi" script="Hant">
         <title>樟樹論</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 131</note>
-    <abstract lang="chi" type="summary"> 樟樹論一卷 農學報本   [日本]白河太郎著，[日本]藤田豐八譯，樟樹之產，日本為盛，而臺灣尤盛，書成於 割我臺灣後，竭力表明種樟、製腦、製油之利，并論製造之法，復申言從前中國 未能保護腦務之弊，坐失利益，可為歎惜。 </abstract>
+    <abstract lang="chi" type="summary">樟樹論一卷 農學報本 [日本]白河太郎著，[日本]藤田豐八譯，樟樹之產，日本為盛，而臺灣尤盛，書成於 割我臺灣後，竭力表明種樟、製腦、製油之利，并論製造之法，復申言從前中國 未能保護腦務之弊，坐失利益，可為歎惜。</abstract>
     <identifier type="mh">book_312</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2735CC52-87C5-4395-AEB7-454F16A64618">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2735CC52-87C5-4395-AEB7-454F16A64618">
     <name type="personal">
         <namePart lang="chi" script="Hant">峰是三郎編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>明治修身書 尋常小學教師用 </title>
+        <title>明治修身書 尋常小學教師用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 917</note>
     <note type="price">四角</note>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2F0BC1F3-7989-4F15-969E-1CBE77CB26C2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2F0BC1F3-7989-4F15-969E-1CBE77CB26C2">
     <titleInfo lang="chi" script="Hant">
         <title>附倫敦鐵路公司章程</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 147</note>
-    <abstract lang="chi" type="summary">  附 倫敦鐵路公司章程一卷 時務報本   [英]鐵路公司著，鄧廷鏗譯，楊葆寅輯，凡行止車機收卸貨物搭客收票夷險記 號皆有章程，令發惟從英倫公司尤為詳密。彙編六有言印度鐵路一篇，其辦 法頗善，可互證。 實學報印有德伏耳鏗製造廠原本，美金楷理、徐建寅同譯，伏耳鏗廠製造股會章程一卷，未成。  </abstract>
+    <abstract lang="chi" type="summary">附 倫敦鐵路公司章程一卷 時務報本 [英]鐵路公司著，鄧廷鏗譯，楊葆寅輯，凡行止車機收卸貨物搭客收票夷險記 號皆有章程，令發惟從英倫公司尤為詳密。彙編六有言印度鐵路一篇，其辦 法頗善，可互證。 實學報印有德伏耳鏗製造廠原本，美金楷理、徐建寅同譯，伏耳鏗廠製造股會章程一卷，未成。</abstract>
     <identifier type="mh">book_377</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2F76A30F-657B-4E69-A7FB-43E168B310E5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2F76A30F-657B-4E69-A7FB-43E168B310E5">
     <name type="personal">
         <namePart lang="chi" script="Hant">千葉龍子著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 源氏插花 碑銘抄</title>
+        <title>源氏插花 碑銘抄</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,插花書,p 1126</note>
     <note type="price">八分</note>

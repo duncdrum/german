@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-84282D47-5B42-4A93-83C1-CFB525F14AE4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-84282D47-5B42-4A93-83C1-CFB525F14AE4">
     <name type="personal">
         <namePart lang="chi" script="Hant">青木輔清編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 古今 百名家真筆</title>
+        <title>古今 百名家真筆</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,書畫類,p 1107</note>
     <note type="price">一圓四角</note>

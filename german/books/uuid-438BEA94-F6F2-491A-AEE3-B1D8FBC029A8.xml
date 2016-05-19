@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-438BEA94-F6F2-491A-AEE3-B1D8FBC029A8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-438BEA94-F6F2-491A-AEE3-B1D8FBC029A8">
     <titleInfo lang="chi" script="Hant">
         <title>化學分原分卷</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 202</note>
-    <abstract lang="chi" type="summary"> 化學分原分卷附表 製造局本二冊　西學大成本   [英]蒲陸山著，[英]傅蘭雅譯，徐建寅述，專言原質化分之法為考質學最簡之本 與考質相生法稍有出入，可以參核同異；下卷畧及求數後載金類結成表化 分表試驗各質表預備物質細目與初階段二卷相似。 </abstract>
+    <abstract lang="chi" type="summary">化學分原分卷附表 製造局本二冊　西學大成本 [英]蒲陸山著，[英]傅蘭雅譯，徐建寅述，專言原質化分之法為考質學最簡之本 與考質相生法稍有出入，可以參核同異；下卷畧及求數後載金類結成表化 分表試驗各質表預備物質細目與初階段二卷相似。</abstract>
     <identifier type="mh">book_582</identifier>
 </mods>

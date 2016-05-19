@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A804ABB2-13AD-4903-A101-9A2FF7EBA186">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A804ABB2-13AD-4903-A101-9A2FF7EBA186">
     <name type="personal">
         <namePart lang="chi" script="Hant">鏑木溪庵著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 增補改正 清風雅譜</title>
+        <title>增補改正 清風雅譜</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,音曲,p 1119</note>
     <note type="price">六分</note>

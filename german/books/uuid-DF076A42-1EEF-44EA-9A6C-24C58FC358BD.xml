@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DF076A42-1EEF-44EA-9A6C-24C58FC358BD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DF076A42-1EEF-44EA-9A6C-24C58FC358BD">
     <titleInfo lang="chi" script="Hant">
         <title>教授圖說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 263</note>
-    <abstract lang="chi" type="summary"> 教授圖說　卷 香港石印本   [英]協巴甸著，每套二十幅，便華童習英文日課之用。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">教授圖說　卷 香港石印本 [英]協巴甸著，每套二十幅，便華童習英文日課之用。 [顧補]</abstract>
     <identifier type="mh">book_816</identifier>
 </mods>

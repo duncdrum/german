@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-30D17D9F-1311-40E8-B1EB-DD4A43BEC16D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-30D17D9F-1311-40E8-B1EB-DD4A43BEC16D">
     <name type="personal">
         <namePart lang="chi" script="Hant">增島</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>大審院民事判決集 自一卷至六卷 </title>
+        <title>大審院民事判決集 自一卷至六卷</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,判決例,p 802</note>
     <note type="price">四圓九角五分</note>

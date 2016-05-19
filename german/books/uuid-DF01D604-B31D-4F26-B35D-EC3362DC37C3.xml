@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DF01D604-B31D-4F26-B35D-EC3362DC37C3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DF01D604-B31D-4F26-B35D-EC3362DC37C3">
     <titleInfo lang="chi" script="Hant">
         <title>萬國電報通例</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 75</note>
-    <abstract lang="chi" type="summary"> 萬國電報通例一卷 光緒七年中國電報滬局排印本一冊   東西各國電線局總辦合著，胡禮垣譯，為類十七，曰交涉、曰生意、曰收寫、曰算 賬、曰計字、曰收費、曰傳打、曰帶交、曰加意、曰公務、曰記載、曰交還、曰數目、曰權 衡、曰通傳、曰會議、曰入約。首載公約二十一款，乃一千八百七十五年立於俄 京，其通例訂於一千八百七十九年，同時書名者十有五人，即按照公約而議 行，此例雖在今日已為陳迹，然當時籌事之密，立法之公，於此可見，此後隨時 增刪之例，當更加善，乃未嘗踵譯之，可惜也。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">萬國電報通例一卷 光緒七年中國電報滬局排印本一冊 東西各國電線局總辦合著，胡禮垣譯，為類十七，曰交涉、曰生意、曰收寫、曰算 賬、曰計字、曰收費、曰傳打、曰帶交、曰加意、曰公務、曰記載、曰交還、曰數目、曰權 衡、曰通傳、曰會議、曰入約。首載公約二十一款，乃一千八百七十五年立於俄 京，其通例訂於一千八百七十九年，同時書名者十有五人，即按照公約而議 行，此例雖在今日已為陳迹，然當時籌事之密，立法之公，於此可見，此後隨時 增刪之例，當更加善，乃未嘗踵譯之，可惜也。 [徐補]</abstract>
     <identifier type="mh">book_114</identifier>
 </mods>

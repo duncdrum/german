@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-566F3620-94E4-43A5-99AD-45693E0B8D11">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-566F3620-94E4-43A5-99AD-45693E0B8D11">
     <titleInfo lang="chi" script="Hant">
         <title>植物學啟蒙</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,植物學,p 236</note>
-    <abstract lang="chi" type="summary"> 植物學啟蒙一卷 西學啟蒙本一冊   [英]艾約瑟譯，書中皆言植物學公理，其體貼之精為他書所不及，後附植物學 程課之式，極可取法。 </abstract>
+    <abstract lang="chi" type="summary">植物學啟蒙一卷 西學啟蒙本一冊 [英]艾約瑟譯，書中皆言植物學公理，其體貼之精為他書所不及，後附植物學 程課之式，極可取法。</abstract>
     <identifier type="mh">book_716</identifier>
 </mods>

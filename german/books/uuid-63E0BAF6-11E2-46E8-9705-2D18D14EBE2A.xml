@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-63E0BAF6-11E2-46E8-9705-2D18D14EBE2A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-63E0BAF6-11E2-46E8-9705-2D18D14EBE2A">
     <name type="personal">
         <namePart lang="chi" script="Hant">獸醫學士內村兵藏著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>獸醫篇 《農業全集》第十三篇 </title>
+        <title>獸醫篇 《農業全集》第十三篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,獸醫學,p 617</note>
     <note type="price">一角五分</note>

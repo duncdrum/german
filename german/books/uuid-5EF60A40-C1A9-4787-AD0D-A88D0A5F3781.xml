@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-5EF60A40-C1A9-4787-AD0D-A88D0A5F3781">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-5EF60A40-C1A9-4787-AD0D-A88D0A5F3781">
     <name type="personal">
         <namePart lang="chi" script="Hant">秦政治郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 尋常小學 地理歷史教科書</title>
+        <title>尋常小學 地理歷史教科書</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note>
     <note type="price">三角六分</note>

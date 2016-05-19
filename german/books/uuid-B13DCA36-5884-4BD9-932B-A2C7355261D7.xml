@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B13DCA36-5884-4BD9-932B-A2C7355261D7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B13DCA36-5884-4BD9-932B-A2C7355261D7">
     <name type="personal">
         <namePart lang="chi" script="Hant">中根淑註釋</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 頭書 保元物語</title>
+        <title>頭書 保元物語</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 711</note>
     <note type="price">二角五分</note>

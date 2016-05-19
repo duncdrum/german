@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-9554D717-C8ED-428C-80FF-FEDD10B9C9A0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-9554D717-C8ED-428C-80FF-FEDD10B9C9A0">
     <name type="personal">
         <namePart lang="chi" script="Hant">今泉啟三郎譯述</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 一讀奮起 立志美談 一名《英佛獨三貧兒傳》 </title>
+        <title>一讀奮起 立志美談 一名《英佛獨三貧兒傳》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,傳記,p 719</note>
     <note type="price">三角</note>

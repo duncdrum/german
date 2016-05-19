@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3B13F6C4-49BB-4F71-8C69-EE850F7DD079">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3B13F6C4-49BB-4F71-8C69-EE850F7DD079">
     <titleInfo lang="chi" script="Hant">
-        <title>上佐日記 《日本文學全書》第二篇之內 </title>
+        <title>上佐日記 《日本文學全書》第二篇之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1030</note>
     <note type="price">二角五分</note>

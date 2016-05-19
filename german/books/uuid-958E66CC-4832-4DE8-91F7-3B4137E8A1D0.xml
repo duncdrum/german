@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-958E66CC-4832-4DE8-91F7-3B4137E8A1D0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-958E66CC-4832-4DE8-91F7-3B4137E8A1D0">
     <name type="personal">
         <namePart lang="chi" script="Hant">錦文流</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>仁德天皇萬年車 《新編太和文範》之內 </title>
+        <title>仁德天皇萬年車 《新編太和文範》之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,戲曲,p 999</note>
     <note type="price">二角</note>

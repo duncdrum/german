@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DC5DC983-0B0D-4FA4-AFDC-CB79106E27A2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DC5DC983-0B0D-4FA4-AFDC-CB79106E27A2">
     <titleInfo lang="chi" script="Hant">
         <title>算法量地捷解前編</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,圖學第二十四,測繪,p 255</note>
-    <abstract lang="chi" type="summary"> 算法量地捷解前編三卷 日本明石舍刊本   [日本]信義編 </abstract>
+    <abstract lang="chi" type="summary">算法量地捷解前編三卷 日本明石舍刊本 [日本]信義編</abstract>
     <identifier type="mh">book_788</identifier>
 </mods>

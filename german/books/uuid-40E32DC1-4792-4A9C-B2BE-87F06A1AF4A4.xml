@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-40E32DC1-4792-4A9C-B2BE-87F06A1AF4A4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-40E32DC1-4792-4A9C-B2BE-87F06A1AF4A4">
     <titleInfo lang="chi" script="Hant">
         <title>試騐蠶病成蹟報第一第二第三</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 125</note>
-    <abstract lang="chi" type="summary"> 試騐蠶病成蹟報第一第二第三 農學報本　卷一杭州蠶學館本，在蠶學叢刻初集內。   [日本]農商務省編，[日本]藤田豐八，譯分十章，曰蠶病有數種白殭病有節，病空 頭，病縮身，病細身，病蛆病是也。此篇專述明治十七年農商務省試騐之成蹟， 其發明不少，其第二則言十八年試騐，第三則言十九年試騐。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">試騐蠶病成蹟報第一第二第三 農學報本　卷一杭州蠶學館本，在蠶學叢刻初集內。 [日本]農商務省編，[日本]藤田豐八，譯分十章，曰蠶病有數種白殭病有節，病空 頭，病縮身，病細身，病蛆病是也。此篇專述明治十七年農商務省試騐之成蹟， 其發明不少，其第二則言十八年試騐，第三則言十九年試騐。 [顧補]</abstract>
     <identifier type="mh">book_284</identifier>
 </mods>

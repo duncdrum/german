@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-125C78CD-2B1D-4E21-B692-23D27D140295">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-125C78CD-2B1D-4E21-B692-23D27D140295">
     <titleInfo lang="chi" script="Hant">
         <title>致富新書</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 166</note>
-    <abstract lang="chi" type="summary"> 致富新書　卷  [英]布茂林著，葉耀元譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">致富新書　卷 [英]布茂林著，葉耀元譯。 [顧補]</abstract>
     <identifier type="mh">book_455</identifier>
 </mods>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C3952D9E-E987-4346-A879-86112B79D036">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C3952D9E-E987-4346-A879-86112B79D036">
     <titleInfo lang="chi" script="Hant">
         <title>照像略法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 159</note>
-    <abstract lang="chi" type="summary"> 照像略法一卷 格致彙編本   [英]傅蘭雅輯，分十有八章，皆論器具材料而照像法亦具於中，在講求斯學者 推究其理，神明其用耳。然近來西人復創照骨與照色之法，此書早出，其法未 具，當別求新本參攷之。 </abstract>
+    <abstract lang="chi" type="summary">照像略法一卷 格致彙編本 [英]傅蘭雅輯，分十有八章，皆論器具材料而照像法亦具於中，在講求斯學者 推究其理，神明其用耳。然近來西人復創照骨與照色之法，此書早出，其法未 具，當別求新本參攷之。</abstract>
     <identifier type="mh">book_432</identifier>
 </mods>

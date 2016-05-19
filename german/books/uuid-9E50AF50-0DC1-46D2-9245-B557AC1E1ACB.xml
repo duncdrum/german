@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-9E50AF50-0DC1-46D2-9245-B557AC1E1ACB">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-9E50AF50-0DC1-46D2-9245-B557AC1E1ACB">
     <titleInfo lang="chi" script="Hant">
-        <title>刑法刑事訴訟法全書 《法律叢書》第五卷 </title>
+        <title>刑法刑事訴訟法全書 《法律叢書》第五卷</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,刑事訴訟法,p 800</note>
     <note type="price">一角</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-80C1F1B2-6BB4-404E-A672-66D2EBA99517">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-80C1F1B2-6BB4-404E-A672-66D2EBA99517">
     <name type="personal">
         <namePart lang="chi" script="Hant">伊藤宗印著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>將棊精妙 一名《不成百番》 </title>
+        <title>將棊精妙 一名《不成百番》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,將棊書,p 1133</note>
     <note type="price">一角</note>

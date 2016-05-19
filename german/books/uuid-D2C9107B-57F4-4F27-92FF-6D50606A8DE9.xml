@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-D2C9107B-57F4-4F27-92FF-6D50606A8DE9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-D2C9107B-57F4-4F27-92FF-6D50606A8DE9">
     <name type="personal">
         <namePart lang="chi" script="Hant">飯沼守一編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 鼇頭類語 普通用文章</title>
+        <title>鼇頭類語 普通用文章</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,用文章,p 1050</note>
     <note type="price">二角三分</note>

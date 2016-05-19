@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7729F7A6-88E6-4DD9-A227-BE269DE2254D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7729F7A6-88E6-4DD9-A227-BE269DE2254D">
     <titleInfo lang="chi" script="Hant">
         <title>新式陸地汽機鍋爐圖說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 150</note>
-    <abstract lang="chi" type="summary"> 新式陸地汽機鍋爐圖說一卷 格致彙編本   [英]傅蘭雅輯譯，近來各國講求陸地汽機鍋鑪年精一年，此編所載皆英國退 辣車侖公司所造，新式汽機鍋爐圖樣、尺寸價值並列。 製造局印有英傅蘭雅、徐建寅譯，汽機尺寸二冊，未出。  </abstract>
+    <abstract lang="chi" type="summary">新式陸地汽機鍋爐圖說一卷 格致彙編本 [英]傅蘭雅輯譯，近來各國講求陸地汽機鍋鑪年精一年，此編所載皆英國退 辣車侖公司所造，新式汽機鍋爐圖樣、尺寸價值並列。 製造局印有英傅蘭雅、徐建寅譯，汽機尺寸二冊，未出。</abstract>
     <identifier type="mh">book_388</identifier>
 </mods>

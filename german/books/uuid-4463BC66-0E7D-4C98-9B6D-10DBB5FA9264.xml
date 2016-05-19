@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4463BC66-0E7D-4C98-9B6D-10DBB5FA9264">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4463BC66-0E7D-4C98-9B6D-10DBB5FA9264">
     <titleInfo lang="chi" script="Hant">
         <title>環遊地球雜記</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note>
-    <abstract lang="chi" type="summary"> 環遊地球雜記一卷續錄一卷 格致彙編本   [美]潘慎文著，所記皆各國製造各機器，而於美國言之尤詳。 </abstract>
+    <abstract lang="chi" type="summary">環遊地球雜記一卷續錄一卷 格致彙編本 [美]潘慎文著，所記皆各國製造各機器，而於美國言之尤詳。</abstract>
     <identifier type="mh">book_833</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3683B35B-E223-43FA-847F-0D21562B1E10">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3683B35B-E223-43FA-847F-0D21562B1E10">
     <name type="personal">
         <namePart lang="chi" script="Hant">長濱兼吉鐸</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 增譯 藝氏小地文學 附火山及地震 </title>
+        <title>增譯 藝氏小地文學 附火山及地震</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,地文學,p 681</note>
     <note type="price">三角五分</note>

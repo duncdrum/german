@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DA52D0CF-1565-4AED-BAE7-669CC427E248">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DA52D0CF-1565-4AED-BAE7-669CC427E248">
     <name type="personal">
         <namePart lang="chi" script="Hant">安積五郎、田中登作同著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>國民修身書 尋常小學教師用 </title>
+        <title>國民修身書 尋常小學教師用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 917</note>
     <note type="price">一圓二角四分</note>

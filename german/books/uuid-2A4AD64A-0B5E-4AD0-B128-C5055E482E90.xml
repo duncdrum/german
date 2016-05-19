@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2A4AD64A-0B5E-4AD0-B128-C5055E482E90">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2A4AD64A-0B5E-4AD0-B128-C5055E482E90">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 改正增補 物理階梯 大字 </title>
+        <title>改正增補 物理階梯 大字</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,物理學,p 628</note>
     <note type="price">三角五分</note>

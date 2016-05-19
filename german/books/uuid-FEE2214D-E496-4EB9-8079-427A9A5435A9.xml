@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-FEE2214D-E496-4EB9-8079-427A9A5435A9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-FEE2214D-E496-4EB9-8079-427A9A5435A9">
     <titleInfo lang="chi" script="Hant">
         <title>西國造紙法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 159</note>
-    <abstract lang="chi" type="summary"> 西國造紙法一卷 格致彙編本   [英]傅蘭雅著，書中專論以化學造紙法，并詳其用器，而機器手工之製亦畧言 之，後附印字便法雖不及膠皮印法之便，然足以備一法。 製造局印有英傅蘭雅、徐壽譯，造象皮法，未出。  </abstract>
+    <abstract lang="chi" type="summary">西國造紙法一卷 格致彙編本 [英]傅蘭雅著，書中專論以化學造紙法，并詳其用器，而機器手工之製亦畧言 之，後附印字便法雖不及膠皮印法之便，然足以備一法。 製造局印有英傅蘭雅、徐壽譯，造象皮法，未出。</abstract>
     <identifier type="mh">book_430</identifier>
 </mods>

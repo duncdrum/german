@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B290B266-8C51-4015-8C27-4A8DA9F15CF7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B290B266-8C51-4015-8C27-4A8DA9F15CF7">
     <name type="personal">
         <namePart lang="chi" script="Hant">巖瀨</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>大盡舞考證 《温知叢書》第十二編之內 </title>
+        <title>大盡舞考證 《温知叢書》第十二編之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,音樂及音曲,p 1117</note>
     <note type="price">二角五分</note>

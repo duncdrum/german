@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-916A0DDB-7F11-4E53-BBEF-B1BB62171257">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-916A0DDB-7F11-4E53-BBEF-B1BB62171257">
     <titleInfo lang="chi" script="Hant">
         <title>支那最近史</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note>
-    <abstract lang="chi" type="summary"> 支那最近史　卷 日本原刊本　上海編譯局印本四冊   [日本]河野通之、石村貞一合著，仿通鑑紀事本末體例，始於元明至我朝光緒 乙未止，編譯局復續至辛丑和議告成之後，洵政治家研究近史必用之書。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">支那最近史　卷 日本原刊本　上海編譯局印本四冊 [日本]河野通之、石村貞一合著，仿通鑑紀事本末體例，始於元明至我朝光緒 乙未止，編譯局復續至辛丑和議告成之後，洵政治家研究近史必用之書。 [徐補]</abstract>
     <identifier type="mh">book_26</identifier>
 </mods>

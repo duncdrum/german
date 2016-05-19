@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2A9E5C43-C919-4008-8B90-FECF13B1F1C6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2A9E5C43-C919-4008-8B90-FECF13B1F1C6">
     <titleInfo lang="chi" script="Hant">
         <title>海軍指要</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 105</note>
-    <abstract lang="chi" type="summary"> 海軍指要一卷 格數彙編本　西學大成本名海戰指要   [美]金楷理譯，趙元益述，海戰之要既在船堅礮利，尤在布陣進退，不失範圍。書 中論攻防交戰諸法，或設問答以窮其旨，又列圖式以明其用，與輪船布陣足 以參觀。彙編六，有海戰要訣一篇，亦可互證。 </abstract>
+    <abstract lang="chi" type="summary">海軍指要一卷 格數彙編本　西學大成本名海戰指要 [美]金楷理譯，趙元益述，海戰之要既在船堅礮利，尤在布陣進退，不失範圍。書 中論攻防交戰諸法，或設問答以窮其旨，又列圖式以明其用，與輪船布陣足 以參觀。彙編六，有海戰要訣一篇，亦可互證。</abstract>
     <identifier type="mh">book_214</identifier>
 </mods>

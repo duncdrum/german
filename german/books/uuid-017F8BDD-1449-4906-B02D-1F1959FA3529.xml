@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-017F8BDD-1449-4906-B02D-1F1959FA3529">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-017F8BDD-1449-4906-B02D-1F1959FA3529">
     <name type="personal">
         <namePart lang="chi" script="Hant">奔雷空人著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 政治滑稽小說 雲之下手人</title>
+        <title>政治滑稽小說 雲之下手人</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1171</note>
     <note type="price">二角</note>

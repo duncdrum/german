@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B8A24111-A5CA-4E7D-894C-EC890DF5ADC1">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B8A24111-A5CA-4E7D-894C-EC890DF5ADC1">
     <titleInfo lang="chi" script="Hant">
-        <title> 高名大家 女子教育纂論</title>
+        <title>高名大家 女子教育纂論</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,修辭演說,p 1063</note>
     <note type="price">二角</note>

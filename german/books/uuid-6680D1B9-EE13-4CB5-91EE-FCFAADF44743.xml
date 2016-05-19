@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6680D1B9-EE13-4CB5-91EE-FCFAADF44743">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6680D1B9-EE13-4CB5-91EE-FCFAADF44743">
     <titleInfo lang="chi" script="Hant">
         <title>茶花女遺事</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,雜著第三十一,小說,p 290</note>
-    <abstract lang="chi" type="summary"> 茶花女遺事一卷 昌言報本   林紓譯，記法國名妓馬格尼事，刻摯可埒紅樓夢，且亦藉以見法國風俗之一 斑。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">茶花女遺事一卷 昌言報本 林紓譯，記法國名妓馬格尼事，刻摯可埒紅樓夢，且亦藉以見法國風俗之一 斑。 [徐補]</abstract>
     <identifier type="mh">book_927</identifier>
 </mods>

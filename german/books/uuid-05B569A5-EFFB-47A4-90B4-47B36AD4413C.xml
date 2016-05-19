@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-05B569A5-EFFB-47A4-90B4-47B36AD4413C">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-05B569A5-EFFB-47A4-90B4-47B36AD4413C">
     <name type="personal">
         <namePart lang="chi" script="Hant">三宅米吉、新保磐次合著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 高等 日本讀本 小學校用 </title>
+        <title>高等 日本讀本 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,小學讀本,p 947</note>
     <note type="price">一圓三角三分</note>

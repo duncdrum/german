@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-0EAB7210-996D-40FD-A1B3-115C3CCA0580">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-0EAB7210-996D-40FD-A1B3-115C3CCA0580">
     <titleInfo lang="chi" script="Hant">
         <title>萬國通鑑</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,編年,p 44</note>
-    <abstract lang="chi" type="summary"> 萬國通鑑五卷地圖一冊 通行本六冊　坊間石印，改名萬國史論。   [美]謝衛樓著，趙如光述，卷一東方國度；卷二西方古世代；卷三中世代；卷四近 世代，所論皆教門種族為詳，各國治蹟轉多缺略，名曰通鑑，太不順矣。其圖亦 甚略無足觀。 東亞書局譯，有地球文明開化史；勵學譯編有世界文明史，均未出。  </abstract>
+    <abstract lang="chi" type="summary">萬國通鑑五卷地圖一冊 通行本六冊　坊間石印，改名萬國史論。 [美]謝衛樓著，趙如光述，卷一東方國度；卷二西方古世代；卷三中世代；卷四近 世代，所論皆教門種族為詳，各國治蹟轉多缺略，名曰通鑑，太不順矣。其圖亦 甚略無足觀。 東亞書局譯，有地球文明開化史；勵學譯編有世界文明史，均未出。</abstract>
     <identifier type="mh">book_9</identifier>
 </mods>

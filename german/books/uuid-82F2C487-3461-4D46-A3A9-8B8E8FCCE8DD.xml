@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-82F2C487-3461-4D46-A3A9-8B8E8FCCE8DD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-82F2C487-3461-4D46-A3A9-8B8E8FCCE8DD">
     <titleInfo lang="chi" script="Hant">
-        <title> 鼇頭熟語 皇國文證大全</title>
+        <title>鼇頭熟語 皇國文證大全</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,用文章,p 1051</note>
     <note type="price">三角五分</note>

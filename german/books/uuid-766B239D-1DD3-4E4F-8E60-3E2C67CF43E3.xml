@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-766B239D-1DD3-4E4F-8E60-3E2C67CF43E3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-766B239D-1DD3-4E4F-8E60-3E2C67CF43E3">
     <name type="personal">
         <namePart lang="chi" script="Hant">伊東洋二郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 文章活法 祝文三千題</title>
+        <title>文章活法 祝文三千題</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1046</note>
     <note type="price">一角二分</note>

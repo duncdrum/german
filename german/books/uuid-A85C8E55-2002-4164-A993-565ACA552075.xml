@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A85C8E55-2002-4164-A993-565ACA552075">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A85C8E55-2002-4164-A993-565ACA552075">
     <titleInfo lang="chi" script="Hant">
         <title>河工記畧</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 145</note>
-    <abstract lang="chi" type="summary"> 河工記畧一卷 格致彙編本   [美]狄攷文著，[英]傅蘭雅譯，所記祗一篇即美國義德氏修治米西西比大河之 法，今日黃河淤塞之形勢，與從前米西西比河相同，故狄氏引據格致新報所 刊之論以答山東巡撫之問。彙編一有新法開河機器船，又五有英瑪禮孫黃 河論，可互證。 </abstract>
+    <abstract lang="chi" type="summary">河工記畧一卷 格致彙編本 [美]狄攷文著，[英]傅蘭雅譯，所記祗一篇即美國義德氏修治米西西比大河之 法，今日黃河淤塞之形勢，與從前米西西比河相同，故狄氏引據格致新報所 刊之論以答山東巡撫之問。彙編一有新法開河機器船，又五有英瑪禮孫黃 河論，可互證。</abstract>
     <identifier type="mh">book_367</identifier>
 </mods>

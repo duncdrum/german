@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-279CDF6B-979E-4D33-9F3C-C4A4BE571782">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-279CDF6B-979E-4D33-9F3C-C4A4BE571782">
     <titleInfo lang="chi" script="Hant">
         <title>羅馬志畧</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,古史,p 47</note>
-    <abstract lang="chi" type="summary"> 羅馬志畧十三卷附年表 西學啟蒙本一冊　西政叢書本   [英]艾約瑟譯，羅馬立國實為歐洲千百年之大關係，其美風善政至今未泯，亦 開今日各國君民同權法令，至公之運會，是書所紀自西厤前七百五十三年 即周平王十八年至一千八百六年，當嘉慶十一年西羅馬亡止。凡歐洲治亂 興亡之樞紐，無不具載，誠要書也。讀西史者先希臘、羅馬二志，以次及於專史 ，方知其自強開化之成迹。首小引末年表尤為醒目。格致彙編六，有羅馬志傳、 蘭雅圖說，附記於此。 </abstract>
+    <abstract lang="chi" type="summary">羅馬志畧十三卷附年表 西學啟蒙本一冊　西政叢書本 [英]艾約瑟譯，羅馬立國實為歐洲千百年之大關係，其美風善政至今未泯，亦 開今日各國君民同權法令，至公之運會，是書所紀自西厤前七百五十三年 即周平王十八年至一千八百六年，當嘉慶十一年西羅馬亡止。凡歐洲治亂 興亡之樞紐，無不具載，誠要書也。讀西史者先希臘、羅馬二志，以次及於專史 ，方知其自強開化之成迹。首小引末年表尤為醒目。格致彙編六，有羅馬志傳、 蘭雅圖說，附記於此。</abstract>
     <identifier type="mh">book_19</identifier>
 </mods>

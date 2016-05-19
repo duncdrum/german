@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7EEE80C3-7DC9-4177-8CA0-A3804FAE1AA4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7EEE80C3-7DC9-4177-8CA0-A3804FAE1AA4">
     <name type="personal">
         <namePart lang="chi" script="Hant">中村老議編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 兵要 要言類纂</title>
+        <title>兵要 要言類纂</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十五,兵書門,兵書,p 1218</note>
     <note type="price">八分</note>

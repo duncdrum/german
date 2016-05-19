@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-5F92C79A-C7DD-4A85-90B8-028F7A79D64A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-5F92C79A-C7DD-4A85-90B8-028F7A79D64A">
     <titleInfo lang="chi" script="Hant">
         <title>格致叢談</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 180</note>
-    <abstract lang="chi" type="summary"> 格致叢談　卷 蒙學製本   [日本]古城貞吉譯。 </abstract>
+    <abstract lang="chi" type="summary">格致叢談　卷 蒙學製本 [日本]古城貞吉譯。</abstract>
     <identifier type="mh">book_507</identifier>
 </mods>

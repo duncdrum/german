@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6DDCC754-DCCF-4691-B120-8FDF2708E223">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6DDCC754-DCCF-4691-B120-8FDF2708E223">
     <name type="personal">
         <namePart lang="chi" script="Hant">日下部鳴鶴書</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>小學習字帖 小學校用 </title>
+        <title>小學習字帖 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1022</note>
     <note type="price">七角二分</note>

@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7C05B42F-967C-41BA-9617-4C86195A61AD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7C05B42F-967C-41BA-9617-4C86195A61AD">
     <titleInfo lang="chi" script="Hant">
-        <title> 補正標註 古文真實</title>
+        <title>補正標註 古文真實</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,漢文書,p 959</note>
     <note type="price">四角</note>

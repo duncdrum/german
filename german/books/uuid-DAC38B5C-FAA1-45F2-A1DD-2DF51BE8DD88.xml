@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DAC38B5C-FAA1-45F2-A1DD-2DF51BE8DD88">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DAC38B5C-FAA1-45F2-A1DD-2DF51BE8DD88">
     <titleInfo lang="chi" script="Hant">
         <title>美國行軍訓戒</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 77</note>
-    <abstract lang="chi" type="summary"> 美國行軍訓戒一卷 公法便覽附刻本   [德]李伯爾編輯 荷蘭葛羅丟有平戰例法，未譯出。  </abstract>
+    <abstract lang="chi" type="summary">美國行軍訓戒一卷 公法便覽附刻本 [德]李伯爾編輯 荷蘭葛羅丟有平戰例法，未譯出。</abstract>
     <identifier type="mh">book_122</identifier>
 </mods>

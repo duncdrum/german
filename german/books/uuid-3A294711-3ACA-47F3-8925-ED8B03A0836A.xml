@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3A294711-3ACA-47F3-8925-ED8B03A0836A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3A294711-3ACA-47F3-8925-ED8B03A0836A">
     <titleInfo lang="chi" script="Hant">
         <title>格致總學啟蒙</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 177</note>
-    <abstract lang="chi" type="summary"> 格致總學啟蒙三卷 西學啟蒙本一冊   [英]艾約瑟著，先論物理，次論體質，次論心性，取其切近者條剖縷分，罕譬而喻 ，務盡其理，於格致學之通義略備於此。 </abstract>
+    <abstract lang="chi" type="summary">格致總學啟蒙三卷 西學啟蒙本一冊 [英]艾約瑟著，先論物理，次論體質，次論心性，取其切近者條剖縷分，罕譬而喻 ，務盡其理，於格致學之通義略備於此。</abstract>
     <identifier type="mh">book_494</identifier>
 </mods>

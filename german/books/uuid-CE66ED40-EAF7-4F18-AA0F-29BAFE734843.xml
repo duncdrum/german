@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CE66ED40-EAF7-4F18-AA0F-29BAFE734843">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CE66ED40-EAF7-4F18-AA0F-29BAFE734843">
     <name type="personal">
         <namePart lang="chi" script="Hant">坂本育太郎纂著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 實用 眼科要領</title>
+        <title>實用 眼科要領</title>
     </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,眼科學,p 610</note>
     <note type="price">六角五分</note>

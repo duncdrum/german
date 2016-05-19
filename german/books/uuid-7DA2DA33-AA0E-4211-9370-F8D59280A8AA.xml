@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7DA2DA33-AA0E-4211-9370-F8D59280A8AA">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7DA2DA33-AA0E-4211-9370-F8D59280A8AA">
     <name type="personal">
         <namePart lang="chi" script="Hant">三浦千代次郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 高等小學校用 簿記學教科書</title>
+        <title>高等小學校用 簿記學教科書</title>
     </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,簿記書,p 901</note>
     <note type="price">二角</note>

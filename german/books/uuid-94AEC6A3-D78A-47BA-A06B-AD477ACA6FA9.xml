@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-94AEC6A3-D78A-47BA-A06B-AD477ACA6FA9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-94AEC6A3-D78A-47BA-A06B-AD477ACA6FA9">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木勘右衛門</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 增補 大匠雛形</title>
+        <title>增補 大匠雛形</title>
     </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,雛形類,p 866</note>
     <note type="price">六角五分</note>

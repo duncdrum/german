@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-380DD714-1A19-437F-919A-5198D2B04F20">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-380DD714-1A19-437F-919A-5198D2B04F20">
     <name type="personal">
         <namePart lang="chi" script="Hant">秋田世高著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 明治新撰 工匠技術圖解</title>
+        <title>明治新撰 工匠技術圖解</title>
     </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,雛形類,p 867</note>
     <note type="price">二角五分</note>

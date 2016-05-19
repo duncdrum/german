@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-43480AFA-354B-46B3-A2AF-317F1F1C802D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-43480AFA-354B-46B3-A2AF-317F1F1C802D">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《百科全書》 菜園</title>
+        <title>《百科全書》 菜園</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,圃業書,p 837</note>
     <note type="price">二角一分六釐</note>

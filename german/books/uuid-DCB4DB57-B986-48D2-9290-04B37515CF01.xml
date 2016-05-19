@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DCB4DB57-B986-48D2-9290-04B37515CF01">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DCB4DB57-B986-48D2-9290-04B37515CF01">
     <titleInfo lang="chi" script="Hant">
         <title>格致質學</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 178</note>
-    <abstract lang="chi" type="summary"> 格致質學十卷附一卷 美華書館印本   [美]史砥爾原本，[美]潘慎文譯，謝洪賚述，言物質體變為格致首要之事。是編前 多論公性、公力、公理，後分論各學，而力學、電學為尤詳，其說多與司氏啟蒙、艾 氏質學啟蒙，相出入。彙編一有范約翰格物論質，可參觀。 </abstract>
+    <abstract lang="chi" type="summary">格致質學十卷附一卷 美華書館印本 [美]史砥爾原本，[美]潘慎文譯，謝洪賚述，言物質體變為格致首要之事。是編前 多論公性、公力、公理，後分論各學，而力學、電學為尤詳，其說多與司氏啟蒙、艾 氏質學啟蒙，相出入。彙編一有范約翰格物論質，可參觀。</abstract>
     <identifier type="mh">book_499</identifier>
 </mods>

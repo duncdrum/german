@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-06F845F5-1A1F-4223-960F-DCF24BE60F48">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-06F845F5-1A1F-4223-960F-DCF24BE60F48">
     <name type="personal">
         <namePart lang="chi" script="Hant">桐箱入百四十八枚</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>唐詩選骨牌 五言 </title>
+        <title>唐詩選骨牌 五言</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,遊戲書,p 1123</note>
     <note type="price">五角</note>

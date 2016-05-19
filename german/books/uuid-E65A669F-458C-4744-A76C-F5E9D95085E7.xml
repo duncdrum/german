@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E65A669F-458C-4744-A76C-F5E9D95085E7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E65A669F-458C-4744-A76C-F5E9D95085E7">
     <name type="personal">
         <namePart lang="chi" script="Hant">秦政治郎、萩野由之合著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>日本政體史 外一種合本 </title>
+        <title>日本政體史 外一種合本</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,政體書,p 744</note>
     <note type="price">二角五分</note>

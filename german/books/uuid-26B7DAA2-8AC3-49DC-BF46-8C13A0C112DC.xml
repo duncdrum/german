@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-26B7DAA2-8AC3-49DC-BF46-8C13A0C112DC">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-26B7DAA2-8AC3-49DC-BF46-8C13A0C112DC">
     <titleInfo lang="chi" script="Hant">
         <title>克虜伯演礮彙譯</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 112</note>
-    <abstract lang="chi" type="summary"> 克虜伯演礮彙譯一冊  [　] </abstract>
+    <abstract lang="chi" type="summary">克虜伯演礮彙譯一冊 [　]</abstract>
     <identifier type="mh">book_241</identifier>
 </mods>

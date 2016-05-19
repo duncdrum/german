@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2D4B61AE-5EE7-4BCC-BAD7-86E403DCE54E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2D4B61AE-5EE7-4BCC-BAD7-86E403DCE54E">
     <name type="personal">
         <namePart lang="chi" script="Hant">永峰秀湖</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 秀湖叢畫 花鳥畫譜</title>
+        <title>秀湖叢畫 花鳥畫譜</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1092</note>
     <note type="price">一角五分</note>

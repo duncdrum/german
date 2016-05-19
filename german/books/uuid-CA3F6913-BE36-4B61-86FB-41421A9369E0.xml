@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CA3F6913-BE36-4B61-86FB-41421A9369E0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CA3F6913-BE36-4B61-86FB-41421A9369E0">
     <name type="personal">
         <namePart lang="chi" script="Hant">近松門左衛門作</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>心中天之網島 外一種合本 </title>
+        <title>心中天之網島 外一種合本</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1005</note>
     <note type="price">七分</note>

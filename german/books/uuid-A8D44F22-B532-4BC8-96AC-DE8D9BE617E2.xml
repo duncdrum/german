@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A8D44F22-B532-4BC8-96AC-DE8D9BE617E2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A8D44F22-B532-4BC8-96AC-DE8D9BE617E2">
     <titleInfo lang="chi" script="Hant">
         <title>電學圖說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,電學第十四,p 200</note>
-    <abstract lang="chi" type="summary"> 電學圖說五卷 益智書會本一冊   [英]傅蘭雅輯譯，論吸鐵氣、摩電氣、化電氣、電報電鍍理法各系，以圖語擇淺近 並多載新理。新法為總覽所未道者，原書大圖五幅，縮摹訂入，不損其真。彙編 四有狄攷文譯，候氏電機，可參觀。 製造局印有英傅蘭雅、徐建寅譯，攝鐵器說一冊，未出。  </abstract>
+    <abstract lang="chi" type="summary">電學圖說五卷 益智書會本一冊 [英]傅蘭雅輯譯，論吸鐵氣、摩電氣、化電氣、電報電鍍理法各系，以圖語擇淺近 並多載新理。新法為總覽所未道者，原書大圖五幅，縮摹訂入，不損其真。彙編 四有狄攷文譯，候氏電機，可參觀。 製造局印有英傅蘭雅、徐建寅譯，攝鐵器說一冊，未出。</abstract>
     <identifier type="mh">book_571</identifier>
 </mods>

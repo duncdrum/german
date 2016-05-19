@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-249162A1-CFFD-45B1-8130-39518A6A5500">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-249162A1-CFFD-45B1-8130-39518A6A5500">
     <name type="personal">
         <namePart lang="chi" script="Hant">光妙寺三郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 爭也君子 決鬬修規</title>
+        <title>爭也君子 決鬬修規</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,法規雜書,p 811</note>
     <note type="price">一角五分</note>

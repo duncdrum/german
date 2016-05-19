@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1CCA0095-0B76-459E-AAA6-6A0A87C1A495">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1CCA0095-0B76-459E-AAA6-6A0A87C1A495">
     <titleInfo lang="chi" script="Hant">
         <title>中東戰紀本末三編</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 60</note>
-    <abstract lang="chi" type="summary"> 中東戰紀本末三編四卷 廣學會排印本四冊   [美]林樂知、蔡爾康合輯，斯書譯英兵部礮兵司蒲雷主事所著，東方觀戰記實 七章，作全書之骨。按泰西觀戰人員遇事端詳審慎，已非報館訪事之比，蒲雷 復恪遵英例，俟罷戰後徧搜各大國觀戰諸記，一一覆對，勒為信史，就正本兵 大司馬，復咨送議院，纂入官書。二君既譯華文，亦期無一字出入，附以北京美 使館英京華使館議戰守和諸電報，暨日人所得丁汝昌遺墨若干篇，用石印 以存真蹟，而合肥相國奏疏七章，某君臺灣紀事詩十八首亦附刊焉。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">中東戰紀本末三編四卷 廣學會排印本四冊 [美]林樂知、蔡爾康合輯，斯書譯英兵部礮兵司蒲雷主事所著，東方觀戰記實 七章，作全書之骨。按泰西觀戰人員遇事端詳審慎，已非報館訪事之比，蒲雷 復恪遵英例，俟罷戰後徧搜各大國觀戰諸記，一一覆對，勒為信史，就正本兵 大司馬，復咨送議院，纂入官書。二君既譯華文，亦期無一字出入，附以北京美 使館英京華使館議戰守和諸電報，暨日人所得丁汝昌遺墨若干篇，用石印 以存真蹟，而合肥相國奏疏七章，某君臺灣紀事詩十八首亦附刊焉。 [顧補]</abstract>
     <identifier type="mh">book_64</identifier>
 </mods>

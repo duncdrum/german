@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C557F57B-3099-49D6-BB64-16A4CEF4F9F5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C557F57B-3099-49D6-BB64-16A4CEF4F9F5">
     <name type="personal">
         <namePart lang="chi" script="Hant">清宮秀堅著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>地方新書 田制之部 </title>
+        <title>地方新書 田制之部</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,農政書,p 827</note>
     <note type="price">五角</note>

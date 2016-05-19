@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-9E38B61E-98FB-40D6-9F6A-6E02BDCC3D28">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-9E38B61E-98FB-40D6-9F6A-6E02BDCC3D28">
     <name type="personal">
         <namePart lang="chi" script="Hant">林榮之助編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 文部省 高等小學讀本字引</title>
+        <title>文部省 高等小學讀本字引</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1079</note>
     <note type="price">六分</note>

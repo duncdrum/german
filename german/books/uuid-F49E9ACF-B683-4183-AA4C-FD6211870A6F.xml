@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F49E9ACF-B683-4183-AA4C-FD6211870A6F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F49E9ACF-B683-4183-AA4C-FD6211870A6F">
     <titleInfo lang="chi" script="Hant">
-        <title> 新古 圖按栞 初編 </title>
+        <title>新古 圖按栞 初編</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,模樣圖式,p 1105</note>
     <note type="price">三角</note>

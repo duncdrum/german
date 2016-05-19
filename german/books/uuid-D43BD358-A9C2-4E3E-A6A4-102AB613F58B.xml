@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-D43BD358-A9C2-4E3E-A6A4-102AB613F58B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-D43BD358-A9C2-4E3E-A6A4-102AB613F58B">
     <titleInfo lang="chi" script="Hant">
         <title>耕土試騐成蹟</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 119</note>
-    <abstract lang="chi" type="summary"> 耕土試騐成蹟　卷 農學報本   沈紘譯，從日本農事試騐成蹟中摘譯，攷農事以辨土性為第一，能辨土性方 知土中所缺者為何元素，所饒者為何元素，然後施肥乃有把握。中國農夫概 施一定之肥料，固守往制，魯莽因循，不知變通，此卷可資借鑒焉。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">耕土試騐成蹟　卷 農學報本 沈紘譯，從日本農事試騐成蹟中摘譯，攷農事以辨土性為第一，能辨土性方 知土中所缺者為何元素，所饒者為何元素，然後施肥乃有把握。中國農夫概 施一定之肥料，固守往制，魯莽因循，不知變通，此卷可資借鑒焉。 [顧補]</abstract>
     <identifier type="mh">book_263</identifier>
 </mods>

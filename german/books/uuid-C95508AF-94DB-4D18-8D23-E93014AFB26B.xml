@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C95508AF-94DB-4D18-8D23-E93014AFB26B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C95508AF-94DB-4D18-8D23-E93014AFB26B">
     <titleInfo lang="chi" script="Hant">
         <title>格聞</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,聲學第十六,聲學,p 207</note>
-    <abstract lang="chi" type="summary"> 格聞一卷 求是報本   [英]赫皮華著，陳壽彭譯，專論聞根，實際以明聲浪震動，皆寄腦筋之至理於聲 學專家之說，概置不道。 </abstract>
+    <abstract lang="chi" type="summary">格聞一卷 求是報本 [英]赫皮華著，陳壽彭譯，專論聞根，實際以明聲浪震動，皆寄腦筋之至理於聲 學專家之說，概置不道。</abstract>
     <identifier type="mh">book_600</identifier>
 </mods>

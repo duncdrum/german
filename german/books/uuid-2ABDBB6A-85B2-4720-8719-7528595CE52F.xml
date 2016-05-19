@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2ABDBB6A-85B2-4720-8719-7528595CE52F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2ABDBB6A-85B2-4720-8719-7528595CE52F">
     <titleInfo lang="chi" script="Hant">
         <title>國家學</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 71</note>
-    <abstract lang="chi" type="summary"> 國家學五卷 日本善隣譯書館本　冊   [德]伯崙知理著，日本吾妻兵治譯，舊說以國家即君長之謂，固為巨謬，而法國 革命盛唱國家即社會之說，亦不免流弊，德國政學家力矯其失，而伯氏之書 集其成。第一卷國家之性質及其志向，第二卷國家並國土，第三卷國體，第四 卷公權及其作用，第五卷國家及教會。折學說之衷，搴歷史之粹，我國之不知 國家為何物者，讀之可以起矣。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">國家學五卷 日本善隣譯書館本　冊 [德]伯崙知理著，日本吾妻兵治譯，舊說以國家即君長之謂，固為巨謬，而法國 革命盛唱國家即社會之說，亦不免流弊，德國政學家力矯其失，而伯氏之書 集其成。第一卷國家之性質及其志向，第二卷國家並國土，第三卷國體，第四 卷公權及其作用，第五卷國家及教會。折學說之衷，搴歷史之粹，我國之不知 國家為何物者，讀之可以起矣。 [徐補]</abstract>
     <identifier type="mh">book_97</identifier>
 </mods>

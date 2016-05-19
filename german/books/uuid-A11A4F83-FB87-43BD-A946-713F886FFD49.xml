@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A11A4F83-FB87-43BD-A946-713F886FFD49">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A11A4F83-FB87-43BD-A946-713F886FFD49">
     <titleInfo lang="chi" script="Hant">
         <title>汽機中西名目表</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 151</note>
-    <abstract lang="chi" type="summary"> 汽機中西名目表一冊 製造局本   不著撰人名氏，是表本以汽機發軔所定名目為主，後更續譯汽機，必以新製 等書名目漸多，今將光緒十五年所有成書內已定名目輯成是表，其名目皆 指形象物，亦有言其功用，與英文本義不甚脗合者，間有名目為從前所定，揆 之於今稍有不稱者，宜參互攷證之。彙編一有徐壽汽機命名說，可證。 </abstract>
+    <abstract lang="chi" type="summary">汽機中西名目表一冊 製造局本 不著撰人名氏，是表本以汽機發軔所定名目為主，後更續譯汽機，必以新製 等書名目漸多，今將光緒十五年所有成書內已定名目輯成是表，其名目皆 指形象物，亦有言其功用，與英文本義不甚脗合者，間有名目為從前所定，揆 之於今稍有不稱者，宜參互攷證之。彙編一有徐壽汽機命名說，可證。</abstract>
     <identifier type="mh">book_392</identifier>
 </mods>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E6653817-4594-4D2F-A3FB-783EFE523D4A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E6653817-4594-4D2F-A3FB-783EFE523D4A">
     <titleInfo lang="chi" script="Hant">
         <title>陸地戰例新選</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 77</note>
-    <abstract lang="chi" type="summary"> 陸地戰例新選一卷 同文館本一冊　西政叢書本   [瑞士]穆尼耶等著，[美]丁韙良譯，凡八十六條，皆採諸國已行及願從者，意在範 圍戰爭，故不詳述戰攻之法。穆氏為法學名家，首創此例，經會中十三人詳加 評論，始梓行之，近年各國救治被傷兵弁，不分畛域者，即用其議。 東亞書局譯有海戰萬國公法，未出。  </abstract>
+    <abstract lang="chi" type="summary">陸地戰例新選一卷 同文館本一冊　西政叢書本 [瑞士]穆尼耶等著，[美]丁韙良譯，凡八十六條，皆採諸國已行及願從者，意在範 圍戰爭，故不詳述戰攻之法。穆氏為法學名家，首創此例，經會中十三人詳加 評論，始梓行之，近年各國救治被傷兵弁，不分畛域者，即用其議。 東亞書局譯有海戰萬國公法，未出。</abstract>
     <identifier type="mh">book_123</identifier>
 </mods>

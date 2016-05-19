@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-499AE953-63BA-403D-B362-C444DBDCC08B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-499AE953-63BA-403D-B362-C444DBDCC08B">
     <name type="personal">
         <namePart lang="chi" script="Hant">澁江保</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>初等教育小心理書 《通俗教育全書》二十二篇 </title>
+        <title>初等教育小心理書 《通俗教育全書》二十二篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,心理學,p 657</note>
     <note type="price">一角二分</note>

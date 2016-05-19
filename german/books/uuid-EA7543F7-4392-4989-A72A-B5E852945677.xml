@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-EA7543F7-4392-4989-A72A-B5E852945677">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-EA7543F7-4392-4989-A72A-B5E852945677">
     <titleInfo lang="chi" script="Hant">
         <title>英俄爭中部亞細亞始末記</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 56</note>
-    <abstract lang="chi" type="summary"> 英俄爭中部亞細亞始末記一卷 亞東時報本   [日本]長瀨鳳輔著，潛地道人譯，英俄為地球強國，兩不相下，每相枘鑿，尤關係 者有三，曰東部亞細亞、曰土耳其、曰中部亞細亞，此三地乃兩國盛衰強弱之 所繫，實為必爭之區，斯篇所記英俄爭中亞細亞始末，於英爭波斯、阿富汗尤 致意焉。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">英俄爭中部亞細亞始末記一卷 亞東時報本 [日本]長瀨鳳輔著，潛地道人譯，英俄為地球強國，兩不相下，每相枘鑿，尤關係 者有三，曰東部亞細亞、曰土耳其、曰中部亞細亞，此三地乃兩國盛衰強弱之 所繫，實為必爭之區，斯篇所記英俄爭中亞細亞始末，於英爭波斯、阿富汗尤 致意焉。 [顧補]</abstract>
     <identifier type="mh">book_46</identifier>
 </mods>

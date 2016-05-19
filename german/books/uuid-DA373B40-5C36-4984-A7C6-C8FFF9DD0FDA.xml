@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DA373B40-5C36-4984-A7C6-C8FFF9DD0FDA">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DA373B40-5C36-4984-A7C6-C8FFF9DD0FDA">
     <name type="personal">
         <namePart lang="chi" script="Hant">今村有隣譯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 今時 獨乙帝國要典</title>
+        <title>今時 獨乙帝國要典</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,外國法律書,p 783</note>
     <note type="price">九角</note>

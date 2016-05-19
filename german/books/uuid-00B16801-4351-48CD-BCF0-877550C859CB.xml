@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-00B16801-4351-48CD-BCF0-877550C859CB">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-00B16801-4351-48CD-BCF0-877550C859CB">
     <name type="personal">
         <namePart lang="chi" script="Hant">魚住完治述譯　廣瀨桂次郎校訂</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 知氏 外科總論</title>
+        <title>知氏 外科總論</title>
     </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,外科學,p 608</note>
     <note type="price">七角</note>

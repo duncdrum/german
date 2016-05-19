@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4431BBC6-4266-42C7-B559-75C2147DB990">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4431BBC6-4266-42C7-B559-75C2147DB990">
     <titleInfo lang="chi" script="Hant">
         <title>人秉雙性說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 235</note>
-    <abstract lang="chi" type="summary"> 人秉雙性說一卷 格致彙編本   [英]傅蘭雅著，人或秉有雙性，西人早有此論，傅氏更歷據往事成此一篇，以證 其理，蓋此說起於格致家腦部有二之語而推演之，他日必有考究，得其確理 者。 </abstract>
+    <abstract lang="chi" type="summary">人秉雙性說一卷 格致彙編本 [英]傅蘭雅著，人或秉有雙性，西人早有此論，傅氏更歷據往事成此一篇，以證 其理，蓋此說起於格致家腦部有二之語而推演之，他日必有考究，得其確理 者。</abstract>
     <identifier type="mh">book_711</identifier>
 </mods>

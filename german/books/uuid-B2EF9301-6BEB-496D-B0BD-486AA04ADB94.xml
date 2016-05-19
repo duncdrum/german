@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B2EF9301-6BEB-496D-B0BD-486AA04ADB94">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B2EF9301-6BEB-496D-B0BD-486AA04ADB94">
     <name type="personal">
         <namePart lang="chi" script="Hant">木村宅良</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 掌中 類題草野集</title>
+        <title>掌中 類題草野集</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,歌集,p 978</note>
     <note type="price">一角五分</note>

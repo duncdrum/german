@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8D0CC242-5061-4E5E-A70B-D70727DF63B9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8D0CC242-5061-4E5E-A70B-D70727DF63B9">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《百科全書》 古物學</title>
+        <title>《百科全書》 古物學</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,本邦歷史考證,p 727</note>
     <note type="price">一角六分</note>

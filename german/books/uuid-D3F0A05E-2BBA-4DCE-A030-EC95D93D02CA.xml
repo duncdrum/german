@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-D3F0A05E-2BBA-4DCE-A030-EC95D93D02CA">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-D3F0A05E-2BBA-4DCE-A030-EC95D93D02CA">
     <titleInfo lang="chi" script="Hant">
         <title>管礮法程</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 110</note>
-    <abstract lang="chi" type="summary"> 管礮法程一卷 光緒丙申金陵刊本   [德]瑞乃爾輯譯，沈敦和重編，原書名曰克虜卜海岸礮管理法，仲禮觀察詳加 校正，乃改今名。書中論查明臨用法、用礮時法、用完時法、收存法最詳密。 </abstract>
+    <abstract lang="chi" type="summary">管礮法程一卷 光緒丙申金陵刊本 [德]瑞乃爾輯譯，沈敦和重編，原書名曰克虜卜海岸礮管理法，仲禮觀察詳加 校正，乃改今名。書中論查明臨用法、用礮時法、用完時法、收存法最詳密。</abstract>
     <identifier type="mh">book_233</identifier>
 </mods>

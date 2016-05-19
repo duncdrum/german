@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7F1DA5E9-5511-42C2-81FD-A20440A86BDC">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7F1DA5E9-5511-42C2-81FD-A20440A86BDC">
     <titleInfo lang="chi" script="Hant">
         <title>尚賢堂報</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 272</note>
-    <abstract lang="chi" type="summary"> 尚賢堂報 排印本，設北京。   [美]李佳白輯譯，李教士於光緒二十三年在北京創設尚賢堂，以中人曾記奏 明，復編印報章，以為為學之助，所撰多中西政要，惜不久輒止。 </abstract>
+    <abstract lang="chi" type="summary">尚賢堂報 排印本，設北京。 [美]李佳白輯譯，李教士於光緒二十三年在北京創設尚賢堂，以中人曾記奏 明，復編印報章，以為為學之助，所撰多中西政要，惜不久輒止。</abstract>
     <identifier type="mh">book_855</identifier>
 </mods>

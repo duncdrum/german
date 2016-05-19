@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-12CE324E-C310-4EA2-A831-3D24FB980667">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-12CE324E-C310-4EA2-A831-3D24FB980667">
     <titleInfo lang="chi" script="Hant">
         <title>東略罪言</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 285</note>
-    <abstract lang="chi" type="summary"> 東略罪言一卷 中國日報本   [俄]伊克那什著，中國日報館譯，所言東三省必實漢民，駐漢民，設漢員，延漢儒 ，然後興觀有由，習尚可化，俾得轉弱為強，斯語甚有至理。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">東略罪言一卷 中國日報本 [俄]伊克那什著，中國日報館譯，所言東三省必實漢民，駐漢民，設漢員，延漢儒 ，然後興觀有由，習尚可化，俾得轉弱為強，斯語甚有至理。 [顧補]</abstract>
     <identifier type="mh">book_904</identifier>
 </mods>

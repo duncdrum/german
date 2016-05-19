@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6F766C04-8BB7-4CCB-81F9-051F11CE98E6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6F766C04-8BB7-4CCB-81F9-051F11CE98E6">
     <name type="personal">
         <namePart lang="chi" script="Hant">石川鴻齋、川田孝吉編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 增補 和漢歷史文章字引</title>
+        <title>增補 和漢歷史文章字引</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1074</note>
     <note type="price">三角五分</note>

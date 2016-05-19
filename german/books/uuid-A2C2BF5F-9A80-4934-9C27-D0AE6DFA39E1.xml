@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A2C2BF5F-9A80-4934-9C27-D0AE6DFA39E1">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A2C2BF5F-9A80-4934-9C27-D0AE6DFA39E1">
     <titleInfo lang="chi" script="Hant">
         <title>西醫舉隅</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 241</note>
-    <abstract lang="chi" type="summary"> 西醫舉隅　卷續編　卷  [　] </abstract>
+    <abstract lang="chi" type="summary">西醫舉隅　卷續編　卷 [　]</abstract>
     <identifier type="mh">book_733</identifier>
 </mods>

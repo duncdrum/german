@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7624D9CD-BDFA-4F29-BFEC-B3A2333DFEF4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7624D9CD-BDFA-4F29-BFEC-B3A2333DFEF4">
     <name type="personal">
         <namePart lang="chi" script="Hant">津田秀林編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 鼇頭漢語 伊吕波字典</title>
+        <title>鼇頭漢語 伊吕波字典</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,伊吕波引,p 1070</note>
     <note type="price">一角五分</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A0F315BE-7A22-4CDB-90B3-E0ACCF2137F7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A0F315BE-7A22-4CDB-90B3-E0ACCF2137F7">
     <name type="personal">
         <namePart lang="chi" script="Hant">志賀雷山譯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>化學書 實驗之部 </title>
+        <title>化學書 實驗之部</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,化學,p 632</note>
     <note type="price">四角五分</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-0587753F-8BE9-458A-BDBE-C1A5E61D4A3A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-0587753F-8BE9-458A-BDBE-C1A5E61D4A3A">
     <name type="personal">
         <namePart lang="chi" script="Hant">古志學人著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 實地活益 新撰國民用文</title>
+        <title>實地活益 新撰國民用文</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,用文章,p 1054</note>
     <note type="price">一角五分</note>

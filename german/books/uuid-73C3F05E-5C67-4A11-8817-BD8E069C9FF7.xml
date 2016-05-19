@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-73C3F05E-5C67-4A11-8817-BD8E069C9FF7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-73C3F05E-5C67-4A11-8817-BD8E069C9FF7">
     <titleInfo lang="chi" script="Hant">
         <title>西船略論</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,船政第十,船制,p 174</note>
-    <abstract lang="chi" type="summary"> 西船略論一卷 格致彙編本   [英]傅蘭雅輯譯，專論西國造船之法，首論各式之船，次論輪船源流，次論各船 瑣事，次論鐵甲兵船為斯米德，稿後有各國兵船表及記英國商船，蓋傅氏採 輯而成者。其論瑣事最精細。 製造局印有英傅蘭雅、徐建寅譯，造船全法十冊；舒高第鄭昌棪譯，裝船檣繩索書一冊，均未出。  </abstract>
+    <abstract lang="chi" type="summary">西船略論一卷 格致彙編本 [英]傅蘭雅輯譯，專論西國造船之法，首論各式之船，次論輪船源流，次論各船 瑣事，次論鐵甲兵船為斯米德，稿後有各國兵船表及記英國商船，蓋傅氏採 輯而成者。其論瑣事最精細。 製造局印有英傅蘭雅、徐建寅譯，造船全法十冊；舒高第鄭昌棪譯，裝船檣繩索書一冊，均未出。</abstract>
     <identifier type="mh">book_492</identifier>
 </mods>

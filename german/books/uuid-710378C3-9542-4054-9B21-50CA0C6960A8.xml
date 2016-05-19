@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-710378C3-9542-4054-9B21-50CA0C6960A8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-710378C3-9542-4054-9B21-50CA0C6960A8">
     <name type="personal">
         <namePart lang="chi" script="Hant">中近堂編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>相場哲學 一名《相場指南》 </title>
+        <title>相場哲學 一名《相場指南》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,相場書,p 897</note>
     <note type="price">三角</note>

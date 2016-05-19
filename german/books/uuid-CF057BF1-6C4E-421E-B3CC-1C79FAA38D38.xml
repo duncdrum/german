@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CF057BF1-6C4E-421E-B3CC-1C79FAA38D38">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CF057BF1-6C4E-421E-B3CC-1C79FAA38D38">
     <name type="personal">
         <namePart lang="chi" script="Hant">長谷川純一編纂</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 實地應用 化學工藝新法</title>
+        <title>實地應用 化學工藝新法</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,化學,p 633</note>
     <note type="price">二角</note>

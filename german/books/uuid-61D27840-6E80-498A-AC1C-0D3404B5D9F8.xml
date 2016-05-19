@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-61D27840-6E80-498A-AC1C-0D3404B5D9F8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-61D27840-6E80-498A-AC1C-0D3404B5D9F8">
     <name type="personal">
         <namePart lang="chi" script="Hant">卷菱潭書</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 改正 女大學寶文庫</title>
+        <title>改正 女大學寶文庫</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字本,p 1016</note>
     <note type="price">一角</note>

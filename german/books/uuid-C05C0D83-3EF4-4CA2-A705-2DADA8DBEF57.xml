@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C05C0D83-3EF4-4CA2-A705-2DADA8DBEF57">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C05C0D83-3EF4-4CA2-A705-2DADA8DBEF57">
     <name type="personal">
         <namePart lang="chi" script="Hant">只野著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>奧州波奈志 《溫知叢書》第十一編之內 </title>
+        <title>奧州波奈志 《溫知叢書》第十一編之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1207</note>
     <note type="price">二角五分</note>

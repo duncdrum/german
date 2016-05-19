@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-60D14E63-D9FE-4C5F-9F80-40B523A2EC1F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-60D14E63-D9FE-4C5F-9F80-40B523A2EC1F">
     <name type="personal">
         <namePart lang="chi" script="Hant">梅川新右衛門編纂</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 改正 酒桶 端量滿量 容積早算法</title>
+        <title>改正 酒桶 端量滿量 容積早算法</title>
     </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,釀造書,p 884</note>
     <note type="price">一角八分</note>

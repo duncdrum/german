@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-D434C60E-39A0-4C9E-9C06-60A84739B96B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-D434C60E-39A0-4C9E-9C06-60A84739B96B">
     <titleInfo lang="chi" script="Hant">
         <title>華英讞案定章攷</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 92</note>
-    <abstract lang="chi" type="summary"> 華英讞案定章攷一卷 廣學會本一冊　瀏陽質學社叢刻本   [英]哲美森著，[英]李提摩太、蔡爾康同譯，西國人民寓居何國，即歸何國管理，天 津之約因中西法律輕重不同，乃有會同訊斷之名目，中國從此無管理之權。 是法律不可不急修改也。是書為哲氏任副臬司時所定，即華英會審章程，但 僅舉刑律、戶律大綱，未為詳備。 </abstract>
+    <abstract lang="chi" type="summary">華英讞案定章攷一卷 廣學會本一冊　瀏陽質學社叢刻本 [英]哲美森著，[英]李提摩太、蔡爾康同譯，西國人民寓居何國，即歸何國管理，天 津之約因中西法律輕重不同，乃有會同訊斷之名目，中國從此無管理之權。 是法律不可不急修改也。是書為哲氏任副臬司時所定，即華英會審章程，但 僅舉刑律、戶律大綱，未為詳備。</abstract>
     <identifier type="mh">book_178</identifier>
 </mods>

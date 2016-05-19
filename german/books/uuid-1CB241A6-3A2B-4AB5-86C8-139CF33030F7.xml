@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1CB241A6-3A2B-4AB5-86C8-139CF33030F7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1CB241A6-3A2B-4AB5-86C8-139CF33030F7">
     <name type="personal">
         <namePart lang="chi" script="Hant">山本邦之助編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>商業書 高等科用 </title>
+        <title>商業書 高等科用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,商業書,p 888</note>
     <identifier type="mh">book_4230</identifier>

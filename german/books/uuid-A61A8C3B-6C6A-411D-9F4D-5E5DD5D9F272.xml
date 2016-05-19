@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A61A8C3B-6C6A-411D-9F4D-5E5DD5D9F272">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A61A8C3B-6C6A-411D-9F4D-5E5DD5D9F272">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木瓊江纂譯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 自由言論 歐米大家演說集</title>
+        <title>自由言論 歐米大家演說集</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,修辭演說,p 1063</note>
     <note type="price">一角</note>

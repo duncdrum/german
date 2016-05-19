@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-12F8D0D4-6FBE-4A41-8B8A-45DF22F72599">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-12F8D0D4-6FBE-4A41-8B8A-45DF22F72599">
     <titleInfo lang="chi" script="Hant">
         <title>五洲圖考</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 225</note>
-    <abstract lang="chi" type="summary"> 五洲圖考四冊 滙報本   [法]龔古愚、許采白合譯，將天下大小各國考證、方隅、風俗、政事、物產、人材以及 山川險要、名勝要區，皆自西書中譯出，彙為一編，附地圖五十七幅。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">五洲圖考四冊 滙報本 [法]龔古愚、許采白合譯，將天下大小各國考證、方隅、風俗、政事、物產、人材以及 山川險要、名勝要區，皆自西書中譯出，彙為一編，附地圖五十七幅。 [顧補]</abstract>
     <identifier type="mh">book_668</identifier>
 </mods>

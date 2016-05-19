@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-AA805A70-BE0B-4D17-A80F-184D250C306A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-AA805A70-BE0B-4D17-A80F-184D250C306A">
     <titleInfo lang="chi" script="Hant">
         <title>治心免病法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 253</note>
-    <abstract lang="chi" type="summary"> 治心免病法二卷 益智書會本一冊   [美]烏特亨利著，[英]傅蘭雅譯，所言之理與尋常西醫書截然不同，其分無形之 格致為三級，一為心靈變化層，二為神靈變化層，三為性始層，分析甚清，惟其 於治心之要，未能確明其理。七章以後皆講求性始，西國甚屬風尚書籍甚多 ，惜中國尚少譯本。 </abstract>
+    <abstract lang="chi" type="summary">治心免病法二卷 益智書會本一冊 [美]烏特亨利著，[英]傅蘭雅譯，所言之理與尋常西醫書截然不同，其分無形之 格致為三級，一為心靈變化層，二為神靈變化層，三為性始層，分析甚清，惟其 於治心之要，未能確明其理。七章以後皆講求性始，西國甚屬風尚書籍甚多 ，惜中國尚少譯本。</abstract>
     <identifier type="mh">book_781</identifier>
 </mods>

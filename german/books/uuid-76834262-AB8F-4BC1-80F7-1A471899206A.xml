@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-76834262-AB8F-4BC1-80F7-1A471899206A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-76834262-AB8F-4BC1-80F7-1A471899206A">
     <name type="personal">
         <namePart lang="chi" script="Hant">聲畫庵旭齋編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 今人俳諧 明治新五百題</title>
+        <title>今人俳諧 明治新五百題</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,俳諧集,p 991</note>
     <note type="price">三角</note>

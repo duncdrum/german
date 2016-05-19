@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-95F8E294-0ADA-4AB1-9240-F648BD3211E5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-95F8E294-0ADA-4AB1-9240-F648BD3211E5">
     <titleInfo lang="chi" script="Hant">
         <title>種拉美草法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 131</note>
-    <abstract lang="chi" type="summary"> 種拉美草法一卷 農學報本   [日本]古城貞吉譯，拉美草亦麻屬，為亞洲特產，其皮可製縷紡織，此書言其種 植收取之法，苟移種之亦興利之一端。 </abstract>
+    <abstract lang="chi" type="summary">種拉美草法一卷 農學報本 [日本]古城貞吉譯，拉美草亦麻屬，為亞洲特產，其皮可製縷紡織，此書言其種 植收取之法，苟移種之亦興利之一端。</abstract>
     <identifier type="mh">book_313</identifier>
 </mods>

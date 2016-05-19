@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F6F9DC98-E290-4F5F-8CEF-0286F55F889B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F6F9DC98-E290-4F5F-8CEF-0286F55F889B">
     <name type="personal">
         <namePart lang="chi" script="Hant">望月興三郎譯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 勤勉立志 富蘭克林自叙傳</title>
+        <title>勤勉立志 富蘭克林自叙傳</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,傳記,p 721</note>
     <note type="price">一角八分</note>

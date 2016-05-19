@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B82A3AA9-B1BB-4E00-8A12-85C3C58C10F8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B82A3AA9-B1BB-4E00-8A12-85C3C58C10F8">
     <titleInfo lang="chi" script="Hant">
         <title>動物學新編</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,動物學,p 237</note>
-    <abstract lang="chi" type="summary"> 動物學新編一卷 益智書會本一冊   [美]潘雅麗著，部類尚清，品目未備，且好引教書，亦其蔽也。 益智書會印有英韋康臣動物形性附圖，未出。  </abstract>
+    <abstract lang="chi" type="summary">動物學新編一卷 益智書會本一冊 [美]潘雅麗著，部類尚清，品目未備，且好引教書，亦其蔽也。 益智書會印有英韋康臣動物形性附圖，未出。</abstract>
     <identifier type="mh">book_721</identifier>
 </mods>

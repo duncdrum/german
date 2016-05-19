@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-45BAD397-4FE4-40C9-A391-83D53ED84B4E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-45BAD397-4FE4-40C9-A391-83D53ED84B4E">
     <name type="personal">
         <namePart lang="chi" script="Hant">岸上操撰</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>新撰歌曲集 《東洋文藝全書》第九篇第十一篇 </title>
+        <title>新撰歌曲集 《東洋文藝全書》第九篇第十一篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,俗歌集,p 998</note>
     <note type="price">四角</note>

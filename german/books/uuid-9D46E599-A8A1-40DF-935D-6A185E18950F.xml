@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-9D46E599-A8A1-40DF-935D-6A185E18950F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-9D46E599-A8A1-40DF-935D-6A185E18950F">
     <titleInfo lang="chi" script="Hant">
         <title>航海通書製造局本每年</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,船政第十,行船事宜,p 174</note>
-    <abstract lang="chi" type="summary"> 航海通書 製造局本每年一冊   [英]行海通書原本，賈步緯譯，按即赤道經緯表。 </abstract>
+    <abstract lang="chi" type="summary">航海通書 製造局本每年一冊 [英]行海通書原本，賈步緯譯，按即赤道經緯表。</abstract>
     <identifier type="mh">book_490</identifier>
 </mods>

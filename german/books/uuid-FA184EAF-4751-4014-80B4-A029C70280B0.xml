@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-FA184EAF-4751-4014-80B4-A029C70280B0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-FA184EAF-4751-4014-80B4-A029C70280B0">
     <name type="personal">
         <namePart lang="chi" script="Hant">林再藏編述</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《勸農叢書》 養雞指南</title>
+        <title>《勸農叢書》 養雞指南</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,畜牧書,p 849</note>
     <note type="price">一角六分</note>

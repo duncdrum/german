@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-D9AB7E2F-89B1-427C-8AE8-E87E2C879C38">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-D9AB7E2F-89B1-427C-8AE8-E87E2C879C38">
     <titleInfo lang="chi" script="Hant">
-        <title>源氏物語 《日本文學全書》自八篇至十二篇 </title>
+        <title>源氏物語 《日本文學全書》自八篇至十二篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1033</note>
     <note type="price">一圓二角五分</note>

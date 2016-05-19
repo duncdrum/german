@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B314C764-AED7-47DF-B5BC-025AAFAFCD12">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B314C764-AED7-47DF-B5BC-025AAFAFCD12">
     <titleInfo lang="chi" script="Hant">
         <title>亞泉雜志</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 276</note>
-    <abstract lang="chi" type="summary"> 亞泉雜志 排印本設上海   杜亞泉譯著，所論算術、格致、化學，多有新理，始於光緒二十六年十月，月各二 冊至十冊停。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">亞泉雜志 排印本設上海 杜亞泉譯著，所論算術、格致、化學，多有新理，始於光緒二十六年十月，月各二 冊至十冊停。 [顧補]</abstract>
     <identifier type="mh">book_871</identifier>
 </mods>

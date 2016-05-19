@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-BC701968-DF2C-4633-8997-481DBE86C93B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-BC701968-DF2C-4633-8997-481DBE86C93B">
     <titleInfo lang="chi" script="Hant">
-        <title>景年花鳥畫譜 春夏秋 </title>
+        <title>景年花鳥畫譜 春夏秋</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1093</note>
     <note type="price">四圓八角</note>

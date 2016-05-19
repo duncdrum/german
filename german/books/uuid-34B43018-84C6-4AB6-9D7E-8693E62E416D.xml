@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-34B43018-84C6-4AB6-9D7E-8693E62E416D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-34B43018-84C6-4AB6-9D7E-8693E62E416D">
     <name type="personal">
         <namePart lang="chi" script="Hant">印刷局藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>度量權衡部 《大日本貨幣史》參考之內 </title>
+        <title>度量權衡部 《大日本貨幣史》參考之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,度量衡書,p 897</note>
     <note type="price">二角</note>

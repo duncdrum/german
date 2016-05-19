@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-64D50863-0B59-4569-9DAC-74B055758FF7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-64D50863-0B59-4569-9DAC-74B055758FF7">
     <name type="personal">
         <namePart lang="chi" script="Hant">嵩岳堂山著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 寫生 四十八鷹畫帖</title>
+        <title>寫生 四十八鷹畫帖</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1093</note>
     <note type="price">三圓八角</note>

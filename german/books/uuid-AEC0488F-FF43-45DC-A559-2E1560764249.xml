@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-AEC0488F-FF43-45DC-A559-2E1560764249">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-AEC0488F-FF43-45DC-A559-2E1560764249">
     <name type="personal">
         <namePart lang="chi" script="Hant">三戒堂芳草撰</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 俳諧 文久千三百題</title>
+        <title>俳諧 文久千三百題</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,俳諧集,p 990</note>
     <note type="price">三角</note>

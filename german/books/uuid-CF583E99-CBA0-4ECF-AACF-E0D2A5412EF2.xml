@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CF583E99-CBA0-4ECF-AACF-E0D2A5412EF2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CF583E99-CBA0-4ECF-AACF-E0D2A5412EF2">
     <titleInfo lang="chi" script="Hant">
         <title>星學發軔</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,天學第十九,p 218</note>
-    <abstract lang="chi" type="summary"> 星學發軔十四卷引說二卷 同文館本   [英]駱三畏、熙璋同譯。 </abstract>
+    <abstract lang="chi" type="summary">星學發軔十四卷引說二卷 同文館本 [英]駱三畏、熙璋同譯。</abstract>
     <identifier type="mh">book_639</identifier>
 </mods>

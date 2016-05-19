@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CAE5760F-AEEA-4BD2-A6CC-9FCFF5768ACB">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CAE5760F-AEEA-4BD2-A6CC-9FCFF5768ACB">
     <titleInfo lang="chi" script="Hant">
-        <title> 繪入實錄 伊達黑白公判錄</title>
+        <title>繪入實錄 伊達黑白公判錄</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1164</note>
     <note type="price">四分</note>

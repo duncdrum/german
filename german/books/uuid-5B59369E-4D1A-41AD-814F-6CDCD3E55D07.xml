@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-5B59369E-4D1A-41AD-814F-6CDCD3E55D07">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-5B59369E-4D1A-41AD-814F-6CDCD3E55D07">
     <name type="personal">
         <namePart lang="chi" script="Hant">橘守部著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>神樂催馬樂 入綾 </title>
+        <title>神樂催馬樂 入綾</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,歌學及歌集,p 976</note>
     <note type="price">一圓一角五分</note>

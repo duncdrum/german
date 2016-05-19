@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B932C254-B92F-4256-B6C2-75004956112D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B932C254-B92F-4256-B6C2-75004956112D">
     <titleInfo lang="chi" script="Hant">
         <title>英國水師律例</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 77</note>
-    <abstract lang="chi" type="summary"> 英國水師律例三卷附一卷 製造局本二冊　軍政全書本　富強叢書本   [英]德麟極福德同著，舒高第、鄭昌棪同譯，名曰水師律例，頗與讞案條理可參 證，後附一千八百六十六年整頓水師條例，尤為詳慎。 時務報館譯有英國律義、英倫巡捕章程，均未印出；東亞書局刻有俄國東洋軍政新策二卷，俄國東方新政策，亦未見。  </abstract>
+    <abstract lang="chi" type="summary">英國水師律例三卷附一卷 製造局本二冊　軍政全書本　富強叢書本 [英]德麟極福德同著，舒高第、鄭昌棪同譯，名曰水師律例，頗與讞案條理可參 證，後附一千八百六十六年整頓水師條例，尤為詳慎。 時務報館譯有英國律義、英倫巡捕章程，均未印出；東亞書局刻有俄國東洋軍政新策二卷，俄國東方新政策，亦未見。</abstract>
     <identifier type="mh">book_121</identifier>
 </mods>

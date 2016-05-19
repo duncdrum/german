@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-66F598C4-5FB6-40BD-B56D-E8ADDCC50729">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-66F598C4-5FB6-40BD-B56D-E8ADDCC50729">
     <name type="personal">
         <namePart lang="chi" script="Hant">西坂成一講義</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 新撰 小學修身誦讀書講義</title>
+        <title>新撰 小學修身誦讀書講義</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1082</note>
     <note type="price">五角六分</note>

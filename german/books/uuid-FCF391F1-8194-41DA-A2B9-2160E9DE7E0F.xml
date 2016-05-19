@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-FCF391F1-8194-41DA-A2B9-2160E9DE7E0F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-FCF391F1-8194-41DA-A2B9-2160E9DE7E0F">
     <titleInfo lang="chi" script="Hant">
-        <title>鐮倉大草紙脫漏 《我自刊我叢書》 </title>
+        <title>鐮倉大草紙脫漏 《我自刊我叢書》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 712</note>
     <note type="price">一角五分</note>

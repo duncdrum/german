@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-BCE31482-792B-4B5E-B1FE-FDBCD6F196FF">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-BCE31482-792B-4B5E-B1FE-FDBCD6F196FF">
     <titleInfo lang="chi" script="Hant">
         <title>爐承新製</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 147</note>
-    <abstract lang="chi" type="summary"> 爐承新製一卷 求是報本   [比]卑郎著，曾仰東譯，卑氏新創大車爐承足以省工省煤，堅實耐久，書中專論 此器之料件質性分量及運用之便，實為近時要事。 </abstract>
+    <abstract lang="chi" type="summary">爐承新製一卷 求是報本 [比]卑郎著，曾仰東譯，卑氏新創大車爐承足以省工省煤，堅實耐久，書中專論 此器之料件質性分量及運用之便，實為近時要事。</abstract>
     <identifier type="mh">book_373</identifier>
 </mods>

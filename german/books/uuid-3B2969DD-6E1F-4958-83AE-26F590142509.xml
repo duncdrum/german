@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3B2969DD-6E1F-4958-83AE-26F590142509">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3B2969DD-6E1F-4958-83AE-26F590142509">
     <name type="personal">
         <namePart lang="chi" script="Hant">原亮策編　片桐霧峯書</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 新按 小學習字帖 尋常科 </title>
+        <title>新按 小學習字帖 尋常科</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1020</note>
     <note type="price">五角二分</note>

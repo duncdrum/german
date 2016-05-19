@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F3E7BBB6-15C5-4C0C-A921-55DFC998C1F9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F3E7BBB6-15C5-4C0C-A921-55DFC998C1F9">
     <titleInfo lang="chi" script="Hant">
         <title>附日本水產會章程</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,畜牧,p 137</note>
-    <abstract lang="chi" type="summary">  附 日本水產會章程 農學報本   沈紘譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">附 日本水產會章程 農學報本 沈紘譯。 [顧補]</abstract>
     <identifier type="mh">book_337</identifier>
 </mods>

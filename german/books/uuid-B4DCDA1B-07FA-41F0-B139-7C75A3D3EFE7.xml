@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B4DCDA1B-07FA-41F0-B139-7C75A3D3EFE7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B4DCDA1B-07FA-41F0-B139-7C75A3D3EFE7">
     <titleInfo lang="chi" script="Hant">
         <title>草木圖說前篇</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,植物學,p 237</note>
-    <abstract lang="chi" type="summary"> 草木圖說前篇二十冊 東洋刊本   [日本]慾齋飯沼長順著，搜羅本國及外來草木凡三千餘種，其編次則依西國 林娜斯氏藥品本草圖譜，其命名譯字則依田川氏植學啟原、伊藤氏本草名 疏，其書以辨物為主，故筆不能盡者，繪之以圖甚便考察。 </abstract>
+    <abstract lang="chi" type="summary">草木圖說前篇二十冊 東洋刊本 [日本]慾齋飯沼長順著，搜羅本國及外來草木凡三千餘種，其編次則依西國 林娜斯氏藥品本草圖譜，其命名譯字則依田川氏植學啟原、伊藤氏本草名 疏，其書以辨物為主，故筆不能盡者，繪之以圖甚便考察。</abstract>
     <identifier type="mh">book_719</identifier>
 </mods>

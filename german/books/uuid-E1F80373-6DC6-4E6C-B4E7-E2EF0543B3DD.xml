@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E1F80373-6DC6-4E6C-B4E7-E2EF0543B3DD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E1F80373-6DC6-4E6C-B4E7-E2EF0543B3DD">
     <name type="personal">
         <namePart lang="chi" script="Hant">文學士高田旱苗、林善介著　小中村義象、明</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 教科摘用 新體日本歷史</title>
+        <title>教科摘用 新體日本歷史</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 708</note>
     <note type="price">一圓七角</note>

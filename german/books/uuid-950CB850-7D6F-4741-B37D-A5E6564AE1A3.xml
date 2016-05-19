@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-950CB850-7D6F-4741-B37D-A5E6564AE1A3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-950CB850-7D6F-4741-B37D-A5E6564AE1A3">
     <name type="personal">
         <namePart lang="chi" script="Hant">御杖著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>北邊隨筆 百家說林卷一 </title>
+        <title>北邊隨筆 百家說林卷一</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1206</note>
     <note type="price">四角</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CE0EDCB7-3B61-443F-82E2-F6990112FAAE">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CE0EDCB7-3B61-443F-82E2-F6990112FAAE">
     <name type="personal">
         <namePart lang="chi" script="Hant">青江秀著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 薩隅 煙草錄</title>
+        <title>薩隅 煙草錄</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,煙草類,p 840</note>
     <note type="price">五圓</note>

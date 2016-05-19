@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-735A42C9-DE98-43CF-88BD-C45FC81D4C1D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-735A42C9-DE98-43CF-88BD-C45FC81D4C1D">
     <name type="personal">
         <namePart lang="chi" script="Hant">蔭山廣忠、中村敬宇序</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 社會進化 世界未來記</title>
+        <title>社會進化 世界未來記</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1201</note>
     <note type="price">二角五分</note>

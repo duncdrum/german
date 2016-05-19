@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2DEE9886-6061-4FF8-8DB0-40C637AA723F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2DEE9886-6061-4FF8-8DB0-40C637AA723F">
     <titleInfo lang="chi" script="Hant">
         <title>俄政攷略</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 57</note>
-    <abstract lang="chi" type="summary"> 俄政攷略一卷 嶺學報本   尹端模譯，言俄事多可攷證，而以君主之國皆重世臣，俄國之亂黨不能撓君 權者，皆貴族世臣夾輔之力也，頗與孟子喬木世臣之言相合。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">俄政攷略一卷 嶺學報本 尹端模譯，言俄事多可攷證，而以君主之國皆重世臣，俄國之亂黨不能撓君 權者，皆貴族世臣夾輔之力也，頗與孟子喬木世臣之言相合。 [顧補]</abstract>
     <identifier type="mh">book_51</identifier>
 </mods>

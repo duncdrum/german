@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-29BF0AA7-C5C6-4E84-B064-09D982D9D030">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-29BF0AA7-C5C6-4E84-B064-09D982D9D030">
     <name type="personal">
         <namePart lang="chi" script="Hant">東海散士、紫四郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 訂正再版 埃及近世史</title>
+        <title>訂正再版 埃及近世史</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,各國歷史,p 702</note>
     <note type="price">一圓</note>

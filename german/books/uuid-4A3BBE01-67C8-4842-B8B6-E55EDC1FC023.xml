@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4A3BBE01-67C8-4842-B8B6-E55EDC1FC023">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4A3BBE01-67C8-4842-B8B6-E55EDC1FC023">
     <titleInfo lang="chi" script="Hant">
         <title>天文須知</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,天學第十九,p 215</note>
-    <abstract lang="chi" type="summary"> 天文須知一卷 格致須知初集本一冊   [英]傅蘭雅著，但論日月諸星於測算之法畧而不言，後附說用器亦未備，是書 疑即駱氏啟蒙，同出一本，惟譯筆畧異。 </abstract>
+    <abstract lang="chi" type="summary">天文須知一卷 格致須知初集本一冊 [英]傅蘭雅著，但論日月諸星於測算之法畧而不言，後附說用器亦未備，是書 疑即駱氏啟蒙，同出一本，惟譯筆畧異。</abstract>
     <identifier type="mh">book_631</identifier>
 </mods>

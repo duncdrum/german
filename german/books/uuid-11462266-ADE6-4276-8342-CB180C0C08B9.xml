@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-11462266-ADE6-4276-8342-CB180C0C08B9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-11462266-ADE6-4276-8342-CB180C0C08B9">
     <titleInfo lang="chi" script="Hant">
         <title>澳大利亞全洲情形</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 226</note>
-    <abstract lang="chi" type="summary"> 澳大利亞全洲情形　卷 知新報本   周逢源譯 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">澳大利亞全洲情形　卷 知新報本 周逢源譯 [顧補]</abstract>
     <identifier type="mh">book_675</identifier>
 </mods>

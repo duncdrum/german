@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F2722362-EC9B-4997-865E-E21CB4194985">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F2722362-EC9B-4997-865E-E21CB4194985">
     <titleInfo lang="chi" script="Hant">
-        <title>難後言 百家說林卷五 </title>
+        <title>難後言 百家說林卷五</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1208</note>
     <note type="price">四角</note>

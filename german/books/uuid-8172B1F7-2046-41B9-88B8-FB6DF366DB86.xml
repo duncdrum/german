@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8172B1F7-2046-41B9-88B8-FB6DF366DB86">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8172B1F7-2046-41B9-88B8-FB6DF366DB86">
     <name type="personal">
         <namePart lang="chi" script="Hant">二十七冊</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 近世 泰西通鑑</title>
+        <title>近世 泰西通鑑</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,萬國歷史,p 699</note>
     <note type="price">二十六圓七角</note>

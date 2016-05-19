@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8D401344-DBBE-4B4B-AFF6-7CC95A734517">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8D401344-DBBE-4B4B-AFF6-7CC95A734517">
     <titleInfo lang="chi" script="Hant">
         <title>鐵甲叢談</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,船艦,p 108</note>
-    <abstract lang="chi" type="summary"> 鐵甲叢談五卷圖一卷 製造局本二冊   [英]黎特著，舒高第、鄭昌棪同譯，臚列英、法、意、俄、德、奧、土、美、日本、巴西、智利，近年 所製鐵甲水雷諸船之數至千八百八十九年止，並詳言其製造及操演法附 論為美國凱來撰，足以補原書所未備。彙編二，有近時戰船論一篇；又六有歐 洲各國兵艦比較論一篇，可參觀。 製造局印有英傅蘭雅、徐建寅譯，砲與鐵甲論十冊，未出。  </abstract>
+    <abstract lang="chi" type="summary">鐵甲叢談五卷圖一卷 製造局本二冊 [英]黎特著，舒高第、鄭昌棪同譯，臚列英、法、意、俄、德、奧、土、美、日本、巴西、智利，近年 所製鐵甲水雷諸船之數至千八百八十九年止，並詳言其製造及操演法附 論為美國凱來撰，足以補原書所未備。彙編二，有近時戰船論一篇；又六有歐 洲各國兵艦比較論一篇，可參觀。 製造局印有英傅蘭雅、徐建寅譯，砲與鐵甲論十冊，未出。</abstract>
     <identifier type="mh">book_224</identifier>
 </mods>

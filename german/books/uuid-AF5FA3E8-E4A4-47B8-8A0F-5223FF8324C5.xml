@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-AF5FA3E8-E4A4-47B8-8A0F-5223FF8324C5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-AF5FA3E8-E4A4-47B8-8A0F-5223FF8324C5">
     <titleInfo lang="chi" script="Hant">
         <title>水鑑</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,氣學第十八,水學,p 213</note>
-    <abstract lang="chi" type="summary"> 水鑑　卷 滙報本   滙報館譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">水鑑　卷 滙報本 滙報館譯。 [顧補]</abstract>
     <identifier type="mh">book_621</identifier>
 </mods>

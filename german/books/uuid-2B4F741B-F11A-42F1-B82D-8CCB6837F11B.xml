@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2B4F741B-F11A-42F1-B82D-8CCB6837F11B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2B4F741B-F11A-42F1-B82D-8CCB6837F11B">
     <name type="personal">
         <namePart lang="chi" script="Hant">近松門左衛門作</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>近松世話淨瑠璃 廿四種出版 </title>
+        <title>近松世話淨瑠璃 廿四種出版</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1000</note>
     <note type="price">五角</note>

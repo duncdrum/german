@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E04E2302-E343-4F33-966A-1B7623AEEED8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E04E2302-E343-4F33-966A-1B7623AEEED8">
     <name type="personal">
         <namePart lang="chi" script="Hant">石川雅二著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>商業學校入學試驗問題答案 《商業全書》四篇 </title>
+        <title>商業學校入學試驗問題答案 《商業全書》四篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,商業書,p 890</note>
     <note type="price">一角五分</note>

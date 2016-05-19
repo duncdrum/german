@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-21A6E918-9D77-4036-9CBB-519D45AE1A8A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-21A6E918-9D77-4036-9CBB-519D45AE1A8A">
     <name type="personal">
         <namePart lang="chi" script="Hant">竹田出雲、三好松洛合作</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 義太夫丸本 義經千本櫻</title>
+        <title>義太夫丸本 義經千本櫻</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1001</note>
     <note type="price">一角</note>

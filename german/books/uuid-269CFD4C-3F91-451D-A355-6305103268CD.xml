@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-269CFD4C-3F91-451D-A355-6305103268CD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-269CFD4C-3F91-451D-A355-6305103268CD">
     <name type="personal">
         <namePart lang="chi" script="Hant">勸農局藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 獨乙 農事圖解</title>
+        <title>獨乙 農事圖解</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,農業雜書,p 825</note>
     <note type="price">四圓六角五分</note>

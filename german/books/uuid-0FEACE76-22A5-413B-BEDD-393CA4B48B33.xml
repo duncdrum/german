@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-0FEACE76-22A5-413B-BEDD-393CA4B48B33">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-0FEACE76-22A5-413B-BEDD-393CA4B48B33">
     <titleInfo lang="chi" script="Hant">
         <title>日本陸軍士官學校條例</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 85</note>
-    <abstract lang="chi" type="summary"> 日本陸軍士官學校條例　卷 昌言報本   昌言報館譯，分三章，一曰總則、二曰職制、三曰召募定則，丹徒姚錫光著，有東 瀛學校舉概，可以參觀。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">日本陸軍士官學校條例　卷 昌言報本 昌言報館譯，分三章，一曰總則、二曰職制、三曰召募定則，丹徒姚錫光著，有東 瀛學校舉概，可以參觀。 [顧補]</abstract>
     <identifier type="mh">book_152</identifier>
 </mods>

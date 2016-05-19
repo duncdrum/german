@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-D932FAAD-2E0B-452A-AFC8-23AF813732DF">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-D932FAAD-2E0B-452A-AFC8-23AF813732DF">
     <titleInfo lang="chi" script="Hant">
-        <title>經濟學 小‧翻刻 </title>
+        <title>經濟學 小‧翻刻</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,橫文經濟學,p 770</note>
     <note type="price">三角</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-49EF3C6E-33B8-4C68-A759-8B9144E4FB2F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-49EF3C6E-33B8-4C68-A759-8B9144E4FB2F">
     <name type="personal">
         <namePart lang="chi" script="Hant">渡邊直之編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 明治訂正 萬世雜書大全</title>
+        <title>明治訂正 萬世雜書大全</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,類書,p 736</note>
     <note type="price">五角</note>

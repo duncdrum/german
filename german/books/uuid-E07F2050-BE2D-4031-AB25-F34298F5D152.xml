@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E07F2050-BE2D-4031-AB25-F34298F5D152">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E07F2050-BE2D-4031-AB25-F34298F5D152">
     <name type="personal">
         <namePart lang="chi" script="Hant">內藤恥叟口述</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 開國起源 安政記事 附《開國始末辨妄》 </title>
+        <title>開國起源 安政記事 附《開國始末辨妄》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 714</note>
     <note type="price">八角</note>

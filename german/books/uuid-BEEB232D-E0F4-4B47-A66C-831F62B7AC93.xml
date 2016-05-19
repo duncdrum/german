@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-BEEB232D-E0F4-4B47-A66C-831F62B7AC93">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-BEEB232D-E0F4-4B47-A66C-831F62B7AC93">
     <titleInfo lang="chi" script="Hant">
         <title>日本外史</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 53</note>
-    <abstract lang="chi" type="summary"> 日本外史十二冊 東洋刊本   [日本]賴子成著，自源平氏專政始至德川氏止。 求是報有日本維新記聞，均未譯成。  </abstract>
+    <abstract lang="chi" type="summary">日本外史十二冊 東洋刊本 [日本]賴子成著，自源平氏專政始至德川氏止。 求是報有日本維新記聞，均未譯成。</abstract>
     <identifier type="mh">book_35</identifier>
 </mods>

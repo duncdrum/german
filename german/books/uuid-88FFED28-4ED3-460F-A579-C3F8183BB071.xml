@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-88FFED28-4ED3-460F-A579-C3F8183BB071">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-88FFED28-4ED3-460F-A579-C3F8183BB071">
     <name type="personal">
         <namePart lang="chi" script="Hant">河竹默阿彌著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>茲江戶小腕達引怪談月笠森 《狂言百種》第二 </title>
+        <title>茲江戶小腕達引怪談月笠森 《狂言百種》第二</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,腳本,p 1015</note>
     <note type="price">二角</note>

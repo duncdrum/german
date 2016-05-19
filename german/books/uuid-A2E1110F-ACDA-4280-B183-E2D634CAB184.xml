@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A2E1110F-ACDA-4280-B183-E2D634CAB184">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A2E1110F-ACDA-4280-B183-E2D634CAB184">
     <titleInfo lang="chi" script="Hant">
         <title>化學工藝</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 205</note>
-    <abstract lang="chi" type="summary"> 化學工藝初集四卷二集四卷三集二卷附圖三冊 製造局本   [英]能智著，[英]傅蘭雅、汪振聲譯，初集造硫強水法，二集造鹽強水法造鹻類，三 集造鹻類法造漂白粉與𩚲養鎳養五，又附卷二集各有圖一冊。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">化學工藝初集四卷二集四卷三集二卷附圖三冊 製造局本 [英]能智著，[英]傅蘭雅、汪振聲譯，初集造硫強水法，二集造鹽強水法造鹻類，三 集造鹻類法造漂白粉與𩚲養鎳養五，又附卷二集各有圖一冊。 [徐補]</abstract>
     <identifier type="mh">book_589</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DC8D180F-9928-4FF7-AA1A-CFC1C0230FBF">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DC8D180F-9928-4FF7-AA1A-CFC1C0230FBF">
     <name type="personal">
         <namePart lang="chi" script="Hant">三宅米吉、新保盤次合著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>理科初步 小學校用 </title>
+        <title>理科初步 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,理科學學校用,p 625</note>
     <note type="price">一圓五角四分</note>

@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-834069EA-667C-409A-963F-163E2C1B470E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-834069EA-667C-409A-963F-163E2C1B470E">
     <name type="personal">
-        <namePart lang="chi" script="Hant">奧田官報局長序　博文館編輯司編纂 </namePart>
+        <namePart lang="chi" script="Hant">奧田官報局長序　博文館編輯司編纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>

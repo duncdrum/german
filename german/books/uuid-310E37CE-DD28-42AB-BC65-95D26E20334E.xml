@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-310E37CE-DD28-42AB-BC65-95D26E20334E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-310E37CE-DD28-42AB-BC65-95D26E20334E">
     <name type="personal">
         <namePart lang="chi" script="Hant">末廣鐵腸居著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 人情小說 闇夜鴉</title>
+        <title>人情小說 闇夜鴉</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1172</note>
     <note type="price">二角</note>

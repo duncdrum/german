@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A5D4DD78-52A5-4BA6-9442-54CF8E98EF8C">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A5D4DD78-52A5-4BA6-9442-54CF8E98EF8C">
     <titleInfo lang="chi" script="Hant">
         <title>克虜伯礮說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 112</note>
-    <abstract lang="chi" type="summary"> 克虜伯礮說四卷 製造局本一冊　富強叢書本   [布]軍政局原書，[美]金楷理譯，李鳳苞述，卷一記先事籌備，卷二記臨時致用，卷 三記礮門礮彈，卷四記礮表用法。此書所說在當時誠為精密，但外洋於克虜 伯礮之制與舊式多所更易，是宜覆加攷求矣。彙編四，有徐建寅閱克虜卜廠 造礮記，可參觀。 </abstract>
+    <abstract lang="chi" type="summary">克虜伯礮說四卷 製造局本一冊　富強叢書本 [布]軍政局原書，[美]金楷理譯，李鳳苞述，卷一記先事籌備，卷二記臨時致用，卷 三記礮門礮彈，卷四記礮表用法。此書所說在當時誠為精密，但外洋於克虜 伯礮之制與舊式多所更易，是宜覆加攷求矣。彙編四，有徐建寅閱克虜卜廠 造礮記，可參觀。</abstract>
     <identifier type="mh">book_239</identifier>
 </mods>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8F24F740-970E-4675-99AB-A7F1C52BCB32">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8F24F740-970E-4675-99AB-A7F1C52BCB32">
     <titleInfo lang="chi" script="Hant">
         <title>萬國史記</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 41</note>
-    <abstract lang="chi" type="summary"> 萬國史記二十卷 申報館本　上海排印本十冊　石印本字太小　富強叢書本　摘刻為三卷，改名萬國總說。   [日本]岡本監輔著，書雖甚略，然五洲各國治亂興衰之故，頗能摘抉要領，讀西 史者姑先從事是書，以知大畧。 益智書會印，有石氏萬國史略；來因氏萬國近世；同文館刻有某人各國史略；製造局刻有美林樂知、王德均譯，萬國史六冊；譯書公會印有法高祝著，張國琛譯，胡惟志述，萬國中古史略五卷，均未成。  </abstract>
+    <abstract lang="chi" type="summary">萬國史記二十卷 申報館本　上海排印本十冊　石印本字太小　富強叢書本　摘刻為三卷，改名萬國總說。 [日本]岡本監輔著，書雖甚略，然五洲各國治亂興衰之故，頗能摘抉要領，讀西 史者姑先從事是書，以知大畧。 益智書會印，有石氏萬國史略；來因氏萬國近世；同文館刻有某人各國史略；製造局刻有美林樂知、王德均譯，萬國史六冊；譯書公會印有法高祝著，張國琛譯，胡惟志述，萬國中古史略五卷，均未成。</abstract>
     <identifier type="mh">book_1</identifier>
 </mods>

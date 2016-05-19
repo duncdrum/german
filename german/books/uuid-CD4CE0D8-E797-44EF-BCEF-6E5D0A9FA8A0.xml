@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CD4CE0D8-E797-44EF-BCEF-6E5D0A9FA8A0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CD4CE0D8-E797-44EF-BCEF-6E5D0A9FA8A0">
     <name type="personal">
         <namePart lang="chi" script="Hant">乘竹孝太郎譯　外山正一校閱</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>社會學之原理 再版 </title>
+        <title>社會學之原理 再版</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,社會學,p 759</note>
     <note type="price">一圓七角</note>

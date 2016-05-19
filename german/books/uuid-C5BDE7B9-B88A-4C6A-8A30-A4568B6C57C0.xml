@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C5BDE7B9-B88A-4C6A-8A30-A4568B6C57C0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C5BDE7B9-B88A-4C6A-8A30-A4568B6C57C0">
     <name type="personal">
         <namePart lang="chi" script="Hant">契仲</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>圓珠庵雜記 《百家說林》卷四 </title>
+        <title>圓珠庵雜記 《百家說林》卷四</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,歌學及歌集,p 978</note>
     <note type="price">四角</note>

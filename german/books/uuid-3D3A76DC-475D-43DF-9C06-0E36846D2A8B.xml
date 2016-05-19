@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3D3A76DC-475D-43DF-9C06-0E36846D2A8B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3D3A76DC-475D-43DF-9C06-0E36846D2A8B">
     <name type="personal">
         <namePart lang="chi" script="Hant">南里俊陽著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 鐮倉江之島 名勝記</title>
+        <title>鐮倉江之島 名勝記</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,名所記,p 732</note>
     <note type="price">一角八分</note>

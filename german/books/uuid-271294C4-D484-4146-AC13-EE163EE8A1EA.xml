@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-271294C4-D484-4146-AC13-EE163EE8A1EA">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-271294C4-D484-4146-AC13-EE163EE8A1EA">
     <name type="personal">
         <namePart lang="chi" script="Hant">佐伯有儀、三木五百枝校正標註</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 校正 標註神皇正統記</title>
+        <title>校正 標註神皇正統記</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 704</note>
     <note type="price">三角五分</note>

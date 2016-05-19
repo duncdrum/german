@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8E9C7D08-80A7-485C-BFA3-21D5E3F3EF28">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8E9C7D08-80A7-485C-BFA3-21D5E3F3EF28">
     <titleInfo lang="chi" script="Hant">
         <title>氣學叢談</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note>
-    <abstract lang="chi" type="summary"> 氣學叢談二卷 時務報館本一冊   [英]傅蘭雅譯，華蘅芳述，以化學幾何之學以證空氣壓力之理，非尋常談氣學 之比，書中凡風雨表、寒暑表源流及各器利弊與製造致用原因，一一申論，講 格致學者不可不讀。 </abstract>
+    <abstract lang="chi" type="summary">氣學叢談二卷 時務報館本一冊 [英]傅蘭雅譯，華蘅芳述，以化學幾何之學以證空氣壓力之理，非尋常談氣學 之比，書中凡風雨表、寒暑表源流及各器利弊與製造致用原因，一一申論，講 格致學者不可不讀。</abstract>
     <identifier type="mh">book_616</identifier>
 </mods>

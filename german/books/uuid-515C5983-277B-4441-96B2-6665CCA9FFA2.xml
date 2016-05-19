@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-515C5983-277B-4441-96B2-6665CCA9FFA2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-515C5983-277B-4441-96B2-6665CCA9FFA2">
     <titleInfo lang="chi" script="Hant">
         <title>保富述要</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 163</note>
-    <abstract lang="chi" type="summary"> 保富述要二卷 製造局本二冊　西政叢書本   [英]布來德著，[英]傅蘭雅譯，徐家寶述，書中專主保護工商，尤詳論經理錢幣之 法，其論錢法專主用金論，貿易不主賖買，論關稅不主重徵入口，而免出口，其 酌劑工商之理，可謂深得消息，然中外勢有不同，談商務者當審察用之。彙編 二有言貿易穩法，可參攷。 </abstract>
+    <abstract lang="chi" type="summary">保富述要二卷 製造局本二冊　西政叢書本 [英]布來德著，[英]傅蘭雅譯，徐家寶述，書中專主保護工商，尤詳論經理錢幣之 法，其論錢法專主用金論，貿易不主賖買，論關稅不主重徵入口，而免出口，其 酌劑工商之理，可謂深得消息，然中外勢有不同，談商務者當審察用之。彙編 二有言貿易穩法，可參攷。</abstract>
     <identifier type="mh">book_446</identifier>
 </mods>

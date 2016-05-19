@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-73D87F91-427D-4872-B2F9-DC321D5AB947">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-73D87F91-427D-4872-B2F9-DC321D5AB947">
     <titleInfo lang="chi" script="Hant">
-        <title> 再版 珂氏倫理學</title>
+        <title>再版 珂氏倫理學</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,倫理學,p 658</note>
     <note type="price">一圓</note>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6DB2FB8C-5120-47EF-98A4-0A74A86DC49D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6DB2FB8C-5120-47EF-98A4-0A74A86DC49D">
     <titleInfo lang="chi" script="Hant">
         <title>意大利興國俠士傳</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 66</note>
-    <abstract lang="chi" type="summary"> 意大利興國俠士傳一卷 上海譯書局本一冊   [日本]松井廣吉著，[日本]橋本大郎譯，意大利為羅馬舊都，地居濱海，有國數十 ，常見侮於強國，幾難自立，於是聯邦之議起，辛苦堅卓，卒列於大邦。是書所記， 人各為傳，皆曩時君相志士之事迹，其上下同志奮發自雄之概，猶今讀者興 起。彙編二，有英國傳、蘭克令傳；又三有法國巴司嘎拉記、瑞典立尼由司記；又 四有科倫探新洲紀略、英國高布敦紀略；又六有探地名人傳略；又七有英國 瓦特傳，特附記於此。 東亞書局譯有日本四十七俠士傳二卷，日本寬政勤王三奇士傳，未出；譯書公會報印有英駱盤鐵著，沈晉熙譯，威林吞大事記，未成。  </abstract>
+    <abstract lang="chi" type="summary">意大利興國俠士傳一卷 上海譯書局本一冊 [日本]松井廣吉著，[日本]橋本大郎譯，意大利為羅馬舊都，地居濱海，有國數十 ，常見侮於強國，幾難自立，於是聯邦之議起，辛苦堅卓，卒列於大邦。是書所記， 人各為傳，皆曩時君相志士之事迹，其上下同志奮發自雄之概，猶今讀者興 起。彙編二，有英國傳、蘭克令傳；又三有法國巴司嘎拉記、瑞典立尼由司記；又 四有科倫探新洲紀略、英國高布敦紀略；又六有探地名人傳略；又七有英國 瓦特傳，特附記於此。 東亞書局譯有日本四十七俠士傳二卷，日本寬政勤王三奇士傳，未出；譯書公會報印有英駱盤鐵著，沈晉熙譯，威林吞大事記，未成。</abstract>
     <identifier type="mh">book_81</identifier>
 </mods>

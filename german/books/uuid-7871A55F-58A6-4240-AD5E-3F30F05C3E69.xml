@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7871A55F-58A6-4240-AD5E-3F30F05C3E69">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7871A55F-58A6-4240-AD5E-3F30F05C3E69">
     <name type="personal">
         <namePart lang="chi" script="Hant">吉村新太郎、渡邊茂男編纂</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 現行 大日本稅法大全</title>
+        <title>現行 大日本稅法大全</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,租稅法,p 807</note>
     <note type="price">一圓</note>

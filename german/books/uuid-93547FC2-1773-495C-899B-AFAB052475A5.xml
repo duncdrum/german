@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-93547FC2-1773-495C-899B-AFAB052475A5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-93547FC2-1773-495C-899B-AFAB052475A5">
     <titleInfo lang="chi" script="Hant">
         <title>歐羅巴通史</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 43</note>
-    <abstract lang="chi" type="summary"> 歐羅巴通史　卷 東亞譯書會本四冊   [日本]箕作元八峯㟁米造合著，胡景伊、徐有成、唐人傑同譯，本名西洋史綱。上 溯埃及波斯諸國之興亡，下逮近百年歐美大事，刪繁舉要，與東洋史要相埒； 至體裁文法，譯者悉遵原書，書中地名、人名雖用譯音，並載洋文於書眉，尤便 讀者。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">歐羅巴通史　卷 東亞譯書會本四冊 [日本]箕作元八峯㟁米造合著，胡景伊、徐有成、唐人傑同譯，本名西洋史綱。上 溯埃及波斯諸國之興亡，下逮近百年歐美大事，刪繁舉要，與東洋史要相埒； 至體裁文法，譯者悉遵原書，書中地名、人名雖用譯音，並載洋文於書眉，尤便 讀者。 [徐補]</abstract>
     <identifier type="mh">book_6</identifier>
 </mods>

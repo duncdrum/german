@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-48899FF0-3D02-4ECB-BE34-AABBBFCC933F">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-48899FF0-3D02-4ECB-BE34-AABBBFCC933F">
     <titleInfo lang="chi" script="Hant">
         <title>富國策</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 162</note>
-    <abstract lang="chi" type="summary"> 富國策三卷 同文館本三冊　益智書會本　日本排印本　時務報館刻有通正齋生重譯本，惜未成。   [英]法思得著，[美]丁韙良譯，汪鳳藻述，其論商理、商情，專主均輸平準，以幾何公 法酌劑而消息之。泰西於商學一門類能闡發其公理，故其行事無往不得，其 平中土自筦墨之學，微士夫未有講求於此者，此所以弱也，欲振興商務非急 讀此種專門書，講明義理不可。是書第十章言稅法尤多要義。 製造局印有英傅蘭雅、徐家寶譯，保富興國；東亞書局有歐美富國新策，均未出。  </abstract>
+    <abstract lang="chi" type="summary">富國策三卷 同文館本三冊　益智書會本　日本排印本　時務報館刻有通正齋生重譯本，惜未成。 [英]法思得著，[美]丁韙良譯，汪鳳藻述，其論商理、商情，專主均輸平準，以幾何公 法酌劑而消息之。泰西於商學一門類能闡發其公理，故其行事無往不得，其 平中土自筦墨之學，微士夫未有講求於此者，此所以弱也，欲振興商務非急 讀此種專門書，講明義理不可。是書第十章言稅法尤多要義。 製造局印有英傅蘭雅、徐家寶譯，保富興國；東亞書局有歐美富國新策，均未出。</abstract>
     <identifier type="mh">book_443</identifier>
 </mods>

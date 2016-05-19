@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3699A18D-2B30-446B-B8C0-7B4CE3769DDC">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3699A18D-2B30-446B-B8C0-7B4CE3769DDC">
     <titleInfo lang="chi" script="Hant">
         <title>測繪器</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,圖學第二十四,畫器,p 257</note>
-    <abstract lang="chi" type="summary"> 測繪器一卷 格致彙編本在格致釋器中   [英]傅蘭雅著，西人於測地一事既有專業之人，復有精良之器、詳明之法，不惜 工力，經年細測，宜其密益加密，此書測繪之器，擇其簡要者載之，上半皆測量 所用，下半皆繪圖所用，後附鄒代鈞上會典館言測繪地圖書，又湖南測繪輿 地圖章程所言，甚有條理，惜各省辦理，未能一轍。 </abstract>
+    <abstract lang="chi" type="summary">測繪器一卷 格致彙編本在格致釋器中 [英]傅蘭雅著，西人於測地一事既有專業之人，復有精良之器、詳明之法，不惜 工力，經年細測，宜其密益加密，此書測繪之器，擇其簡要者載之，上半皆測量 所用，下半皆繪圖所用，後附鄒代鈞上會典館言測繪地圖書，又湖南測繪輿 地圖章程所言，甚有條理，惜各省辦理，未能一轍。</abstract>
     <identifier type="mh">book_794</identifier>
 </mods>

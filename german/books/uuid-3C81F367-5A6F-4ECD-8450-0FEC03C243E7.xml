@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-3C81F367-5A6F-4ECD-8450-0FEC03C243E7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-3C81F367-5A6F-4ECD-8450-0FEC03C243E7">
     <name type="personal">
         <namePart lang="chi" script="Hant">大久保利夫著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 民間必用 願届書式全書 附《登記公證委託心得》 </title>
+        <title>民間必用 願届書式全書 附《登記公證委託心得》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,法規雜書,p 811</note>
     <note type="price">一角</note>

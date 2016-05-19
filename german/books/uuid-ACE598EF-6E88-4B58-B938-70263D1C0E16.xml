@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-ACE598EF-6E88-4B58-B938-70263D1C0E16">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-ACE598EF-6E88-4B58-B938-70263D1C0E16">
     <name type="personal">
         <namePart lang="chi" script="Hant">山田艮叔譯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 臨床實驗 顯微鏡診斷學</title>
+        <title>臨床實驗 顯微鏡診斷學</title>
     </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,診斷學,p 605</note>
     <note type="price">一圓二角五分</note>

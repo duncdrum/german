@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B96F6A2F-50A5-4132-A324-BBCA7E4EE6C6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B96F6A2F-50A5-4132-A324-BBCA7E4EE6C6">
     <titleInfo lang="chi" script="Hant">
         <title>婦科精蘊圖說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 244</note>
-    <abstract lang="chi" type="summary"> 婦科精蘊圖說五卷 光緒十五年博濟醫局刻本五冊   [美]妥瑪氏著，[美]嘉約翰、孔慶高同譯，書分四十六章，體貼詳密，尤詳於胎產一 門，其考究部位足與中醫互相參證，西醫婦科之書無有過於此者。 </abstract>
+    <abstract lang="chi" type="summary">婦科精蘊圖說五卷 光緒十五年博濟醫局刻本五冊 [美]妥瑪氏著，[美]嘉約翰、孔慶高同譯，書分四十六章，體貼詳密，尤詳於胎產一 門，其考究部位足與中醫互相參證，西醫婦科之書無有過於此者。</abstract>
     <identifier type="mh">book_745</identifier>
 </mods>

@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2B39AC26-8D7D-4B2A-8E0F-D021EC1674E2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2B39AC26-8D7D-4B2A-8E0F-D021EC1674E2">
     <titleInfo lang="chi" script="Hant">
-        <title> 掌中 手提燈</title>
+        <title>掌中 手提燈</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,俳書及俳諧集,p 987</note>
     <note type="price">八分</note>

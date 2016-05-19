@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-FF54464F-1EA8-430E-B940-B01E0C3636B2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-FF54464F-1EA8-430E-B940-B01E0C3636B2">
     <name type="personal">
         <namePart lang="chi" script="Hant">酒井捨彥著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>關八州分國全圖 上總之部 </title>
+        <title>關八州分國全圖 上總之部</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,府縣及分國圖,p 693</note>
     <note type="price">九分</note>

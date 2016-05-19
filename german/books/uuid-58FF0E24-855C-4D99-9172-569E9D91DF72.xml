@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-58FF0E24-855C-4D99-9172-569E9D91DF72">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-58FF0E24-855C-4D99-9172-569E9D91DF72">
     <name type="personal">
         <namePart lang="chi" script="Hant">本莊太一郎譯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 俄氏 新式教授術</title>
+        <title>俄氏 新式教授術</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,實地教育,p 932</note>
     <note type="price">九角</note>

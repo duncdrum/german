@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-74FE8389-F7DA-4EC9-A04A-2F7506F9B7B4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-74FE8389-F7DA-4EC9-A04A-2F7506F9B7B4">
     <titleInfo lang="chi" script="Hant">
         <title>格　源流說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 179</note>
-    <abstract lang="chi" type="summary"> 格　源流說　卷 新學彙編本　廣學會單行本   [美]林樂知選輯，任延旭譯。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">格　源流說　卷 新學彙編本　廣學會單行本 [美]林樂知選輯，任延旭譯。 [徐補]</abstract>
     <identifier type="mh">book_505</identifier>
 </mods>

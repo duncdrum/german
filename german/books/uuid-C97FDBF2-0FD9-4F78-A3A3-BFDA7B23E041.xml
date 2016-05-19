@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C97FDBF2-0FD9-4F78-A3A3-BFDA7B23E041">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C97FDBF2-0FD9-4F78-A3A3-BFDA7B23E041">
     <titleInfo lang="chi" script="Hant">
-        <title> 真草早引 開化節用集</title>
+        <title>真草早引 開化節用集</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,伊吕波引,p 1072</note>
     <note type="price">二角</note>

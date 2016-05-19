@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-EF3DAD8D-5161-4335-9DDA-A69C0ABA5A92">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-EF3DAD8D-5161-4335-9DDA-A69C0ABA5A92">
     <titleInfo lang="chi" script="Hant">
-        <title>實語教 大本 </title>
+        <title>實語教 大本</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 913</note>
     <note type="price">五分</note>

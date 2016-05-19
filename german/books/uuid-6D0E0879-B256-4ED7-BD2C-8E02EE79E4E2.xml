@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6D0E0879-B256-4ED7-BD2C-8E02EE79E4E2">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6D0E0879-B256-4ED7-BD2C-8E02EE79E4E2">
     <name type="personal">
         <namePart lang="chi" script="Hant">村山自強著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 中等教育 漢文學教科書</title>
+        <title>中等教育 漢文學教科書</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,漢文書,p 958</note>
     <note type="price">三角五分</note>

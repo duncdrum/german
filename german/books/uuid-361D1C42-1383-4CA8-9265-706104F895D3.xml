@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-361D1C42-1383-4CA8-9265-706104F895D3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-361D1C42-1383-4CA8-9265-706104F895D3">
     <titleInfo lang="chi" script="Hant">
         <title>英攻黑人日記</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 62</note>
-    <abstract lang="chi" type="summary"> 英攻黑人日記一卷 知新報本   [英]倫敦頗路磨路報著，周靈生譯，篇中記埃及之役，英兵進攻黑人，取道司拉 勞，塗中所歷驚沙撲面，災熱異常，黑人勇敢善戰，死而不厭，苟非軍械窳陋，英 必為所敗，暗打文為著名大埠，而謭陋無狀甚矣，文野之差別也。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">英攻黑人日記一卷 知新報本 [英]倫敦頗路磨路報著，周靈生譯，篇中記埃及之役，英兵進攻黑人，取道司拉 勞，塗中所歷驚沙撲面，災熱異常，黑人勇敢善戰，死而不厭，苟非軍械窳陋，英 必為所敗，暗打文為著名大埠，而謭陋無狀甚矣，文野之差別也。 [顧補]</abstract>
     <identifier type="mh">book_68</identifier>
 </mods>

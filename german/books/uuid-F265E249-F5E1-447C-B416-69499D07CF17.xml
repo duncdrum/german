@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F265E249-F5E1-447C-B416-69499D07CF17">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F265E249-F5E1-447C-B416-69499D07CF17">
     <name type="personal">
         <namePart lang="chi" script="Hant">東京製圖會社編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>東京府管白白地圖 小學校用 </title>
+        <title>東京府管白白地圖 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 685</note>
     <note type="price">四分八釐</note>

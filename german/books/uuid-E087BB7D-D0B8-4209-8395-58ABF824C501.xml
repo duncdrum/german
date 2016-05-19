@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E087BB7D-D0B8-4209-8395-58ABF824C501">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E087BB7D-D0B8-4209-8395-58ABF824C501">
     <titleInfo lang="chi" script="Hant">
         <title>新式焙茶機器圖說</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 153</note>
-    <abstract lang="chi" type="summary"> 新式焙茶機器圖說一卷 農學報本   [英]愛爾蘭臺維生廠原本，陳佩尚譯，中國欲興茶務不得不講機器製法。是編 所列製茶機器，有圖有說，並列價值，可謂詳細，足為講求茶務者之助。 </abstract>
+    <abstract lang="chi" type="summary">新式焙茶機器圖說一卷 農學報本 [英]愛爾蘭臺維生廠原本，陳佩尚譯，中國欲興茶務不得不講機器製法。是編 所列製茶機器，有圖有說，並列價值，可謂詳細，足為講求茶務者之助。</abstract>
     <identifier type="mh">book_398</identifier>
 </mods>

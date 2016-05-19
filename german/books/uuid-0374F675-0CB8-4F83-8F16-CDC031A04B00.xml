@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-0374F675-0CB8-4F83-8F16-CDC031A04B00">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-0374F675-0CB8-4F83-8F16-CDC031A04B00">
     <name type="personal">
         <namePart lang="chi" script="Hant">著者不詳</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>先哲年表 《日本文庫》第九編之內 </title>
+        <title>先哲年表 《日本文庫》第九編之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,年表,p 729</note>
     <note type="price">二角五分</note>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-23BF4376-49CB-4392-8EE3-1A71B012F7CF">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-23BF4376-49CB-4392-8EE3-1A71B012F7CF">
     <titleInfo lang="chi" script="Hant">
         <title>西醫內科全書</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 243</note>
-    <abstract lang="chi" type="summary"> 西醫內科全書十六卷 光緒八年博濟醫局刊本   [美]嘉約翰、孔慶高同譯，蓋繼合信氏內科新說而作，論腸胃三卷，論肝膽三卷， 論肺部三卷，論腦部三卷，熱症總論二卷，雜症時疫二卷，所列各症皆擇中國 所有者，其權量悉改正，但奇零之數恐有舛錯，學者當細加覆按焉。 </abstract>
+    <abstract lang="chi" type="summary">西醫內科全書十六卷 光緒八年博濟醫局刊本 [美]嘉約翰、孔慶高同譯，蓋繼合信氏內科新說而作，論腸胃三卷，論肝膽三卷， 論肺部三卷，論腦部三卷，熱症總論二卷，雜症時疫二卷，所列各症皆擇中國 所有者，其權量悉改正，但奇零之數恐有舛錯，學者當細加覆按焉。</abstract>
     <identifier type="mh">book_741</identifier>
 </mods>

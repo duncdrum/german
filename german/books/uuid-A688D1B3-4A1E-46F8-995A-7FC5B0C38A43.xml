@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A688D1B3-4A1E-46F8-995A-7FC5B0C38A43">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A688D1B3-4A1E-46F8-995A-7FC5B0C38A43">
     <titleInfo lang="chi" script="Hant">
         <title>形學備旨</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,形學,p 186</note>
-    <abstract lang="chi" type="summary"> 形學備旨十卷 益智書會本二冊　坊間改名績幾何   [美]狄攷文、劉永錫同譯，鄒立文述，是書挈幾何之要，增以近世新得妙理。每卷 末皆有習題，足資參詳，後數卷多用代數式解題，較幾何之解說，聯篇累牘者 簡明多矣。算數之書後出為勝，理固然也。 </abstract>
+    <abstract lang="chi" type="summary">形學備旨十卷 益智書會本二冊　坊間改名績幾何 [美]狄攷文、劉永錫同譯，鄒立文述，是書挈幾何之要，增以近世新得妙理。每卷 末皆有習題，足資參詳，後數卷多用代數式解題，較幾何之解說，聯篇累牘者 簡明多矣。算數之書後出為勝，理固然也。</abstract>
     <identifier type="mh">book_531</identifier>
 </mods>

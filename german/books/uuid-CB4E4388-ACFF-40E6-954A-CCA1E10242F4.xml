@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CB4E4388-ACFF-40E6-954A-CCA1E10242F4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CB4E4388-ACFF-40E6-954A-CCA1E10242F4">
     <titleInfo lang="chi" script="Hant">
-        <title>警察全書 《法律叢書》第十四卷 </title>
+        <title>警察全書 《法律叢書》第十四卷</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,警察書,p 755</note>
     <note type="price">五分</note>

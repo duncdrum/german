@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CD5F717F-9AA8-4814-9E09-FB529BE74AC8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CD5F717F-9AA8-4814-9E09-FB529BE74AC8">
     <name type="personal">
         <namePart lang="chi" script="Hant">關藤成緒著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 英國 國會撰舉法</title>
+        <title>英國 國會撰舉法</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,議院書,p 747</note>
     <note type="price">三角</note>

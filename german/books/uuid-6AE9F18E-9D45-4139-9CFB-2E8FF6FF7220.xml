@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6AE9F18E-9D45-4139-9CFB-2E8FF6FF7220">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6AE9F18E-9D45-4139-9CFB-2E8FF6FF7220">
     <titleInfo lang="chi" script="Hant">
         <title>支那教案論</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 284</note>
-    <abstract lang="chi" type="summary"> 支那教案論一卷 南洋公學本一冊   [英]宓克著，嚴復譯，是書成於光緒十八年長江教案叠起之時，凡四篇，首發端、 二政治、三教事、四調輯。大旨謂我國崇尚虛無散布流言之積習，實足為教案 之媒，而要無非教士處置之失當，有以激之，至於助以兵力，堅以盟約，尤足動 華人仇恥之念，而自塞其流行之機。可謂洞見癓結，及去年拳教之爭，而其言 大騐矣。書中言我國立教以孝為本，而致力於人事，本能範圍各教而不相爭 ，如回佛其明證也，而西教士強欲以不拜祖先之例繩之，因而決裂，其言亦有 至理。 </abstract>
+    <abstract lang="chi" type="summary">支那教案論一卷 南洋公學本一冊 [英]宓克著，嚴復譯，是書成於光緒十八年長江教案叠起之時，凡四篇，首發端、 二政治、三教事、四調輯。大旨謂我國崇尚虛無散布流言之積習，實足為教案 之媒，而要無非教士處置之失當，有以激之，至於助以兵力，堅以盟約，尤足動 華人仇恥之念，而自塞其流行之機。可謂洞見癓結，及去年拳教之爭，而其言 大騐矣。書中言我國立教以孝為本，而致力於人事，本能範圍各教而不相爭 ，如回佛其明證也，而西教士強欲以不拜祖先之例繩之，因而決裂，其言亦有 至理。</abstract>
     <identifier type="mh">book_902</identifier>
 </mods>

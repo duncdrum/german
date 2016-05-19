@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-5588C3E5-1E61-4ED6-BD3D-2147112DE803">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-5588C3E5-1E61-4ED6-BD3D-2147112DE803">
     <name type="personal">
         <namePart lang="chi" script="Hant">松井廣吉著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 新撰 大日本帝國史</title>
+        <title>新撰 大日本帝國史</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 706</note>
     <note type="price">四角</note>

@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6E730C95-EEF9-4AD4-BA60-BC9B3C2F5388">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6E730C95-EEF9-4AD4-BA60-BC9B3C2F5388">
     <titleInfo lang="chi" script="Hant">
-        <title> 獨習自在 清樂指南</title>
+        <title>獨習自在 清樂指南</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,音曲,p 1119</note>
     <note type="price">六分</note>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-09E03005-ACD7-4C07-A533-5C4E07C66536">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-09E03005-ACD7-4C07-A533-5C4E07C66536">
     <name type="personal">
         <namePart lang="chi" script="Hant">須永右西郎</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 初等教育 小金石學 《通俗教育全書》第十六篇 </title>
+        <title>初等教育 小金石學 《通俗教育全書》第十六篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,鑛學,p 640</note>
     <note type="price">一角二分</note>

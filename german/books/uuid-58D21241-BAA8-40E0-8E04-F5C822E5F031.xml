@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-58D21241-BAA8-40E0-8E04-F5C822E5F031">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-58D21241-BAA8-40E0-8E04-F5C822E5F031">
     <name type="personal">
         <namePart lang="chi" script="Hant">三瀨貞幹編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>萬國地誌略指南圖 小學校用 </title>
+        <title>萬國地誌略指南圖 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 687</note>
     <note type="price">二角二分</note>

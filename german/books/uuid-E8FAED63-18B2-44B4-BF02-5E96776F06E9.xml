@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E8FAED63-18B2-44B4-BF02-5E96776F06E9">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E8FAED63-18B2-44B4-BF02-5E96776F06E9">
     <name type="personal">
         <namePart lang="chi" script="Hant">高屋</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>用捨箱 《溫知叢書》第二編之內 </title>
+        <title>用捨箱 《溫知叢書》第二編之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,風俗書,p 763</note>
     <note type="price">二角五分</note>

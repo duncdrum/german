@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1220E33A-A735-4F4C-8C81-7EF25F997E53">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1220E33A-A735-4F4C-8C81-7EF25F997E53">
     <name type="personal">
         <namePart lang="chi" script="Hant">西村貞著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>幼學讀本 小學校用尋常科 </title>
+        <title>幼學讀本 小學校用尋常科</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,小學讀本,p 949</note>
     <note type="price">六角五分</note>

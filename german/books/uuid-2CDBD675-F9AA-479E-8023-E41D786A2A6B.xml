@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2CDBD675-F9AA-479E-8023-E41D786A2A6B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2CDBD675-F9AA-479E-8023-E41D786A2A6B">
     <titleInfo lang="chi" script="Hant">
         <title>螺絲兵船表行輪兵船表礮架表</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,船艦,p 108</note>
-    <abstract lang="chi" type="summary"> 螺絲兵船表行輪兵船表礮架表 附汽發軔後　又附開煤要法發   [英]美以納白那勞合著，[英]偉烈亞力、徐壽同譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">螺絲兵船表行輪兵船表礮架表 附汽發軔後　又附開煤要法發 [英]美以納白那勞合著，[英]偉烈亞力、徐壽同譯。 [顧補]</abstract>
     <identifier type="mh">book_225</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2978DAFD-7852-425E-AC8D-DCF6874A743D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2978DAFD-7852-425E-AC8D-DCF6874A743D">
     <name type="personal">
         <namePart lang="chi" script="Hant">鍋島成美著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 實際手續 所得稅法註釋</title>
+        <title>實際手續 所得稅法註釋</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,租稅法,p 807</note>
     <note type="price">一角</note>

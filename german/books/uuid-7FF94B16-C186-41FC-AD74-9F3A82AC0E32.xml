@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7FF94B16-C186-41FC-AD74-9F3A82AC0E32">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7FF94B16-C186-41FC-AD74-9F3A82AC0E32">
     <titleInfo lang="chi" script="Hant">
         <title>化學入門</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 201</note>
-    <abstract lang="chi" type="summary"> 化學入門一卷 格物入門七種本   [美]丁韙良輯，此書亦論化學之公理，與重學入門體例相似。 </abstract>
+    <abstract lang="chi" type="summary">化學入門一卷 格物入門七種本 [美]丁韙良輯，此書亦論化學之公理，與重學入門體例相似。</abstract>
     <identifier type="mh">book_578</identifier>
 </mods>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DC918CAD-FC27-40E5-B0BA-5A9389A343ED">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DC918CAD-FC27-40E5-B0BA-5A9389A343ED">
     <titleInfo lang="chi" script="Hant">
         <title>代數術</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 186</note>
-    <abstract lang="chi" type="summary"> 代數術二十五卷， 製造局本六冊　上海石印本　西學大成本摘刊第二十二卷代數幾何　中西算學大成本，并三角數理通，名代數術，有刪節。   [英]華里司輯，[英]傅蘭雅譯，華蘅芳述，徧檢代數諸書，由加而減而乘而除而比 例而開方，本末兼賅，無有出於是書之右，誠代數之叢書也。初學閱第一卷後， 宜先閱六七八九四卷，否則至求等數分指數諸法，必厭倦不能再閱。其二十 三卷方程界綫，近人往往以為誤而不讀，曾細研之，實為由代數通微積最便 之路，中西算學大成并將此卷刪去，尤為非是，其八綫數理與三角數理之前 數卷，參訂每款皆標明求某某之式，有目一清，頗便學者。中西聞見錄有艾約 瑟阿爾熱巴喇源流攷，可參觀。 </abstract>
+    <abstract lang="chi" type="summary">代數術二十五卷， 製造局本六冊　上海石印本　西學大成本摘刊第二十二卷代數幾何　中西算學大成本，并三角數理通，名代數術，有刪節。 [英]華里司輯，[英]傅蘭雅譯，華蘅芳述，徧檢代數諸書，由加而減而乘而除而比 例而開方，本末兼賅，無有出於是書之右，誠代數之叢書也。初學閱第一卷後， 宜先閱六七八九四卷，否則至求等數分指數諸法，必厭倦不能再閱。其二十 三卷方程界綫，近人往往以為誤而不讀，曾細研之，實為由代數通微積最便 之路，中西算學大成并將此卷刪去，尤為非是，其八綫數理與三角數理之前 數卷，參訂每款皆標明求某某之式，有目一清，頗便學者。中西聞見錄有艾約 瑟阿爾熱巴喇源流攷，可參觀。</abstract>
     <identifier type="mh">book_533</identifier>
 </mods>

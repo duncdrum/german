@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-00DEC6D5-99C8-4D00-977B-9B6C266966AE">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-00DEC6D5-99C8-4D00-977B-9B6C266966AE">
     <name type="personal">
         <namePart lang="chi" script="Hant">帝國大學印行</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>帝國大學紀要 醫科獨乙文 </title>
+        <title>帝國大學紀要 醫科獨乙文</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,報告書,p 940</note>
     <note type="price">五圓七角</note>

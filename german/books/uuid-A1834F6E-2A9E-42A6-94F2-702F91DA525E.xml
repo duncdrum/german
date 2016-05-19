@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A1834F6E-2A9E-42A6-94F2-702F91DA525E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A1834F6E-2A9E-42A6-94F2-702F91DA525E">
     <titleInfo lang="chi" script="Hant">
         <title>大清郵政局章程</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 75</note>
-    <abstract lang="chi" type="summary"> 大清郵政局章程一卷又續刪改本 上海排印本　又在約章分類輯要內   [英]赫德著，分二十六章。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">大清郵政局章程一卷又續刪改本 上海排印本　又在約章分類輯要內 [英]赫德著，分二十六章。 [顧補]</abstract>
     <identifier type="mh">book_113</identifier>
 </mods>

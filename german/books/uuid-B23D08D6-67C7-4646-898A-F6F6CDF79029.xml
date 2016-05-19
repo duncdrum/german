@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B23D08D6-67C7-4646-898A-F6F6CDF79029">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B23D08D6-67C7-4646-898A-F6F6CDF79029">
     <titleInfo lang="chi" script="Hant">
         <title>汽機原始</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 150</note>
-    <abstract lang="chi" type="summary"> 汽機原始　卷 滙報本   滙報館譯，言汽機之理甚詳，附圖六幅以明之，頗便初學。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">汽機原始　卷 滙報本 滙報館譯，言汽機之理甚詳，附圖六幅以明之，頗便初學。 [顧補]</abstract>
     <identifier type="mh">book_386</identifier>
 </mods>

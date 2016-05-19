@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-5B6685C4-353B-4B12-B09F-885C4DAF50DD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-5B6685C4-353B-4B12-B09F-885C4DAF50DD">
     <titleInfo lang="chi" script="Hant">
-        <title>鴉鷺合戰物語 《日本文學全書》第十九篇之內 </title>
+        <title>鴉鷺合戰物語 《日本文學全書》第十九篇之內</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1031</note>
     <note type="price">二角五分</note>

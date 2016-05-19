@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-BF67EFF2-1D3D-46B2-8E32-5E25774D1F2A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-BF67EFF2-1D3D-46B2-8E32-5E25774D1F2A">
     <name type="personal">
         <namePart lang="chi" script="Hant">東京府藏版</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 東京府 工藝共進會出品目錄</title>
+        <title>東京府 工藝共進會出品目錄</title>
     </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,匠學書,p 877</note>
     <note type="price">九角</note>

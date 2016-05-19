@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-48BDA415-44F6-4DDD-BF8B-C2F52F4B6F0D">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-48BDA415-44F6-4DDD-BF8B-C2F52F4B6F0D">
     <titleInfo lang="chi" script="Hant">
         <title>附羅馬居民屋宇攷略</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 152</note>
-    <abstract lang="chi" type="summary">  附 羅馬居民屋宇攷略　卷 知新報本   [美]紐約格致報原本，周靈生譯言，羅馬樓屋之製頗詳，亦攷求西國工程之不 可不閱者也。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">附 羅馬居民屋宇攷略　卷 知新報本 [美]紐約格致報原本，周靈生譯言，羅馬樓屋之製頗詳，亦攷求西國工程之不 可不閱者也。 [顧補]</abstract>
     <identifier type="mh">book_394</identifier>
 </mods>

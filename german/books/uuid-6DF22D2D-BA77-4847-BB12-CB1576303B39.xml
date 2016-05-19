@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-6DF22D2D-BA77-4847-BB12-CB1576303B39">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-6DF22D2D-BA77-4847-BB12-CB1576303B39">
     <titleInfo lang="chi" script="Hant">
         <title>牧羊指引</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,畜牧,p 135</note>
-    <abstract lang="chi" type="summary"> 牧羊指引一卷 農學報本   [日本]下總種畜場原書，[日本]後藤達三編譯，羅振王潤色，此為明治八年以來 在日本下總種畜場試騐之法，四季飼養通常治瘳諸事，取簡便者載之。 </abstract>
+    <abstract lang="chi" type="summary">牧羊指引一卷 農學報本 [日本]下總種畜場原書，[日本]後藤達三編譯，羅振王潤色，此為明治八年以來 在日本下總種畜場試騐之法，四季飼養通常治瘳諸事，取簡便者載之。</abstract>
     <identifier type="mh">book_330</identifier>
 </mods>

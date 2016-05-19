@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B1909B22-B9DE-4932-9D42-98383704C09C">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B1909B22-B9DE-4932-9D42-98383704C09C">
     <name type="personal">
         <namePart lang="chi" script="Hant">香川松石藏書</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>小學習字帖 尋常科 </title>
+        <title>小學習字帖 尋常科</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1020</note>
     <note type="price">四分</note>

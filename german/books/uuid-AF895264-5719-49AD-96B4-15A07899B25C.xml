@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-AF895264-5719-49AD-96B4-15A07899B25C">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-AF895264-5719-49AD-96B4-15A07899B25C">
     <titleInfo lang="chi" script="Hant">
         <title>採蟲指南</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 123</note>
-    <abstract lang="chi" type="summary"> 採蟲指南一卷 農學報本   [日本]曲直瀨愛著，沈紘譯，書分十節，所述採集、儲藏、畜養、試驗之法，專指六足 蟲一類，不及他蟲，因六足蟲變化之微妙與肆毒之奇橫，甲於蟲類，此類能制 ，則他類可無慮矣。全書大抵就英人貌黎斯氏蜨蛾譜、美人巴加德氏蟲譜，美 國農務省年報擇要摘譯以成完書，附圖三十有五。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">採蟲指南一卷 農學報本 [日本]曲直瀨愛著，沈紘譯，書分十節，所述採集、儲藏、畜養、試驗之法，專指六足 蟲一類，不及他蟲，因六足蟲變化之微妙與肆毒之奇橫，甲於蟲類，此類能制 ，則他類可無慮矣。全書大抵就英人貌黎斯氏蜨蛾譜、美人巴加德氏蟲譜，美 國農務省年報擇要摘譯以成完書，附圖三十有五。 [顧補]</abstract>
     <identifier type="mh">book_279</identifier>
 </mods>

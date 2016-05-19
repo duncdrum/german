@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-2283E358-8045-4343-B84B-BF356C363D00">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-2283E358-8045-4343-B84B-BF356C363D00">
     <titleInfo lang="chi" script="Hant">
         <title>揚子江籌防芻議</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論兵,p 287</note>
-    <abstract lang="chi" type="summary"> 揚子江籌防芻議一卷 時務報本   [德]雷諾著，張永鑑譯，述長江本天險，江深水濶大帮兵輪亦可暢行，雷氏奉江 督之命委勘吳淞至金陵一帶江防而作。書凡八篇，於一切布置臺濠，安設礮 位，皆因地制宜，慮周藻密，又輔具所需之電光燈、測遠鏡、水雷電報機、德律風 ，復應添用藥庫、兵房、護牆、礮架等，皆條分縷析，不厭詳盡，可謂知所要矣。 </abstract>
+    <abstract lang="chi" type="summary">揚子江籌防芻議一卷 時務報本 [德]雷諾著，張永鑑譯，述長江本天險，江深水濶大帮兵輪亦可暢行，雷氏奉江 督之命委勘吳淞至金陵一帶江防而作。書凡八篇，於一切布置臺濠，安設礮 位，皆因地制宜，慮周藻密，又輔具所需之電光燈、測遠鏡、水雷電報機、德律風 ，復應添用藥庫、兵房、護牆、礮架等，皆條分縷析，不厭詳盡，可謂知所要矣。</abstract>
     <identifier type="mh">book_912</identifier>
 </mods>

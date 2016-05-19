@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-05077CE4-3337-4ED8-8E45-CF39FDE83333">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-05077CE4-3337-4ED8-8E45-CF39FDE83333">
     <titleInfo lang="chi" script="Hant">
         <title>接木法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 129</note>
-    <abstract lang="chi" type="summary"> 接木法　卷 農學報本   [日本]竹澤章著，羅振常譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">接木法　卷 農學報本 [日本]竹澤章著，羅振常譯。 [顧補]</abstract>
     <identifier type="mh">book_301</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A88ED435-C0F3-4B69-BA53-AEAF09DE6C80">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A88ED435-C0F3-4B69-BA53-AEAF09DE6C80">
     <name type="personal">
         <namePart lang="chi" script="Hant">澁江保</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 初等教育 小地質學 《通俗教育全書》廿八篇 </title>
+        <title>初等教育 小地質學 《通俗教育全書》廿八篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,地質學,p 637</note>
     <note type="price">一角二分</note>

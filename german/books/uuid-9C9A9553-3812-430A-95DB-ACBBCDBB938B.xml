@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-9C9A9553-3812-430A-95DB-ACBBCDBB938B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-9C9A9553-3812-430A-95DB-ACBBCDBB938B">
     <name type="personal">
         <namePart lang="chi" script="Hant">木田吉太郎編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 實地應用 日用百科要法</title>
+        <title>實地應用 日用百科要法</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,家政學,p 776</note>
     <note type="price">二角五分</note>

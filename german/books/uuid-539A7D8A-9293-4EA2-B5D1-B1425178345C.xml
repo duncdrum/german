@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-539A7D8A-9293-4EA2-B5D1-B1425178345C">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-539A7D8A-9293-4EA2-B5D1-B1425178345C">
     <titleInfo lang="chi" script="Hant">
         <title>明治法制史</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 58</note>
-    <abstract lang="chi" type="summary"> 明治法制史　卷 杭州譯林本   [日本]清浦奎吾著，是書備載日本維新以來法制之沿革，詳今略古，鉅細畢具， 閱之可審其國實情，於講政治學者不無小益。按日本制變遷分三大期，一 自神武即位迄千三百年 唐貞觀時 ，此為固守成法之期；二自千三百年迄三十年 以前，此為折衷於華夏法制之期；三為採用歐美法制之期，以成維新盛業。觀 是編者可知因時制宜，非一朝一夕之故矣。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">明治法制史　卷 杭州譯林本 [日本]清浦奎吾著，是書備載日本維新以來法制之沿革，詳今略古，鉅細畢具， 閱之可審其國實情，於講政治學者不無小益。按日本制變遷分三大期，一 自神武即位迄千三百年 唐貞觀時 ，此為固守成法之期；二自千三百年迄三十年 以前，此為折衷於華夏法制之期；三為採用歐美法制之期，以成維新盛業。觀 是編者可知因時制宜，非一朝一夕之故矣。 [顧補]</abstract>
     <identifier type="mh">book_55</identifier>
 </mods>

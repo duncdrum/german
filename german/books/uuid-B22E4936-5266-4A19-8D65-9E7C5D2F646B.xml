@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B22E4936-5266-4A19-8D65-9E7C5D2F646B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B22E4936-5266-4A19-8D65-9E7C5D2F646B">
     <titleInfo lang="chi" script="Hant">
         <title>全體闡微</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 232</note>
-    <abstract lang="chi" type="summary"> 全體闡微六卷附圖 福州排印本四冊   [美]柯為良譯，書刊於光緒七年，論全體形狀部位說甚精密，其論腦、曰腦為一 身運動之主，而腦絲所成之腦筋，又為一身運動之主，分為二種，一自主、一不 自主云云。西人論腦筋功用之書極多，中譯書中推此書為詳，與心靈學諸書 所論微異。 </abstract>
+    <abstract lang="chi" type="summary">全體闡微六卷附圖 福州排印本四冊 [美]柯為良譯，書刊於光緒七年，論全體形狀部位說甚精密，其論腦、曰腦為一 身運動之主，而腦絲所成之腦筋，又為一身運動之主，分為二種，一自主、一不 自主云云。西人論腦筋功用之書極多，中譯書中推此書為詳，與心靈學諸書 所論微異。</abstract>
     <identifier type="mh">book_702</identifier>
 </mods>

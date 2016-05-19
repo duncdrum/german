@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-14375FA1-A5F1-4075-A77C-D1388CF9D835">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-14375FA1-A5F1-4075-A77C-D1388CF9D835">
     <titleInfo lang="chi" script="Hant">
         <title>支那通史</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 49</note>
-    <abstract lang="chi" type="summary"> 支那通史四卷附地球沿革圖 光緒二十六年東文學社印本五冊   [日本]那珂通世著，首總論，曰上世史，自唐虞三代至戰國；曰中世史，上自秦漢 至晉并吳；曰中世史中，自晉至唐；曰中世史下，自五代至金章宗末年。其體例 略如紀事本末，取精於諸史，凡我國二千年之治亂，政刑、地理、種類、教育、制度、 風俗，及農工商之大要無不略具，可謂簡而賅，質而雅，吾國之史卷帙紛紜，難 於卒讀，讀是書亦足以知古今政治之大綱，盛衰之要略。每卷後載歷代世系 ，又卷末載宋儒傳授圖、文廟從配沿革表、宋遼金職官沿革表、宋百官品級表， 尤便尋檢。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">支那通史四卷附地球沿革圖 光緒二十六年東文學社印本五冊 [日本]那珂通世著，首總論，曰上世史，自唐虞三代至戰國；曰中世史，上自秦漢 至晉并吳；曰中世史中，自晉至唐；曰中世史下，自五代至金章宗末年。其體例 略如紀事本末，取精於諸史，凡我國二千年之治亂，政刑、地理、種類、教育、制度、 風俗，及農工商之大要無不略具，可謂簡而賅，質而雅，吾國之史卷帙紛紜，難 於卒讀，讀是書亦足以知古今政治之大綱，盛衰之要略。每卷後載歷代世系 ，又卷末載宋儒傳授圖、文廟從配沿革表、宋遼金職官沿革表、宋百官品級表， 尤便尋檢。 [徐補]</abstract>
     <identifier type="mh">book_24</identifier>
 </mods>

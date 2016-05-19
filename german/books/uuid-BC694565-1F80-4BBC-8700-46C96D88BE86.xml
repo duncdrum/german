@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-BC694565-1F80-4BBC-8700-46C96D88BE86">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-BC694565-1F80-4BBC-8700-46C96D88BE86">
     <titleInfo lang="chi" script="Hant">
         <title>步兵操典</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 97</note>
-    <abstract lang="chi" type="summary"> 步兵操典　卷 南洋公學本   [日本]陸軍省原本，南洋公學譯書院譯。是書據明治三十一年陸軍省所頒本 譯出，凡二篇，分九章，總三百四十四款，附錄十四款，則步兵科軍禮也。前篇述 基本教練，以步伐謹嚴，技藝純熟為主；後篇述戰鬥教練，以通權達變，不守故 常為主。明治初陸軍師法蘭西，至二十年更採用德意志法，於是成各兵操典 然 步  兵 ）兵一種，初無後篇，屢經修訂始成今本，可謂擇之審矣。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">步兵操典　卷 南洋公學本 [日本]陸軍省原本，南洋公學譯書院譯。是書據明治三十一年陸軍省所頒本 譯出，凡二篇，分九章，總三百四十四款，附錄十四款，則步兵科軍禮也。前篇述 基本教練，以步伐謹嚴，技藝純熟為主；後篇述戰鬥教練，以通權達變，不守故 常為主。明治初陸軍師法蘭西，至二十年更採用德意志法，於是成各兵操典 然 步 兵 ）兵一種，初無後篇，屢經修訂始成今本，可謂擇之審矣。 [徐補]</abstract>
     <identifier type="mh">book_190</identifier>
 </mods>

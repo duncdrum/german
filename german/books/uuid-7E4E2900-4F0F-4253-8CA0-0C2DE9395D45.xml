@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7E4E2900-4F0F-4253-8CA0-0C2DE9395D45">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7E4E2900-4F0F-4253-8CA0-0C2DE9395D45">
     <name type="personal">
         <namePart lang="chi" script="Hant">矢野文雄著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 演說文章 組立法</title>
+        <title>演說文章 組立法</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,作文書,p 1036</note>
     <note type="price">二角</note>

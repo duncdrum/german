@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F3D9D9DC-2A4F-4AB1-A6A7-205698DA29B3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F3D9D9DC-2A4F-4AB1-A6A7-205698DA29B3">
     <name type="personal">
         <namePart lang="chi" script="Hant">川瀨周次、田中迪三合著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>市町村議員必攜 附市町村制正文 </title>
+        <title>市町村議員必攜 附市町村制正文</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,市町村制,p 806</note>
     <note type="price">三角</note>

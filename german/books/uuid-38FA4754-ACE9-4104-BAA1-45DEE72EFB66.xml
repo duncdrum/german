@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-38FA4754-ACE9-4104-BAA1-45DEE72EFB66">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-38FA4754-ACE9-4104-BAA1-45DEE72EFB66">
     <name type="personal">
         <namePart lang="chi" script="Hant">笠間益三著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>訓蒙修身學 小學校用 </title>
+        <title>訓蒙修身學 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 915</note>
     <note type="price">二角五分</note>

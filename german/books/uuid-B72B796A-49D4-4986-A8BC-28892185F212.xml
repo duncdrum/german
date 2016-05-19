@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-B72B796A-49D4-4986-A8BC-28892185F212">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-B72B796A-49D4-4986-A8BC-28892185F212">
     <titleInfo lang="chi" script="Hant">
-        <title>帝國御宫城之圖 石版密刻 </title>
+        <title>帝國御宫城之圖 石版密刻</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1104</note>
     <note type="price">一角</note>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-03532384-FE78-48A0-8345-3E926E940E39">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-03532384-FE78-48A0-8345-3E926E940E39">
     <titleInfo lang="chi" script="Hant">
         <title>外交餘勢</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 91</note>
-    <abstract lang="chi" type="summary"> 外交餘勢一卷 東洋本一冊   [日本]海舟勝安芳著，專言從前日本外交之難百倍，中國讀之，可知任事貴有 堅忍之力以持之。 時務報館印有英巴克編，曾廣銓譯，中外交涉記，又有萬國通商史，均未印成；東亞書局譯有萬國近世外交史，亦未出。  </abstract>
+    <abstract lang="chi" type="summary">外交餘勢一卷 東洋本一冊 [日本]海舟勝安芳著，專言從前日本外交之難百倍，中國讀之，可知任事貴有 堅忍之力以持之。 時務報館印有英巴克編，曾廣銓譯，中外交涉記，又有萬國通商史，均未印成；東亞書局譯有萬國近世外交史，亦未出。</abstract>
     <identifier type="mh">book_171</identifier>
 </mods>

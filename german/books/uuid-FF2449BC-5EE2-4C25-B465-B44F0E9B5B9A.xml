@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-FF2449BC-5EE2-4C25-B465-B44F0E9B5B9A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-FF2449BC-5EE2-4C25-B465-B44F0E9B5B9A">
     <name type="personal">
         <namePart lang="chi" script="Hant">前田綠堂著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 九星相術 人事百般大雜書</title>
+        <title>九星相術 人事百般大雜書</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,方鑑書,p 1137</note>
     <note type="price">一角三分</note>

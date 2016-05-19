@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-08974830-B037-47E1-A310-50130BEB5197">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-08974830-B037-47E1-A310-50130BEB5197">
     <name type="personal">
         <namePart lang="chi" script="Hant">穴山篤太郎編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 東京府下改正區畫 郡村町名鑑</title>
+        <title>東京府下改正區畫 郡村町名鑑</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,旅行案內及道中記,p 735</note>
     <note type="price">八分</note>

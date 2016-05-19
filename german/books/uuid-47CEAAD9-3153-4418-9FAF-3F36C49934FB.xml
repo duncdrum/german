@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-47CEAAD9-3153-4418-9FAF-3F36C49934FB">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-47CEAAD9-3153-4418-9FAF-3F36C49934FB">
     <titleInfo lang="chi" script="Hant">
         <title>支那保全論</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 284</note>
-    <abstract lang="chi" type="summary"> 支那保全論一卷 亞東時報本   [日本]有賀長雄著，飛天道人譯，為中日聯盟之議而發，凡六章，一總論，二論同 盟擔保策，三論聯合擔保策，四論同盟擔保與聯合擔保孰利孰害，五論聯合 擔保有益於支那，六結論。 [徐補]  </abstract>
+    <abstract lang="chi" type="summary">支那保全論一卷 亞東時報本 [日本]有賀長雄著，飛天道人譯，為中日聯盟之議而發，凡六章，一總論，二論同 盟擔保策，三論聯合擔保策，四論同盟擔保與聯合擔保孰利孰害，五論聯合 擔保有益於支那，六結論。 [徐補]</abstract>
     <identifier type="mh">book_901</identifier>
 </mods>

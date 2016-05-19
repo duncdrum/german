@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-72BAFE8D-A975-46C9-8630-E9D0A369BF1E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-72BAFE8D-A975-46C9-8630-E9D0A369BF1E">
     <titleInfo lang="chi" script="Hant">
         <title>藝器記珠</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 151</note>
-    <abstract lang="chi" type="summary"> 藝器記珠一冊 製造局石印袖珍本   [英]暮司活德著，[英]傅蘭雅譯，徐建寅述，書注二百四十葉，六十二葉以前工程 各事，凡橋梁、屋脊、鐵路、船澳等類各種比例率；六十二葉以後製造各事，凡鍋 爐、汽機等類各種比例率，又列各種比例表算式皆用代數，極簡明，書冊最小 便於攜帶，實工蓺家必不可少之書。 </abstract>
+    <abstract lang="chi" type="summary">藝器記珠一冊 製造局石印袖珍本 [英]暮司活德著，[英]傅蘭雅譯，徐建寅述，書注二百四十葉，六十二葉以前工程 各事，凡橋梁、屋脊、鐵路、船澳等類各種比例率；六十二葉以後製造各事，凡鍋 爐、汽機等類各種比例率，又列各種比例表算式皆用代數，極簡明，書冊最小 便於攜帶，實工蓺家必不可少之書。</abstract>
     <identifier type="mh">book_393</identifier>
 </mods>

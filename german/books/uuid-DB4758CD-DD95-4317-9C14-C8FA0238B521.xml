@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DB4758CD-DD95-4317-9C14-C8FA0238B521">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DB4758CD-DD95-4317-9C14-C8FA0238B521">
     <name type="personal">
         <namePart lang="chi" script="Hant">三瀨貞幹編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 兵要 日本地理小誌要解</title>
+        <title>兵要 日本地理小誌要解</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1077</note>
     <note type="price">二角</note>

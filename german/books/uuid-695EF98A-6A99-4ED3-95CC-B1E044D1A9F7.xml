@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-695EF98A-6A99-4ED3-95CC-B1E044D1A9F7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-695EF98A-6A99-4ED3-95CC-B1E044D1A9F7">
     <titleInfo lang="chi" script="Hant">
         <title>中西互論</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 280</note>
-    <abstract lang="chi" type="summary"> 中西互論一卷 廣學會本一冊   [美]林樂知著，此因尼山聖裔六廉有東西洋通商總論之作，而林樂知作書後 一篇以駁正之。 </abstract>
+    <abstract lang="chi" type="summary">中西互論一卷 廣學會本一冊 [美]林樂知著，此因尼山聖裔六廉有東西洋通商總論之作，而林樂知作書後 一篇以駁正之。</abstract>
     <identifier type="mh">book_886</identifier>
 </mods>

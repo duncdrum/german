@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-272A3AD8-6191-4573-8373-2D7DDCF147D0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-272A3AD8-6191-4573-8373-2D7DDCF147D0">
     <name type="personal">
         <namePart lang="chi" script="Hant">久保田梁山著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 和漢 歷史文章字引</title>
+        <title>和漢 歷史文章字引</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1075</note>
     <note type="price">二角五分</note>

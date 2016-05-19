@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7DFC7B85-6760-4418-97D5-958E3DE6FC78">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7DFC7B85-6760-4418-97D5-958E3DE6FC78">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《百科全書》 植物綱目</title>
+        <title>《百科全書》 植物綱目</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,植物學,p 649</note>
     <note type="price">三角</note>

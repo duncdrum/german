@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-95AC00E9-59DF-45F9-8749-4D0F4F87D4CA">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-95AC00E9-59DF-45F9-8749-4D0F4F87D4CA">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《百科全書》 豚兔食用鳥籠鳥</title>
+        <title>《百科全書》 豚兔食用鳥籠鳥</title>
     </titleInfo>
     <note type="citation">日本書目志,卷七,農業門,畜牧書,p 850</note>
     <note type="price">二角</note>

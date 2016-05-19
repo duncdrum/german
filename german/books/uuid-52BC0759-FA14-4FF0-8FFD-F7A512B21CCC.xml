@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-52BC0759-FA14-4FF0-8FFD-F7A512B21CCC">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-52BC0759-FA14-4FF0-8FFD-F7A512B21CCC">
     <titleInfo lang="chi" script="Hant">
         <title>光學須知</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,光學第十七,光學,p 208</note>
-    <abstract lang="chi" type="summary"> 光學須知一卷 格致須知三集本一冊   [英]傅蘭雅著，書凡六章，略論光性、回光、折光以及視理光器之理，蓋集光學諸 書摘要而成者。 </abstract>
+    <abstract lang="chi" type="summary">光學須知一卷 格致須知三集本一冊 [英]傅蘭雅著，書凡六章，略論光性、回光、折光以及視理光器之理，蓋集光學諸 書摘要而成者。</abstract>
     <identifier type="mh">book_603</identifier>
 </mods>

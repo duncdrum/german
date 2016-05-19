@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-0ABD50FE-C739-4570-A5D3-8540A047E1DF">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-0ABD50FE-C739-4570-A5D3-8540A047E1DF">
     <titleInfo lang="chi" script="Hant">
         <title>英吐奧交涉原委</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 91</note>
-    <abstract lang="chi" type="summary"> 英吐奧交涉原委一卷 知新報本   [英]倫敦摩甯列打報著，知新報館譯，按篇中所稱吐國即特蘭士拔爾，又名達浪 斯，又名干國，奧即奧凌資也。分條紀載於英吐奧啟釁之由，言之頗詳。亞東時 報有特蘭士建國紀、圖蘭拔爾案件二篇，可以互證。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">英吐奧交涉原委一卷 知新報本 [英]倫敦摩甯列打報著，知新報館譯，按篇中所稱吐國即特蘭士拔爾，又名達浪 斯，又名干國，奧即奧凌資也。分條紀載於英吐奧啟釁之由，言之頗詳。亞東時 報有特蘭士建國紀、圖蘭拔爾案件二篇，可以互證。 [顧補]</abstract>
     <identifier type="mh">book_175</identifier>
 </mods>

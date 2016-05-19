@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-940C6C1B-B67A-48C8-8736-5A26BB317A85">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-940C6C1B-B67A-48C8-8736-5A26BB317A85">
     <name type="personal">
         <namePart lang="chi" script="Hant">沼田順匡編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>小學地理大要 小學校用 </title>
+        <title>小學地理大要 小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note>
     <note type="price">一角一分</note>

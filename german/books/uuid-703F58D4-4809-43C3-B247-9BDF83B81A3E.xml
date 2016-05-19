@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-703F58D4-4809-43C3-B247-9BDF83B81A3E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-703F58D4-4809-43C3-B247-9BDF83B81A3E">
     <name type="personal">
         <namePart lang="chi" script="Hant">田口卯吉著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 通俗畫入 日本開化之性質</title>
+        <title>通俗畫入 日本開化之性質</title>
     </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,風俗書,p 762</note>
     <note type="price">一角</note>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-BA9FBB1D-4588-4AC6-A4A4-00F02CD003C6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-BA9FBB1D-4588-4AC6-A4A4-00F02CD003C6">
     <titleInfo lang="chi" script="Hant">
         <title>西藥大成藥品中西名目表</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,藥品,p 249</note>
-    <abstract lang="chi" type="summary"> 西藥大成藥品中西名目表一卷附人名地名表 製造局本一冊   [英]傅蘭雅譯，趙元益述，列以西字對以中文，專為查閱來拉氏西藥大成而設， 惜初譯之本兼造名目，未能改正，亦是書之弊也。人名、地名，凡他書所常見者 亦載之。 </abstract>
+    <abstract lang="chi" type="summary">西藥大成藥品中西名目表一卷附人名地名表 製造局本一冊 [英]傅蘭雅譯，趙元益述，列以西字對以中文，專為查閱來拉氏西藥大成而設， 惜初譯之本兼造名目，未能改正，亦是書之弊也。人名、地名，凡他書所常見者 亦載之。</abstract>
     <identifier type="mh">book_767</identifier>
 </mods>

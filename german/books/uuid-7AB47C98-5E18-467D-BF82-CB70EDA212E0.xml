@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-7AB47C98-5E18-467D-BF82-CB70EDA212E0">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-7AB47C98-5E18-467D-BF82-CB70EDA212E0">
     <titleInfo lang="chi" script="Hant">
         <title>圖蘭士拔爾案件</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,案牘,p 94</note>
-    <abstract lang="chi" type="summary"> 圖蘭士拔爾案件一卷 亞東時報本    亞東時報譯，言圖蘭士與英齟齬爭自主之原委，詳盡可讀。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">圖蘭士拔爾案件一卷 亞東時報本 亞東時報譯，言圖蘭士與英齟齬爭自主之原委，詳盡可讀。 [顧補]</abstract>
     <identifier type="mh">book_182</identifier>
 </mods>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-21C0CBC8-DF2B-4398-86E5-90B75243C7A1">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-21C0CBC8-DF2B-4398-86E5-90B75243C7A1">
     <titleInfo lang="chi" script="Hant">
         <title>西算啟蒙</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 182</note>
-    <abstract lang="chi" type="summary"> 西算啟蒙一冊  不著撰人名氏，太淺不必讀。 </abstract>
+    <abstract lang="chi" type="summary">西算啟蒙一冊 不著撰人名氏，太淺不必讀。</abstract>
     <identifier type="mh">book_519</identifier>
 </mods>

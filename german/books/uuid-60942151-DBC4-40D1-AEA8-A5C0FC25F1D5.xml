@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-60942151-DBC4-40D1-AEA8-A5C0FC25F1D5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-60942151-DBC4-40D1-AEA8-A5C0FC25F1D5">
     <titleInfo lang="chi" script="Hant">
         <title>中國各地銀兩表</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 168</note>
-    <abstract lang="chi" type="summary"> 中國各地銀兩表一卷附說 江南商務報本   [日本]藤田豐八譯，採譯各西人論說而成。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">中國各地銀兩表一卷附說 江南商務報本 [日本]藤田豐八譯，採譯各西人論說而成。 [顧補]</abstract>
     <identifier type="mh">book_463</identifier>
 </mods>

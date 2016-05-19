@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-F670E53C-317E-4EC9-9EC2-E94C8D4685BD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-F670E53C-317E-4EC9-9EC2-E94C8D4685BD">
     <name type="personal">
         <namePart lang="chi" script="Hant">羽山尚德編</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 繪入 通俗日本外史</title>
+        <title>繪入 通俗日本外史</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 709</note>
     <note type="price">三角</note>

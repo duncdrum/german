@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E894124A-A1B8-4DBD-B754-56D7A5CFC611">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E894124A-A1B8-4DBD-B754-56D7A5CFC611">
     <name type="personal">
         <namePart lang="chi" script="Hant">落合直文、小中村義象</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 家庭教育 歷史讀本</title>
+        <title>家庭教育 歷史讀本</title>
     </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 713</note>
     <note type="price">一角二分</note>

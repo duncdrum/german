@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4DC6DCF8-BA62-499D-AEC9-CBCDADDAD196">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4DC6DCF8-BA62-499D-AEC9-CBCDADDAD196">
     <titleInfo lang="chi" script="Hant">
         <title>冶金錄</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 142</note>
-    <abstract lang="chi" type="summary"> 冶金錄三卷 製造局本二冊　礦務叢刻本　礦務五種本　富強叢書本   [美]阿發滿著，[英]傅蘭雅譯，趙元益述，上卷論範模法及器具材料，中卷論鎔鑄 事，下卷論金類雜質範鑄諸事，堪稱詳備，但近出各器日趨良便，其法但資參 攷而已。論雜質未詳。 益智書會有英傅蘭雅金石略辨，未印出。  </abstract>
+    <abstract lang="chi" type="summary">冶金錄三卷 製造局本二冊　礦務叢刻本　礦務五種本　富強叢書本 [美]阿發滿著，[英]傅蘭雅譯，趙元益述，上卷論範模法及器具材料，中卷論鎔鑄 事，下卷論金類雜質範鑄諸事，堪稱詳備，但近出各器日趨良便，其法但資參 攷而已。論雜質未詳。 益智書會有英傅蘭雅金石略辨，未印出。</abstract>
     <identifier type="mh">book_356</identifier>
 </mods>

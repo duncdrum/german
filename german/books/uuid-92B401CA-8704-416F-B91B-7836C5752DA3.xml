@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-92B401CA-8704-416F-B91B-7836C5752DA3">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-92B401CA-8704-416F-B91B-7836C5752DA3">
     <titleInfo lang="chi" script="Hant">
         <title>裹紮新法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,外科,p 247</note>
-    <abstract lang="chi" type="summary"> 裹紮新法一卷 光緒元年博濟醫局刻本一冊   [美]嘉約翰譯，林湘東述，論割症之理當先明全體部位，部位明然後裹紮亦得 其法，書中所論為近來講求至精至詳之法，特摘刻之，以備檢覽。彙編六有裹 臂新法，可參觀。 </abstract>
+    <abstract lang="chi" type="summary">裹紮新法一卷 光緒元年博濟醫局刻本一冊 [美]嘉約翰譯，林湘東述，論割症之理當先明全體部位，部位明然後裹紮亦得 其法，書中所論為近來講求至精至詳之法，特摘刻之，以備檢覽。彙編六有裹 臂新法，可參觀。</abstract>
     <identifier type="mh">book_759</identifier>
 </mods>

@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-C7BF4B5C-3AB9-4ED8-B377-578C9B3BDD4A">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-C7BF4B5C-3AB9-4ED8-B377-578C9B3BDD4A">
     <name type="personal">
         <namePart lang="chi" script="Hant">中川重麗著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 學校家庭 遊戲全書</title>
+        <title>學校家庭 遊戲全書</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,遊戲書,p 1124</note>
     <note type="price">六角</note>

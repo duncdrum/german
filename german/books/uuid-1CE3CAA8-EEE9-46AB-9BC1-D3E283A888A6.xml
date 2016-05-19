@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1CE3CAA8-EEE9-46AB-9BC1-D3E283A888A6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1CE3CAA8-EEE9-46AB-9BC1-D3E283A888A6">
     <name type="personal">
         <namePart lang="chi" script="Hant">村田重次郎著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 新撰 棚雛形</title>
+        <title>新撰 棚雛形</title>
     </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,雛形類,p 867</note>
     <note type="price">九角</note>

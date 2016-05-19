@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-8F2BA0B4-19A2-401B-B1DE-3D8A3ADEF04B">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-8F2BA0B4-19A2-401B-B1DE-3D8A3ADEF04B">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省藏板</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《百科全書》 食物及飲料</title>
+        <title>《百科全書》 食物及飲料</title>
     </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,衛生學,p 598</note>
     <note type="price">一角六分</note>

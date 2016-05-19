@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-A2BD731C-2B96-4568-80B0-73EDD0130817">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-A2BD731C-2B96-4568-80B0-73EDD0130817">
     <name type="personal">
         <namePart lang="chi" script="Hant">紅葉山人著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>七十二文命之安賣 《文學世界》第一 </title>
+        <title>七十二文命之安賣 《文學世界》第一</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1143</note>
     <note type="price">八分</note>

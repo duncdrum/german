@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-504524E7-8370-4183-89BB-70943F716D57">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-504524E7-8370-4183-89BB-70943F716D57">
     <titleInfo lang="chi" script="Hant">
         <title>動物學啟蒙</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,動物學,p 238</note>
-    <abstract lang="chi" type="summary"> 動物學啟蒙八卷 西學啟蒙本一冊   [英]艾約瑟譯，是書依法人古非野所定，分為四類。一曰有脊骨之動物、二曰有 圜節之動物、三曰柔體質軟之動物、四曰動植難分之動物。其體格同異、腦筋 方位、剖別微妙。原書十卷，今僅八卷，其柔體類動植難分類，俱闕。 </abstract>
+    <abstract lang="chi" type="summary">動物學啟蒙八卷 西學啟蒙本一冊 [英]艾約瑟譯，是書依法人古非野所定，分為四類。一曰有脊骨之動物、二曰有 圜節之動物、三曰柔體質軟之動物、四曰動植難分之動物。其體格同異、腦筋 方位、剖別微妙。原書十卷，今僅八卷，其柔體類動植難分類，俱闕。</abstract>
     <identifier type="mh">book_723</identifier>
 </mods>

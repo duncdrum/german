@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-9E25422F-4A45-4638-ACE1-E28DA8465247">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-9E25422F-4A45-4638-ACE1-E28DA8465247">
     <titleInfo lang="chi" script="Hant">
         <title>萬國公法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 87</note>
-    <abstract lang="chi" type="summary"> 萬國公法四卷 同文館本四冊　石印本　西學大成本   [美]惠頓著，羅恩斯注釋，[美]丁韙良譯，卷一釋義明源；卷二論諸國自然之權；卷 三論平時往來；卷四論交戰。書成於一千八百六十三年，其後多有增修。案西國 講公法學者無慮數十百家，然皆持空理立說，專其學者名為公師，和戰與奪 決其一言，其權在王法之上，是本多据羅馬及近時舊案，未能悉本公理，而所 採又未全備，安得明斯學者攷求，近年各國辦理之成案取其合於公理者，一 一輯注，彙為一編，庶中土辦理交涉，得其旨要矣。 東亞書局譯有平權自由新義，未出。  </abstract>
+    <abstract lang="chi" type="summary">萬國公法四卷 同文館本四冊　石印本　西學大成本 [美]惠頓著，羅恩斯注釋，[美]丁韙良譯，卷一釋義明源；卷二論諸國自然之權；卷 三論平時往來；卷四論交戰。書成於一千八百六十三年，其後多有增修。案西國 講公法學者無慮數十百家，然皆持空理立說，專其學者名為公師，和戰與奪 決其一言，其權在王法之上，是本多据羅馬及近時舊案，未能悉本公理，而所 採又未全備，安得明斯學者攷求，近年各國辦理之成案取其合於公理者，一 一輯注，彙為一編，庶中土辦理交涉，得其旨要矣。 東亞書局譯有平權自由新義，未出。</abstract>
     <identifier type="mh">book_161</identifier>
 </mods>

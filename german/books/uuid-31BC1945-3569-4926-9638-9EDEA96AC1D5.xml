@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-31BC1945-3569-4926-9638-9EDEA96AC1D5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-31BC1945-3569-4926-9638-9EDEA96AC1D5">
     <name type="personal">
         <namePart lang="chi" script="Hant">林吾一著　村田海石書</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 新定 小學習字帖 高等科 </title>
+        <title>新定 小學習字帖 高等科</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1022</note>
     <note type="price">四角二分</note>

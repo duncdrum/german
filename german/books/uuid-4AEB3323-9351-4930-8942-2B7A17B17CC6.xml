@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4AEB3323-9351-4930-8942-2B7A17B17CC6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4AEB3323-9351-4930-8942-2B7A17B17CC6">
     <titleInfo lang="chi" script="Hant">
         <title>製絮法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農家雜蓺,p 137</note>
-    <abstract lang="chi" type="summary"> 製絮法一卷 農學報本   [日本]格山原治郎著，[日本]井原鶴太郎譯，言同宮繭出蛾繭屑繭等製絮之法。 </abstract>
+    <abstract lang="chi" type="summary">製絮法一卷 農學報本 [日本]格山原治郎著，[日本]井原鶴太郎譯，言同宮繭出蛾繭屑繭等製絮之法。</abstract>
     <identifier type="mh">book_340</identifier>
 </mods>

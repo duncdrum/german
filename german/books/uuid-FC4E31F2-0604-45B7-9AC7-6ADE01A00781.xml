@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-FC4E31F2-0604-45B7-9AC7-6ADE01A00781">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-FC4E31F2-0604-45B7-9AC7-6ADE01A00781">
     <name type="personal">
         <namePart lang="chi" script="Hant">中原貞七編纂</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>新定讀本 尋常小學校用 </title>
+        <title>新定讀本 尋常小學校用</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,小學讀本,p 952</note>
     <note type="price">七角七分四釐</note>

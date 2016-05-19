@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E6D6802E-2FD2-4307-98A6-26473D334ABB">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E6D6802E-2FD2-4307-98A6-26473D334ABB">
     <titleInfo lang="chi" script="Hant">
         <title>法蘭西志</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 52</note>
-    <abstract lang="chi" type="summary"> 法蘭西志六卷 原刊本　湖南新學書局本，去眉批及東文   [日本]高橋二郎選譯，是書多取資於猶里之法國史要近古史畧、法國史，始克 魯建國至拿破崙止，體例似紀事本末，其所記載亦稱翔實。王韜撰法國志略 多取材於此。 製造局印有英傅蘭雅法國新志，未出；譯書公會報印有英華耳司雷著，陳佩常譯，拿破崙失國記，未成；東亞書局譯有法國新歷史，亦未出。  </abstract>
+    <abstract lang="chi" type="summary">法蘭西志六卷 原刊本　湖南新學書局本，去眉批及東文 [日本]高橋二郎選譯，是書多取資於猶里之法國史要近古史畧、法國史，始克 魯建國至拿破崙止，體例似紀事本末，其所記載亦稱翔實。王韜撰法國志略 多取材於此。 製造局印有英傅蘭雅法國新志，未出；譯書公會報印有英華耳司雷著，陳佩常譯，拿破崙失國記，未成；東亞書局譯有法國新歷史，亦未出。</abstract>
     <identifier type="mh">book_32</identifier>
 </mods>

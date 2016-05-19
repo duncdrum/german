@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-366D8B05-D484-4164-A924-9B52DF6D4480">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-366D8B05-D484-4164-A924-9B52DF6D4480">
     <titleInfo lang="chi" script="Hant">
         <title>附論築造亞細亞鐵路事宜</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 148</note>
-    <abstract lang="chi" type="summary">  附 論築造亞細亞鐵路事宜一卷 亞東時報本   [英]茂聯著，亞東時報館譯，於各國承築中國鐵路，分條言之，詳明可閱。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">附 論築造亞細亞鐵路事宜一卷 亞東時報本 [英]茂聯著，亞東時報館譯，於各國承築中國鐵路，分條言之，詳明可閱。 [顧補]</abstract>
     <identifier type="mh">book_379</identifier>
 </mods>

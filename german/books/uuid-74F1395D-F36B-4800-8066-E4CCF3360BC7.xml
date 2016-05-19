@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-74F1395D-F36B-4800-8066-E4CCF3360BC7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-74F1395D-F36B-4800-8066-E4CCF3360BC7">
     <name type="personal">
         <namePart lang="chi" script="Hant">高松吉著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>化學教科書 無機第一篇 </title>
+        <title>化學教科書 無機第一篇</title>
     </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,化學,p 632</note>
     <note type="price">一圓一角五分</note>

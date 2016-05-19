@@ -1,9 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-E5BF8602-87A1-4D1D-9E22-32DEDC613605">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-E5BF8602-87A1-4D1D-9E22-32DEDC613605">
     <titleInfo lang="chi" script="Hant">
-        <title>齋藤太郎左衛門 演劇脚本 </title>
+        <title>齋藤太郎左衛門 演劇脚本</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1003</note>
     <note type="price">一角</note>

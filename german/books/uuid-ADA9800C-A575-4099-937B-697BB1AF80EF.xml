@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-ADA9800C-A575-4099-937B-697BB1AF80EF">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-ADA9800C-A575-4099-937B-697BB1AF80EF">
     <titleInfo lang="chi" script="Hant">
         <title>公法探源</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 89</note>
-    <abstract lang="chi" type="summary"> 公法探源一卷 嶺學報本   [德]維廉奚夫特著，嶺學報館譯，是書經八易稿，至篤打軒利基夫根而書始成。 其中發明引伸頗為該博，取而讀之，或亦言交涉之一助也。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">公法探源一卷 嶺學報本 [德]維廉奚夫特著，嶺學報館譯，是書經八易稿，至篤打軒利基夫根而書始成。 其中發明引伸頗為該博，取而讀之，或亦言交涉之一助也。 [顧補]</abstract>
     <identifier type="mh">book_166</identifier>
 </mods>

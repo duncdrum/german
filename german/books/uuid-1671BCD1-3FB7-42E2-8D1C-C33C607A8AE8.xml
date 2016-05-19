@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-1671BCD1-3FB7-42E2-8D1C-C33C607A8AE8">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-1671BCD1-3FB7-42E2-8D1C-C33C607A8AE8">
     <name type="personal">
         <namePart lang="chi" script="Hant">文部省藏版</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 《百科全書》 海陸軍訓</title>
+        <title>《百科全書》 海陸軍訓</title>
     </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,軍律書,p 809</note>
     <note type="price">二角</note>

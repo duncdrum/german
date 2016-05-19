@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-4DCF106E-7B13-4896-BF30-294D09A20D6E">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-4DCF106E-7B13-4896-BF30-294D09A20D6E">
     <name type="personal">
         <namePart lang="chi" script="Hant">末廣鐵腸居士著</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 訂正增補政治小說 雪中梅</title>
+        <title>訂正增補政治小說 雪中梅</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1201</note>
     <note type="price">三角</note>

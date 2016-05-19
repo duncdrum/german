@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-51ECC79C-5EB2-490E-A062-E033198682F7">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-51ECC79C-5EB2-490E-A062-E033198682F7">
     <titleInfo lang="chi" script="Hant">
         <title>亞細亞東部圖</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 229</note>
-    <abstract lang="chi" type="summary"> 亞細亞東部圖一幅附朝鮮圖一幅 日本刊本   [日本]省三繪 </abstract>
+    <abstract lang="chi" type="summary">亞細亞東部圖一幅附朝鮮圖一幅 日本刊本 [日本]省三繪</abstract>
     <identifier type="mh">book_687</identifier>
 </mods>

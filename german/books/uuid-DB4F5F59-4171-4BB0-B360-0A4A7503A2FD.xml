@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-DB4F5F59-4171-4BB0-B360-0A4A7503A2FD">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-DB4F5F59-4171-4BB0-B360-0A4A7503A2FD">
     <name type="personal">
         <namePart lang="chi" script="Hant">柴田方齋，林省三編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title> 鼇頭插畫 十八史畧字類大全</title>
+        <title>鼇頭插畫 十八史畧字類大全</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1083</note>
     <note type="price">四角五分</note>

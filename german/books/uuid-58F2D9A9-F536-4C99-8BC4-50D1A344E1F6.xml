@@ -1,7 +1,9 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-58F2D9A9-F536-4C99-8BC4-50D1A344E1F6">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-58F2D9A9-F536-4C99-8BC4-50D1A344E1F6">
     <name type="personal">
         <namePart lang="chi" script="Hant">石田道三郎編輯</namePart>
         <role>
@@ -9,7 +11,7 @@
         </role>
     </name>
     <titleInfo lang="chi" script="Hant">
-        <title>唱歌歌典 附《歌語通解》《唱歌問答》 </title>
+        <title>唱歌歌典 附《歌語通解》《唱歌問答》</title>
     </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,唱歌集,p 995</note>
     <note type="price">二角</note>

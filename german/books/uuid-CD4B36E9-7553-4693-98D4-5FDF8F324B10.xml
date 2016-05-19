@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-CD4B36E9-7553-4693-98D4-5FDF8F324B10">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-CD4B36E9-7553-4693-98D4-5FDF8F324B10">
     <titleInfo lang="chi" script="Hant">
         <title>垸髹致美</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 156</note>
-    <abstract lang="chi" type="summary"> 垸髹致美一卷 不著撰人名氏，[英]傅蘭雅譯，徐壽述。  </abstract>
+    <abstract lang="chi" type="summary">垸髹致美一卷 不著撰人名氏，[英]傅蘭雅譯，徐壽述。</abstract>
     <identifier type="mh">book_416</identifier>
 </mods>

@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-895B921E-8056-4897-8404-8B882051A491">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-895B921E-8056-4897-8404-8B882051A491">
     <titleInfo lang="chi" script="Hant">
         <title>比國攷察罪犯會紀畧</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,刑法,p 79</note>
-    <abstract lang="chi" type="summary"> 比國攷察罪犯會紀畧一卷 格致彙編本　質學叢書本   [英]傅蘭雅譯，是會開辦在光緒十八年夏各國派員入會者十有六，各處博學 會派員入會者十有九，會中備述醫師律家諸說，而醫家攷察罪犯主腦氣偏 左阻塞，實為聞所未聞，是會中國派吳挹清觀察宗濂與會，論中國審理詞訟 章程頗得體要，宜為比王所褒嘉。 </abstract>
+    <abstract lang="chi" type="summary">比國攷察罪犯會紀畧一卷 格致彙編本　質學叢書本 [英]傅蘭雅譯，是會開辦在光緒十八年夏各國派員入會者十有六，各處博學 會派員入會者十有九，會中備述醫師律家諸說，而醫家攷察罪犯主腦氣偏 左阻塞，實為聞所未聞，是會中國派吳挹清觀察宗濂與會，論中國審理詞訟 章程頗得體要，宜為比王所褒嘉。</abstract>
     <identifier type="mh">book_130</identifier>
 </mods>

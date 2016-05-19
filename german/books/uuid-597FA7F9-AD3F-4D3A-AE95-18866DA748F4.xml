@@ -1,11 +1,13 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-    ID="uuid-597FA7F9-AD3F-4D3A-AE95-18866DA748F4">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.6"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+      ID="uuid-597FA7F9-AD3F-4D3A-AE95-18866DA748F4">
     <titleInfo lang="chi" script="Hant">
         <title>簡易繅絲法</title>
     </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 125</note>
-    <abstract lang="chi" type="summary"> 簡易繅絲法　卷附圖 農學報本   [日本]島根縣農商課編，[日本]井原鶴大郎譯。 [顧補]  </abstract>
+    <abstract lang="chi" type="summary">簡易繅絲法　卷附圖 農學報本 [日本]島根縣農商課編，[日本]井原鶴大郎譯。 [顧補]</abstract>
     <identifier type="mh">book_286</identifier>
 </mods>
