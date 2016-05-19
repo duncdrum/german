@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0BF368C4-A59B-444E-ADC5-0B67B2FBCD6E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">岡村增太郎編輯　海石村田造藏書</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>新撰小學校習字帖 尋常科用 </title></titleInfo><note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1021</note><note type="price">四角一分</note><identifier type="mh">book_5937</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0BF368C4-A59B-444E-ADC5-0B67B2FBCD6E">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">岡村增太郎編輯　海石村田造藏書</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>新撰小學校習字帖 尋常科用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1021</note>
+    <note type="price">四角一分</note>
+    <identifier type="mh">book_5937</identifier>
+</mods>

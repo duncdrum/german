@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-80F05DF4-3FB6-4D99-A177-F8BB166BF735"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">檢事堀田正忠口譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>佛國民法賣買篇講義</title></titleInfo><note type="citation">日本書目志,卷六,法律門,外國民法,p 792</note><note type="price">五角</note><identifier type="mh">book_3309</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80F05DF4-3FB6-4D99-A177-F8BB166BF735">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">檢事堀田正忠口譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>佛國民法賣買篇講義</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,外國民法,p 792</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_3309</identifier>
+</mods>

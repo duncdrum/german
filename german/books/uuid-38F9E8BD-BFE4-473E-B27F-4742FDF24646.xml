@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-38F9E8BD-BFE4-473E-B27F-4742FDF24646"><titleInfo lang="chi" script="Hant"><title>農具圖說</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 152</note><abstract type="summary"> 農具圖說三卷 農學報本   [法]藍涉爾芒著，吳爾昌譯，各國農具式各不同。是編薈萃各制，皆系以圖，別其 便用與否；前二卷皆論農具；後一卷皆論製造各物之具，亦工蓺家要書。彙編 七有打米機器圖說，可參觀。 </abstract><identifier type="mh">book_395</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-38F9E8BD-BFE4-473E-B27F-4742FDF24646">
+    <titleInfo lang="chi" script="Hant">
+        <title>農具圖說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 152</note>
+    <abstract type="summary"> 農具圖說三卷 農學報本   [法]藍涉爾芒著，吳爾昌譯，各國農具式各不同。是編薈萃各制，皆系以圖，別其 便用與否；前二卷皆論農具；後一卷皆論製造各物之具，亦工蓺家要書。彙編 七有打米機器圖說，可參觀。 </abstract>
+    <identifier type="mh">book_395</identifier>
+</mods>

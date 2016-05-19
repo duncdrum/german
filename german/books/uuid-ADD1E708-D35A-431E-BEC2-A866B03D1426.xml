@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-ADD1E708-D35A-431E-BEC2-A866B03D1426"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">增子繁治編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>小學輕體操法</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,體操書,p 1122</note><note type="price">一角五分</note><identifier type="mh">book_7313</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ADD1E708-D35A-431E-BEC2-A866B03D1426">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">增子繁治編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學輕體操法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,體操書,p 1122</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_7313</identifier>
+</mods>

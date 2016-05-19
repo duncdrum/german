@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-886F62C3-887A-4557-85CD-A3830823D785"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">山口鎌著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 校補 近世史略</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 715</note><note type="price">一圓五角</note><identifier type="mh">book_2398</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-886F62C3-887A-4557-85CD-A3830823D785">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">山口鎌著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 校補 近世史略</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 715</note>
+    <note type="price">一圓五角</note>
+    <identifier type="mh">book_2398</identifier>
+</mods>

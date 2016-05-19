@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3CF40D66-8618-4762-886E-69FCE3003F37"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">歌林堂散史編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>都逸大全</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,俗歌集,p 996</note><note type="price">五分</note><identifier type="mh">book_5583</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3CF40D66-8618-4762-886E-69FCE3003F37">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">歌林堂散史編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>都逸大全</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,俗歌集,p 996</note>
+    <note type="price">五分</note>
+    <identifier type="mh">book_5583</identifier>
+</mods>

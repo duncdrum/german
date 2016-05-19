@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-41C4DBB3-0F93-4562-9A45-FA540E50D163"><titleInfo lang="chi" script="Hant"><title>照像器</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 160</note><abstract type="summary"> 照像器一卷 格致彙編本在格致釋器中   [英]傅蘭雅著，專論照像應用器具，故獨詳於製器之法，然亦間有載於畧法中 者，學者宜互攷之。 </abstract><identifier type="mh">book_434</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-41C4DBB3-0F93-4562-9A45-FA540E50D163">
+    <titleInfo lang="chi" script="Hant">
+        <title>照像器</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 160</note>
+    <abstract type="summary"> 照像器一卷 格致彙編本在格致釋器中   [英]傅蘭雅著，專論照像應用器具，故獨詳於製器之法，然亦間有載於畧法中 者，學者宜互攷之。 </abstract>
+    <identifier type="mh">book_434</identifier>
+</mods>

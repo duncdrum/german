@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A807B801-6E23-4FE9-B5A3-508B95A7F66A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">安藤喜助著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>大工新雛形</title></titleInfo><note type="citation">日本書目志,卷八,工業門,雛形類,p 866</note><note type="price">一角五分</note><identifier type="mh">book_4016</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A807B801-6E23-4FE9-B5A3-508B95A7F66A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">安藤喜助著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>大工新雛形</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,雛形類,p 866</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_4016</identifier>
+</mods>

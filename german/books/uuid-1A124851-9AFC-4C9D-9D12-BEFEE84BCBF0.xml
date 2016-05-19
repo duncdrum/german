@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A124851-9AFC-4C9D-9D12-BEFEE84BCBF0"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">巖川友太郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>動植物採集標本製作法</title></titleInfo><note type="citation">日本書目志,卷二,理學門,動物學,p 647</note><note type="price">四角</note><identifier type="mh">book_1555</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1A124851-9AFC-4C9D-9D12-BEFEE84BCBF0">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">巖川友太郎編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>動植物採集標本製作法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,動物學,p 647</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_1555</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A4346F53-7D85-411B-9A59-2BB0E8627D8D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">木尾敬三郎、木下周一共著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>商法註解</title></titleInfo><note type="citation">日本書目志,卷六,法律門,商法,p 794</note><note type="price">一圓二角</note><identifier type="mh">book_3335</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A4346F53-7D85-411B-9A59-2BB0E8627D8D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">木尾敬三郎、木下周一共著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>商法註解</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,商法,p 794</note>
+    <note type="price">一圓二角</note>
+    <identifier type="mh">book_3335</identifier>
+</mods>

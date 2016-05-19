@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-25EB38F4-3CF4-475E-81E4-B91B635E7AE1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">小林源藏昌長著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 獨稽古 隅矩雛形</title></titleInfo><note type="citation">日本書目志,卷八,工業門,雛形類,p 867</note><note type="price">四角</note><identifier type="mh">book_4029</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-25EB38F4-3CF4-475E-81E4-B91B635E7AE1">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">小林源藏昌長著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 獨稽古 隅矩雛形</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,雛形類,p 867</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_4029</identifier>
+</mods>

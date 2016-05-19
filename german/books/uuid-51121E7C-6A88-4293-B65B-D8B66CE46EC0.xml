@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-51121E7C-6A88-4293-B65B-D8B66CE46EC0"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">菊地龜仙著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>方位吉凶秘傳集</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,方鑑書,p 1137</note><note type="price">二角五分</note><identifier type="mh">book_7519</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-51121E7C-6A88-4293-B65B-D8B66CE46EC0">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">菊地龜仙著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>方位吉凶秘傳集</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,方鑑書,p 1137</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_7519</identifier>
+</mods>

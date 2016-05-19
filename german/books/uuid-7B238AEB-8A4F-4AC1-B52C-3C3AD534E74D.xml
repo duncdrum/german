@@ -1,1 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7B238AEB-8A4F-4AC1-B52C-3C3AD534E74D"><titleInfo lang="chi" script="Hant"><title>新定地理 小學校用 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地理小學校,p 678</note><identifier type="mh">book_1901</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7B238AEB-8A4F-4AC1-B52C-3C3AD534E74D">
+    <titleInfo lang="chi" script="Hant">
+        <title>新定地理 小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 678</note>
+    <identifier type="mh">book_1901</identifier>
+</mods>

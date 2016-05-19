@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A176E15-86E5-451A-AAAC-D53558C508A1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">英國人著　榊原幾久若譯述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>英國組合法</title></titleInfo><note type="citation">日本書目志,卷六,法律門,外國商法,p 796</note><note type="price">五角</note><identifier type="mh">book_3362</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1A176E15-86E5-451A-AAAC-D53558C508A1">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">英國人著　榊原幾久若譯述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>英國組合法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,外國商法,p 796</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_3362</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CDC9339A-6DD2-467C-B660-0D52BE3BD508"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">兒島榮太郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 化學實驗 染色法</title></titleInfo><note type="citation">日本書目志,卷八,工業門,染色書,p 883</note><note type="price">二角五分</note><identifier type="mh">book_4181</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CDC9339A-6DD2-467C-B660-0D52BE3BD508">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">兒島榮太郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 化學實驗 染色法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,染色書,p 883</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_4181</identifier>
+</mods>

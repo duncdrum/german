@@ -1,1 +1,16 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-74351D36-5D5B-4C30-A74D-186EEFEC564C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">高島信編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 中等 畫學教授法</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1111</note><identifier type="mh">book_7168</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-74351D36-5D5B-4C30-A74D-186EEFEC564C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">高島信編纂</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 中等 畫學教授法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1111</note>
+    <identifier type="mh">book_7168</identifier>
+</mods>

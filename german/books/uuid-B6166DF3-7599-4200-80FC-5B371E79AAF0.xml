@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B6166DF3-7599-4200-80FC-5B371E79AAF0"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">岡村增太郎編述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 新編 小學作文書 尋常科用 </title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1043</note><note type="price">五角一分</note><identifier type="mh">book_6231</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B6166DF3-7599-4200-80FC-5B371E79AAF0">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">岡村增太郎編述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 新編 小學作文書 尋常科用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1043</note>
+    <note type="price">五角一分</note>
+    <identifier type="mh">book_6231</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-51A93986-ED6D-4D5F-BBCC-67F30AC7B83E"><titleInfo lang="chi" script="Hant"><title>日本新史攬要</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,編年,p 45</note><abstract type="summary"> 日本新史攬要七卷 上海石印本   [日本]石村貞一著，本漢文觀林松山序言，自著內國史畧間假字，不可與此編 並論，可見此本係用原本翻印而妄題遊瀛主人譯，是書用編年體，記神武天 皇至明治天皇二千五百餘年事，參證之書凡五百六十餘部，一一注其所出 ，可謂博學而孱守矣。原名國史略而翻印者，依泰西新史攬要例改之，亦大謬 也。 [徐補]  </abstract><identifier type="mh">book_14</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-51A93986-ED6D-4D5F-BBCC-67F30AC7B83E">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本新史攬要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,編年,p 45</note>
+    <abstract type="summary"> 日本新史攬要七卷 上海石印本   [日本]石村貞一著，本漢文觀林松山序言，自著內國史畧間假字，不可與此編 並論，可見此本係用原本翻印而妄題遊瀛主人譯，是書用編年體，記神武天 皇至明治天皇二千五百餘年事，參證之書凡五百六十餘部，一一注其所出 ，可謂博學而孱守矣。原名國史略而翻印者，依泰西新史攬要例改之，亦大謬 也。 [徐補]  </abstract>
+    <identifier type="mh">book_14</identifier>
+</mods>

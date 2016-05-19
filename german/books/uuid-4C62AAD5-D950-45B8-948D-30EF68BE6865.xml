@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4C62AAD5-D950-45B8-948D-30EF68BE6865"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">片山熊太郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本歷史演說</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 710</note><note type="price">一角二分</note><identifier type="mh">book_2326</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4C62AAD5-D950-45B8-948D-30EF68BE6865">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">片山熊太郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本歷史演說</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 710</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_2326</identifier>
+</mods>

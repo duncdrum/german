@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2585D4C9-B566-468F-A67A-9E66EA628BD8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">小田原屋主人著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>漬物鹽嘉言</title></titleInfo><note type="citation">日本書目志,卷五,政治門,家政學,p 776</note><note type="price">七分</note><identifier type="mh">book_3126</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2585D4C9-B566-468F-A67A-9E66EA628BD8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">小田原屋主人著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>漬物鹽嘉言</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,家政學,p 776</note>
+    <note type="price">七分</note>
+    <identifier type="mh">book_3126</identifier>
+</mods>

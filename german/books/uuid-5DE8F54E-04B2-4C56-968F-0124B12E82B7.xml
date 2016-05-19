@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5DE8F54E-04B2-4C56-968F-0124B12E82B7"><titleInfo lang="chi" script="Hant"><title>啟悟要津</title></titleInfo><note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 261</note><abstract type="summary"> 啟悟要津一卷 上海排印本一冊　坊間改名格致西學啟蒙   [美]卜舫濟著，凡天地萬物之理略舉其要，設為問答，專為發蒙之用。 </abstract><identifier type="mh">book_807</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5DE8F54E-04B2-4C56-968F-0124B12E82B7">
+    <titleInfo lang="chi" script="Hant">
+        <title>啟悟要津</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 261</note>
+    <abstract type="summary"> 啟悟要津一卷 上海排印本一冊　坊間改名格致西學啟蒙   [美]卜舫濟著，凡天地萬物之理略舉其要，設為問答，專為發蒙之用。 </abstract>
+    <identifier type="mh">book_807</identifier>
+</mods>

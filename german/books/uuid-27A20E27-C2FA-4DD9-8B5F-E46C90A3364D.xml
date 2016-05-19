@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-27A20E27-C2FA-4DD9-8B5F-E46C90A3364D"><titleInfo lang="chi" script="Hant"><title>人命急變救助法</title></titleInfo><note type="citation">日本書目志,卷五,政治門,警察書,p 755</note><note type="price">八分</note><identifier type="mh">book_2873</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-27A20E27-C2FA-4DD9-8B5F-E46C90A3364D">
+    <titleInfo lang="chi" script="Hant">
+        <title>人命急變救助法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,警察書,p 755</note>
+    <note type="price">八分</note>
+    <identifier type="mh">book_2873</identifier>
+</mods>

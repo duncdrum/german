@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-42A845E5-FF8C-4313-AC84-BFABE5CA22A4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">元田直校閱　渡邊嘉重著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 尋常小學 修身鑑 教師用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 919</note><note type="price">四角二分</note><identifier type="mh">book_4568</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-42A845E5-FF8C-4313-AC84-BFABE5CA22A4">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">元田直校閱　渡邊嘉重著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 尋常小學 修身鑑 教師用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 919</note>
+    <note type="price">四角二分</note>
+    <identifier type="mh">book_4568</identifier>
+</mods>

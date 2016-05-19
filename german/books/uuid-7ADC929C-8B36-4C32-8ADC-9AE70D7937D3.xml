@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7ADC929C-8B36-4C32-8ADC-9AE70D7937D3"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">勸農局藏板</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 農事圖解內 田圃耕作法</title></titleInfo><note type="citation">日本書目志,卷七,農業門,圃業書,p 837</note><note type="price">一角五分</note><identifier type="mh">book_3731</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7ADC929C-8B36-4C32-8ADC-9AE70D7937D3">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">勸農局藏板</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 農事圖解內 田圃耕作法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,圃業書,p 837</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_3731</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7B792485-892D-4858-AD6F-7F0C454D4136"><titleInfo lang="chi" script="Hant"><title>巴思端爾傳</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 70</note><abstract type="summary"> 巴思端爾傳一卷 滙報本   滙報館譯，按巴思端爾，即首創微蟲學之人。 [顧補]  </abstract><identifier type="mh">book_96</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7B792485-892D-4858-AD6F-7F0C454D4136">
+    <titleInfo lang="chi" script="Hant">
+        <title>巴思端爾傳</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 70</note>
+    <abstract type="summary"> 巴思端爾傳一卷 滙報本   滙報館譯，按巴思端爾，即首創微蟲學之人。 [顧補]  </abstract>
+    <identifier type="mh">book_96</identifier>
+</mods>

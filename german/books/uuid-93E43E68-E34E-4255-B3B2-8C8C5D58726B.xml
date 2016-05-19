@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-93E43E68-E34E-4255-B3B2-8C8C5D58726B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">蘆田束雄著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 新撰速成 製法秘訣</title></titleInfo><note type="citation">日本書目志,卷八,工業門,匠學書,p 878</note><note type="price">二角</note><identifier type="mh">book_4146</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-93E43E68-E34E-4255-B3B2-8C8C5D58726B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">蘆田束雄著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 新撰速成 製法秘訣</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,匠學書,p 878</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_4146</identifier>
+</mods>

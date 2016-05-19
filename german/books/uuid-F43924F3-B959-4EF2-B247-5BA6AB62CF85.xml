@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F43924F3-B959-4EF2-B247-5BA6AB62CF85"><titleInfo lang="chi" script="Hant"><title>西塾訓蒙法</title></titleInfo><note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 262</note><abstract type="summary"> 西塾訓蒙法一卷 嶺學報本   嶺學報館譯，從德文原譯本譯出，斯書先後序次頗有合於古者小學教人之 意，惟原書漫漶，篇帙無紀，嶺學報取而潤色之，次為十類，曰才質、曰師範、曰誘 教、曰訓講、曰教法、曰溫習、曰懲戒、曰家學、曰問答，而以詞論終焉。 [顧補]  </abstract><identifier type="mh">book_812</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F43924F3-B959-4EF2-B247-5BA6AB62CF85">
+    <titleInfo lang="chi" script="Hant">
+        <title>西塾訓蒙法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 262</note>
+    <abstract type="summary"> 西塾訓蒙法一卷 嶺學報本   嶺學報館譯，從德文原譯本譯出，斯書先後序次頗有合於古者小學教人之 意，惟原書漫漶，篇帙無紀，嶺學報取而潤色之，次為十類，曰才質、曰師範、曰誘 教、曰訓講、曰教法、曰溫習、曰懲戒、曰家學、曰問答，而以詞論終焉。 [顧補]  </abstract>
+    <identifier type="mh">book_812</identifier>
+</mods>

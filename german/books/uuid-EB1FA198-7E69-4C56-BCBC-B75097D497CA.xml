@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EB1FA198-7E69-4C56-BCBC-B75097D497CA"><titleInfo lang="chi" script="Hant"><title>妹脊山杉酒屋之段</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1007</note><note type="price">三分五釐</note><identifier type="mh">book_5734</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EB1FA198-7E69-4C56-BCBC-B75097D497CA">
+    <titleInfo lang="chi" script="Hant">
+        <title>妹脊山杉酒屋之段</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1007</note>
+    <note type="price">三分五釐</note>
+    <identifier type="mh">book_5734</identifier>
+</mods>

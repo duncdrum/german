@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CBD0F119-33C3-46E0-8E45-31DDD4DF13B6"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">天野御民編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 歷世記事 詠史百首</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,詩集,p 974</note><note type="price">五角</note><identifier type="mh">book_5254</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CBD0F119-33C3-46E0-8E45-31DDD4DF13B6">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">天野御民編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 歷世記事 詠史百首</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,詩集,p 974</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_5254</identifier>
+</mods>

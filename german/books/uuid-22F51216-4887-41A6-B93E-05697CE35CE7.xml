@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-22F51216-4887-41A6-B93E-05697CE35CE7"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">金港堂編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 小學校用 作文教授法</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1041</note><note type="price">四角三分</note><identifier type="mh">book_6197</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-22F51216-4887-41A6-B93E-05697CE35CE7">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">金港堂編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 小學校用 作文教授法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1041</note>
+    <note type="price">四角三分</note>
+    <identifier type="mh">book_6197</identifier>
+</mods>

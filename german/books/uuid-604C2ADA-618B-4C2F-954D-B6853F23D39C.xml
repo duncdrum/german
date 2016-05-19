@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-604C2ADA-618B-4C2F-954D-B6853F23D39C"><titleInfo lang="chi" script="Hant"><title>水學圖說</title></titleInfo><note type="citation">增版東西學書錄,卷三,氣學第十八,水學,p 212</note><abstract type="summary"> 水學圖說二卷 益智書會本一冊   [英]傅蘭雅著，例尚說，圖未多講理，論動靜水學，依圖立說，尚便檢閱。 水學入門一卷 格物入門七種本   [美]丁韙良輯，此書論水學公理，與重學入門，體例相似。 </abstract><identifier type="mh">book_619</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-604C2ADA-618B-4C2F-954D-B6853F23D39C">
+    <titleInfo lang="chi" script="Hant">
+        <title>水學圖說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,水學,p 212</note>
+    <abstract type="summary"> 水學圖說二卷 益智書會本一冊   [英]傅蘭雅著，例尚說，圖未多講理，論動靜水學，依圖立說，尚便檢閱。 水學入門一卷 格物入門七種本   [美]丁韙良輯，此書論水學公理，與重學入門，體例相似。 </abstract>
+    <identifier type="mh">book_619</identifier>
+</mods>

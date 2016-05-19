@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EEA9F7B2-F9BB-4C09-A112-FABDABC60843"><titleInfo lang="chi" script="Hant"><title>地學舉要</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 222</note><abstract type="summary"> 地學舉要一卷 西學大成本   [英]慕維廉譯，首論地球形勢大率，次地質，次釋名，次陸水分界，次州島，次山原 ，次地震，次平原，次洋海，次潮汐，次湖河，次地氣。簡而能賅，便於初學。 </abstract><identifier type="mh">book_652</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EEA9F7B2-F9BB-4C09-A112-FABDABC60843">
+    <titleInfo lang="chi" script="Hant">
+        <title>地學舉要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 222</note>
+    <abstract type="summary"> 地學舉要一卷 西學大成本   [英]慕維廉譯，首論地球形勢大率，次地質，次釋名，次陸水分界，次州島，次山原 ，次地震，次平原，次洋海，次潮汐，次湖河，次地氣。簡而能賅，便於初學。 </abstract>
+    <identifier type="mh">book_652</identifier>
+</mods>

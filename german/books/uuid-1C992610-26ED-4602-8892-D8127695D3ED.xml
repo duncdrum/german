@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1C992610-26ED-4602-8892-D8127695D3ED"><titleInfo lang="chi" script="Hant"><title>理財節略</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,商學,p 165</note><abstract type="summary"> 理財節略　卷 江南商務報本　萬國公報本　亞東時報本　稅務司石刻本   [英]戴樂爾著，分十三條於中國商務出口貨之宜，如何整頓頗有見地，惟末條 言禁內地種罌粟，俾得廣種五穀，使洋藥暢旺，得增釐稅，未足為探本之論。 [顧補]  </abstract><identifier type="mh">book_451</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1C992610-26ED-4602-8892-D8127695D3ED">
+    <titleInfo lang="chi" script="Hant">
+        <title>理財節略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 165</note>
+    <abstract type="summary"> 理財節略　卷 江南商務報本　萬國公報本　亞東時報本　稅務司石刻本   [英]戴樂爾著，分十三條於中國商務出口貨之宜，如何整頓頗有見地，惟末條 言禁內地種罌粟，俾得廣種五穀，使洋藥暢旺，得增釐稅，未足為探本之論。 [顧補]  </abstract>
+    <identifier type="mh">book_451</identifier>
+</mods>

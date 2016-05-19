@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0C95B685-42B8-4CCC-866D-7378A600FEF5"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">理學士駿吉講述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>物理學現今之進步</title></titleInfo><note type="citation">日本書目志,卷二,理學門,物理學,p 627</note><note type="price">一圓五角五分</note><identifier type="mh">book_1334</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0C95B685-42B8-4CCC-866D-7378A600FEF5">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">理學士駿吉講述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>物理學現今之進步</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,物理學,p 627</note>
+    <note type="price">一圓五角五分</note>
+    <identifier type="mh">book_1334</identifier>
+</mods>

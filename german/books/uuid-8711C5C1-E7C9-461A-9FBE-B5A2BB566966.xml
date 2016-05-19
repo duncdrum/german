@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8711C5C1-E7C9-461A-9FBE-B5A2BB566966"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">菊他海莊著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>海莊集</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,詩集,p 970</note><note type="price">三角五分</note><identifier type="mh">book_5202</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8711C5C1-E7C9-461A-9FBE-B5A2BB566966">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">菊他海莊著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>海莊集</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,詩集,p 970</note>
+    <note type="price">三角五分</note>
+    <identifier type="mh">book_5202</identifier>
+</mods>

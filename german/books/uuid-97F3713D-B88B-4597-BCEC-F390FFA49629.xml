@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-97F3713D-B88B-4597-BCEC-F390FFA49629"><titleInfo lang="chi" script="Hant"><title>坤輿撮要問答</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 225</note><abstract type="summary"> 坤輿撮要問答四卷 滙報本   孫文楨譯，於五大洲列國疆界、山陵、河海，分類別門，繪圖著說，演成問答，語簡 意明。 [顧補]  </abstract><identifier type="mh">book_669</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-97F3713D-B88B-4597-BCEC-F390FFA49629">
+    <titleInfo lang="chi" script="Hant">
+        <title>坤輿撮要問答</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 225</note>
+    <abstract type="summary"> 坤輿撮要問答四卷 滙報本   孫文楨譯，於五大洲列國疆界、山陵、河海，分類別門，繪圖著說，演成問答，語簡 意明。 [顧補]  </abstract>
+    <identifier type="mh">book_669</identifier>
+</mods>

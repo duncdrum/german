@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DE2A89BB-64D4-407C-8262-B179ED996459"><titleInfo lang="chi" script="Hant"><title>地理志略</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 224</note><abstract type="summary"> 地理志略一卷 小方壺齋再續鈔本   [美]戴德江著 </abstract><identifier type="mh">book_663</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DE2A89BB-64D4-407C-8262-B179ED996459">
+    <titleInfo lang="chi" script="Hant">
+        <title>地理志略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 224</note>
+    <abstract type="summary"> 地理志略一卷 小方壺齋再續鈔本   [美]戴德江著 </abstract>
+    <identifier type="mh">book_663</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-729CBEBC-54DB-4F73-A67F-212541BD4211"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">莊原和輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 校正增補 漢語字類</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1074</note><note type="price">三角五分</note><identifier type="mh">book_6679</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-729CBEBC-54DB-4F73-A67F-212541BD4211">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">莊原和輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 校正增補 漢語字類</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1074</note>
+    <note type="price">三角五分</note>
+    <identifier type="mh">book_6679</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F6DEC688-773C-435A-ABB6-05C2DA51AFC3"><titleInfo lang="chi" script="Hant"><title>繪本大功記十冊目尼ケ崎之段</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1012</note><note type="price">五分九釐</note><identifier type="mh">book_5808</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F6DEC688-773C-435A-ABB6-05C2DA51AFC3">
+    <titleInfo lang="chi" script="Hant">
+        <title>繪本大功記十冊目尼ケ崎之段</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1012</note>
+    <note type="price">五分九釐</note>
+    <identifier type="mh">book_5808</identifier>
+</mods>

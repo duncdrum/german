@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EB0C23FE-4A06-49B0-BB79-6B55EB8B3A4A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">宫內省藏版　高崎正風編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>千草之花</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,詩集,p 970</note><note type="price">一圓九角五分</note><identifier type="mh">book_5196</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EB0C23FE-4A06-49B0-BB79-6B55EB8B3A4A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">宫內省藏版　高崎正風編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>千草之花</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,詩集,p 970</note>
+    <note type="price">一圓九角五分</note>
+    <identifier type="mh">book_5196</identifier>
+</mods>

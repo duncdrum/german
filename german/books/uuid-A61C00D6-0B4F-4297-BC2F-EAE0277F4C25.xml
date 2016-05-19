@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A61C00D6-0B4F-4297-BC2F-EAE0277F4C25"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">木村一步</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>萬國歷史</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,萬國歷史,p 698</note><note type="price">九角</note><identifier type="mh">book_2153</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A61C00D6-0B4F-4297-BC2F-EAE0277F4C25">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">木村一步</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>萬國歷史</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,萬國歷史,p 698</note>
+    <note type="price">九角</note>
+    <identifier type="mh">book_2153</identifier>
+</mods>

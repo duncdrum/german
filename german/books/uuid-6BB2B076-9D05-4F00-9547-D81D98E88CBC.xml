@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6BB2B076-9D05-4F00-9547-D81D98E88CBC"><titleInfo lang="chi" script="Hant"><title>孺門醫學</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 241</note><abstract type="summary"> 孺門醫學三卷附一卷 製造局本四冊　排印本   [英]海得蘭著，[英]傅蘭雅譯，趙元益述，上卷論養生之理，中卷論治病之法，下卷 論方藥之性，附卷慎疾要言，與前論養生所言甚精詳，尤不可不讀，書中病名 則依腦膸、臟腑內外次第列之，藥名則以性之汗吐補瀉，分之於人身脉絡，病 情傳變末及詳載。 </abstract><identifier type="mh">book_735</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6BB2B076-9D05-4F00-9547-D81D98E88CBC">
+    <titleInfo lang="chi" script="Hant">
+        <title>孺門醫學</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 241</note>
+    <abstract type="summary"> 孺門醫學三卷附一卷 製造局本四冊　排印本   [英]海得蘭著，[英]傅蘭雅譯，趙元益述，上卷論養生之理，中卷論治病之法，下卷 論方藥之性，附卷慎疾要言，與前論養生所言甚精詳，尤不可不讀，書中病名 則依腦膸、臟腑內外次第列之，藥名則以性之汗吐補瀉，分之於人身脉絡，病 情傳變末及詳載。 </abstract>
+    <identifier type="mh">book_735</identifier>
+</mods>

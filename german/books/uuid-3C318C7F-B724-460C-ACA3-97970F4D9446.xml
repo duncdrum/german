@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3C318C7F-B724-460C-ACA3-97970F4D9446"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">卷菱潭書</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 首書講釋 消息往來</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,習字本,p 1017</note><note type="price">二角</note><identifier type="mh">book_5876</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3C318C7F-B724-460C-ACA3-97970F4D9446">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">卷菱潭書</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 首書講釋 消息往來</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,習字本,p 1017</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_5876</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0EF8E70D-79B3-4EDD-A4A8-725C9D103DCD"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">田中登作、橋本武合譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 墺獨佛瑞 學校概論</title></titleInfo><note type="citation">日本書目志,卷十,教育門,實地教育,p 934</note><note type="price">二圓一角</note><identifier type="mh">book_4787</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0EF8E70D-79B3-4EDD-A4A8-725C9D103DCD">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">田中登作、橋本武合譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 墺獨佛瑞 學校概論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,實地教育,p 934</note>
+    <note type="price">二圓一角</note>
+    <identifier type="mh">book_4787</identifier>
+</mods>

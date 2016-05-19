@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-20BA71A6-DB7B-4A28-952F-C83FA1F03F33"><titleInfo lang="chi" script="Hant"><title>內科闡微</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 243</note><abstract type="summary"> 內科闡微一卷 同治十二年博濟醫局刻本一冊　光緒十五年重刻本   [美]嘉約翰譯，林湘東述，專論審疾之法，而不詳言治法，首載醫理撮要一篇，足 以見西醫之精細，嘉氏居粵最久，故所言頗能參中西以立論。 </abstract><identifier type="mh">book_740</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-20BA71A6-DB7B-4A28-952F-C83FA1F03F33">
+    <titleInfo lang="chi" script="Hant">
+        <title>內科闡微</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 243</note>
+    <abstract type="summary"> 內科闡微一卷 同治十二年博濟醫局刻本一冊　光緒十五年重刻本   [美]嘉約翰譯，林湘東述，專論審疾之法，而不詳言治法，首載醫理撮要一篇，足 以見西醫之精細，嘉氏居粵最久，故所言頗能參中西以立論。 </abstract>
+    <identifier type="mh">book_740</identifier>
+</mods>

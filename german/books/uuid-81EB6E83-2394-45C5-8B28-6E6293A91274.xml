@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-81EB6E83-2394-45C5-8B28-6E6293A91274"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">指原安三輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>明治政史</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 708</note><note type="price">二角八分</note><identifier type="mh">book_2289</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-81EB6E83-2394-45C5-8B28-6E6293A91274">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">指原安三輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治政史</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 708</note>
+    <note type="price">二角八分</note>
+    <identifier type="mh">book_2289</identifier>
+</mods>

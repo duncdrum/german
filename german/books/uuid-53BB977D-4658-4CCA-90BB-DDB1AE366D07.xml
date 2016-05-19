@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-53BB977D-4658-4CCA-90BB-DDB1AE366D07"><titleInfo lang="chi" script="Hant"><title>西礮說略</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 109</note><abstract type="summary"> 西礮說略一卷 格致彙編本   [英]傅蘭雅著，先論各種礮造法，後載各種礮圖，極精細中有各廠前後膛礮優 絀論一篇，詳言礮製子藥之合法與否，為全書綱領；講兵學者所宜深究。彙編 二，有斯米德礮紀畧一篇，可參觀。 </abstract><identifier type="mh">book_228</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-53BB977D-4658-4CCA-90BB-DDB1AE366D07">
+    <titleInfo lang="chi" script="Hant">
+        <title>西礮說略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 109</note>
+    <abstract type="summary"> 西礮說略一卷 格致彙編本   [英]傅蘭雅著，先論各種礮造法，後載各種礮圖，極精細中有各廠前後膛礮優 絀論一篇，詳言礮製子藥之合法與否，為全書綱領；講兵學者所宜深究。彙編 二，有斯米德礮紀畧一篇，可參觀。 </abstract>
+    <identifier type="mh">book_228</identifier>
+</mods>

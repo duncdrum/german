@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4272A907-D3EF-495D-B57E-1C958E3B9A95"><titleInfo lang="chi" script="Hant"><title>知識五門</title></titleInfo><note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 234</note><abstract type="summary"> 知識五門一卷 益智書會本一冊   [英]慕維廉著，造物生人與以耳目鼻舌手以成，視聽齅嘗摩五覺之外，感因境 生情結為景狀，皆覺動腦筋之所致，即所謂心靈層功用，此書即明五門知覺 之理，以顯其動變之才能，然尚未詳備。 </abstract><identifier type="mh">book_710</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4272A907-D3EF-495D-B57E-1C958E3B9A95">
+    <titleInfo lang="chi" script="Hant">
+        <title>知識五門</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 234</note>
+    <abstract type="summary"> 知識五門一卷 益智書會本一冊   [英]慕維廉著，造物生人與以耳目鼻舌手以成，視聽齅嘗摩五覺之外，感因境 生情結為景狀，皆覺動腦筋之所致，即所謂心靈層功用，此書即明五門知覺 之理，以顯其動變之才能，然尚未詳備。 </abstract>
+    <identifier type="mh">book_710</identifier>
+</mods>

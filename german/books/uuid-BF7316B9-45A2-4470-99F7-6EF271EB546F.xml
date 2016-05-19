@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BF7316B9-45A2-4470-99F7-6EF271EB546F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">堀中東洲編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 明治 詩作必攜</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,作詩及詩集,p 967</note><note type="price">一角五分</note><identifier type="mh">book_5148</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BF7316B9-45A2-4470-99F7-6EF271EB546F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">堀中東洲編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 明治 詩作必攜</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,作詩及詩集,p 967</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_5148</identifier>
+</mods>

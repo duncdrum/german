@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2627FC2B-2763-44A1-B2F3-64271CB7BBAC"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">淺間新五郎、小野崎五助合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本商法實用</title></titleInfo><note type="citation">日本書目志,卷六,法律門,商法,p 795</note><note type="price">一圓三角五分</note><identifier type="mh">book_3344</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2627FC2B-2763-44A1-B2F3-64271CB7BBAC">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">淺間新五郎、小野崎五助合著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本商法實用</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,商法,p 795</note>
+    <note type="price">一圓三角五分</note>
+    <identifier type="mh">book_3344</identifier>
+</mods>

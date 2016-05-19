@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D828C7DE-AE80-4B10-BE72-A877FB6E9793"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">平瀨作五郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>用器畫法 文部省檢定濟 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1111</note><note type="price">一角七分</note><identifier type="mh">book_7172</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D828C7DE-AE80-4B10-BE72-A877FB6E9793">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">平瀨作五郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>用器畫法 文部省檢定濟 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1111</note>
+    <note type="price">一角七分</note>
+    <identifier type="mh">book_7172</identifier>
+</mods>

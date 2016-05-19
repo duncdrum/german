@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BE96F997-B64A-4EE7-A6C0-E46C1361413E"><titleInfo lang="chi" script="Hant"><title>貴顯御尊影之圖 石版密刻 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1103</note><note type="price">一角</note><identifier type="mh">book_7062</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE96F997-B64A-4EE7-A6C0-E46C1361413E">
+    <titleInfo lang="chi" script="Hant">
+        <title>貴顯御尊影之圖 石版密刻 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1103</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_7062</identifier>
+</mods>

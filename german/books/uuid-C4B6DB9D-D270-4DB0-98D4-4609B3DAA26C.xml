@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C4B6DB9D-D270-4DB0-98D4-4609B3DAA26C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">中原貞七編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>高等讀本 高等小學校用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,小學讀本,p 949</note><note type="price">一圓四角四分</note><identifier type="mh">book_4943</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C4B6DB9D-D270-4DB0-98D4-4609B3DAA26C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">中原貞七編纂</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>高等讀本 高等小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,小學讀本,p 949</note>
+    <note type="price">一圓四角四分</note>
+    <identifier type="mh">book_4943</identifier>
+</mods>

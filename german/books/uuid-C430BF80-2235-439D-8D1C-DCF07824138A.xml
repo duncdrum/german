@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C430BF80-2235-439D-8D1C-DCF07824138A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">獨逸人著　有賀長文譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>國民理財學</title></titleInfo><note type="citation">日本書目志,卷五,政治門,經濟學,p 766</note><note type="price">八角</note><identifier type="mh">book_2989</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C430BF80-2235-439D-8D1C-DCF07824138A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">獨逸人著　有賀長文譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國民理財學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,經濟學,p 766</note>
+    <note type="price">八角</note>
+    <identifier type="mh">book_2989</identifier>
+</mods>

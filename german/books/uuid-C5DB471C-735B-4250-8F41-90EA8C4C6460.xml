@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C5DB471C-735B-4250-8F41-90EA8C4C6460"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">原本訥平次著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>家畜化育要論</title></titleInfo><note type="citation">日本書目志,卷七,農業門,畜牧書,p 846</note><note type="price">六角</note><identifier type="mh">book_3810</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C5DB471C-735B-4250-8F41-90EA8C4C6460">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">原本訥平次著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>家畜化育要論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,畜牧書,p 846</note>
+    <note type="price">六角</note>
+    <identifier type="mh">book_3810</identifier>
+</mods>

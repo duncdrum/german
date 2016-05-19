@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E0D92C79-52FD-412C-AFC6-31D0FCBF0979"><titleInfo lang="chi" script="Hant"><title>眼科證治</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 245</note><abstract type="summary"> 眼科證治三卷 美華書館印本   [泰西]聶氏在濟南施醫院譯，論症治及割刺之法詳於指蒙，後附試眼字碼，其 法甚善，無病之目平時亦可用此法試之。 </abstract><identifier type="mh">book_751</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E0D92C79-52FD-412C-AFC6-31D0FCBF0979">
+    <titleInfo lang="chi" script="Hant">
+        <title>眼科證治</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 245</note>
+    <abstract type="summary"> 眼科證治三卷 美華書館印本   [泰西]聶氏在濟南施醫院譯，論症治及割刺之法詳於指蒙，後附試眼字碼，其 法甚善，無病之目平時亦可用此法試之。 </abstract>
+    <identifier type="mh">book_751</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9E5C9DBD-D7E8-4520-AA9B-0477361A0EB0"><titleInfo lang="chi" script="Hant"><title>自西徂東</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 280</note><abstract type="summary"> 自西徂東五卷 廣學會本五冊   [德]化之安著，引西國事與中國相較，不事夸張，不偏回護，其辨論義理頗有精 微處，將以西國政教良法以救中土政俗人心之弊，名曰自西徂東，取義有由 也。中言息戰及公法本旨，禁買奴婢諸篇，最可觀，譯筆亦佳，惟教語可厭。 </abstract><identifier type="mh">book_885</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9E5C9DBD-D7E8-4520-AA9B-0477361A0EB0">
+    <titleInfo lang="chi" script="Hant">
+        <title>自西徂東</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 280</note>
+    <abstract type="summary"> 自西徂東五卷 廣學會本五冊   [德]化之安著，引西國事與中國相較，不事夸張，不偏回護，其辨論義理頗有精 微處，將以西國政教良法以救中土政俗人心之弊，名曰自西徂東，取義有由 也。中言息戰及公法本旨，禁買奴婢諸篇，最可觀，譯筆亦佳，惟教語可厭。 </abstract>
+    <identifier type="mh">book_885</identifier>
+</mods>

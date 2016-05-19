@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7EAB151E-83B7-49B3-B4BC-90010887E3F7"><titleInfo lang="chi" script="Hant"><title> 花鳥草木 細畫式</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1091</note><note type="price">五分</note><identifier type="mh">book_6876</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7EAB151E-83B7-49B3-B4BC-90010887E3F7">
+    <titleInfo lang="chi" script="Hant">
+        <title> 花鳥草木 細畫式</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1091</note>
+    <note type="price">五分</note>
+    <identifier type="mh">book_6876</identifier>
+</mods>

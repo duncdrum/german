@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6A9181D3-4061-4FAD-8C3F-2BD38618047F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">市川米菴著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>藏筆譜</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,書法及墨場書,p 1108</note><note type="price">三角</note><identifier type="mh">book_7133</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6A9181D3-4061-4FAD-8C3F-2BD38618047F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">市川米菴著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>藏筆譜</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,書法及墨場書,p 1108</note>
+    <note type="price">三角</note>
+    <identifier type="mh">book_7133</identifier>
+</mods>

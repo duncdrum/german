@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EE04A1E5-513D-4BE5-97E0-9A07901ECA0C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">森要太郎譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 《勸農叢書》 農場化學</title></titleInfo><note type="citation">日本書目志,卷七,農業門,農業化學,p 828</note><note type="price">六角</note><identifier type="mh">book_3679</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EE04A1E5-513D-4BE5-97E0-9A07901ECA0C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">森要太郎譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 《勸農叢書》 農場化學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,農業化學,p 828</note>
+    <note type="price">六角</note>
+    <identifier type="mh">book_3679</identifier>
+</mods>

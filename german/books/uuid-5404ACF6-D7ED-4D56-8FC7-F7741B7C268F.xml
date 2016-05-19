@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5404ACF6-D7ED-4D56-8FC7-F7741B7C268F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">西村周三郎編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>勸業獨案內</title></titleInfo><note type="citation">日本書目志,卷八,工業門,匠學書,p 876</note><note type="price">三角五分</note><identifier type="mh">book_4110</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5404ACF6-D7ED-4D56-8FC7-F7741B7C268F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">西村周三郎編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>勸業獨案內</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,匠學書,p 876</note>
+    <note type="price">三角五分</note>
+    <identifier type="mh">book_4110</identifier>
+</mods>

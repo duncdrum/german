@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-95FB2CF9-30E1-411C-A8FE-DB2EF43030E4"><titleInfo lang="chi" script="Hant"><title>劇塲新話 《温知叢書》第三編之內 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,演劇,p 1120</note><note type="price">二角五分</note><identifier type="mh">book_7296</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-95FB2CF9-30E1-411C-A8FE-DB2EF43030E4">
+    <titleInfo lang="chi" script="Hant">
+        <title>劇塲新話 《温知叢書》第三編之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,演劇,p 1120</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_7296</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5FEE30CE-856D-4B46-B81D-94B1E9DED986"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">廣丹晨父著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>雛形匠家極秘傳</title></titleInfo><note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note><note type="price">二角</note><identifier type="mh">book_4041</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5FEE30CE-856D-4B46-B81D-94B1E9DED986">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">廣丹晨父著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>雛形匠家極秘傳</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_4041</identifier>
+</mods>

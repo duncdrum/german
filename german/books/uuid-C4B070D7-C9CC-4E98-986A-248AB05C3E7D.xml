@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C4B070D7-C9CC-4E98-986A-248AB05C3E7D"><titleInfo lang="chi" script="Hant"><title>醫方彙編</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note><abstract type="summary"> 醫方彙編四卷首一卷 光緒乙未廣濟醫局排印本五冊   [英]偉倫忽塔著，[英]梅滕更譯，劉廷楨述，西國權量尺寸與中土不同，首載英法 各表，最為詳便，其言經絡、臟腑、部位名目，悉準全體，通攷闡微諸書，學者當參 觀也。 </abstract><identifier type="mh">book_770</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C4B070D7-C9CC-4E98-986A-248AB05C3E7D">
+    <titleInfo lang="chi" script="Hant">
+        <title>醫方彙編</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note>
+    <abstract type="summary"> 醫方彙編四卷首一卷 光緒乙未廣濟醫局排印本五冊   [英]偉倫忽塔著，[英]梅滕更譯，劉廷楨述，西國權量尺寸與中土不同，首載英法 各表，最為詳便，其言經絡、臟腑、部位名目，悉準全體，通攷闡微諸書，學者當參 觀也。 </abstract>
+    <identifier type="mh">book_770</identifier>
+</mods>

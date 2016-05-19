@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-509D2E82-C479-4F61-8012-78507473F101"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">渡邊益編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>言之栞折本</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1061</note><note type="price">一角</note><identifier type="mh">book_6490</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-509D2E82-C479-4F61-8012-78507473F101">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">渡邊益編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>言之栞折本</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1061</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_6490</identifier>
+</mods>

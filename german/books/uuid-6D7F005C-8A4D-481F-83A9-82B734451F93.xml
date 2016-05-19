@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6D7F005C-8A4D-481F-83A9-82B734451F93"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">飯田宇宙著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>評論德川世記</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 716</note><note type="price">五角五分</note><identifier type="mh">book_2413</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6D7F005C-8A4D-481F-83A9-82B734451F93">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">飯田宇宙著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>評論德川世記</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 716</note>
+    <note type="price">五角五分</note>
+    <identifier type="mh">book_2413</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6CBC3F2C-3249-45F2-9C16-5516AEA29CA9"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">北村援琴翁、籬鳥軒主人共著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>築山庭造傳</title></titleInfo><note type="citation">日本書目志,卷八,工業門,土木學,p 865</note><note type="price">一圓</note><identifier type="mh">book_4007</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6CBC3F2C-3249-45F2-9C16-5516AEA29CA9">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">北村援琴翁、籬鳥軒主人共著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>築山庭造傳</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,土木學,p 865</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_4007</identifier>
+</mods>

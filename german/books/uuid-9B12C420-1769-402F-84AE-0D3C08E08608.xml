@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9B12C420-1769-402F-84AE-0D3C08E08608"><titleInfo lang="chi" script="Hant"><title>造化機論</title></titleInfo><note type="citation">日本書目志,卷一,生理門,生理學通俗,p 593</note><note type="price">七分</note><identifier type="mh">book_962</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9B12C420-1769-402F-84AE-0D3C08E08608">
+    <titleInfo lang="chi" script="Hant">
+        <title>造化機論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,生理學通俗,p 593</note>
+    <note type="price">七分</note>
+    <identifier type="mh">book_962</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-16A17459-1D4D-4C04-BA8B-A8405BF3DF0D"><titleInfo lang="chi" script="Hant"><title>畫器須知</title></titleInfo><note type="citation">增版東西學書錄,卷四,圖學第二十四,畫器,p 257</note><abstract type="summary"> 畫器須知一卷 格致須知二集本一冊   [英]傅蘭雅著，是書所列各器，即器象顯真，第一卷解說字句互有異同。 製造局印有英傅蘭雅、趙元益譯，繪畫測量諸器圖說一冊，未出。  </abstract><identifier type="mh">book_795</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-16A17459-1D4D-4C04-BA8B-A8405BF3DF0D">
+    <titleInfo lang="chi" script="Hant">
+        <title>畫器須知</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,圖學第二十四,畫器,p 257</note>
+    <abstract type="summary"> 畫器須知一卷 格致須知二集本一冊   [英]傅蘭雅著，是書所列各器，即器象顯真，第一卷解說字句互有異同。 製造局印有英傅蘭雅、趙元益譯，繪畫測量諸器圖說一冊，未出。  </abstract>
+    <identifier type="mh">book_795</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-318D82CF-5339-4086-A1EE-3F80CE3D4D2F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農商務省藏版</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>微粒子病試驗報告</title></titleInfo><note type="citation">日本書目志,卷十,教育門,報告書,p 940</note><note type="price">八分</note><identifier type="mh">book_4824</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-318D82CF-5339-4086-A1EE-3F80CE3D4D2F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農商務省藏版</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>微粒子病試驗報告</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,報告書,p 940</note>
+    <note type="price">八分</note>
+    <identifier type="mh">book_4824</identifier>
+</mods>

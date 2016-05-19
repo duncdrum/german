@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-244A7111-B563-4AFD-AF22-F5016EDBE4A6"><titleInfo lang="chi" script="Hant"><title>營工要覽</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,營壘,p 103</note><abstract type="summary"> 營工要覽四卷附圖 製造局本二冊   [英]武備工程課則，[英]傅蘭雅、汪振聲同譯，首攻守各法，二行軍取水法，三成行 營各要件，四造望臺及開路法。所論皆陸行工程，為工兵要事，聞近年德國新 出書所論尤詳，盍譯證之。 </abstract><identifier type="mh">book_208</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-244A7111-B563-4AFD-AF22-F5016EDBE4A6">
+    <titleInfo lang="chi" script="Hant">
+        <title>營工要覽</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,營壘,p 103</note>
+    <abstract type="summary"> 營工要覽四卷附圖 製造局本二冊   [英]武備工程課則，[英]傅蘭雅、汪振聲同譯，首攻守各法，二行軍取水法，三成行 營各要件，四造望臺及開路法。所論皆陸行工程，為工兵要事，聞近年德國新 出書所論尤詳，盍譯證之。 </abstract>
+    <identifier type="mh">book_208</identifier>
+</mods>

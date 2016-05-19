@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A0F68A9B-B56B-4B56-A235-71F8D0EE2000"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">遠藤茂樹著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本商業志</title></titleInfo><note type="citation">日本書目志,卷九,商業門,商業書,p 888</note><note type="price">二角五分</note><identifier type="mh">book_4232</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A0F68A9B-B56B-4B56-A235-71F8D0EE2000">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">遠藤茂樹著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本商業志</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,商業書,p 888</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_4232</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3D485F82-D92B-4D6A-AFFF-A5E2F178809B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">勸農局、商務局藏版</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>明治十二年共進會報告共進會創設主旨</title></titleInfo><note type="citation">日本書目志,卷十,教育門,報告書,p 941</note><note type="price">二分五釐</note><identifier type="mh">book_4835</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3D485F82-D92B-4D6A-AFFF-A5E2F178809B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">勸農局、商務局藏版</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治十二年共進會報告共進會創設主旨</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,報告書,p 941</note>
+    <note type="price">二分五釐</note>
+    <identifier type="mh">book_4835</identifier>
+</mods>

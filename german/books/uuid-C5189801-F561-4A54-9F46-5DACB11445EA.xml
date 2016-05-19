@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C5189801-F561-4A54-9F46-5DACB11445EA"><titleInfo lang="chi" script="Hant"><title>臨陣傷科捷要</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,外科,p 247</note><abstract type="summary"> 臨陣傷科捷要四卷附圖 製造局本四冊   [英]怕脫編，舒高第、鄭昌棪同譯，此為臨陣便用之書，醫生於軍營職司隨處喫 重，尤不可不先事研求，附傷科捷要圖與割症全書參看。 </abstract><identifier type="mh">book_760</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C5189801-F561-4A54-9F46-5DACB11445EA">
+    <titleInfo lang="chi" script="Hant">
+        <title>臨陣傷科捷要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,外科,p 247</note>
+    <abstract type="summary"> 臨陣傷科捷要四卷附圖 製造局本四冊   [英]怕脫編，舒高第、鄭昌棪同譯，此為臨陣便用之書，醫生於軍營職司隨處喫 重，尤不可不先事研求，附傷科捷要圖與割症全書參看。 </abstract>
+    <identifier type="mh">book_760</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B611BF16-E441-49ED-8820-087742356299"><titleInfo lang="chi" script="Hant"><title>礮法求新</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 111</note><abstract type="summary"> 礮法求新三卷附編附圖 製造局本八冊   [英]烏里治官礟局原書，舒高第、鄭昌棪同譯。 </abstract><identifier type="mh">book_236</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B611BF16-E441-49ED-8820-087742356299">
+    <titleInfo lang="chi" script="Hant">
+        <title>礮法求新</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 111</note>
+    <abstract type="summary"> 礮法求新三卷附編附圖 製造局本八冊   [英]烏里治官礟局原書，舒高第、鄭昌棪同譯。 </abstract>
+    <identifier type="mh">book_236</identifier>
+</mods>

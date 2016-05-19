@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7F860C13-3BF7-43E1-9211-437B0AD55FDF"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">湯淺誠作著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 各國憲法對照 帝國憲法</title></titleInfo><note type="citation">日本書目志,卷六,法律門,帝國憲法,p 780</note><note type="price">一角</note><identifier type="mh">book_3144</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7F860C13-3BF7-43E1-9211-437B0AD55FDF">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">湯淺誠作著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 各國憲法對照 帝國憲法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,帝國憲法,p 780</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_3144</identifier>
+</mods>

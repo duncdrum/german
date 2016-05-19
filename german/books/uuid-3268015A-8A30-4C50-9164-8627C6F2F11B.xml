@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3268015A-8A30-4C50-9164-8627C6F2F11B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">六鄉弘純編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 冠註插畫 唐宋八大家字類大全</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1077</note><note type="price">三角五分</note><identifier type="mh">book_6713</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3268015A-8A30-4C50-9164-8627C6F2F11B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">六鄉弘純編纂</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 冠註插畫 唐宋八大家字類大全</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1077</note>
+    <note type="price">三角五分</note>
+    <identifier type="mh">book_6713</identifier>
+</mods>

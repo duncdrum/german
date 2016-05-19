@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-163E9888-B53F-4763-B6CF-F42754D30091"><titleInfo lang="chi" script="Hant"><title>養蒙正軌</title></titleInfo><note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 263</note><abstract type="summary"> 養蒙正軌二卷 萬國公報本   [英]李耀春、汪振聲合譯，上卷為瑞士柏思大羅齊訓蒙新法，下卷為德福若伯 訓蒙法，皆能闡發教育之理，宜西人奉為定法也。 [顧補]  </abstract><identifier type="mh">book_817</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-163E9888-B53F-4763-B6CF-F42754D30091">
+    <titleInfo lang="chi" script="Hant">
+        <title>養蒙正軌</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 263</note>
+    <abstract type="summary"> 養蒙正軌二卷 萬國公報本   [英]李耀春、汪振聲合譯，上卷為瑞士柏思大羅齊訓蒙新法，下卷為德福若伯 訓蒙法，皆能闡發教育之理，宜西人奉為定法也。 [顧補]  </abstract>
+    <identifier type="mh">book_817</identifier>
+</mods>

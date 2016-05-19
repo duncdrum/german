@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E7B49592-85F7-4DFC-B531-168482B94E05"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">增野悅興著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>英國清教徒記事</title></titleInfo><note type="citation">日本書目志,卷三,宗教門,雜教類,p 668</note><note type="price">二角</note><identifier type="mh">book_1796</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E7B49592-85F7-4DFC-B531-168482B94E05">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">增野悅興著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>英國清教徒記事</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,雜教類,p 668</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_1796</identifier>
+</mods>

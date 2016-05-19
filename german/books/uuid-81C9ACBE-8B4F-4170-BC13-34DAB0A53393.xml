@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-81C9ACBE-8B4F-4170-BC13-34DAB0A53393"><titleInfo lang="chi" script="Hant"><title>地學啟蒙</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 220</note><abstract type="summary"> 地學啟蒙八卷 西學啟蒙本一冊   [英]艾約瑟譯，專論以石為攷求地質之根基，惟論礦僅及煤層於地質學，未為 全備。 </abstract><identifier type="mh">book_645</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-81C9ACBE-8B4F-4170-BC13-34DAB0A53393">
+    <titleInfo lang="chi" script="Hant">
+        <title>地學啟蒙</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 220</note>
+    <abstract type="summary"> 地學啟蒙八卷 西學啟蒙本一冊   [英]艾約瑟譯，專論以石為攷求地質之根基，惟論礦僅及煤層於地質學，未為 全備。 </abstract>
+    <identifier type="mh">book_645</identifier>
+</mods>

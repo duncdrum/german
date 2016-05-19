@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A76BD89B-C8F9-4820-BEF2-FCFC65F47CE2"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">今村了广</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>杏林餘興 漢土之部 </title></titleInfo><note type="citation">日本書目志,卷一,生理門,醫學雜書,p 615</note><note type="price">一角五分</note><identifier type="mh">book_1234</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A76BD89B-C8F9-4820-BEF2-FCFC65F47CE2">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">今村了广</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>杏林餘興 漢土之部 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,醫學雜書,p 615</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_1234</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-36E6D23A-54CA-4147-813D-9CC458BF5960"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">堀田正忠、高谷恒太郎合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>治罪法異同辨</title></titleInfo><note type="citation">日本書目志,卷六,法律門,治罪法,p 802</note><note type="price">六圓</note><identifier type="mh">book_3445</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-36E6D23A-54CA-4147-813D-9CC458BF5960">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">堀田正忠、高谷恒太郎合著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>治罪法異同辨</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,治罪法,p 802</note>
+    <note type="price">六圓</note>
+    <identifier type="mh">book_3445</identifier>
+</mods>

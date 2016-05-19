@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-502BC22F-609C-4178-B6DF-1CF072D3A63A"><titleInfo lang="chi" script="Hant"><title>氣學入門</title></titleInfo><note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note><abstract type="summary"> 氣學入門一卷附圖 格物入門七種本　西學大成本   [美]丁韙良著，專論蒸氣力用與力學書互參，後論氣器紡織之益，火輪舟車之 式及創造之始，足備工程家省覽，雖未詳備，尚便初學，末附論聲音。 </abstract><identifier type="mh">book_614</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-502BC22F-609C-4178-B6DF-1CF072D3A63A">
+    <titleInfo lang="chi" script="Hant">
+        <title>氣學入門</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note>
+    <abstract type="summary"> 氣學入門一卷附圖 格物入門七種本　西學大成本   [美]丁韙良著，專論蒸氣力用與力學書互參，後論氣器紡織之益，火輪舟車之 式及創造之始，足備工程家省覽，雖未詳備，尚便初學，末附論聲音。 </abstract>
+    <identifier type="mh">book_614</identifier>
+</mods>

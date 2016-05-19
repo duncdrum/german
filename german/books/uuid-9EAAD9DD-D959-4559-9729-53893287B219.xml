@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9EAAD9DD-D959-4559-9729-53893287B219"><titleInfo lang="chi" script="Hant"><title>格致畧論</title></titleInfo><note type="citation">增版東西學書錄,卷三,格致總第十一,p 178</note><abstract type="summary"> 格致畧論一卷 格致彙編本   [英]傅蘭雅著，書從英國幼學格致中譯出，雖簡括而明備，尚勝於格致須知，論 動物一門分類極佳，首論地文、地質，後論人之形性，亦甚簡顯。 </abstract><identifier type="mh">book_500</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9EAAD9DD-D959-4559-9729-53893287B219">
+    <titleInfo lang="chi" script="Hant">
+        <title>格致畧論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 178</note>
+    <abstract type="summary"> 格致畧論一卷 格致彙編本   [英]傅蘭雅著，書從英國幼學格致中譯出，雖簡括而明備，尚勝於格致須知，論 動物一門分類極佳，首論地文、地質，後論人之形性，亦甚簡顯。 </abstract>
+    <identifier type="mh">book_500</identifier>
+</mods>

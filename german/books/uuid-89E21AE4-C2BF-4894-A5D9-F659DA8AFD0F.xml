@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-89E21AE4-C2BF-4894-A5D9-F659DA8AFD0F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">加藤弘之譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>國法汎論</title></titleInfo><note type="citation">日本書目志,卷六,法律門,國法學,p 782</note><note type="price">八角五分</note><identifier type="mh">book_3167</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-89E21AE4-C2BF-4894-A5D9-F659DA8AFD0F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">加藤弘之譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國法汎論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,國法學,p 782</note>
+    <note type="price">八角五分</note>
+    <identifier type="mh">book_3167</identifier>
+</mods>

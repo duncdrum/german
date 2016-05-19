@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D5F96246-F879-4B3D-ABAC-5C25EC873893"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">富田寬著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>清風雅唱</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,音曲,p 1119</note><note type="price">一圓一角</note><identifier type="mh">book_7292</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D5F96246-F879-4B3D-ABAC-5C25EC873893">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">富田寬著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>清風雅唱</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,音曲,p 1119</note>
+    <note type="price">一圓一角</note>
+    <identifier type="mh">book_7292</identifier>
+</mods>

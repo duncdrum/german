@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5D724AC5-C520-4A7F-8FC8-683532304AE3"><titleInfo lang="chi" script="Hant"><title>亞東時報</title></titleInfo><note type="citation">增版東西學書錄,卷四,報章第二十九,p 275</note><abstract type="summary"> 亞東時報 排印本設上海   [日本]山根虎之助輯譯，分論說、商務、講演、軍事、中外論叢、史傳雜錄、彙報時賦 等類，始於光緒二十四年五月至二十六年三月停止，凡二十一冊，報中多總 核名實之文，足為我國詭譎反覆者藥石。 [顧補]  </abstract><identifier type="mh">book_866</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5D724AC5-C520-4A7F-8FC8-683532304AE3">
+    <titleInfo lang="chi" script="Hant">
+        <title>亞東時報</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 275</note>
+    <abstract type="summary"> 亞東時報 排印本設上海   [日本]山根虎之助輯譯，分論說、商務、講演、軍事、中外論叢、史傳雜錄、彙報時賦 等類，始於光緒二十四年五月至二十六年三月停止，凡二十一冊，報中多總 核名實之文，足為我國詭譎反覆者藥石。 [顧補]  </abstract>
+    <identifier type="mh">book_866</identifier>
+</mods>

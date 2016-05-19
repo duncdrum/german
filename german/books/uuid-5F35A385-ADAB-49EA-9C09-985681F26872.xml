@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5F35A385-ADAB-49EA-9C09-985681F26872"><titleInfo lang="chi" script="Hant"><title>營城要說</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,營壘,p 103</note><abstract type="summary"> 營城要說二卷 製造局本   [英]傅蘭雅、徐壽同譯。 </abstract><identifier type="mh">book_207</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5F35A385-ADAB-49EA-9C09-985681F26872">
+    <titleInfo lang="chi" script="Hant">
+        <title>營城要說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,營壘,p 103</note>
+    <abstract type="summary"> 營城要說二卷 製造局本   [英]傅蘭雅、徐壽同譯。 </abstract>
+    <identifier type="mh">book_207</identifier>
+</mods>

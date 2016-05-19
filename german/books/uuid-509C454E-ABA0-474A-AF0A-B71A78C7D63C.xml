@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-509C454E-ABA0-474A-AF0A-B71A78C7D63C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大鳥圭介譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>堰堤築法新按</title></titleInfo><note type="citation">日本書目志,卷八,工業門,土木學,p 865</note><note type="price">三元五角</note><identifier type="mh">book_4000</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-509C454E-ABA0-474A-AF0A-B71A78C7D63C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大鳥圭介譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>堰堤築法新按</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,土木學,p 865</note>
+    <note type="price">三元五角</note>
+    <identifier type="mh">book_4000</identifier>
+</mods>

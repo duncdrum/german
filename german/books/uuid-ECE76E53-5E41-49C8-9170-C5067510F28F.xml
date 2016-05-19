@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-ECE76E53-5E41-49C8-9170-C5067510F28F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">十文字信介編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>銃獵新書 正續 </title></titleInfo><note type="citation">日本書目志,卷十五,兵書門,銃獵書,p 1216</note><note type="price">七角</note><identifier type="mh">book_8638</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ECE76E53-5E41-49C8-9170-C5067510F28F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">十文字信介編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>銃獵新書 正續 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十五,兵書門,銃獵書,p 1216</note>
+    <note type="price">七角</note>
+    <identifier type="mh">book_8638</identifier>
+</mods>

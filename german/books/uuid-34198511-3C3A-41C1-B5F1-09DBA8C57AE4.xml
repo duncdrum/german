@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-34198511-3C3A-41C1-B5F1-09DBA8C57AE4"><titleInfo lang="chi" script="Hant"><title>海道圖說</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 229</note><abstract type="summary"> 海道圖說十五卷附長江圖說一卷海道總圖一幅分圖十二幅長江圖五幅 製造局本十冊　上海石印本   [英]兵船部原書，[美]金約翰輯，卷一、卷二、卷五[英]傅蘭雅譯，卷三、卷四、卷六至卷 十五及長江圖說。[美]金楷理譯，皆王德均述，起自瓊州，訖於遼東、臺灣，後附朝 鮮、琉球、日本各處沙線、颶風、礁石諸忌，臚列詳盡，顧書中所列地名間與中圖 不合者，蓋書為西船駛行時所記，有本於中圖者，有訪諸土人者，餘則隨意命 名，體例未善，王君譯成，更為校正，如中國有名者以中名譯之，西人傳誤者以 中圖正之，無義可譯者取西音，以寫中字，詳於沿海，略於內地，為總圖一為，分 圖十，以冊不能容，別鋟附行，但海中島沙消長不同，港汊通塞日異，在留心者 隨時徵騐增修耳。 </abstract><identifier type="mh">book_690</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-34198511-3C3A-41C1-B5F1-09DBA8C57AE4">
+    <titleInfo lang="chi" script="Hant">
+        <title>海道圖說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 229</note>
+    <abstract type="summary"> 海道圖說十五卷附長江圖說一卷海道總圖一幅分圖十二幅長江圖五幅 製造局本十冊　上海石印本   [英]兵船部原書，[美]金約翰輯，卷一、卷二、卷五[英]傅蘭雅譯，卷三、卷四、卷六至卷 十五及長江圖說。[美]金楷理譯，皆王德均述，起自瓊州，訖於遼東、臺灣，後附朝 鮮、琉球、日本各處沙線、颶風、礁石諸忌，臚列詳盡，顧書中所列地名間與中圖 不合者，蓋書為西船駛行時所記，有本於中圖者，有訪諸土人者，餘則隨意命 名，體例未善，王君譯成，更為校正，如中國有名者以中名譯之，西人傳誤者以 中圖正之，無義可譯者取西音，以寫中字，詳於沿海，略於內地，為總圖一為，分 圖十，以冊不能容，別鋟附行，但海中島沙消長不同，港汊通塞日異，在留心者 隨時徵騐增修耳。 </abstract>
+    <identifier type="mh">book_690</identifier>
+</mods>

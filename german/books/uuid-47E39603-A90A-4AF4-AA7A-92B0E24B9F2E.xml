@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-47E39603-A90A-4AF4-AA7A-92B0E24B9F2E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">神戶要次郎纂譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>物理學講本</title></titleInfo><note type="citation">日本書目志,卷二,理學門,物理學,p 627</note><note type="price">二圓四角</note><identifier type="mh">book_1335</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-47E39603-A90A-4AF4-AA7A-92B0E24B9F2E">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">神戶要次郎纂譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>物理學講本</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,物理學,p 627</note>
+    <note type="price">二圓四角</note>
+    <identifier type="mh">book_1335</identifier>
+</mods>

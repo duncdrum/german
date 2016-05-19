@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-73BA9964-FA04-404E-9805-7E08280DB520"><titleInfo lang="chi" script="Hant"><title>公額小誌</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 227</note><abstract type="summary"> 公額小誌　卷 滙報本   滙報館譯，公額即剛果，在非洲之南，篇中言該處山川甚詳，其風俗滙報曾譯 公額陋俗一篇，可資考證。 [顧補]  </abstract><identifier type="mh">book_677</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-73BA9964-FA04-404E-9805-7E08280DB520">
+    <titleInfo lang="chi" script="Hant">
+        <title>公額小誌</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 227</note>
+    <abstract type="summary"> 公額小誌　卷 滙報本   滙報館譯，公額即剛果，在非洲之南，篇中言該處山川甚詳，其風俗滙報曾譯 公額陋俗一篇，可資考證。 [顧補]  </abstract>
+    <identifier type="mh">book_677</identifier>
+</mods>

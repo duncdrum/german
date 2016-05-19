@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-27E114A2-F72D-4A25-81DC-E273259A568A"><titleInfo lang="chi" script="Hant"><title>曲亭馬琴翁叢書 二十五種合本 </title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1185</note><note type="price">六角五分</note><identifier type="mh">book_8221</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-27E114A2-F72D-4A25-81DC-E273259A568A">
+    <titleInfo lang="chi" script="Hant">
+        <title>曲亭馬琴翁叢書 二十五種合本 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1185</note>
+    <note type="price">六角五分</note>
+    <identifier type="mh">book_8221</identifier>
+</mods>

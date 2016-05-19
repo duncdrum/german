@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3BE3D75E-1D67-439C-93F8-C596A300F987"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">石川千代松</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>動物通解續篇 附圖 </title></titleInfo><note type="citation">日本書目志,卷二,理學門,動物學,p 647</note><note type="price">七角六分</note><identifier type="mh">book_1545</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3BE3D75E-1D67-439C-93F8-C596A300F987">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">石川千代松</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>動物通解續篇 附圖 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,動物學,p 647</note>
+    <note type="price">七角六分</note>
+    <identifier type="mh">book_1545</identifier>
+</mods>

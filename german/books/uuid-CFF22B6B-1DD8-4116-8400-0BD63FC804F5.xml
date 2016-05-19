@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CFF22B6B-1DD8-4116-8400-0BD63FC804F5"><titleInfo lang="chi" script="Hant"><title>梅之春端唄文庫</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1170</note><note type="price">一角五分</note><identifier type="mh">book_7992</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CFF22B6B-1DD8-4116-8400-0BD63FC804F5">
+    <titleInfo lang="chi" script="Hant">
+        <title>梅之春端唄文庫</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1170</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_7992</identifier>
+</mods>

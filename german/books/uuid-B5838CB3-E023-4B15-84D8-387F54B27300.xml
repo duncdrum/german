@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B5838CB3-E023-4B15-84D8-387F54B27300"><titleInfo lang="chi" script="Hant"><title>化學啟蒙</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 200</note><abstract type="summary"> 化學啟蒙一卷 西學啟蒙本一冊   [英]艾約瑟譯，化學之大要不外乎火風水地，此書專論四物之若何助長，含若 何原質，並論金類、非金類，復論測驗所得諸理最為精要，中附習問數十則，專 為考課童蒙而設。 </abstract><identifier type="mh">book_573</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B5838CB3-E023-4B15-84D8-387F54B27300">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學啟蒙</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 200</note>
+    <abstract type="summary"> 化學啟蒙一卷 西學啟蒙本一冊   [英]艾約瑟譯，化學之大要不外乎火風水地，此書專論四物之若何助長，含若 何原質，並論金類、非金類，復論測驗所得諸理最為精要，中附習問數十則，專 為考課童蒙而設。 </abstract>
+    <identifier type="mh">book_573</identifier>
+</mods>

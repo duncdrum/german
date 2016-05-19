@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C53CC9DF-34EE-4373-BDA5-15F693703273"><titleInfo lang="chi" script="Hant"><title>義經千本櫻忠信狐之段</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1009</note><note type="price">三分九釐</note><identifier type="mh">book_5770</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C53CC9DF-34EE-4373-BDA5-15F693703273">
+    <titleInfo lang="chi" script="Hant">
+        <title>義經千本櫻忠信狐之段</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1009</note>
+    <note type="price">三分九釐</note>
+    <identifier type="mh">book_5770</identifier>
+</mods>

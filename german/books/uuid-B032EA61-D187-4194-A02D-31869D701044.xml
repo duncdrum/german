@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B032EA61-D187-4194-A02D-31869D701044"><titleInfo lang="chi" script="Hant"><title>百年一覺</title></titleInfo><note type="citation">增版東西學書錄,卷四,雜著第三十一,小說,p 290</note><abstract type="summary"> 百年一覺一卷 廣學會本一冊   [美]畢拉宓著，[英]李提摩太譯，言美國百年以後事，亦說部之屬，泰西人亦有此 種書，甚可觀，惜此本未全耳。書中多叙養民新法，原名回頭看。 </abstract><identifier type="mh">book_925</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B032EA61-D187-4194-A02D-31869D701044">
+    <titleInfo lang="chi" script="Hant">
+        <title>百年一覺</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,雜著第三十一,小說,p 290</note>
+    <abstract type="summary"> 百年一覺一卷 廣學會本一冊   [美]畢拉宓著，[英]李提摩太譯，言美國百年以後事，亦說部之屬，泰西人亦有此 種書，甚可觀，惜此本未全耳。書中多叙養民新法，原名回頭看。 </abstract>
+    <identifier type="mh">book_925</identifier>
+</mods>

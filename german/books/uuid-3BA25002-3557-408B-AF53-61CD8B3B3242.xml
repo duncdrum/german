@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3BA25002-3557-408B-AF53-61CD8B3B3242"><titleInfo lang="chi" script="Hant"><title>美國種棉述要</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 130</note><abstract type="summary"> 美國種棉述要一卷 農學報本   直隸臬署原譯，羅振玉編，此周玉山廉訪官直隸時譯本，自治地至收花其法 皆備，而去子、打包諸說亦附著之，至其所言種植法與北方情形最相宜。 </abstract><identifier type="mh">book_305</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3BA25002-3557-408B-AF53-61CD8B3B3242">
+    <titleInfo lang="chi" script="Hant">
+        <title>美國種棉述要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 130</note>
+    <abstract type="summary"> 美國種棉述要一卷 農學報本   直隸臬署原譯，羅振玉編，此周玉山廉訪官直隸時譯本，自治地至收花其法 皆備，而去子、打包諸說亦附著之，至其所言種植法與北方情形最相宜。 </abstract>
+    <identifier type="mh">book_305</identifier>
+</mods>

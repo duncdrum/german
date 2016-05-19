@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FA5C3FEA-E379-4146-B98E-A7D09F8EC0A5"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">久保田梁山著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>作文記事論說文叢</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1046</note><note type="price">一角四分</note><identifier type="mh">book_6261</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FA5C3FEA-E379-4146-B98E-A7D09F8EC0A5">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">久保田梁山著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>作文記事論說文叢</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1046</note>
+    <note type="price">一角四分</note>
+    <identifier type="mh">book_6261</identifier>
+</mods>

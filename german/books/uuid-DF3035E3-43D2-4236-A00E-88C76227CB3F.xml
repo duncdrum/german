@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF3035E3-43D2-4236-A00E-88C76227CB3F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">學海指針社編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>皇民修身鑑 尋常科生徒用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 916</note><note type="price">四角四分</note><identifier type="mh">book_4530</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DF3035E3-43D2-4236-A00E-88C76227CB3F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">學海指針社編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>皇民修身鑑 尋常科生徒用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 916</note>
+    <note type="price">四角四分</note>
+    <identifier type="mh">book_4530</identifier>
+</mods>

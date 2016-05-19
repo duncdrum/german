@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F60692DF-52FF-45E8-AAFD-573D51CCA243"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大原正一郎</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 高等小學 用器畫 小學校用 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1112</note><note type="price">三角三分</note><identifier type="mh">book_7181</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F60692DF-52FF-45E8-AAFD-573D51CCA243">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大原正一郎</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 高等小學 用器畫 小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1112</note>
+    <note type="price">三角三分</note>
+    <identifier type="mh">book_7181</identifier>
+</mods>

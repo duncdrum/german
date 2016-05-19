@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FC1883E8-ADCD-4B50-90CC-B74B10E95D83"><titleInfo lang="chi" script="Hant"><title>日本活花英文</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,插花書,p 1126</note><note type="price">五圓</note><identifier type="mh">book_7375</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FC1883E8-ADCD-4B50-90CC-B74B10E95D83">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本活花英文</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,插花書,p 1126</note>
+    <note type="price">五圓</note>
+    <identifier type="mh">book_7375</identifier>
+</mods>

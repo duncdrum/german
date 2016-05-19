@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-057447D8-3B2C-46F6-B587-147B4DAEED3F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">青木鐵五郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 新選建具 透雛形</title></titleInfo><note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note><note type="price">二角</note><identifier type="mh">book_4048</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-057447D8-3B2C-46F6-B587-147B4DAEED3F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">青木鐵五郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 新選建具 透雛形</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_4048</identifier>
+</mods>

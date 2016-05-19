@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B8F9EA76-DA9A-42E3-93BC-7E81EDA930ED"><titleInfo lang="chi" script="Hant"><title>法國賦稅攷略</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 170</note><abstract type="summary"> 法國賦稅攷略一卷 嶺學報本   尹端模譯，詳於法國之進款分條紀載，甚便繙閱。 [顧補]  </abstract><identifier type="mh">book_475</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B8F9EA76-DA9A-42E3-93BC-7E81EDA930ED">
+    <titleInfo lang="chi" script="Hant">
+        <title>法國賦稅攷略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 170</note>
+    <abstract type="summary"> 法國賦稅攷略一卷 嶺學報本   尹端模譯，詳於法國之進款分條紀載，甚便繙閱。 [顧補]  </abstract>
+    <identifier type="mh">book_475</identifier>
+</mods>

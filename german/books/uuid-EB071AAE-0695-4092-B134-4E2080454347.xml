@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EB071AAE-0695-4092-B134-4E2080454347"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">馬琴著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>玄同放言 上下集百家說林卷三 </title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1209</note><note type="price">四角</note><identifier type="mh">book_8573</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EB071AAE-0695-4092-B134-4E2080454347">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">馬琴著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>玄同放言 上下集百家說林卷三 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1209</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_8573</identifier>
+</mods>

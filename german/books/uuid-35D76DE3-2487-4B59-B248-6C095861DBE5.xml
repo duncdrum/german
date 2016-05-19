@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-35D76DE3-2487-4B59-B248-6C095861DBE5"><titleInfo lang="chi" script="Hant"><title>環球國主表論</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 63</note><abstract type="summary"> 環球國主表論一卷 滙報本   滙報館譯，論中引西儒亞利之言，並云君主民主、君民共主皆有損益，貴在得 人而理，自是公論。表中所記人數、面積皆由西書譯出，指本國而言，屬地不在。 內 [顧補]  </abstract><identifier type="mh">book_71</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-35D76DE3-2487-4B59-B248-6C095861DBE5">
+    <titleInfo lang="chi" script="Hant">
+        <title>環球國主表論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 63</note>
+    <abstract type="summary"> 環球國主表論一卷 滙報本   滙報館譯，論中引西儒亞利之言，並云君主民主、君民共主皆有損益，貴在得 人而理，自是公論。表中所記人數、面積皆由西書譯出，指本國而言，屬地不在。 內 [顧補]  </abstract>
+    <identifier type="mh">book_71</identifier>
+</mods>

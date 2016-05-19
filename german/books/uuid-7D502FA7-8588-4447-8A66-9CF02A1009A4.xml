@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7D502FA7-8588-4447-8A66-9CF02A1009A4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">竹內駿二著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 袖珍 土木便覽</title></titleInfo><note type="citation">日本書目志,卷八,工業門,土木學,p 864</note><note type="price">四角五分</note><identifier type="mh">book_3995</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7D502FA7-8588-4447-8A66-9CF02A1009A4">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">竹內駿二著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 袖珍 土木便覽</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,土木學,p 864</note>
+    <note type="price">四角五分</note>
+    <identifier type="mh">book_3995</identifier>
+</mods>

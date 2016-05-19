@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D26FC41C-6A5F-404D-9D35-5975F9577447"><titleInfo lang="chi" script="Hant"><title>琉球漆器考</title></titleInfo><note type="citation">日本書目志,卷八,工業門,匠學書,p 875</note><note type="price">五角</note><identifier type="mh">book_4098</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D26FC41C-6A5F-404D-9D35-5975F9577447">
+    <titleInfo lang="chi" script="Hant">
+        <title>琉球漆器考</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,匠學書,p 875</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_4098</identifier>
+</mods>

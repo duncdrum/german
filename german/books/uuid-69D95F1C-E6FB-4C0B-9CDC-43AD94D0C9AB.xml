@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-69D95F1C-E6FB-4C0B-9CDC-43AD94D0C9AB"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">關澄藏著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>理科提要</title></titleInfo><note type="citation">日本書目志,卷二,理學門,理學總記,p 624</note><note type="price">三角九分</note><identifier type="mh">book_1300</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-69D95F1C-E6FB-4C0B-9CDC-43AD94D0C9AB">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">關澄藏著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>理科提要</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,理學總記,p 624</note>
+    <note type="price">三角九分</note>
+    <identifier type="mh">book_1300</identifier>
+</mods>

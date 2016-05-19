@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F5ED4CC5-CF6F-4BC5-97FB-42C207CB7A1C"><titleInfo lang="chi" script="Hant"><title>東洋史要</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,通史,p 41</note><abstract type="summary"> 東洋史要四卷 上海排印本四冊   [日本]桑源隲藏著，樊炳清譯，其書合東洋諸國為一厯史團體，於亞細亞東方 民族之盛衰，邦國之興亡，言之甚詳，而南方亞細亞、中央亞細亞與有關係者 亦略述之，洵為世界史教科善本。 [徐補]  </abstract><identifier type="mh">book_3</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F5ED4CC5-CF6F-4BC5-97FB-42C207CB7A1C">
+    <titleInfo lang="chi" script="Hant">
+        <title>東洋史要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 41</note>
+    <abstract type="summary"> 東洋史要四卷 上海排印本四冊   [日本]桑源隲藏著，樊炳清譯，其書合東洋諸國為一厯史團體，於亞細亞東方 民族之盛衰，邦國之興亡，言之甚詳，而南方亞細亞、中央亞細亞與有關係者 亦略述之，洵為世界史教科善本。 [徐補]  </abstract>
+    <identifier type="mh">book_3</identifier>
+</mods>

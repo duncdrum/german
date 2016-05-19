@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E79F1982-6CD9-4283-BA49-60DD4FB480C9"><titleInfo lang="chi" script="Hant"><title>英國鑄錢說略</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 155</note><abstract type="summary"> 英國鑄錢說略一卷 格致彙編本   [英]傅蘭雅輯譯，是編所錄，皆造金錢法而造銀銅錢，可以類推，從收生料起至 造成止。其工夫分為十六層，又列總計盈絀之數，依次論畧。 中西聞見錄有卜世禮日本新貨幣攷，附記於此。  </abstract><identifier type="mh">book_405</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E79F1982-6CD9-4283-BA49-60DD4FB480C9">
+    <titleInfo lang="chi" script="Hant">
+        <title>英國鑄錢說略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 155</note>
+    <abstract type="summary"> 英國鑄錢說略一卷 格致彙編本   [英]傅蘭雅輯譯，是編所錄，皆造金錢法而造銀銅錢，可以類推，從收生料起至 造成止。其工夫分為十六層，又列總計盈絀之數，依次論畧。 中西聞見錄有卜世禮日本新貨幣攷，附記於此。  </abstract>
+    <identifier type="mh">book_405</identifier>
+</mods>

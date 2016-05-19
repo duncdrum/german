@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-88E4D1CD-4E2E-49AD-BEDF-ABCC34C49EBF"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">芹江悌言、新明嘉編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 藥劑師試驗問題 答案集</title></titleInfo><note type="citation">日本書目志,卷一,生理門,藥用,p 603</note><note type="price">四角</note><identifier type="mh">book_1070</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-88E4D1CD-4E2E-49AD-BEDF-ABCC34C49EBF">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">芹江悌言、新明嘉編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 藥劑師試驗問題 答案集</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,藥用,p 603</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_1070</identifier>
+</mods>

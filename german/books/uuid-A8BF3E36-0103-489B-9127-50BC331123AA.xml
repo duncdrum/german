@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A8BF3E36-0103-489B-9127-50BC331123AA"><titleInfo lang="chi" script="Hant"><title>入水衣略論</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 161</note><abstract type="summary"> 入水衣略論一卷 格致彙編本   [英]傅蘭雅輯譯，先論各國製造源流及用法，後論起船之法及哈蘭胡弗公司 日記，足見入水衣為船中必需之物，宜各國汲汲講求也，後附火藥棉花藥及 水內電燈。 </abstract><identifier type="mh">book_441</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A8BF3E36-0103-489B-9127-50BC331123AA">
+    <titleInfo lang="chi" script="Hant">
+        <title>入水衣略論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 161</note>
+    <abstract type="summary"> 入水衣略論一卷 格致彙編本   [英]傅蘭雅輯譯，先論各國製造源流及用法，後論起船之法及哈蘭胡弗公司 日記，足見入水衣為船中必需之物，宜各國汲汲講求也，後附火藥棉花藥及 水內電燈。 </abstract>
+    <identifier type="mh">book_441</identifier>
+</mods>

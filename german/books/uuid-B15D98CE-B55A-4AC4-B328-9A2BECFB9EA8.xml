@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B15D98CE-B55A-4AC4-B328-9A2BECFB9EA8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">菊地容齋著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>前賢故實</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1090</note><note type="price">正價五圓大奉書十八圓</note><identifier type="mh">book_6864</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B15D98CE-B55A-4AC4-B328-9A2BECFB9EA8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">菊地容齋著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>前賢故實</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1090</note>
+    <note type="price">正價五圓大奉書十八圓</note>
+    <identifier type="mh">book_6864</identifier>
+</mods>

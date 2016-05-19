@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-462ACE1A-321F-43F9-A541-54672CE54E26"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">山田美妙齋著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 新式 節用辭典</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,伊吕波引,p 1073</note><note type="price">四角八分</note><identifier type="mh">book_6669</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-462ACE1A-321F-43F9-A541-54672CE54E26">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">山田美妙齋著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 新式 節用辭典</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,伊吕波引,p 1073</note>
+    <note type="price">四角八分</note>
+    <identifier type="mh">book_6669</identifier>
+</mods>

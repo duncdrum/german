@@ -1,1 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D4F3CFE3-9967-4C45-B930-9B869D7F9D90"><titleInfo lang="chi" script="Hant"><title>酵母顯微鏡圖解</title></titleInfo><note type="citation">日本書目志,卷八,工業門,釀造書,p 884</note><identifier type="mh">book_4192</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D4F3CFE3-9967-4C45-B930-9B869D7F9D90">
+    <titleInfo lang="chi" script="Hant">
+        <title>酵母顯微鏡圖解</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,釀造書,p 884</note>
+    <identifier type="mh">book_4192</identifier>
+</mods>

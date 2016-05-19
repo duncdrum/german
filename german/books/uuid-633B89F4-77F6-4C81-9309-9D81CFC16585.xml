@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-633B89F4-77F6-4C81-9309-9D81CFC16585"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">下河邊拾水子畫</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>武者魁圖會</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1094</note><note type="price">三角八分</note><identifier type="mh">book_6927</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-633B89F4-77F6-4C81-9309-9D81CFC16585">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">下河邊拾水子畫</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>武者魁圖會</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1094</note>
+    <note type="price">三角八分</note>
+    <identifier type="mh">book_6927</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EF7616DA-5908-4007-8F69-750F3927B972"><titleInfo lang="chi" script="Hant"><title>泰西新史攬要</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,通史,p 42</note><abstract type="summary"> 泰西新史攬要二十四卷 廣學會本八冊　石印小字本　湖南刪刻本　上海石印大字節本   [英]馬懇西著，[英]李提摩太譯，蔡爾康述，亦名泰西第十九周大事記。首法事記 歐洲治亂關鍵也，英為泰西樞紐，故所記尤詳，大旨以國為經，以事為緯，於近 百年來各國變法自強之迹，堪稱翔實，為西史佳本。 時務報館譯，有泰西新政史、日本新政史，並未見；勵學譯編有十九世紀大事記，十六周至十九周大事紀，均未印。  </abstract><identifier type="mh">book_4</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EF7616DA-5908-4007-8F69-750F3927B972">
+    <titleInfo lang="chi" script="Hant">
+        <title>泰西新史攬要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 42</note>
+    <abstract type="summary"> 泰西新史攬要二十四卷 廣學會本八冊　石印小字本　湖南刪刻本　上海石印大字節本   [英]馬懇西著，[英]李提摩太譯，蔡爾康述，亦名泰西第十九周大事記。首法事記 歐洲治亂關鍵也，英為泰西樞紐，故所記尤詳，大旨以國為經，以事為緯，於近 百年來各國變法自強之迹，堪稱翔實，為西史佳本。 時務報館譯，有泰西新政史、日本新政史，並未見；勵學譯編有十九世紀大事記，十六周至十九周大事紀，均未印。  </abstract>
+    <identifier type="mh">book_4</identifier>
+</mods>

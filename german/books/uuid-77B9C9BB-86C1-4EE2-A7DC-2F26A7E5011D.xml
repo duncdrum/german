@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-77B9C9BB-86C1-4EE2-A7DC-2F26A7E5011D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">名越時孝編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本地圖</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 683</note><note type="price">二角四分</note><identifier type="mh">book_1950</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-77B9C9BB-86C1-4EE2-A7DC-2F26A7E5011D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">名越時孝編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本地圖</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 683</note>
+    <note type="price">二角四分</note>
+    <identifier type="mh">book_1950</identifier>
+</mods>

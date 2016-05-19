@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C180522C-28B6-41C6-8647-EDA76A66F847"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">野村文舉著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>小學日本畫帖 高等科 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1110</note><note type="price">五角四分</note><identifier type="mh">book_7157</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C180522C-28B6-41C6-8647-EDA76A66F847">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">野村文舉著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學日本畫帖 高等科 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1110</note>
+    <note type="price">五角四分</note>
+    <identifier type="mh">book_7157</identifier>
+</mods>

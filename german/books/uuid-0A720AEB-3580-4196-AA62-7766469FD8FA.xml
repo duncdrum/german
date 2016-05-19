@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0A720AEB-3580-4196-AA62-7766469FD8FA"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">服奇宇之吉著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>中等論理學</title></titleInfo><note type="citation">日本書目志,卷二,理學門,論理學,p 655</note><note type="price">一圓</note><identifier type="mh">book_1646</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0A720AEB-3580-4196-AA62-7766469FD8FA">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">服奇宇之吉著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>中等論理學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,論理學,p 655</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_1646</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0371534D-D244-4169-AE9B-F43C57B98E1C"><titleInfo lang="chi" script="Hant"><title>日本印紙稅法</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 171</note><abstract type="summary"> 日本印紙稅法一卷 江南商務報本   江南商務報館譯。 [顧補]  </abstract><identifier type="mh">book_477</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0371534D-D244-4169-AE9B-F43C57B98E1C">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本印紙稅法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 171</note>
+    <abstract type="summary"> 日本印紙稅法一卷 江南商務報本   江南商務報館譯。 [顧補]  </abstract>
+    <identifier type="mh">book_477</identifier>
+</mods>

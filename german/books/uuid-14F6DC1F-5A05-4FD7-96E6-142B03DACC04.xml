@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-14F6DC1F-5A05-4FD7-96E6-142B03DACC04"><titleInfo lang="chi" script="Hant"><title> 大岡仁政錄 花笑屋藤作傳</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1153</note><note type="price">四角</note><identifier type="mh">book_7739</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-14F6DC1F-5A05-4FD7-96E6-142B03DACC04">
+    <titleInfo lang="chi" script="Hant">
+        <title> 大岡仁政錄 花笑屋藤作傳</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1153</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_7739</identifier>
+</mods>

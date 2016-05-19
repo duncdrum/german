@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FF513C1E-7680-42C9-8B3F-E1B6F449149A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">植田榮譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 須因頓氏 萬國史</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,萬國歷史,p 698</note><note type="price">一圓二角</note><identifier type="mh">book_2159</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FF513C1E-7680-42C9-8B3F-E1B6F449149A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">植田榮譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 須因頓氏 萬國史</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,萬國歷史,p 698</note>
+    <note type="price">一圓二角</note>
+    <identifier type="mh">book_2159</identifier>
+</mods>

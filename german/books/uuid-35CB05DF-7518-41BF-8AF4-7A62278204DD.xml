@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-35CB05DF-7518-41BF-8AF4-7A62278204DD"><titleInfo lang="chi" script="Hant"><title>刑事全書 《法律叢書》第三十四卷 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,刑法書,p 787</note><note type="price">四分</note><identifier type="mh">book_3239</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-35CB05DF-7518-41BF-8AF4-7A62278204DD">
+    <titleInfo lang="chi" script="Hant">
+        <title>刑事全書 《法律叢書》第三十四卷 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,刑法書,p 787</note>
+    <note type="price">四分</note>
+    <identifier type="mh">book_3239</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-933F7BF4-F4A0-4FE4-A84A-7AA265C3D11D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">土居清喜編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 東京新刻 名乘字引</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1076</note><note type="price">四分</note><identifier type="mh">book_6709</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-933F7BF4-F4A0-4FE4-A84A-7AA265C3D11D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">土居清喜編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 東京新刻 名乘字引</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1076</note>
+    <note type="price">四分</note>
+    <identifier type="mh">book_6709</identifier>
+</mods>

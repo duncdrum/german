@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A3EC6952-4A3D-40F6-B5DC-A2960397F302"><titleInfo lang="chi" script="Hant"><title>植漆法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 133</note><abstract type="summary"> 植漆法一卷 農學報本   [日本]初瀨川健增著，日本漆樹有二種，一曰梨皮、一曰餅皮，此書所言皆日本 種之種植、收刈法，講求此業者可與中法互攷之。 </abstract><identifier type="mh">book_319</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A3EC6952-4A3D-40F6-B5DC-A2960397F302">
+    <titleInfo lang="chi" script="Hant">
+        <title>植漆法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 133</note>
+    <abstract type="summary"> 植漆法一卷 農學報本   [日本]初瀨川健增著，日本漆樹有二種，一曰梨皮、一曰餅皮，此書所言皆日本 種之種植、收刈法，講求此業者可與中法互攷之。 </abstract>
+    <identifier type="mh">book_319</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A9C8406B-A99D-4A85-B0E4-AFF8DF8C3316"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">松村任三著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 教科用 植物分科覽要</title></titleInfo><note type="citation">日本書目志,卷二,理學門,植物學,p 648</note><note type="price">七角</note><identifier type="mh">book_1565</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A9C8406B-A99D-4A85-B0E4-AFF8DF8C3316">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">松村任三著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 教科用 植物分科覽要</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,植物學,p 648</note>
+    <note type="price">七角</note>
+    <identifier type="mh">book_1565</identifier>
+</mods>

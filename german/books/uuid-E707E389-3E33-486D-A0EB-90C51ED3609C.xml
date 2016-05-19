@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E707E389-3E33-486D-A0EB-90C51ED3609C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">佐木隆綱、原田嘉朝合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>聖德歌</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,唱歌集,p 996</note><note type="price">二分</note><identifier type="mh">book_5575</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E707E389-3E33-486D-A0EB-90C51ED3609C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">佐木隆綱、原田嘉朝合著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>聖德歌</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,唱歌集,p 996</note>
+    <note type="price">二分</note>
+    <identifier type="mh">book_5575</identifier>
+</mods>

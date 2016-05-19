@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7F432FEC-4B01-4F4E-A9B1-A56CF5D5E2BD"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">堀誠太郎譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>婦女性理一代鑑</title></titleInfo><note type="citation">日本書目志,卷一,生理門,生理學通俗,p 593</note><note type="price">三角</note><identifier type="mh">book_970</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7F432FEC-4B01-4F4E-A9B1-A56CF5D5E2BD">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">堀誠太郎譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>婦女性理一代鑑</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,生理學通俗,p 593</note>
+    <note type="price">三角</note>
+    <identifier type="mh">book_970</identifier>
+</mods>

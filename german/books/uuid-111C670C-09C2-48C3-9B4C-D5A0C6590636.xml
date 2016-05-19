@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-111C670C-09C2-48C3-9B4C-D5A0C6590636"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">瀧和亭畫</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>花鳥畫譜</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1092</note><note type="price">絹三圓紙二圓二角</note><identifier type="mh">book_6895</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-111C670C-09C2-48C3-9B4C-D5A0C6590636">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">瀧和亭畫</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>花鳥畫譜</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1092</note>
+    <note type="price">絹三圓紙二圓二角</note>
+    <identifier type="mh">book_6895</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DC81FD02-5B0E-49C9-B573-3B03D7284797"><titleInfo lang="chi" script="Hant"><title>初學衛生編</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 251</note><abstract type="summary"> 初學衛生編一卷 益智書會本一冊   [美]蓋樂格著，[英]傅蘭雅譯，此較以上二書又加精詳，中載護腦免病各說，皆體 貼微密。 </abstract><identifier type="mh">book_774</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DC81FD02-5B0E-49C9-B573-3B03D7284797">
+    <titleInfo lang="chi" script="Hant">
+        <title>初學衛生編</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 251</note>
+    <abstract type="summary"> 初學衛生編一卷 益智書會本一冊   [美]蓋樂格著，[英]傅蘭雅譯，此較以上二書又加精詳，中載護腦免病各說，皆體 貼微密。 </abstract>
+    <identifier type="mh">book_774</identifier>
+</mods>

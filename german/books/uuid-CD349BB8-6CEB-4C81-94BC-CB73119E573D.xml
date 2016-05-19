@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CD349BB8-6CEB-4C81-94BC-CB73119E573D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">岡勇譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>西洋果菜調理法</title></titleInfo><note type="citation">日本書目志,卷五,政治門,家政學,p 776</note><note type="price">一角五分</note><identifier type="mh">book_3128</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CD349BB8-6CEB-4C81-94BC-CB73119E573D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">岡勇譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>西洋果菜調理法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,家政學,p 776</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_3128</identifier>
+</mods>

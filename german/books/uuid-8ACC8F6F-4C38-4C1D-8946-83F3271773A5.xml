@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8ACC8F6F-4C38-4C1D-8946-83F3271773A5"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">石原法學士著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>政治原論</title></titleInfo><note type="citation">日本書目志,卷五,政治門,國家政治學,p 742</note><note type="price">二角五分</note><identifier type="mh">book_2721</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8ACC8F6F-4C38-4C1D-8946-83F3271773A5">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">石原法學士著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>政治原論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,國家政治學,p 742</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_2721</identifier>
+</mods>

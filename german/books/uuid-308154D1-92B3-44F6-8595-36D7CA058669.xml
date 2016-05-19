@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-308154D1-92B3-44F6-8595-36D7CA058669"><titleInfo lang="chi" script="Hant"><title>水師章程</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 104</note><abstract type="summary"> 水師章程八卷續編六卷 製造局本十六冊   [英]水師兵部原書，[美]林樂知譯，鄭昌棪述，書中凡官名及所辦事務等名皆譯 音不譯義，故滿紙多不相屬之字，佶屈難讀。 </abstract><identifier type="mh">book_209</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-308154D1-92B3-44F6-8595-36D7CA058669">
+    <titleInfo lang="chi" script="Hant">
+        <title>水師章程</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 104</note>
+    <abstract type="summary"> 水師章程八卷續編六卷 製造局本十六冊   [英]水師兵部原書，[美]林樂知譯，鄭昌棪述，書中凡官名及所辦事務等名皆譯 音不譯義，故滿紙多不相屬之字，佶屈難讀。 </abstract>
+    <identifier type="mh">book_209</identifier>
+</mods>

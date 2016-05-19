@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-72B505B4-4FEC-40DB-B8B7-CDAAE85AF468"><titleInfo lang="chi" script="Hant"><title>英國教養平民法</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 73</note><abstract type="summary"> 英國教養平民法　卷 東亞報本   [英]托立衣戲氏著，[日本]大橋鐵太郎譯，治國以教養貧民兒為最，蓋將來由壯 而老之害，非可輕視，今上海所設養蒙義塾，頗得其意。 [顧補]  </abstract><identifier type="mh">book_103</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-72B505B4-4FEC-40DB-B8B7-CDAAE85AF468">
+    <titleInfo lang="chi" script="Hant">
+        <title>英國教養平民法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 73</note>
+    <abstract type="summary"> 英國教養平民法　卷 東亞報本   [英]托立衣戲氏著，[日本]大橋鐵太郎譯，治國以教養貧民兒為最，蓋將來由壯 而老之害，非可輕視，今上海所設養蒙義塾，頗得其意。 [顧補]  </abstract>
+    <identifier type="mh">book_103</identifier>
+</mods>

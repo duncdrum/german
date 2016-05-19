@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1D22B719-FCD7-4003-80C8-438E16AA2E5E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">北海道廳編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>北海道移住案內</title></titleInfo><note type="citation">日本書目志,卷五,政治門,移住殖民書,p 771</note><note type="price">二角五分</note><identifier type="mh">book_3067</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1D22B719-FCD7-4003-80C8-438E16AA2E5E">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">北海道廳編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>北海道移住案內</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,移住殖民書,p 771</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_3067</identifier>
+</mods>

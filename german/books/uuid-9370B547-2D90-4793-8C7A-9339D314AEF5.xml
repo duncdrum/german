@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9370B547-2D90-4793-8C7A-9339D314AEF5"><titleInfo lang="chi" script="Hant"><title> 繪入實錄 宫本二刀傳</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1190</note><note type="price">四分</note><identifier type="mh">book_8284</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9370B547-2D90-4793-8C7A-9339D314AEF5">
+    <titleInfo lang="chi" script="Hant">
+        <title> 繪入實錄 宫本二刀傳</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1190</note>
+    <note type="price">四分</note>
+    <identifier type="mh">book_8284</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E6DAFE3F-366A-459C-871F-EF54F1A213C5"><titleInfo lang="chi" script="Hant"><title>商法會議之仕方</title></titleInfo><note type="citation">日本書目志,卷九,商業門,商業書,p 890</note><note type="price">八分</note><identifier type="mh">book_4256</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E6DAFE3F-366A-459C-871F-EF54F1A213C5">
+    <titleInfo lang="chi" script="Hant">
+        <title>商法會議之仕方</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,商業書,p 890</note>
+    <note type="price">八分</note>
+    <identifier type="mh">book_4256</identifier>
+</mods>

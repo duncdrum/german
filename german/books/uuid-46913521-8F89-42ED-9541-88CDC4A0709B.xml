@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-46913521-8F89-42ED-9541-88CDC4A0709B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">三宅雄次郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>哲學涓滴</title></titleInfo><note type="citation">日本書目志,卷二,理學門,哲學,p 652</note><note type="price">七角</note><identifier type="mh">book_1613</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-46913521-8F89-42ED-9541-88CDC4A0709B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">三宅雄次郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>哲學涓滴</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,哲學,p 652</note>
+    <note type="price">七角</note>
+    <identifier type="mh">book_1613</identifier>
+</mods>

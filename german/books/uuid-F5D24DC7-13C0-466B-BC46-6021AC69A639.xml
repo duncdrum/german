@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F5D24DC7-13C0-466B-BC46-6021AC69A639"><titleInfo lang="chi" script="Hant"><title>電學總覽</title></titleInfo><note type="citation">增版東西學書錄,卷三,電學第十四,p 199</note><abstract type="summary"> 電學總覽一卷 廣學會本一冊   [英]傅恒理譯著，凡七章，多言電報德律風功用，書雖新出而於近年講求之新 理，未能採譯。 </abstract><identifier type="mh">book_568</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F5D24DC7-13C0-466B-BC46-6021AC69A639">
+    <titleInfo lang="chi" script="Hant">
+        <title>電學總覽</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,電學第十四,p 199</note>
+    <abstract type="summary"> 電學總覽一卷 廣學會本一冊   [英]傅恒理譯著，凡七章，多言電報德律風功用，書雖新出而於近年講求之新 理，未能採譯。 </abstract>
+    <identifier type="mh">book_568</identifier>
+</mods>

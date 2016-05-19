@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-70DF89D1-6094-406E-95B1-8C56F215A088"><titleInfo lang="chi" script="Hant"><title>鐵路鍼向</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 157</note><abstract type="summary"> 鐵路鍼向一卷 不著撰人名氏，[英]傅蘭雅譯，徐壽述。  </abstract><identifier type="mh">book_421</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-70DF89D1-6094-406E-95B1-8C56F215A088">
+    <titleInfo lang="chi" script="Hant">
+        <title>鐵路鍼向</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 157</note>
+    <abstract type="summary"> 鐵路鍼向一卷 不著撰人名氏，[英]傅蘭雅譯，徐壽述。  </abstract>
+    <identifier type="mh">book_421</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-67F24625-EC8B-4ECB-BF25-BF1C6B8CC434"><titleInfo lang="chi" script="Hant"><title>工程機器器具圖說</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 151</note><abstract type="summary"> 工程機器器具圖說一卷 格致彙編本   [英]傅蘭雅輯譯，一泥土工程器、二工藝家手用器、三鐵工輪工器、四特設工程 器、五新法木工器。按工程之器具最繁今擇最要者，譯成一卷，足以備用。彙編 一有輪鋸圖說打樁汽機說，可參觀。 製造局印有英傅蘭雅、徐壽譯，造汽機等手工二冊，未成。  </abstract><identifier type="mh">book_390</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-67F24625-EC8B-4ECB-BF25-BF1C6B8CC434">
+    <titleInfo lang="chi" script="Hant">
+        <title>工程機器器具圖說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 151</note>
+    <abstract type="summary"> 工程機器器具圖說一卷 格致彙編本   [英]傅蘭雅輯譯，一泥土工程器、二工藝家手用器、三鐵工輪工器、四特設工程 器、五新法木工器。按工程之器具最繁今擇最要者，譯成一卷，足以備用。彙編 一有輪鋸圖說打樁汽機說，可參觀。 製造局印有英傅蘭雅、徐壽譯，造汽機等手工二冊，未成。  </abstract>
+    <identifier type="mh">book_390</identifier>
+</mods>

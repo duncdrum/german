@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FE8035F3-1999-4C78-BB32-ACCA75C9D322"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">宮古啟二郎譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>經濟學</title></titleInfo><note type="citation">日本書目志,卷五,政治門,經濟學,p 766</note><note type="price">一圓二角</note><identifier type="mh">book_2993</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FE8035F3-1999-4C78-BB32-ACCA75C9D322">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">宮古啟二郎譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>經濟學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,經濟學,p 766</note>
+    <note type="price">一圓二角</note>
+    <identifier type="mh">book_2993</identifier>
+</mods>

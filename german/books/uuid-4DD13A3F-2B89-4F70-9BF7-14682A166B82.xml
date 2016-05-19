@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4DD13A3F-2B89-4F70-9BF7-14682A166B82"><titleInfo lang="chi" script="Hant"><title>枇榔法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note><abstract type="summary"> 枇榔法一卷 農學報本   [日本]農會報著，[日本]藤田豐八譯，枇榔即本草綱目之蒲葵，日本沖繩諸島多 產之，篇中論枇榔種類甚詳，並附以各國製扇之圖。 [顧補]  </abstract><identifier type="mh">book_315</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4DD13A3F-2B89-4F70-9BF7-14682A166B82">
+    <titleInfo lang="chi" script="Hant">
+        <title>枇榔法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note>
+    <abstract type="summary"> 枇榔法一卷 農學報本   [日本]農會報著，[日本]藤田豐八譯，枇榔即本草綱目之蒲葵，日本沖繩諸島多 產之，篇中論枇榔種類甚詳，並附以各國製扇之圖。 [顧補]  </abstract>
+    <identifier type="mh">book_315</identifier>
+</mods>

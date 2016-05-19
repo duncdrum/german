@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B013332E-EB24-4862-A592-40DBEA1D1850"><titleInfo lang="chi" script="Hant"><title>肄業要覽</title></titleInfo><note type="citation">增版東西學書錄,卷一,學校第三,學校,p 79</note><abstract type="summary"> 肄業要覽一卷 上海排印本一冊　湘學報本，改名史氏新學記。　西政叢書本　格致書室印本　格致彙編本   [英]史本守著，顏永京譯，史氏見國中大書院皆希利尼羅馬之文，無當於實用， 遂慨然推論人生學業，輕重得失之要，復昌言講新法而不明格致之害，著為 成書，徧行國中，其後俄、法、德、意、荷、丹、奧諸國深知其益，譯以教學者，而國日盛。 書中論列大旨，分為五端，曰保護性命之學、曰護生計之學、曰教養子女之學、 曰為民下之學、曰玩物適情之學，就五端分條推闡，確中時弊，內論盡民下責 分一篇，尤足以救中國今日民心之弊，不可不急讀也。 </abstract><identifier type="mh">book_131</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B013332E-EB24-4862-A592-40DBEA1D1850">
+    <titleInfo lang="chi" script="Hant">
+        <title>肄業要覽</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 79</note>
+    <abstract type="summary"> 肄業要覽一卷 上海排印本一冊　湘學報本，改名史氏新學記。　西政叢書本　格致書室印本　格致彙編本   [英]史本守著，顏永京譯，史氏見國中大書院皆希利尼羅馬之文，無當於實用， 遂慨然推論人生學業，輕重得失之要，復昌言講新法而不明格致之害，著為 成書，徧行國中，其後俄、法、德、意、荷、丹、奧諸國深知其益，譯以教學者，而國日盛。 書中論列大旨，分為五端，曰保護性命之學、曰護生計之學、曰教養子女之學、 曰為民下之學、曰玩物適情之學，就五端分條推闡，確中時弊，內論盡民下責 分一篇，尤足以救中國今日民心之弊，不可不急讀也。 </abstract>
+    <identifier type="mh">book_131</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CE304F0F-970E-46CA-B0C5-372AAC198AC4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農商務省藏板</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>蠶桑生理問答</title></titleInfo><note type="citation">日本書目志,卷七,農業門,蠶桑書,p 855</note><note type="price">四角</note><identifier type="mh">book_3928</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CE304F0F-970E-46CA-B0C5-372AAC198AC4">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農商務省藏板</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>蠶桑生理問答</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,蠶桑書,p 855</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_3928</identifier>
+</mods>

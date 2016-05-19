@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FE37822D-BAD7-4D2E-8B31-709D2B29D308"><titleInfo lang="chi" script="Hant"><title>威廉振興荷蘭紀略</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 65</note><abstract type="summary"> 威廉振興荷蘭紀略二卷 廣學會本   廣學會譯，歷叙威廉雄才大略，功業巍巍，而其道仍不外教養二字，洵興邦之 左券也。 [顧補]  </abstract><identifier type="mh">book_79</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FE37822D-BAD7-4D2E-8B31-709D2B29D308">
+    <titleInfo lang="chi" script="Hant">
+        <title>威廉振興荷蘭紀略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 65</note>
+    <abstract type="summary"> 威廉振興荷蘭紀略二卷 廣學會本   廣學會譯，歷叙威廉雄才大略，功業巍巍，而其道仍不外教養二字，洵興邦之 左券也。 [顧補]  </abstract>
+    <identifier type="mh">book_79</identifier>
+</mods>

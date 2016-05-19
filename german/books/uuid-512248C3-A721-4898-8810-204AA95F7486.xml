@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-512248C3-A721-4898-8810-204AA95F7486"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">西村富次郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 小學生徒 少年俱樂部</title></titleInfo><note type="citation">日本書目志,卷十,教育門,少年教育書,p 955</note><note type="price">六分</note><identifier type="mh">book_5032</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-512248C3-A721-4898-8810-204AA95F7486">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">西村富次郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 小學生徒 少年俱樂部</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,少年教育書,p 955</note>
+    <note type="price">六分</note>
+    <identifier type="mh">book_5032</identifier>
+</mods>

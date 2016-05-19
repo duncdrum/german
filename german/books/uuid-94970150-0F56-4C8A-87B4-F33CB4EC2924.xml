@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-94970150-0F56-4C8A-87B4-F33CB4EC2924"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">須田勝三郎譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>醫用分析畧法</title></titleInfo><note type="citation">日本書目志,卷二,理學門,分析書,p 634</note><note type="price">二角五分</note><identifier type="mh">book_1425</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-94970150-0F56-4C8A-87B4-F33CB4EC2924">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">須田勝三郎譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>醫用分析畧法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,分析書,p 634</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_1425</identifier>
+</mods>

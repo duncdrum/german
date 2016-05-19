@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BCFED982-3B37-40D8-B083-4A27E2089D9A"><titleInfo lang="chi" script="Hant"><title>西醫略論</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 241</note><abstract type="summary"> 西醫略論三卷 惠受醫館刊本一冊   [英]合信著，論所不能盡者，著之圖，雖曰略論，而西國審證治療之法已具於 斯。 </abstract><identifier type="mh">book_732</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BCFED982-3B37-40D8-B083-4A27E2089D9A">
+    <titleInfo lang="chi" script="Hant">
+        <title>西醫略論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 241</note>
+    <abstract type="summary"> 西醫略論三卷 惠受醫館刊本一冊   [英]合信著，論所不能盡者，著之圖，雖曰略論，而西國審證治療之法已具於 斯。 </abstract>
+    <identifier type="mh">book_732</identifier>
+</mods>

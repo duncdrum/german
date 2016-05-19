@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-079C991E-8989-40C1-B454-06B9020E3489"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">石川暎作、嵯峨正作、金谷昭、三木實合譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 泰西 政事類典 再版 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,類書,p 738</note><note type="price">十圓</note><identifier type="mh">book_2704</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-079C991E-8989-40C1-B454-06B9020E3489">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">石川暎作、嵯峨正作、金谷昭、三木實合譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 泰西 政事類典 再版 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,類書,p 738</note>
+    <note type="price">十圓</note>
+    <identifier type="mh">book_2704</identifier>
+</mods>

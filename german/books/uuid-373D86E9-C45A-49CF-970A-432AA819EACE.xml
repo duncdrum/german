@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-373D86E9-C45A-49CF-970A-432AA819EACE"><titleInfo lang="chi" script="Hant"><title>作戰糧食給養法</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 98</note><abstract type="summary"> 作戰糧食給養法一冊 南洋公學本   [日本]陸軍經理學校原本，南洋公學譯書院譯，彼國陸軍經理學校學生，分兩 科，曰監督、曰軍吏。是書為監督科教程本，分上下二篇，上篇為預習事項凡五 章，首章釋給養名義，二三章論軍隊區別及行止事宜，四章論水陸交通之法 ，為本書最要關鍵，末章論凡關繫給養之事，下篇為給養職事綱領及施行方 法，凡三章，前二章即本篇條目，後二篇復推論給養之非常法者，至是而給養 之道備矣。 [徐補]  </abstract><identifier type="mh">book_194</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-373D86E9-C45A-49CF-970A-432AA819EACE">
+    <titleInfo lang="chi" script="Hant">
+        <title>作戰糧食給養法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 98</note>
+    <abstract type="summary"> 作戰糧食給養法一冊 南洋公學本   [日本]陸軍經理學校原本，南洋公學譯書院譯，彼國陸軍經理學校學生，分兩 科，曰監督、曰軍吏。是書為監督科教程本，分上下二篇，上篇為預習事項凡五 章，首章釋給養名義，二三章論軍隊區別及行止事宜，四章論水陸交通之法 ，為本書最要關鍵，末章論凡關繫給養之事，下篇為給養職事綱領及施行方 法，凡三章，前二章即本篇條目，後二篇復推論給養之非常法者，至是而給養 之道備矣。 [徐補]  </abstract>
+    <identifier type="mh">book_194</identifier>
+</mods>

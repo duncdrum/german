@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E5315BE3-5A3D-43FA-A450-51FD0BC47C2D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">河村與一郎編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 鼇頭插畫 日本外史字類大全</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1078</note><note type="price">二角七分</note><identifier type="mh">book_6732</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E5315BE3-5A3D-43FA-A450-51FD0BC47C2D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">河村與一郎編纂</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 鼇頭插畫 日本外史字類大全</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1078</note>
+    <note type="price">二角七分</note>
+    <identifier type="mh">book_6732</identifier>
+</mods>

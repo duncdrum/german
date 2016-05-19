@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-050F99AF-C1FC-4319-B84F-DE1B4488BADF"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">文學士田中稻城、赤堀又二郎同纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 中等教科 日本歷史</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 705</note><note type="price">一圓六角</note><identifier type="mh">book_2247</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-050F99AF-C1FC-4319-B84F-DE1B4488BADF">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">文學士田中稻城、赤堀又二郎同纂</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 中等教科 日本歷史</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 705</note>
+    <note type="price">一圓六角</note>
+    <identifier type="mh">book_2247</identifier>
+</mods>

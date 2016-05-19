@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6733BAFF-2EDE-4415-A58B-5CDF7B2F546D"><titleInfo lang="chi" script="Hant"><title>大日本八雄傳</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,傳記,p 720</note><note type="price">一角八分</note><identifier type="mh">book_2458</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6733BAFF-2EDE-4415-A58B-5CDF7B2F546D">
+    <titleInfo lang="chi" script="Hant">
+        <title>大日本八雄傳</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 720</note>
+    <note type="price">一角八分</note>
+    <identifier type="mh">book_2458</identifier>
+</mods>

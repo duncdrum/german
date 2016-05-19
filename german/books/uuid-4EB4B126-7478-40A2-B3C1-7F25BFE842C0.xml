@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4EB4B126-7478-40A2-B3C1-7F25BFE842C0"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">酒井捨彥編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 旅中必攜 驛路便覽</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,旅行案內及道中記,p 735</note><note type="price">二角五分</note><identifier type="mh">book_2659</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4EB4B126-7478-40A2-B3C1-7F25BFE842C0">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">酒井捨彥編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 旅中必攜 驛路便覽</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,旅行案內及道中記,p 735</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_2659</identifier>
+</mods>

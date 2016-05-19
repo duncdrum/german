@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-226633BF-9E0C-474D-83FA-590DFB385FCC"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">稻田千頴撰</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>新篇讀本 小學校用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,小學讀本,p 951</note><note type="price">五角三分五釐</note><identifier type="mh">book_4977</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-226633BF-9E0C-474D-83FA-590DFB385FCC">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">稻田千頴撰</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>新篇讀本 小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,小學讀本,p 951</note>
+    <note type="price">五角三分五釐</note>
+    <identifier type="mh">book_4977</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D1896AE9-9DD8-44D7-9D93-EC875AC82305"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">酒井捨彥編纂　岡村增太郎校</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本暗射新圖 小學校用 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 684</note><note type="price">九角</note><identifier type="mh">book_1973</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D1896AE9-9DD8-44D7-9D93-EC875AC82305">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">酒井捨彥編纂　岡村增太郎校</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本暗射新圖 小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 684</note>
+    <note type="price">九角</note>
+    <identifier type="mh">book_1973</identifier>
+</mods>

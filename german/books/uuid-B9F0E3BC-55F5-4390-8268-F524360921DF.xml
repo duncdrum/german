@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B9F0E3BC-55F5-4390-8268-F524360921DF"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">小笠原勝刪</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>續國史略 三編 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 707</note><note type="price">二角八分</note><identifier type="mh">book_2272</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B9F0E3BC-55F5-4390-8268-F524360921DF">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">小笠原勝刪</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>續國史略 三編 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 707</note>
+    <note type="price">二角八分</note>
+    <identifier type="mh">book_2272</identifier>
+</mods>

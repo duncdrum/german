@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E3874985-7F22-4C37-A442-C8B29B2E051A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">飯田直編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>諸家史論鈔</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 704</note><note type="price">五角</note><identifier type="mh">book_2227</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E3874985-7F22-4C37-A442-C8B29B2E051A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">飯田直編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>諸家史論鈔</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 704</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_2227</identifier>
+</mods>

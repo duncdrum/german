@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-624F846E-8B3E-48EB-B939-423C8E9E1777"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">松本收編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>松脂採收法</title></titleInfo><note type="citation">日本書目志,卷七,農業門,農業雜書,p 825</note><note type="price">一角</note><identifier type="mh">book_3654</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-624F846E-8B3E-48EB-B939-423C8E9E1777">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">松本收編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>松脂採收法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,農業雜書,p 825</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_3654</identifier>
+</mods>

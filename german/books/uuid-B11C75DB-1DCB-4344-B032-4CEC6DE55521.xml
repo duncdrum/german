@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B11C75DB-1DCB-4344-B032-4CEC6DE55521"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">山本明納、村山垢太郎共著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 教科摘要 帝國新地圖</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 683</note><note type="price">上製四角　並製三角五分</note><identifier type="mh">book_1959</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B11C75DB-1DCB-4344-B032-4CEC6DE55521">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">山本明納、村山垢太郎共著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 教科摘要 帝國新地圖</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 683</note>
+    <note type="price">上製四角　並製三角五分</note>
+    <identifier type="mh">book_1959</identifier>
+</mods>

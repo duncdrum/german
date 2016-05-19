@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BC80E026-0559-4FC5-85A8-2F4691C082ED"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">松原新之助述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>藥用植物編</title></titleInfo><note type="citation">日本書目志,卷一,生理門,藥用動植物,p 603</note><note type="price">一圓五角</note><identifier type="mh">book_1075</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BC80E026-0559-4FC5-85A8-2F4691C082ED">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">松原新之助述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>藥用植物編</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,藥用動植物,p 603</note>
+    <note type="price">一圓五角</note>
+    <identifier type="mh">book_1075</identifier>
+</mods>

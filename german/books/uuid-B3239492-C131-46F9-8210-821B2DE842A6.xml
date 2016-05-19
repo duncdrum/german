@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B3239492-C131-46F9-8210-821B2DE842A6"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">山田延太郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>明治大家絕句</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,詩集,p 973</note><note type="price">一角二分</note><identifier type="mh">book_5245</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B3239492-C131-46F9-8210-821B2DE842A6">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">山田延太郎編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治大家絕句</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,詩集,p 973</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_5245</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-20BBD1A2-0C2D-4DBA-ABB7-288AA506C034"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">天津真著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>皇朝神典</title></titleInfo><note type="citation">日本書目志,卷三,宗教門,神道書,p 666</note><note type="price">六角</note><identifier type="mh">book_1772</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-20BBD1A2-0C2D-4DBA-ABB7-288AA506C034">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">天津真著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>皇朝神典</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,神道書,p 666</note>
+    <note type="price">六角</note>
+    <identifier type="mh">book_1772</identifier>
+</mods>

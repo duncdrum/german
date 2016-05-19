@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A58B40D4-E505-47DA-A5F9-0175F75B3459"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">矢田部良吉譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本植物圖解英和兩文</title></titleInfo><note type="citation">日本書目志,卷二,理學門,植物學,p 648</note><note type="price">一圓</note><identifier type="mh">book_1567</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A58B40D4-E505-47DA-A5F9-0175F75B3459">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">矢田部良吉譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本植物圖解英和兩文</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,植物學,p 648</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_1567</identifier>
+</mods>

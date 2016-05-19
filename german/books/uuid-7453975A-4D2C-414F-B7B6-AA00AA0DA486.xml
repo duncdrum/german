@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7453975A-4D2C-414F-B7B6-AA00AA0DA486"><titleInfo lang="chi" script="Hant"><title>社寺全書 《法律叢書》第二十二卷 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,法規雜書,p 810</note><note type="price">五分</note><identifier type="mh">book_3549</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7453975A-4D2C-414F-B7B6-AA00AA0DA486">
+    <titleInfo lang="chi" script="Hant">
+        <title>社寺全書 《法律叢書》第二十二卷 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,法規雜書,p 810</note>
+    <note type="price">五分</note>
+    <identifier type="mh">book_3549</identifier>
+</mods>

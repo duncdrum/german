@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A3D9F20C-BEBE-4CEB-81F2-DCD82BDAE0D7"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大塚熊吉編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 專賣特許 文字綴板</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,遊戲書,p 1124</note><note type="price">二角</note><identifier type="mh">book_7348</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A3D9F20C-BEBE-4CEB-81F2-DCD82BDAE0D7">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大塚熊吉編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 專賣特許 文字綴板</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,遊戲書,p 1124</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_7348</identifier>
+</mods>

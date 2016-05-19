@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-04709F9A-9F19-4E84-A74B-57163928A9DB"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">矢田部良吉譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>植物學初步</title></titleInfo><note type="citation">日本書目志,卷二,理學門,植物學,p 650</note><note type="price">四角</note><identifier type="mh">book_1595</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-04709F9A-9F19-4E84-A74B-57163928A9DB">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">矢田部良吉譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>植物學初步</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,植物學,p 650</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_1595</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-65E02B72-C3C0-47F9-A1E1-F085FF941762"><titleInfo lang="chi" script="Hant"><title>礦務演說</title></titleInfo><note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 140</note><abstract type="summary"> 礦務演說　卷 知新報本   [美]安打必列治著，周靈生譯，言礦之試騐極詳，頗有新理法。 [顧補]  </abstract><identifier type="mh">book_348</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-65E02B72-C3C0-47F9-A1E1-F085FF941762">
+    <titleInfo lang="chi" script="Hant">
+        <title>礦務演說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 140</note>
+    <abstract type="summary"> 礦務演說　卷 知新報本   [美]安打必列治著，周靈生譯，言礦之試騐極詳，頗有新理法。 [顧補]  </abstract>
+    <identifier type="mh">book_348</identifier>
+</mods>

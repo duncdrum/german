@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8CE43A36-A8CE-4B6B-87F4-62A4B1813434"><titleInfo lang="chi" script="Hant"><title>運規約指</title></titleInfo><note type="citation">增版東西學書錄,卷四,圖學第二十四,圖算,p 254</note><abstract type="summary"> 運規約指三卷 製造局本一冊   [英]白起德輯，[英]傅蘭雅譯，徐建寅述，幾何學以作圖為要，是書即節錄幾何略 有附益，然首言單行諸法，次言合形諸法，次言更面諸法，共一百三十六題條 段，詳明能括形學之大綱。其第一百二十一題，其法頗簡，初學每不易解，如究 其原因即，從幾何原本第六卷第十五題化出，故宜參閱之。 </abstract><identifier type="mh">book_784</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8CE43A36-A8CE-4B6B-87F4-62A4B1813434">
+    <titleInfo lang="chi" script="Hant">
+        <title>運規約指</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,圖學第二十四,圖算,p 254</note>
+    <abstract type="summary"> 運規約指三卷 製造局本一冊   [英]白起德輯，[英]傅蘭雅譯，徐建寅述，幾何學以作圖為要，是書即節錄幾何略 有附益，然首言單行諸法，次言合形諸法，次言更面諸法，共一百三十六題條 段，詳明能括形學之大綱。其第一百二十一題，其法頗簡，初學每不易解，如究 其原因即，從幾何原本第六卷第十五題化出，故宜參閱之。 </abstract>
+    <identifier type="mh">book_784</identifier>
+</mods>

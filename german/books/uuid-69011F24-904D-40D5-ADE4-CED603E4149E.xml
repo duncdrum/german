@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-69011F24-904D-40D5-ADE4-CED603E4149E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">文部省音樂取調掛</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>樂典</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,音樂及音曲,p 1116</note><note type="price">七角</note><identifier type="mh">book_7239</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-69011F24-904D-40D5-ADE4-CED603E4149E">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">文部省音樂取調掛</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>樂典</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,音樂及音曲,p 1116</note>
+    <note type="price">七角</note>
+    <identifier type="mh">book_7239</identifier>
+</mods>

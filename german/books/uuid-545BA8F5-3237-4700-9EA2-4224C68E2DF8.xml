@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-545BA8F5-3237-4700-9EA2-4224C68E2DF8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">田口卯吉著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 新刻 續經濟策</title></titleInfo><note type="citation">日本書目志,卷五,政治門,經濟學,p 767</note><note type="price">並製五角上製七角</note><identifier type="mh">book_3005</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-545BA8F5-3237-4700-9EA2-4224C68E2DF8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">田口卯吉著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 新刻 續經濟策</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,經濟學,p 767</note>
+    <note type="price">並製五角上製七角</note>
+    <identifier type="mh">book_3005</identifier>
+</mods>

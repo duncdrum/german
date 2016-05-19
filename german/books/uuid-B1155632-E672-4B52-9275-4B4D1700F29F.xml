@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B1155632-E672-4B52-9275-4B4D1700F29F"><titleInfo lang="chi" script="Hant"><title>蜻蛉日記 《日本文學全書》第五篇之內 </title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1036</note><note type="price">二角五分</note><identifier type="mh">book_6116</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B1155632-E672-4B52-9275-4B4D1700F29F">
+    <titleInfo lang="chi" script="Hant">
+        <title>蜻蛉日記 《日本文學全書》第五篇之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1036</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_6116</identifier>
+</mods>

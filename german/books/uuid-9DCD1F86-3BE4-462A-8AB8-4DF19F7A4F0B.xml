@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9DCD1F86-3BE4-462A-8AB8-4DF19F7A4F0B"><titleInfo lang="chi" script="Hant"><title>格致小引</title></titleInfo><note type="citation">增版東西學書錄,卷三,格致總第十一,p 177</note><abstract type="summary"> 格致小引一卷 製造局本一冊　上海石印本   [英]赫施賚著，[英]羅亨利、瞿昂來同譯，第一章論物與格物，第二章論有體質之 物，第三章論生物，卷葉雖少，然推論公理甚為明晰，講水學、重學、氣學者，先以 此為綱要。 </abstract><identifier type="mh">book_496</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9DCD1F86-3BE4-462A-8AB8-4DF19F7A4F0B">
+    <titleInfo lang="chi" script="Hant">
+        <title>格致小引</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 177</note>
+    <abstract type="summary"> 格致小引一卷 製造局本一冊　上海石印本   [英]赫施賚著，[英]羅亨利、瞿昂來同譯，第一章論物與格物，第二章論有體質之 物，第三章論生物，卷葉雖少，然推論公理甚為明晰，講水學、重學、氣學者，先以 此為綱要。 </abstract>
+    <identifier type="mh">book_496</identifier>
+</mods>

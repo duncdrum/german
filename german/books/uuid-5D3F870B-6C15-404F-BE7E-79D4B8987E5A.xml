@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5D3F870B-6C15-404F-BE7E-79D4B8987E5A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">酒井捨彥著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>關八州分國全圖 安房之部 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,府縣及分國圖,p 693</note><note type="price">九分</note><identifier type="mh">book_2094</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5D3F870B-6C15-404F-BE7E-79D4B8987E5A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">酒井捨彥著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>關八州分國全圖 安房之部 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,府縣及分國圖,p 693</note>
+    <note type="price">九分</note>
+    <identifier type="mh">book_2094</identifier>
+</mods>

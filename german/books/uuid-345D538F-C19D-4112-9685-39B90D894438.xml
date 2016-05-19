@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-345D538F-C19D-4112-9685-39B90D894438"><titleInfo lang="chi" script="Hant"><title>圓錐曲綫說</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,曲綫,p 192</note><abstract type="summary"> 圓錐曲綫說三卷 金陵刊本附則古昔齋重學　中西算學大成為代數術第十九二十二十一三卷   [英]艾約瑟、李善蘭同譯，論圓、錐、曲綫三種，曰橢圓綫、曰雙曲綫、曰抛物綫，均以 代數比例布算證明，圓錐割成三曲綫之理及求心差弦矢等法，其於法綫，次 法綫、次切綫皆未之及，學者既讀此書，再取代微積拾級三五六七卷，讀之於 圓錐三曲之學，已具大概。 </abstract><identifier type="mh">book_547</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-345D538F-C19D-4112-9685-39B90D894438">
+    <titleInfo lang="chi" script="Hant">
+        <title>圓錐曲綫說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,曲綫,p 192</note>
+    <abstract type="summary"> 圓錐曲綫說三卷 金陵刊本附則古昔齋重學　中西算學大成為代數術第十九二十二十一三卷   [英]艾約瑟、李善蘭同譯，論圓、錐、曲綫三種，曰橢圓綫、曰雙曲綫、曰抛物綫，均以 代數比例布算證明，圓錐割成三曲綫之理及求心差弦矢等法，其於法綫，次 法綫、次切綫皆未之及，學者既讀此書，再取代微積拾級三五六七卷，讀之於 圓錐三曲之學，已具大概。 </abstract>
+    <identifier type="mh">book_547</identifier>
+</mods>

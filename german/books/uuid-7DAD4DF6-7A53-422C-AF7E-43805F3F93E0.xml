@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7DAD4DF6-7A53-422C-AF7E-43805F3F93E0"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">內閣統計局譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 日本帝國 第十一統計年鑑</title></titleInfo><note type="citation">日本書目志,卷五,政治門,統計學,p 772</note><note type="price">一圓三角</note><identifier type="mh">book_3079</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7DAD4DF6-7A53-422C-AF7E-43805F3F93E0">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">內閣統計局譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 日本帝國 第十一統計年鑑</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,統計學,p 772</note>
+    <note type="price">一圓三角</note>
+    <identifier type="mh">book_3079</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6505F508-D957-4599-9363-61CDBF6A97E8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">西村正三郎、杉山文梧、岡野熊太郎合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 尋常小學 作文</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1040</note><note type="price">九角一分</note><identifier type="mh">book_6184</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6505F508-D957-4599-9363-61CDBF6A97E8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">西村正三郎、杉山文梧、岡野熊太郎合著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 尋常小學 作文</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1040</note>
+    <note type="price">九角一分</note>
+    <identifier type="mh">book_6184</identifier>
+</mods>

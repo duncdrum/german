@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AA487A0A-9F31-4242-A416-75C032369C4C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">霞亭主人著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>浮世</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1170</note><note type="price">一角六分</note><identifier type="mh">book_7988</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AA487A0A-9F31-4242-A416-75C032369C4C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">霞亭主人著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>浮世</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1170</note>
+    <note type="price">一角六分</note>
+    <identifier type="mh">book_7988</identifier>
+</mods>

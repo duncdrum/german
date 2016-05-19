@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7B1EC678-3A75-47E3-9BC9-2442AD76A80F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大藏省主稅局編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 改正 酒醬油桶容量速算表</title></titleInfo><note type="citation">日本書目志,卷八,工業門,釀造書,p 884</note><note type="price">一角五分</note><identifier type="mh">book_4195</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7B1EC678-3A75-47E3-9BC9-2442AD76A80F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大藏省主稅局編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 改正 酒醬油桶容量速算表</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,釀造書,p 884</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_4195</identifier>
+</mods>

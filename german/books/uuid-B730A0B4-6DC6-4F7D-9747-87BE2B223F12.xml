@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B730A0B4-6DC6-4F7D-9747-87BE2B223F12"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">沼田正一著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日清貿易針砭</title></titleInfo><note type="citation">日本書目志,卷九,商業門,貿易書,p 894</note><note type="price">三角</note><identifier type="mh">book_4284</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B730A0B4-6DC6-4F7D-9747-87BE2B223F12">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">沼田正一著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日清貿易針砭</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,貿易書,p 894</note>
+    <note type="price">三角</note>
+    <identifier type="mh">book_4284</identifier>
+</mods>

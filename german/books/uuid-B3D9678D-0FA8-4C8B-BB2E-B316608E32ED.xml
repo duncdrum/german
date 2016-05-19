@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B3D9678D-0FA8-4C8B-BB2E-B316608E32ED"><titleInfo lang="chi" script="Hant"><title>化學器</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學器,p 206</note><abstract type="summary"> 化學器二卷 格致彙編本在格致釋器中   [英]傅蘭雅輯，化學以置器試驗為第一義，是書為倫敦各里分格致器行所造 必須之器，約分二十一類，共有一千餘圖，可謂繁備，材料價值亦備列。彙編一 有化學器具說，可參觀。 </abstract><identifier type="mh">book_595</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B3D9678D-0FA8-4C8B-BB2E-B316608E32ED">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學器</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學器,p 206</note>
+    <abstract type="summary"> 化學器二卷 格致彙編本在格致釋器中   [英]傅蘭雅輯，化學以置器試驗為第一義，是書為倫敦各里分格致器行所造 必須之器，約分二十一類，共有一千餘圖，可謂繁備，材料價值亦備列。彙編一 有化學器具說，可參觀。 </abstract>
+    <identifier type="mh">book_595</identifier>
+</mods>

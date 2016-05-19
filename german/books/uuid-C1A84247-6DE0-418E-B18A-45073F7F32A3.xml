@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C1A84247-6DE0-418E-B18A-45073F7F32A3"><titleInfo lang="chi" script="Hant"><title>女消息往來</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,往來物,p 1025</note><note type="price">六分</note><identifier type="mh">book_5988</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C1A84247-6DE0-418E-B18A-45073F7F32A3">
+    <titleInfo lang="chi" script="Hant">
+        <title>女消息往來</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,往來物,p 1025</note>
+    <note type="price">六分</note>
+    <identifier type="mh">book_5988</identifier>
+</mods>

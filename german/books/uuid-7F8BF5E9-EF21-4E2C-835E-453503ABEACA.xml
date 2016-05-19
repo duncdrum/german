@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7F8BF5E9-EF21-4E2C-835E-453503ABEACA"><titleInfo lang="chi" script="Hant"><title>西國造磚法</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 154</note><abstract type="summary"> 西國造磚法一卷 格致彙編本   [英]傅蘭雅輯譯，所言皆英國之法并及稅則，後有軋磨泥輪一篇，蓋軋磨沙泥 為造磚工程中要事，固不可不講求也。 </abstract><identifier type="mh">book_403</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7F8BF5E9-EF21-4E2C-835E-453503ABEACA">
+    <titleInfo lang="chi" script="Hant">
+        <title>西國造磚法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 154</note>
+    <abstract type="summary"> 西國造磚法一卷 格致彙編本   [英]傅蘭雅輯譯，所言皆英國之法并及稅則，後有軋磨泥輪一篇，蓋軋磨沙泥 為造磚工程中要事，固不可不講求也。 </abstract>
+    <identifier type="mh">book_403</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-80D70BFB-9A65-45AC-80C2-9EFB050CC875"><titleInfo lang="chi" script="Hant"><title>日秘史</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,專史,p 53</note><abstract type="summary"> 日秘史二卷 通學齋叢書本　實學報館印本，未成。   [日本]新井君美著，蓋讀日古史之劄記，書中多所攷核且援引中國史事以相 發明，亦史學之精本也。 [顧補]  </abstract><identifier type="mh">book_38</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80D70BFB-9A65-45AC-80C2-9EFB050CC875">
+    <titleInfo lang="chi" script="Hant">
+        <title>日秘史</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 53</note>
+    <abstract type="summary"> 日秘史二卷 通學齋叢書本　實學報館印本，未成。   [日本]新井君美著，蓋讀日古史之劄記，書中多所攷核且援引中國史事以相 發明，亦史學之精本也。 [顧補]  </abstract>
+    <identifier type="mh">book_38</identifier>
+</mods>

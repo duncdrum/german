@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-27CC71C0-C09C-4171-90DB-0524E4DD5B2C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">甫田守謹吾編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 再版 男女普通禮法</title></titleInfo><note type="citation">日本書目志,卷十,教育門,禮法書,p 925</note><note type="price">一角二分</note><identifier type="mh">book_4651</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-27CC71C0-C09C-4171-90DB-0524E4DD5B2C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">甫田守謹吾編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 再版 男女普通禮法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,禮法書,p 925</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_4651</identifier>
+</mods>

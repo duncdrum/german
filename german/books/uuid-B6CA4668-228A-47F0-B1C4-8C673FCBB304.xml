@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B6CA4668-228A-47F0-B1C4-8C673FCBB304"><titleInfo lang="chi" script="Hant"><title>顯微鏡遠鏡說</title></titleInfo><note type="citation">增版東西學書錄,卷三,光學第十七,光學器,p 210</note><abstract type="summary"> 顯微鏡遠鏡說二卷 格致彙編本，在格致釋器中。   [英]傅蘭雅著，自有微遠二鏡實為世界上加無限力量，此書專言其功用，新奇 可讀。 </abstract><identifier type="mh">book_610</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B6CA4668-228A-47F0-B1C4-8C673FCBB304">
+    <titleInfo lang="chi" script="Hant">
+        <title>顯微鏡遠鏡說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,光學第十七,光學器,p 210</note>
+    <abstract type="summary"> 顯微鏡遠鏡說二卷 格致彙編本，在格致釋器中。   [英]傅蘭雅著，自有微遠二鏡實為世界上加無限力量，此書專言其功用，新奇 可讀。 </abstract>
+    <identifier type="mh">book_610</identifier>
+</mods>

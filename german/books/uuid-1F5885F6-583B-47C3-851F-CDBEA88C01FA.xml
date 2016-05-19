@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1F5885F6-583B-47C3-851F-CDBEA88C01FA"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">鹽入太輔，粟屋龍藏共著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 各國對照 大日本帝國憲法 附英文憲法 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,帝國憲法,p 779</note><note type="price">一角五分</note><identifier type="mh">book_3136</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1F5885F6-583B-47C3-851F-CDBEA88C01FA">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">鹽入太輔，粟屋龍藏共著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 各國對照 大日本帝國憲法 附英文憲法 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,帝國憲法,p 779</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_3136</identifier>
+</mods>

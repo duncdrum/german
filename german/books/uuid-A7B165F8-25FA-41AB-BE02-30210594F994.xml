@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A7B165F8-25FA-41AB-BE02-30210594F994"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">能勢榮著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>實踐道德學</title></titleInfo><note type="citation">日本書目志,卷十,教育門,道德修身學,p 906</note><note type="price">一圓二角</note><identifier type="mh">book_4384</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A7B165F8-25FA-41AB-BE02-30210594F994">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">能勢榮著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>實踐道德學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,道德修身學,p 906</note>
+    <note type="price">一圓二角</note>
+    <identifier type="mh">book_4384</identifier>
+</mods>

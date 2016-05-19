@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1B210563-69BB-4D7E-B833-D408A038FB4E"><titleInfo lang="chi" script="Hant"><title>西學畧述</title></titleInfo><note type="citation">增版東西學書錄,卷一,學校第三,學校,p 81</note><abstract type="summary"> 西學畧述十卷 西學啟蒙本一冊   [英]艾約瑟著，綜言各學淵源，為啟蒙十五種之綱領。中述希臘舊學，頗為翔實， 其言教亦詳足與古教彙參互證。 </abstract><identifier type="mh">book_138</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1B210563-69BB-4D7E-B833-D408A038FB4E">
+    <titleInfo lang="chi" script="Hant">
+        <title>西學畧述</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 81</note>
+    <abstract type="summary"> 西學畧述十卷 西學啟蒙本一冊   [英]艾約瑟著，綜言各學淵源，為啟蒙十五種之綱領。中述希臘舊學，頗為翔實， 其言教亦詳足與古教彙參互證。 </abstract>
+    <identifier type="mh">book_138</identifier>
+</mods>

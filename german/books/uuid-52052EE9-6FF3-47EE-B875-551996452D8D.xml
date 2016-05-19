@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-52052EE9-6FF3-47EE-B875-551996452D8D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">物徂徠</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>駁朱度考 《日本文庫》第十編之內 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,法律歷史,p 784</note><note type="price">二角五分</note><identifier type="mh">book_3204</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-52052EE9-6FF3-47EE-B875-551996452D8D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">物徂徠</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>駁朱度考 《日本文庫》第十編之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,法律歷史,p 784</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_3204</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A1761B9-C26E-4903-8C50-47F7320E047C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">兼松正紀著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>三椏培養實驗錄</title></titleInfo><note type="citation">日本書目志,卷七,農業門,圃業書,p 839</note><note type="price">一角二分五釐</note><identifier type="mh">book_3762</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1A1761B9-C26E-4903-8C50-47F7320E047C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">兼松正紀著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>三椏培養實驗錄</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,圃業書,p 839</note>
+    <note type="price">一角二分五釐</note>
+    <identifier type="mh">book_3762</identifier>
+</mods>

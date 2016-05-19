@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6D08DBDE-AB54-4A77-B246-2EF689C34620"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">吉田松陰著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>幽囚錄</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,傳記,p 723</note><note type="price">二角五分</note><identifier type="mh">book_2500</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6D08DBDE-AB54-4A77-B246-2EF689C34620">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">吉田松陰著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>幽囚錄</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 723</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_2500</identifier>
+</mods>

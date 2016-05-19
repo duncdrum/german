@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-84667577-D754-4B63-9E88-62250F4B7A12"><titleInfo lang="chi" script="Hant"><title>地學稽古論</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 221</note><abstract type="summary"> 地學稽古論一卷 格致彙編本   [英]傅蘭雅著，以混沌未開之先，為極古既開之後，為荒古動植生為太古，人類 生為近古，欲知地球古事莫如考究地學，以有層累之可尋，明此學則考土性 以便農田驗地脈，以識礦產，辨石質，以利工程，而地球往古形迹亦可於此見 焉。傅氏所撰須知與此大略相同。 </abstract><identifier type="mh">book_651</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-84667577-D754-4B63-9E88-62250F4B7A12">
+    <titleInfo lang="chi" script="Hant">
+        <title>地學稽古論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 221</note>
+    <abstract type="summary"> 地學稽古論一卷 格致彙編本   [英]傅蘭雅著，以混沌未開之先，為極古既開之後，為荒古動植生為太古，人類 生為近古，欲知地球古事莫如考究地學，以有層累之可尋，明此學則考土性 以便農田驗地脈，以識礦產，辨石質，以利工程，而地球往古形迹亦可於此見 焉。傅氏所撰須知與此大略相同。 </abstract>
+    <identifier type="mh">book_651</identifier>
+</mods>

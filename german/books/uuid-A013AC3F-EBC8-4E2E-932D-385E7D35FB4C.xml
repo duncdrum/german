@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A013AC3F-EBC8-4E2E-932D-385E7D35FB4C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">中山精</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>樂言錄 《日本文庫》第七編之內 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,言行錄,p 922</note><note type="price">二角五分</note><identifier type="mh">book_4617</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A013AC3F-EBC8-4E2E-932D-385E7D35FB4C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">中山精</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>樂言錄 《日本文庫》第七編之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,言行錄,p 922</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_4617</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5C75C65D-1C7C-4B3B-AD09-A3FEF3CF8FF5"><titleInfo lang="chi" script="Hant"><title>支那紀遊</title></titleInfo><note type="citation">增版東西學書錄,卷四,遊記第二十八,p 268</note><abstract type="summary"> 支那紀遊一卷 通學齋叢書本   [德]利施和芬著，[英]艾約瑟譯，蓋遊歷中國日記，於中國諸省形勢、礦產記載甚 詳。 [顧補]  </abstract><identifier type="mh">book_841</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5C75C65D-1C7C-4B3B-AD09-A3FEF3CF8FF5">
+    <titleInfo lang="chi" script="Hant">
+        <title>支那紀遊</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 268</note>
+    <abstract type="summary"> 支那紀遊一卷 通學齋叢書本   [德]利施和芬著，[英]艾約瑟譯，蓋遊歷中國日記，於中國諸省形勢、礦產記載甚 詳。 [顧補]  </abstract>
+    <identifier type="mh">book_841</identifier>
+</mods>

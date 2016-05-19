@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A897ECE3-4706-4764-A22D-6EA97C56F89A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">三浦千春校</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>伊勢物語讀本</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1029</note><note type="price">八分</note><identifier type="mh">book_6019</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A897ECE3-4706-4764-A22D-6EA97C56F89A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">三浦千春校</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>伊勢物語讀本</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1029</note>
+    <note type="price">八分</note>
+    <identifier type="mh">book_6019</identifier>
+</mods>

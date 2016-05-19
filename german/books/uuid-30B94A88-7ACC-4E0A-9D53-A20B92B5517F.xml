@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-30B94A88-7ACC-4E0A-9D53-A20B92B5517F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">土肥慶藏譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 知氏 外科各論</title></titleInfo><note type="citation">日本書目志,卷一,生理門,外科學,p 608</note><note type="price">六角</note><identifier type="mh">book_1137</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-30B94A88-7ACC-4E0A-9D53-A20B92B5517F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">土肥慶藏譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 知氏 外科各論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,外科學,p 608</note>
+    <note type="price">六角</note>
+    <identifier type="mh">book_1137</identifier>
+</mods>

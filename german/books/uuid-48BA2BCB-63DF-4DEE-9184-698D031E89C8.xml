@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-48BA2BCB-63DF-4DEE-9184-698D031E89C8"><titleInfo lang="chi" script="Hant"><title>中西關係略論</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 280</note><abstract type="summary"> 中西關係略論四卷續一卷 光緒二年印本無績　益智書會本一冊　小方壺齋本   [美]林樂知著，首論歐洲與中國關係緊要及中外交接情形；次多說教事，毫無 足觀；三論西域回教情形及論中國宜招撫𡺀什噶爾方略；四卷以下錄赫德 威妥瑪鏤斐迪諸人議論公牘，林氏處中土最久，借箸代籌，頗能洞中奧窔。 </abstract><identifier type="mh">book_884</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-48BA2BCB-63DF-4DEE-9184-698D031E89C8">
+    <titleInfo lang="chi" script="Hant">
+        <title>中西關係略論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 280</note>
+    <abstract type="summary"> 中西關係略論四卷續一卷 光緒二年印本無績　益智書會本一冊　小方壺齋本   [美]林樂知著，首論歐洲與中國關係緊要及中外交接情形；次多說教事，毫無 足觀；三論西域回教情形及論中國宜招撫𡺀什噶爾方略；四卷以下錄赫德 威妥瑪鏤斐迪諸人議論公牘，林氏處中土最久，借箸代籌，頗能洞中奧窔。 </abstract>
+    <identifier type="mh">book_884</identifier>
+</mods>

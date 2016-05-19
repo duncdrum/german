@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1E29AA82-9ADA-433A-BC30-7B1C4CEF8E3A"><titleInfo lang="chi" script="Hant"><title>古希利尼建國攷略</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,古史,p 46</note><abstract type="summary"> 古希利尼建國攷略一卷 嶺學報本   李承恩譯，希利尼中南際海，以故言人才者稱中南，蓋希臘之故壤也。不知其 所自起，或曰雅弗之裔，自小亞細亞航海往居焉，其國雅典以學勝士帕太，以 專勝理，古力所倫得藉手，政柄國，頓富強，其經畫規模垂於後，雖雜霸功，其善 要不可掩，後人安其所遇，不知振興俯首，聽人之命豈非人事之不 臧  藏 哉。讀此 書可以鑒矣。 [顧補]  </abstract><identifier type="mh">book_16</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1E29AA82-9ADA-433A-BC30-7B1C4CEF8E3A">
+    <titleInfo lang="chi" script="Hant">
+        <title>古希利尼建國攷略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,古史,p 46</note>
+    <abstract type="summary"> 古希利尼建國攷略一卷 嶺學報本   李承恩譯，希利尼中南際海，以故言人才者稱中南，蓋希臘之故壤也。不知其 所自起，或曰雅弗之裔，自小亞細亞航海往居焉，其國雅典以學勝士帕太，以 專勝理，古力所倫得藉手，政柄國，頓富強，其經畫規模垂於後，雖雜霸功，其善 要不可掩，後人安其所遇，不知振興俯首，聽人之命豈非人事之不 臧  藏 哉。讀此 書可以鑒矣。 [顧補]  </abstract>
+    <identifier type="mh">book_16</identifier>
+</mods>

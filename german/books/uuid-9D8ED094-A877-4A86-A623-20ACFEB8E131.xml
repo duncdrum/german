@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9D8ED094-A877-4A86-A623-20ACFEB8E131"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大藏省銀行課</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>銀行簿記例題</title></titleInfo><note type="citation">日本書目志,卷九,商業門,簿記書,p 900</note><note type="price">四角五分</note><identifier type="mh">book_4344</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9D8ED094-A877-4A86-A623-20ACFEB8E131">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大藏省銀行課</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>銀行簿記例題</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,簿記書,p 900</note>
+    <note type="price">四角五分</note>
+    <identifier type="mh">book_4344</identifier>
+</mods>

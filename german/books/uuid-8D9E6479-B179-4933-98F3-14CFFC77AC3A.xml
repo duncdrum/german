@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8D9E6479-B179-4933-98F3-14CFFC77AC3A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">澁江保著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 高等小學 萬國地理</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note><note type="price">三角五分</note><identifier type="mh">book_1912</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8D9E6479-B179-4933-98F3-14CFFC77AC3A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">澁江保著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 高等小學 萬國地理</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note>
+    <note type="price">三角五分</note>
+    <identifier type="mh">book_1912</identifier>
+</mods>

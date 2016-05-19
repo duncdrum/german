@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-42CEBF6F-DE37-4DA9-80AF-6545A756B9F5"><titleInfo lang="chi" script="Hant"><title>鐵路紀要</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 147</note><abstract type="summary"> 鐵路紀要三卷 製造局本一冊   [英]柯理集潘松譯，鐵路惟美為最多，其製造立法亦以美為最善。是書所記皆 美國造路車及各工程之法，并述獲利之厚，局譯之以呈當路採擇者。 </abstract><identifier type="mh">book_375</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-42CEBF6F-DE37-4DA9-80AF-6545A756B9F5">
+    <titleInfo lang="chi" script="Hant">
+        <title>鐵路紀要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 147</note>
+    <abstract type="summary"> 鐵路紀要三卷 製造局本一冊   [英]柯理集潘松譯，鐵路惟美為最多，其製造立法亦以美為最善。是書所記皆 美國造路車及各工程之法，并述獲利之厚，局譯之以呈當路採擇者。 </abstract>
+    <identifier type="mh">book_375</identifier>
+</mods>

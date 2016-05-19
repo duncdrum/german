@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B021E888-BA7A-4DF6-87B7-36D9C0C0AE21"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">近松門左衛門作</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>戀八卦拄曆</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1002</note><note type="price">七分</note><identifier type="mh">book_5671</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B021E888-BA7A-4DF6-87B7-36D9C0C0AE21">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">近松門左衛門作</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>戀八卦拄曆</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1002</note>
+    <note type="price">七分</note>
+    <identifier type="mh">book_5671</identifier>
+</mods>

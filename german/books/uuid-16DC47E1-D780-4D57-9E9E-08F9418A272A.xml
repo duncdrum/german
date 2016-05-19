@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-16DC47E1-D780-4D57-9E9E-08F9418A272A"><titleInfo lang="chi" script="Hant"><title>西國養蜂法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,畜牧,p 136</note><abstract type="summary"> 西國養蜂法一卷 格致彙編本   [英]傅蘭雅輯譯，言光學聚蜂，化學察蜂之理，至精至密，首言印度不養蜂而專 種鴉片所失之利，過於所得之利，然則養蜂之利可謂大矣。彙編一有論養蜂 獲利，可參觀。 </abstract><identifier type="mh">book_332</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-16DC47E1-D780-4D57-9E9E-08F9418A272A">
+    <titleInfo lang="chi" script="Hant">
+        <title>西國養蜂法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,畜牧,p 136</note>
+    <abstract type="summary"> 西國養蜂法一卷 格致彙編本   [英]傅蘭雅輯譯，言光學聚蜂，化學察蜂之理，至精至密，首言印度不養蜂而專 種鴉片所失之利，過於所得之利，然則養蜂之利可謂大矣。彙編一有論養蜂 獲利，可參觀。 </abstract>
+    <identifier type="mh">book_332</identifier>
+</mods>

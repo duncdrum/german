@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C1D8E803-3D4C-4E93-9853-EF3AB7241E09"><titleInfo lang="chi" script="Hant"><title>小倉百人一首色紙箱</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,歌集,p 985</note><note type="price">九分</note><identifier type="mh">book_5419</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C1D8E803-3D4C-4E93-9853-EF3AB7241E09">
+    <titleInfo lang="chi" script="Hant">
+        <title>小倉百人一首色紙箱</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,歌集,p 985</note>
+    <note type="price">九分</note>
+    <identifier type="mh">book_5419</identifier>
+</mods>

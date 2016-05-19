@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B162424E-02DA-426D-9945-40DC129EFF7A"><titleInfo lang="chi" script="Hant"><title>農業氣象學卷</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 118</note><abstract type="summary"> 農業氣象學卷 農學報本   [　] </abstract><identifier type="mh">book_261</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B162424E-02DA-426D-9945-40DC129EFF7A">
+    <titleInfo lang="chi" script="Hant">
+        <title>農業氣象學卷</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 118</note>
+    <abstract type="summary"> 農業氣象學卷 農學報本   [　] </abstract>
+    <identifier type="mh">book_261</identifier>
+</mods>

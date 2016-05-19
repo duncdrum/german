@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8E2CCB34-DBD2-49F0-8628-CD82FDAAB703"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">中村喜一編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 中外折衷 實地染色法</title></titleInfo><note type="citation">日本書目志,卷八,工業門,染色書,p 882</note><note type="price">一圓</note><identifier type="mh">book_4177</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8E2CCB34-DBD2-49F0-8628-CD82FDAAB703">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">中村喜一編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 中外折衷 實地染色法</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,染色書,p 882</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_4177</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BB5822E6-6E54-4466-8827-C10A249D7066"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">井上勤著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 禽獸世界 狐之裁判</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1186</note><note type="price">一角八分</note><identifier type="mh">book_8227</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BB5822E6-6E54-4466-8827-C10A249D7066">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">井上勤著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 禽獸世界 狐之裁判</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1186</note>
+    <note type="price">一角八分</note>
+    <identifier type="mh">book_8227</identifier>
+</mods>

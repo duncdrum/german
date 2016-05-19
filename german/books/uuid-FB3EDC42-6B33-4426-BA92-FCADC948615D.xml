@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FB3EDC42-6B33-4426-BA92-FCADC948615D"><titleInfo lang="chi" script="Hant"><title>銀行形情</title></titleInfo><note type="citation">日本書目志,卷九,商業門,銀行書,p 893</note><note type="price">一圓一角</note><identifier type="mh">book_4272</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FB3EDC42-6B33-4426-BA92-FCADC948615D">
+    <titleInfo lang="chi" script="Hant">
+        <title>銀行形情</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,銀行書,p 893</note>
+    <note type="price">一圓一角</note>
+    <identifier type="mh">book_4272</identifier>
+</mods>

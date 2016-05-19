@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B92264DE-B161-4B17-B8D1-381822F686E2"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農商務省山林局出版</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 佛蘭西 森林法 森林法執行命令 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,法規雜書,p 811</note><note type="price">二角</note><identifier type="mh">book_3565</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B92264DE-B161-4B17-B8D1-381822F686E2">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農商務省山林局出版</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 佛蘭西 森林法 森林法執行命令 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,法規雜書,p 811</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_3565</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E0D02B05-711D-4B3C-B7E5-6A14C8CE6557"><titleInfo lang="chi" script="Hant"><title>姬小松子日之遊赦免狀段</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1012</note><note type="price">二分九釐</note><identifier type="mh">book_5816</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E0D02B05-711D-4B3C-B7E5-6A14C8CE6557">
+    <titleInfo lang="chi" script="Hant">
+        <title>姬小松子日之遊赦免狀段</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1012</note>
+    <note type="price">二分九釐</note>
+    <identifier type="mh">book_5816</identifier>
+</mods>

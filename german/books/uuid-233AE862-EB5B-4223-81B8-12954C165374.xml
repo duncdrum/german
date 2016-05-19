@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-233AE862-EB5B-4223-81B8-12954C165374"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">文部省編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>語彙活語指掌</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1060</note><note type="price">六分</note><identifier type="mh">book_6481</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-233AE862-EB5B-4223-81B8-12954C165374">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">文部省編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>語彙活語指掌</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1060</note>
+    <note type="price">六分</note>
+    <identifier type="mh">book_6481</identifier>
+</mods>

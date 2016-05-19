@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C684E86F-7114-4DE9-A447-02AEBA2D49B5"><titleInfo lang="chi" script="Hant"><title>佐治芻言</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 72</note><abstract type="summary"> 佐治芻言三冊 製造局本　富強叢書本　石印本　格致書室排印本　上海排印本　軍政全書本　會稽徐氏重印本   [英]傅蘭雅譯，應祖錫述，前半多言政教，後半多言財用，而以各申自主之權為 持論之主。書中論機器益民及賒借諸法，尤宜詳究，作者不詳名氏，殆深於公 理者也。中國宜多譯此種書，以啟來者。 東亞書局譯有歐美強國新政治學博議、萬國維新政治學、英國社會古今義；時務報館譯有日本彙聚法規，均未出。  </abstract><identifier type="mh">book_100</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C684E86F-7114-4DE9-A447-02AEBA2D49B5">
+    <titleInfo lang="chi" script="Hant">
+        <title>佐治芻言</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 72</note>
+    <abstract type="summary"> 佐治芻言三冊 製造局本　富強叢書本　石印本　格致書室排印本　上海排印本　軍政全書本　會稽徐氏重印本   [英]傅蘭雅譯，應祖錫述，前半多言政教，後半多言財用，而以各申自主之權為 持論之主。書中論機器益民及賒借諸法，尤宜詳究，作者不詳名氏，殆深於公 理者也。中國宜多譯此種書，以啟來者。 東亞書局譯有歐美強國新政治學博議、萬國維新政治學、英國社會古今義；時務報館譯有日本彙聚法規，均未出。  </abstract>
+    <identifier type="mh">book_100</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-83829B72-98C0-48E8-BE11-132CF501887A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">有澤菊太郎編輯　竹田等閱</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>製造所簿記教科書</title></titleInfo><note type="citation">日本書目志,卷八,工業門,匠學書,p 879</note><note type="price">一圓</note><identifier type="mh">book_4153</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-83829B72-98C0-48E8-BE11-132CF501887A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">有澤菊太郎編輯　竹田等閱</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>製造所簿記教科書</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,匠學書,p 879</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_4153</identifier>
+</mods>

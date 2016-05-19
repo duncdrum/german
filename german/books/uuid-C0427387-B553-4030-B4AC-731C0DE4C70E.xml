@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C0427387-B553-4030-B4AC-731C0DE4C70E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">理學士磯野德三郎編述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>中學化學書</title></titleInfo><note type="citation">日本書目志,卷二,理學門,化學,p 630</note><note type="price">一圓五角</note><identifier type="mh">book_1374</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C0427387-B553-4030-B4AC-731C0DE4C70E">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">理學士磯野德三郎編述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>中學化學書</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,化學,p 630</note>
+    <note type="price">一圓五角</note>
+    <identifier type="mh">book_1374</identifier>
+</mods>

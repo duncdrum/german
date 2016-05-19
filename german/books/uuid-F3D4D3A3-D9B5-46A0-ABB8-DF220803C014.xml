@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F3D4D3A3-D9B5-46A0-ABB8-DF220803C014"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">兼松正誠著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>改良稻作之言告</title></titleInfo><note type="citation">日本書目志,卷七,農業門,稻作書,p 834</note><note type="price">八分</note><identifier type="mh">book_3705</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F3D4D3A3-D9B5-46A0-ABB8-DF220803C014">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">兼松正誠著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>改良稻作之言告</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,稻作書,p 834</note>
+    <note type="price">八分</note>
+    <identifier type="mh">book_3705</identifier>
+</mods>

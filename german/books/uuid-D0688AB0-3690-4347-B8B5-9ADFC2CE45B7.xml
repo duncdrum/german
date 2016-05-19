@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D0688AB0-3690-4347-B8B5-9ADFC2CE45B7"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">西村貞著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>幼學讀本 小學校用高等科 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,小學讀本,p 949</note><note type="price">九角二分</note><identifier type="mh">book_4935</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D0688AB0-3690-4347-B8B5-9ADFC2CE45B7">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">西村貞著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>幼學讀本 小學校用高等科 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,小學讀本,p 949</note>
+    <note type="price">九角二分</note>
+    <identifier type="mh">book_4935</identifier>
+</mods>

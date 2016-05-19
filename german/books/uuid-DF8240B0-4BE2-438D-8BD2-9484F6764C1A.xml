@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF8240B0-4BE2-438D-8BD2-9484F6764C1A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農學士高田鑑三著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>蠶業論 《農業全書》四篇 </title></titleInfo><note type="citation">日本書目志,卷七,農業門,蠶桑書,p 853</note><note type="price">一角五分</note><identifier type="mh">book_3902</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DF8240B0-4BE2-438D-8BD2-9484F6764C1A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農學士高田鑑三著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>蠶業論 《農業全書》四篇 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,蠶桑書,p 853</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_3902</identifier>
+</mods>

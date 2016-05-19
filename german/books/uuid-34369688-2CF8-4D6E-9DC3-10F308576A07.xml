@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-34369688-2CF8-4D6E-9DC3-10F308576A07"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">印刷局</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>三貨部附錄 《大日本貨幣史》之內 </title></titleInfo><note type="citation">日本書目志,卷五,政治門,經濟學,p 768</note><note type="price">一圓五角</note><identifier type="mh">book_3027</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-34369688-2CF8-4D6E-9DC3-10F308576A07">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">印刷局</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>三貨部附錄 《大日本貨幣史》之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,經濟學,p 768</note>
+    <note type="price">一圓五角</note>
+    <identifier type="mh">book_3027</identifier>
+</mods>

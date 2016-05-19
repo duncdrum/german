@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-57A095DD-7B7B-44F2-B36D-22681D29F6F1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">正司南鴃著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 勸善道話 家職要道 洋綴 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 912</note><note type="price">一角八分</note><identifier type="mh">book_4466</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-57A095DD-7B7B-44F2-B36D-22681D29F6F1">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">正司南鴃著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 勸善道話 家職要道 洋綴 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 912</note>
+    <note type="price">一角八分</note>
+    <identifier type="mh">book_4466</identifier>
+</mods>

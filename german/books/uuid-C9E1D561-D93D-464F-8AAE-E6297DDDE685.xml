@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C9E1D561-D93D-464F-8AAE-E6297DDDE685"><titleInfo lang="chi" script="Hant"><title>日本農業書</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 120</note><abstract type="summary"> 日本農業書二卷 農學報本   [日本]森要大郎著，樊炳清譯，書分九編，言氣候、植物、生理、土壤、肥料、農用植物、 農用動物、農產製造、農業經濟，各事頗詳。 [顧補]  </abstract><identifier type="mh">book_268</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C9E1D561-D93D-464F-8AAE-E6297DDDE685">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本農業書</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 120</note>
+    <abstract type="summary"> 日本農業書二卷 農學報本   [日本]森要大郎著，樊炳清譯，書分九編，言氣候、植物、生理、土壤、肥料、農用植物、 農用動物、農產製造、農業經濟，各事頗詳。 [顧補]  </abstract>
+    <identifier type="mh">book_268</identifier>
+</mods>

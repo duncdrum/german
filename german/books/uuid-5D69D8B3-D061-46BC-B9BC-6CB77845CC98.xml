@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5D69D8B3-D061-46BC-B9BC-6CB77845CC98"><titleInfo lang="chi" script="Hant"><title>天地大原因論</title></titleInfo><note type="citation">日本書目志,卷三,宗教門,宗教總記,p 661</note><note type="price">一角五分</note><identifier type="mh">book_1709</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5D69D8B3-D061-46BC-B9BC-6CB77845CC98">
+    <titleInfo lang="chi" script="Hant">
+        <title>天地大原因論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,宗教總記,p 661</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_1709</identifier>
+</mods>

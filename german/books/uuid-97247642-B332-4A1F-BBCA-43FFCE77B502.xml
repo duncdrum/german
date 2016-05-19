@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-97247642-B332-4A1F-BBCA-43FFCE77B502"><titleInfo lang="chi" script="Hant"><title>器象顯真</title></titleInfo><note type="citation">增版東西學書錄,卷四,圖學第二十四,圖算,p 254</note><abstract type="summary"> 器象顯真四卷附圖 製造局本三冊　富強叢書本   [英]白力蓋輯，[英]傅蘭雅譯，徐建寅刪述，首卷論畫圖器具，卷二論用幾何法作 單形，卷三以幾何法畫機器視圖，卷四機器視圖滙要。凡算學家之畫法悉具 於中，最為明晰。 </abstract><identifier type="mh">book_785</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-97247642-B332-4A1F-BBCA-43FFCE77B502">
+    <titleInfo lang="chi" script="Hant">
+        <title>器象顯真</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,圖學第二十四,圖算,p 254</note>
+    <abstract type="summary"> 器象顯真四卷附圖 製造局本三冊　富強叢書本   [英]白力蓋輯，[英]傅蘭雅譯，徐建寅刪述，首卷論畫圖器具，卷二論用幾何法作 單形，卷三以幾何法畫機器視圖，卷四機器視圖滙要。凡算學家之畫法悉具 於中，最為明晰。 </abstract>
+    <identifier type="mh">book_785</identifier>
+</mods>

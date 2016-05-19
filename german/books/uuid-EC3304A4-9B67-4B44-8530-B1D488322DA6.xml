@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EC3304A4-9B67-4B44-8530-B1D488322DA6"><titleInfo lang="chi" script="Hant"><title>熏蟲法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 123</note><abstract type="summary"> 熏蟲法一卷 農學報本   [日本]長崎常譯錄，[日本]藤田豐八譯，計十八章。一緒言、二北美合衆國熏蟲法、 三水化青酸瓦斯之成蹟、四麥利倫特州熏蟲法、五苗水熏蟲法、六溫室熏蟲 法、七榖倉粉坊熏蟲法、八二硫化炭素瓦斯熏蟲法、九加拿大熏蟲律、十兄波 哥洛尼熏蟲法、十一紐奇倫特熏蟲法、十二章比克脫利亞熏蟲法、十三紐紗 威爾司輸出果處理法、十四南奧大利試騐、十五法國溫室熏蟲法、十六普國 熏蟲法、十七英國試騐、十八結尾。 [顧補]  </abstract><identifier type="mh">book_278</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EC3304A4-9B67-4B44-8530-B1D488322DA6">
+    <titleInfo lang="chi" script="Hant">
+        <title>熏蟲法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 123</note>
+    <abstract type="summary"> 熏蟲法一卷 農學報本   [日本]長崎常譯錄，[日本]藤田豐八譯，計十八章。一緒言、二北美合衆國熏蟲法、 三水化青酸瓦斯之成蹟、四麥利倫特州熏蟲法、五苗水熏蟲法、六溫室熏蟲 法、七榖倉粉坊熏蟲法、八二硫化炭素瓦斯熏蟲法、九加拿大熏蟲律、十兄波 哥洛尼熏蟲法、十一紐奇倫特熏蟲法、十二章比克脫利亞熏蟲法、十三紐紗 威爾司輸出果處理法、十四南奧大利試騐、十五法國溫室熏蟲法、十六普國 熏蟲法、十七英國試騐、十八結尾。 [顧補]  </abstract>
+    <identifier type="mh">book_278</identifier>
+</mods>

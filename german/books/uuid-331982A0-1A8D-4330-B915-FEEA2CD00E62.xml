@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-331982A0-1A8D-4330-B915-FEEA2CD00E62"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">松尾連著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 通俗簡易 治療法 《寸珍百種》第十篇 </title></titleInfo><note type="citation">日本書目志,卷一,生理門,治療書,p 607</note><note type="price">一角</note><identifier type="mh">book_1121</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-331982A0-1A8D-4330-B915-FEEA2CD00E62">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">松尾連著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 通俗簡易 治療法 《寸珍百種》第十篇 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,治療書,p 607</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_1121</identifier>
+</mods>

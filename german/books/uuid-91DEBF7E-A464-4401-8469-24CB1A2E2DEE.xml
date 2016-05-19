@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-91DEBF7E-A464-4401-8469-24CB1A2E2DEE"><titleInfo lang="chi" script="Hant"><title>北山抄 《丹鶴叢書》之內 </title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1035</note><note type="price">一圓八分</note><identifier type="mh">book_6100</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-91DEBF7E-A464-4401-8469-24CB1A2E2DEE">
+    <titleInfo lang="chi" script="Hant">
+        <title>北山抄 《丹鶴叢書》之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1035</note>
+    <note type="price">一圓八分</note>
+    <identifier type="mh">book_6100</identifier>
+</mods>

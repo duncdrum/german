@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CB547871-F808-49FB-A087-86F40EF28C79"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">小中村義象、關根正直標註</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>標註榮花語物抄</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1036</note><note type="price">一圓三角</note><identifier type="mh">book_6115</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CB547871-F808-49FB-A087-86F40EF28C79">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">小中村義象、關根正直標註</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>標註榮花語物抄</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1036</note>
+    <note type="price">一圓三角</note>
+    <identifier type="mh">book_6115</identifier>
+</mods>

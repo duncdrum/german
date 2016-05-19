@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4CCE8887-E4EF-4F1E-BCC7-A063539181DC"><titleInfo lang="chi" script="Hant"><title>麻栽製法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note><abstract type="summary"> 麻栽製法一卷 農學報本   [日本]高橋重郎著，[日本]藤田豐八譯，於播麻、製苎、剝皮諸法，舉其大畧。彙編四 有泰西治麻說畧一篇，可參觀。 </abstract><identifier type="mh">book_314</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4CCE8887-E4EF-4F1E-BCC7-A063539181DC">
+    <titleInfo lang="chi" script="Hant">
+        <title>麻栽製法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note>
+    <abstract type="summary"> 麻栽製法一卷 農學報本   [日本]高橋重郎著，[日本]藤田豐八譯，於播麻、製苎、剝皮諸法，舉其大畧。彙編四 有泰西治麻說畧一篇，可參觀。 </abstract>
+    <identifier type="mh">book_314</identifier>
+</mods>

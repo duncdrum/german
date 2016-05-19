@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7D98EEE2-5EBE-495F-A075-B098EA7E4C14"><titleInfo lang="chi" script="Hant"><title>代數須知</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 186</note><abstract type="summary"> 代數須知一卷 格致須知二集本一冊   [英]傅蘭雅著，將代數法檢其淺明者約分四章，雖透發未為詳備，而簡潔可喜 ，足為入門之階。 製造局印有英傅蘭雅、華蘅芳譯，代數總法四冊、未出  </abstract><identifier type="mh">book_532</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7D98EEE2-5EBE-495F-A075-B098EA7E4C14">
+    <titleInfo lang="chi" script="Hant">
+        <title>代數須知</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 186</note>
+    <abstract type="summary"> 代數須知一卷 格致須知二集本一冊   [英]傅蘭雅著，將代數法檢其淺明者約分四章，雖透發未為詳備，而簡潔可喜 ，足為入門之階。 製造局印有英傅蘭雅、華蘅芳譯，代數總法四冊、未出  </abstract>
+    <identifier type="mh">book_532</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-85F8C26F-3EE8-4ACF-94BF-3516010F1920"><titleInfo lang="chi" script="Hant"><title>改正日本藥局方 附醫藥條令 </title></titleInfo><note type="citation">日本書目志,卷一,生理門,藥局方,p 601</note><note type="price">二角</note><identifier type="mh">book_1047</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-85F8C26F-3EE8-4ACF-94BF-3516010F1920">
+    <titleInfo lang="chi" script="Hant">
+        <title>改正日本藥局方 附醫藥條令 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,藥局方,p 601</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_1047</identifier>
+</mods>

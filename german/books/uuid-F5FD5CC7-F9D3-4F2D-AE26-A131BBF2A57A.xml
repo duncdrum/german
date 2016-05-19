@@ -1,1 +1,16 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F5FD5CC7-F9D3-4F2D-AE26-A131BBF2A57A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">闗直彥解釋</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>大日本帝國憲法 附《議院法》、《議員選舉法》 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,帝國憲法,p 779</note><identifier type="mh">book_3137</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F5FD5CC7-F9D3-4F2D-AE26-A131BBF2A57A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">闗直彥解釋</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>大日本帝國憲法 附《議院法》、《議員選舉法》 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,帝國憲法,p 779</note>
+    <identifier type="mh">book_3137</identifier>
+</mods>

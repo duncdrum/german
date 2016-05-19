@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EE5CF00E-CE8E-4884-8A06-FC1C3BFB2373"><titleInfo lang="chi" script="Hant"><title>革命起原新世紀聞</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1160</note><note type="price">五分</note><identifier type="mh">book_7836</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EE5CF00E-CE8E-4884-8A06-FC1C3BFB2373">
+    <titleInfo lang="chi" script="Hant">
+        <title>革命起原新世紀聞</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1160</note>
+    <note type="price">五分</note>
+    <identifier type="mh">book_7836</identifier>
+</mods>

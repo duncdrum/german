@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CAAF9D8D-DA11-488B-80E2-DE7EB0CFEF08"><titleInfo lang="chi" script="Hant"><title>日本職官表</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 75</note><abstract type="summary"> 日本職官表一卷 會稽徐氏政藝新書本   [日本]官書，羅振玉譯，日本變法首重官制，歲有裁制以期盡善，此為明治三十 二年所新定，於近年所設省衙品級、員數、俸金，旁行斜上門分類析多，參用泰 西各國之制度，方今裁併衙署，刪汰冗員，閱此書足以採用其法。 [徐補]  </abstract><identifier type="mh">book_111</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CAAF9D8D-DA11-488B-80E2-DE7EB0CFEF08">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本職官表</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 75</note>
+    <abstract type="summary"> 日本職官表一卷 會稽徐氏政藝新書本   [日本]官書，羅振玉譯，日本變法首重官制，歲有裁制以期盡善，此為明治三十 二年所新定，於近年所設省衙品級、員數、俸金，旁行斜上門分類析多，參用泰 西各國之制度，方今裁併衙署，刪汰冗員，閱此書足以採用其法。 [徐補]  </abstract>
+    <identifier type="mh">book_111</identifier>
+</mods>

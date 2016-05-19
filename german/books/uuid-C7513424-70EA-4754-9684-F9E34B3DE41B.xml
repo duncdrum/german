@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C7513424-70EA-4754-9684-F9E34B3DE41B"><titleInfo lang="chi" script="Hant"><title> 東京府特許 國文史講義錄</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1034</note><note type="price">一角二分</note><identifier type="mh">book_6093</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C7513424-70EA-4754-9684-F9E34B3DE41B">
+    <titleInfo lang="chi" script="Hant">
+        <title> 東京府特許 國文史講義錄</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1034</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_6093</identifier>
+</mods>

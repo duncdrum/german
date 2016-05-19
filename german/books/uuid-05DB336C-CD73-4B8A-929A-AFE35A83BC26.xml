@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-05DB336C-CD73-4B8A-929A-AFE35A83BC26"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">林甕臣著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>五十音之變化</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1062</note><note type="price">九分</note><identifier type="mh">book_6497</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-05DB336C-CD73-4B8A-929A-AFE35A83BC26">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">林甕臣著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>五十音之變化</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1062</note>
+    <note type="price">九分</note>
+    <identifier type="mh">book_6497</identifier>
+</mods>

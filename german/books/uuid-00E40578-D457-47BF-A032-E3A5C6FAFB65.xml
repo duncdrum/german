@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-00E40578-D457-47BF-A032-E3A5C6FAFB65"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">清水市次郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>箱根溫泉誌</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,名所記,p 732</note><note type="price">一角五分</note><identifier type="mh">book_2622</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-00E40578-D457-47BF-A032-E3A5C6FAFB65">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">清水市次郎著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>箱根溫泉誌</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,名所記,p 732</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_2622</identifier>
+</mods>

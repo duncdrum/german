@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-79C16E39-BCE5-4745-8E9A-A8FD0DEC84C9"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農商務省藏版</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>蠶事試驗成蹟 自第一報至第八報 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,報告書,p 940</note><note type="price">一圓五角一分五釐</note><identifier type="mh">book_4827</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-79C16E39-BCE5-4745-8E9A-A8FD0DEC84C9">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農商務省藏版</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>蠶事試驗成蹟 自第一報至第八報 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,報告書,p 940</note>
+    <note type="price">一圓五角一分五釐</note>
+    <identifier type="mh">book_4827</identifier>
+</mods>

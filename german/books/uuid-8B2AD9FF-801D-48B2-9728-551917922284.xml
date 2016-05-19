@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8B2AD9FF-801D-48B2-9728-551917922284"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農務局藏版</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>第二回製茶共進會報告事務顛末之部</title></titleInfo><note type="citation">日本書目志,卷十,教育門,報告書,p 941</note><note type="price">二角五分</note><identifier type="mh">book_4836</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8B2AD9FF-801D-48B2-9728-551917922284">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農務局藏版</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>第二回製茶共進會報告事務顛末之部</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,報告書,p 941</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_4836</identifier>
+</mods>

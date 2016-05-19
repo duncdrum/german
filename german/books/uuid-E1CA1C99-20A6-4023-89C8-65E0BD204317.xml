@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E1CA1C99-20A6-4023-89C8-65E0BD204317"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大和延年著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>三老略傳 《我自刊我叢書》 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,傳記,p 718</note><note type="price">二角</note><identifier type="mh">book_2428</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E1CA1C99-20A6-4023-89C8-65E0BD204317">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大和延年著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>三老略傳 《我自刊我叢書》 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 718</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_2428</identifier>
+</mods>

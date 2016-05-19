@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0C5A12C4-250B-4C14-BDF1-BDBF5CECA8EE"><titleInfo lang="chi" script="Hant"><title>滅火器說略</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 161</note><abstract type="summary"> 滅火器說略一卷 格致彙編本   [英]傅蘭雅輯譯，先論防火、免火諸法，尤注意於農家積穗場，後論滅火各器，如 各種水龍皮管火梯之類，西人於修舉火政最為嚴慎，觀此可知。彙編一有便 用水龍說、汽機水龍圖說、論救火梯；又二有防火論；又四有李提摩太救火十 則，皆可參觀。 製造局印有英傅蘭雅、徐壽譯，造指南針法一冊，未出。  </abstract><identifier type="mh">book_439</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0C5A12C4-250B-4C14-BDF1-BDBF5CECA8EE">
+    <titleInfo lang="chi" script="Hant">
+        <title>滅火器說略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 161</note>
+    <abstract type="summary"> 滅火器說略一卷 格致彙編本   [英]傅蘭雅輯譯，先論防火、免火諸法，尤注意於農家積穗場，後論滅火各器，如 各種水龍皮管火梯之類，西人於修舉火政最為嚴慎，觀此可知。彙編一有便 用水龍說、汽機水龍圖說、論救火梯；又二有防火論；又四有李提摩太救火十 則，皆可參觀。 製造局印有英傅蘭雅、徐壽譯，造指南針法一冊，未出。  </abstract>
+    <identifier type="mh">book_439</identifier>
+</mods>

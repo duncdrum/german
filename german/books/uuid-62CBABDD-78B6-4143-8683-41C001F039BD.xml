@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-62CBABDD-78B6-4143-8683-41C001F039BD"><titleInfo lang="chi" script="Hant"><title>史海 每月一回發兌 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 716</note><note type="price">九分</note><identifier type="mh">book_2405</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-62CBABDD-78B6-4143-8683-41C001F039BD">
+    <titleInfo lang="chi" script="Hant">
+        <title>史海 每月一回發兌 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 716</note>
+    <note type="price">九分</note>
+    <identifier type="mh">book_2405</identifier>
+</mods>

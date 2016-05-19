@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0822DB8D-90A9-4891-B2E5-1712BD2AC740"><titleInfo lang="chi" script="Hant"><title>喝茫蠶書</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 126</note><abstract type="summary"> 喝茫蠶書　卷附圖 農學報本　杭州蠶學報本   [法]喝茫勒窩滂著，鄭守箴譯，法國講求蠶務歷有年所自巴斯陡創製子法，而 蠶學大進。其黃蠶一種，每韞昔蠶子得繭，多至六七十啟羅格，其立法善故收 效捷也。鄭君遊學歐洲，便道至法國茫伯理挨蠶桑學堂學習，因思中國蠶病 不講，飼法未精，出絲日少，漏巵日多，因急取此書譯之，而於飼蠶製子二法言 之特詳，至考究蠶性因非急務，故從略焉，為圖凡三十有四。 [顧補]  </abstract><identifier type="mh">book_291</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0822DB8D-90A9-4891-B2E5-1712BD2AC740">
+    <titleInfo lang="chi" script="Hant">
+        <title>喝茫蠶書</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 126</note>
+    <abstract type="summary"> 喝茫蠶書　卷附圖 農學報本　杭州蠶學報本   [法]喝茫勒窩滂著，鄭守箴譯，法國講求蠶務歷有年所自巴斯陡創製子法，而 蠶學大進。其黃蠶一種，每韞昔蠶子得繭，多至六七十啟羅格，其立法善故收 效捷也。鄭君遊學歐洲，便道至法國茫伯理挨蠶桑學堂學習，因思中國蠶病 不講，飼法未精，出絲日少，漏巵日多，因急取此書譯之，而於飼蠶製子二法言 之特詳，至考究蠶性因非急務，故從略焉，為圖凡三十有四。 [顧補]  </abstract>
+    <identifier type="mh">book_291</identifier>
+</mods>

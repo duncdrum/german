@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6C127E4E-7F73-4157-A6F9-E663A33B9C70"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">聲畫庵旭齋編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 今人俳諧 明治新五百題 一名《千題集》 </title></titleInfo><note type="citation">日本書目志,卷十一,文學門,俳諧集,p 991</note><note type="price">三角五分</note><identifier type="mh">book_5505</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C127E4E-7F73-4157-A6F9-E663A33B9C70">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">聲畫庵旭齋編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 今人俳諧 明治新五百題 一名《千題集》 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,俳諧集,p 991</note>
+    <note type="price">三角五分</note>
+    <identifier type="mh">book_5505</identifier>
+</mods>

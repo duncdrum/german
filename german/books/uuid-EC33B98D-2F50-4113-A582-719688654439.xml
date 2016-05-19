@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EC33B98D-2F50-4113-A582-719688654439"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農務局藏板</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 第二回內國勸業博覽會 害蟲圖解說</title></titleInfo><note type="citation">日本書目志,卷七,農業門,害蟲書,p 843</note><note type="price">二角</note><identifier type="mh">book_3797</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EC33B98D-2F50-4113-A582-719688654439">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">農務局藏板</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 第二回內國勸業博覽會 害蟲圖解說</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,害蟲書,p 843</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_3797</identifier>
+</mods>

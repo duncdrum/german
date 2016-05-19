@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-99333D39-F6F9-423D-86B8-011AA42A567B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">瓜生寅編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 小學校用 手工篇</title></titleInfo><note type="citation">日本書目志,卷八,工業門,手工學書,p 880</note><note type="price">五角</note><identifier type="mh">book_4161</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-99333D39-F6F9-423D-86B8-011AA42A567B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">瓜生寅編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 小學校用 手工篇</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,手工學書,p 880</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_4161</identifier>
+</mods>

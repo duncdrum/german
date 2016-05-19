@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CBE6004D-DCF0-4038-B1CF-3D2CB0BEB863"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">木村宅良</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>類題草野集</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,歌集,p 979</note><note type="price">一圓三角五分</note><identifier type="mh">book_5320</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CBE6004D-DCF0-4038-B1CF-3D2CB0BEB863">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">木村宅良</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>類題草野集</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,歌集,p 979</note>
+    <note type="price">一圓三角五分</note>
+    <identifier type="mh">book_5320</identifier>
+</mods>

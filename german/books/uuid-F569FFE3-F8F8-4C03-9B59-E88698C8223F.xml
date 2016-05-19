@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F569FFE3-F8F8-4C03-9B59-E88698C8223F"><titleInfo lang="chi" script="Hant"><title>兵船礮法</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 110</note><abstract type="summary"> 兵船礮法六卷 製造局本三冊　富強叢書本   [美]水師書院著，[美]金楷理譯，朱恩錫、李鳳苞述，兵船槍礮與陸路槍礮不同，此 書專言體式及然放法。彙編七，有大礮與鐵甲論，可互參。 製造局有美金楷理、李鳳苞譯，美國兵船鎗法一冊，未印出；又金楷理、朱格仁有兵船砲法四冊，亦未譯成。  </abstract><identifier type="mh">book_231</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F569FFE3-F8F8-4C03-9B59-E88698C8223F">
+    <titleInfo lang="chi" script="Hant">
+        <title>兵船礮法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 110</note>
+    <abstract type="summary"> 兵船礮法六卷 製造局本三冊　富強叢書本   [美]水師書院著，[美]金楷理譯，朱恩錫、李鳳苞述，兵船槍礮與陸路槍礮不同，此 書專言體式及然放法。彙編七，有大礮與鐵甲論，可互參。 製造局有美金楷理、李鳳苞譯，美國兵船鎗法一冊，未印出；又金楷理、朱格仁有兵船砲法四冊，亦未譯成。  </abstract>
+    <identifier type="mh">book_231</identifier>
+</mods>

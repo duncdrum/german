@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D40665C2-CA0B-4C1D-AA89-BB97FC85B9E3"><titleInfo lang="chi" script="Hant"><title>奉俄皇命記</title></titleInfo><note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note><abstract type="summary"> 奉俄皇命記一卷 中國旬報本   [泰西]乞頓約瑟著，中國旬報館譯，斯書詳言俄國政治苛刻，猶太人被俄國窘 迫之情狀，蓋冀世知亡國之慘，有以感悟儆醒，使之振奮勉勵以保國也。 [顧補]  </abstract><identifier type="mh">book_921</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D40665C2-CA0B-4C1D-AA89-BB97FC85B9E3">
+    <titleInfo lang="chi" script="Hant">
+        <title>奉俄皇命記</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note>
+    <abstract type="summary"> 奉俄皇命記一卷 中國旬報本   [泰西]乞頓約瑟著，中國旬報館譯，斯書詳言俄國政治苛刻，猶太人被俄國窘 迫之情狀，蓋冀世知亡國之慘，有以感悟儆醒，使之振奮勉勵以保國也。 [顧補]  </abstract>
+    <identifier type="mh">book_921</identifier>
+</mods>

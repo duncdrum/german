@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A567F47-BB43-4FAE-B58D-C9C856FDF68A"><titleInfo lang="chi" script="Hant"><title>閩江觀戰記</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 60</note><abstract type="summary"> 閩江觀戰記一卷 亞東時報本   [美]羅蚩著，亞東時報館譯，於光緒甲申馬江之役言之頗詳。 [顧補]  </abstract><identifier type="mh">book_62</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1A567F47-BB43-4FAE-B58D-C9C856FDF68A">
+    <titleInfo lang="chi" script="Hant">
+        <title>閩江觀戰記</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 60</note>
+    <abstract type="summary"> 閩江觀戰記一卷 亞東時報本   [美]羅蚩著，亞東時報館譯，於光緒甲申馬江之役言之頗詳。 [顧補]  </abstract>
+    <identifier type="mh">book_62</identifier>
+</mods>

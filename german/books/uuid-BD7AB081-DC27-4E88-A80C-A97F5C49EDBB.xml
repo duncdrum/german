@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BD7AB081-DC27-4E88-A80C-A97F5C49EDBB"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">內田彌一譯　鳥居忱閱</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>音樂階梯</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,音樂及音曲,p 1116</note><note type="price">二角</note><identifier type="mh">book_7244</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BD7AB081-DC27-4E88-A80C-A97F5C49EDBB">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">內田彌一譯　鳥居忱閱</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>音樂階梯</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,音樂及音曲,p 1116</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_7244</identifier>
+</mods>

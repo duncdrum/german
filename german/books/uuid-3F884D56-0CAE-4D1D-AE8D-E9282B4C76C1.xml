@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3F884D56-0CAE-4D1D-AE8D-E9282B4C76C1"><titleInfo lang="chi" script="Hant"><title>富國真理</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,商學,p 164</note><abstract type="summary"> 富國真理二卷 廣學會本   [英]嘉托瑪著，[英]山雅谷譯，蔡爾康述，全書分十五章。一論專門名家，二論通工 易事，三論省力，四論通寶，五論賖欠，六論借貸與賃田同意，七論誠實，八論同 心協力，九論學問，十論則便有有則必需，十一論生利分利之別，十二論賦稅， 十三論治國之法，十四論均富，十五論賑濟。 [顧補]  </abstract><identifier type="mh">book_450</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3F884D56-0CAE-4D1D-AE8D-E9282B4C76C1">
+    <titleInfo lang="chi" script="Hant">
+        <title>富國真理</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 164</note>
+    <abstract type="summary"> 富國真理二卷 廣學會本   [英]嘉托瑪著，[英]山雅谷譯，蔡爾康述，全書分十五章。一論專門名家，二論通工 易事，三論省力，四論通寶，五論賖欠，六論借貸與賃田同意，七論誠實，八論同 心協力，九論學問，十論則便有有則必需，十一論生利分利之別，十二論賦稅， 十三論治國之法，十四論均富，十五論賑濟。 [顧補]  </abstract>
+    <identifier type="mh">book_450</identifier>
+</mods>

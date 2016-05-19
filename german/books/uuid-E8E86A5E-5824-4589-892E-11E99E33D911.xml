@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E8E86A5E-5824-4589-892E-11E99E33D911"><titleInfo lang="chi" script="Hant"><title>周幕知裁</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 156</note><abstract type="summary"> 周幕知裁一卷 [美]布倫輯，[英]傅蘭雅、徐壽述，　論蝨壺盤管之裁割銲接法，皆從圓周割分，然後合為各器面積，故曰周幕知裁。  </abstract><identifier type="mh">book_414</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E8E86A5E-5824-4589-892E-11E99E33D911">
+    <titleInfo lang="chi" script="Hant">
+        <title>周幕知裁</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 156</note>
+    <abstract type="summary"> 周幕知裁一卷 [美]布倫輯，[英]傅蘭雅、徐壽述，　論蝨壺盤管之裁割銲接法，皆從圓周割分，然後合為各器面積，故曰周幕知裁。  </abstract>
+    <identifier type="mh">book_414</identifier>
+</mods>

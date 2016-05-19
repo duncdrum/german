@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CF589E20-C4E0-4D43-8D20-8703A83E3A10"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">山本邦之助、田村八二合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 新式 商業簿記全書</title></titleInfo><note type="citation">日本書目志,卷九,商業門,簿記書,p 900</note><note type="price">四角</note><identifier type="mh">book_4355</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CF589E20-C4E0-4D43-8D20-8703A83E3A10">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">山本邦之助、田村八二合著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 新式 商業簿記全書</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,簿記書,p 900</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_4355</identifier>
+</mods>

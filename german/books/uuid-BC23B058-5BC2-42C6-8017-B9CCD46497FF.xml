@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BC23B058-5BC2-42C6-8017-B9CCD46497FF"><titleInfo lang="chi" script="Hant"><title>清史攬要</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note><abstract type="summary"> 清史攬要　卷  [日本]增田貢著，用朱子綱目體例，將我朝三百年朝野大事悉載無遺。 [徐補]  </abstract><identifier type="mh">book_25</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BC23B058-5BC2-42C6-8017-B9CCD46497FF">
+    <titleInfo lang="chi" script="Hant">
+        <title>清史攬要</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note>
+    <abstract type="summary"> 清史攬要　卷  [日本]增田貢著，用朱子綱目體例，將我朝三百年朝野大事悉載無遺。 [徐補]  </abstract>
+    <identifier type="mh">book_25</identifier>
+</mods>

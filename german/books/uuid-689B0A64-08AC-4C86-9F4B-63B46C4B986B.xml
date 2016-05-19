@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-689B0A64-08AC-4C86-9F4B-63B46C4B986B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">伊勢盛雄錠五郎、柴田承桂纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>臨床藥說</title></titleInfo><note type="citation">日本書目志,卷一,生理門,處方,p 602</note><note type="price">一圓五角</note><identifier type="mh">book_1060</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-689B0A64-08AC-4C86-9F4B-63B46C4B986B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">伊勢盛雄錠五郎、柴田承桂纂</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>臨床藥說</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,處方,p 602</note>
+    <note type="price">一圓五角</note>
+    <identifier type="mh">book_1060</identifier>
+</mods>

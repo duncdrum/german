@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-79AD33C4-DF3A-440C-9026-5896FD6EF6D8"><titleInfo lang="chi" script="Hant"><title>哈乞開司槍圖說</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 113</note><abstract type="summary"> 哈乞開司槍圖說四卷 光緒壬辰天津學堂本一冊   [　] </abstract><identifier type="mh">book_243</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-79AD33C4-DF3A-440C-9026-5896FD6EF6D8">
+    <titleInfo lang="chi" script="Hant">
+        <title>哈乞開司槍圖說</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 113</note>
+    <abstract type="summary"> 哈乞開司槍圖說四卷 光緒壬辰天津學堂本一冊   [　] </abstract>
+    <identifier type="mh">book_243</identifier>
+</mods>

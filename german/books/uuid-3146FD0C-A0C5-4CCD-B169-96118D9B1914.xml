@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3146FD0C-A0C5-4CCD-B169-96118D9B1914"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">保利聯編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>病理汎論</title></titleInfo><note type="citation">日本書目志,卷一,生理門,病理學,p 604</note><note type="price">九角</note><identifier type="mh">book_1085</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3146FD0C-A0C5-4CCD-B169-96118D9B1914">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">保利聯編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>病理汎論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,病理學,p 604</note>
+    <note type="price">九角</note>
+    <identifier type="mh">book_1085</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F5FE6312-D4DA-4D1C-8153-3B82070F3A6B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">竹添進一郎抄錄</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>漢書鈔</title></titleInfo><note type="citation">日本書目志,卷十,教育門,漢文書,p 958</note><note type="price">一圓二角</note><identifier type="mh">book_5073</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F5FE6312-D4DA-4D1C-8153-3B82070F3A6B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">竹添進一郎抄錄</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>漢書鈔</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,漢文書,p 958</note>
+    <note type="price">一圓二角</note>
+    <identifier type="mh">book_5073</identifier>
+</mods>

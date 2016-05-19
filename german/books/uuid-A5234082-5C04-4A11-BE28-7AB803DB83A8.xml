@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A5234082-5C04-4A11-BE28-7AB803DB83A8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">成島謙吉著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本溫泉獨案內</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,旅行案內及道中記,p 735</note><note type="price">二角五分</note><identifier type="mh">book_2662</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A5234082-5C04-4A11-BE28-7AB803DB83A8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">成島謙吉著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本溫泉獨案內</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,旅行案內及道中記,p 735</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_2662</identifier>
+</mods>

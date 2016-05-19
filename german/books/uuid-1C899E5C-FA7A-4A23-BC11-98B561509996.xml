@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1C899E5C-FA7A-4A23-BC11-98B561509996"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">莊原和編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>社寺神官教導職統計表</title></titleInfo><note type="citation">日本書目志,卷五,政治門,統計學,p 773</note><note type="price">一角</note><identifier type="mh">book_3087</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1C899E5C-FA7A-4A23-BC11-98B561509996">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">莊原和編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>社寺神官教導職統計表</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,統計學,p 773</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_3087</identifier>
+</mods>

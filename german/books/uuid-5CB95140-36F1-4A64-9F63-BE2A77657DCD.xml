@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5CB95140-36F1-4A64-9F63-BE2A77657DCD"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">文部省譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>泰西農學</title></titleInfo><note type="citation">日本書目志,卷七,農業門,農學總記,p 820</note><note type="price">一圓三角五分</note><identifier type="mh">book_3585</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5CB95140-36F1-4A64-9F63-BE2A77657DCD">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">文部省譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>泰西農學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,農學總記,p 820</note>
+    <note type="price">一圓三角五分</note>
+    <identifier type="mh">book_3585</identifier>
+</mods>

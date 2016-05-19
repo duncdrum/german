@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-06606B2F-7F2B-460F-B9A6-BCFCE27AE9B4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">撫蘭仙仙編次</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>和洋對曆表</title></titleInfo><note type="citation">日本書目志,卷二,理學門,曆書,p 636</note><note type="price">五角</note><identifier type="mh">book_1446</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-06606B2F-7F2B-460F-B9A6-BCFCE27AE9B4">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">撫蘭仙仙編次</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>和洋對曆表</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,曆書,p 636</note>
+    <note type="price">五角</note>
+    <identifier type="mh">book_1446</identifier>
+</mods>

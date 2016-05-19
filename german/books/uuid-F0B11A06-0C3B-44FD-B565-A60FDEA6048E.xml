@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F0B11A06-0C3B-44FD-B565-A60FDEA6048E"><titleInfo lang="chi" script="Hant"><title>製火藥法</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,子藥,p 113</note><abstract type="summary"> 製火藥法三卷 製造局本一冊　富強叢書本   [英]利稼孫華斯得同著，[英]傅蘭雅譯，丁樹棠述，以電氣然放水雷之法畧論，於 此惟未及無煙藥，宜輯補之。彙編五，有論新出新法火藥，可參觀。 </abstract><identifier type="mh">book_246</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F0B11A06-0C3B-44FD-B565-A60FDEA6048E">
+    <titleInfo lang="chi" script="Hant">
+        <title>製火藥法</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,子藥,p 113</note>
+    <abstract type="summary"> 製火藥法三卷 製造局本一冊　富強叢書本   [英]利稼孫華斯得同著，[英]傅蘭雅譯，丁樹棠述，以電氣然放水雷之法畧論，於 此惟未及無煙藥，宜輯補之。彙編五，有論新出新法火藥，可參觀。 </abstract>
+    <identifier type="mh">book_246</identifier>
+</mods>

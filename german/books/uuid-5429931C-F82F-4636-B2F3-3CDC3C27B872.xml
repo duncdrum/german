@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5429931C-F82F-4636-B2F3-3CDC3C27B872"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">伴直之助著　楠本正隆序</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>東京市水道改良意見</title></titleInfo><note type="citation">日本書目志,卷八,工業門,土木學,p 865</note><note type="price">八角</note><identifier type="mh">book_4005</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5429931C-F82F-4636-B2F3-3CDC3C27B872">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">伴直之助著　楠本正隆序</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>東京市水道改良意見</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,土木學,p 865</note>
+    <note type="price">八角</note>
+    <identifier type="mh">book_4005</identifier>
+</mods>

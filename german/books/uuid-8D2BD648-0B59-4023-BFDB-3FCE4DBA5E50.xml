@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8D2BD648-0B59-4023-BFDB-3FCE4DBA5E50"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">織田純一郎譯　英國人原著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>英國龍動新繁昌記</title></titleInfo><note type="citation">日本書目志,卷五,政治門,風俗書,p 763</note><note type="price">一圓一角</note><identifier type="mh">book_2960</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8D2BD648-0B59-4023-BFDB-3FCE4DBA5E50">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">織田純一郎譯　英國人原著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>英國龍動新繁昌記</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,風俗書,p 763</note>
+    <note type="price">一圓一角</note>
+    <identifier type="mh">book_2960</identifier>
+</mods>

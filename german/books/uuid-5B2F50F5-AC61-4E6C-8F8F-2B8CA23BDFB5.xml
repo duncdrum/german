@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5B2F50F5-AC61-4E6C-8F8F-2B8CA23BDFB5"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大矢透校　山口仙松著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 漢字國語 字典</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1069</note><note type="price">二角</note><identifier type="mh">book_6601</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5B2F50F5-AC61-4E6C-8F8F-2B8CA23BDFB5">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大矢透校　山口仙松著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 漢字國語 字典</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1069</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_6601</identifier>
+</mods>

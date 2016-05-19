@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5D176A31-3B36-48A1-B4B6-547CF10DA65A"><titleInfo lang="chi" script="Hant"><title>中國古世公法論畧</title></titleInfo><note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 90</note><abstract type="summary"> 中國古世公法論畧一卷 同文館本一冊　西政叢書本   [美]丁韙良著，雜引公羊、左氏以見列國交際之道，例既未備，且未能動中奧竅， 能依其例，廣演之則佳矣。 </abstract><identifier type="mh">book_169</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5D176A31-3B36-48A1-B4B6-547CF10DA65A">
+    <titleInfo lang="chi" script="Hant">
+        <title>中國古世公法論畧</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 90</note>
+    <abstract type="summary"> 中國古世公法論畧一卷 同文館本一冊　西政叢書本   [美]丁韙良著，雜引公羊、左氏以見列國交際之道，例既未備，且未能動中奧竅， 能依其例，廣演之則佳矣。 </abstract>
+    <identifier type="mh">book_169</identifier>
+</mods>

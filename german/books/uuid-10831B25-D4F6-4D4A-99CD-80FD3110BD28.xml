@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-10831B25-D4F6-4D4A-99CD-80FD3110BD28"><titleInfo lang="chi" script="Hant"><title>經世報</title></titleInfo><note type="citation">增版東西學書錄,卷四,報章第二十九,p 272</note><abstract type="summary"> 經世報 石印本，設杭州。   譯英、法文報章，章炳麟、宋恕等撰述，光緒二十三年七月起，十餘冊即止。 </abstract><identifier type="mh">book_857</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-10831B25-D4F6-4D4A-99CD-80FD3110BD28">
+    <titleInfo lang="chi" script="Hant">
+        <title>經世報</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 272</note>
+    <abstract type="summary"> 經世報 石印本，設杭州。   譯英、法文報章，章炳麟、宋恕等撰述，光緒二十三年七月起，十餘冊即止。 </abstract>
+    <identifier type="mh">book_857</identifier>
+</mods>

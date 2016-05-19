@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E5C210F0-8945-44A5-ABA7-8B47D8591A3C"><titleInfo lang="chi" script="Hant"><title>算學奇題算學奇論</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 185</note><abstract type="summary"> 算學奇題算學奇論無卷數 格致彙編本   [英]傅蘭雅輯，此皆當時中外人所問答，或見諸報章者採輯成，書中有奇特之 算法，為尋常思索不到者不可不閱也。 李鏐有算學奇題削筆一卷，在衍元海鑑內。  </abstract><identifier type="mh">book_530</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E5C210F0-8945-44A5-ABA7-8B47D8591A3C">
+    <titleInfo lang="chi" script="Hant">
+        <title>算學奇題算學奇論</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 185</note>
+    <abstract type="summary"> 算學奇題算學奇論無卷數 格致彙編本   [英]傅蘭雅輯，此皆當時中外人所問答，或見諸報章者採輯成，書中有奇特之 算法，為尋常思索不到者不可不閱也。 李鏐有算學奇題削筆一卷，在衍元海鑑內。  </abstract>
+    <identifier type="mh">book_530</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-34BDE101-7C74-479F-BB0A-216B1338B98D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">水野謙三編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>記事論說文例</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1045</note><note type="price">二角</note><identifier type="mh">book_6257</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-34BDE101-7C74-479F-BB0A-216B1338B98D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">水野謙三編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>記事論說文例</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1045</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_6257</identifier>
+</mods>

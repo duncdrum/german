@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3A394D2A-DBA2-428E-84D6-3E03DA5026BB"><titleInfo lang="chi" script="Hant"><title>日本兵備要略</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 101</note><abstract type="summary"> 日本兵備要略　卷 亞東時報本   [法]查原著亞東時報館譯，所言雖係明咍三十一年之事，不免有芻狗之譏，然 其奇警處，自有可觀。 [顧補]  </abstract><identifier type="mh">book_200</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3A394D2A-DBA2-428E-84D6-3E03DA5026BB">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本兵備要略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 101</note>
+    <abstract type="summary"> 日本兵備要略　卷 亞東時報本   [法]查原著亞東時報館譯，所言雖係明咍三十一年之事，不免有芻狗之譏，然 其奇警處，自有可觀。 [顧補]  </abstract>
+    <identifier type="mh">book_200</identifier>
+</mods>

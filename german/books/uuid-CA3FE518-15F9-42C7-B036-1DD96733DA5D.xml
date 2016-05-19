@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CA3FE518-15F9-42C7-B036-1DD96733DA5D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">渡邊嘉重著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 歐米大家 教育格言</title></titleInfo><note type="citation">日本書目志,卷十,教育門,教育學書,p 928</note><note type="price">二角</note><identifier type="mh">book_4686</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CA3FE518-15F9-42C7-B036-1DD96733DA5D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">渡邊嘉重著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 歐米大家 教育格言</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教育學書,p 928</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_4686</identifier>
+</mods>

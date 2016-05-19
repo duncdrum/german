@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-ADBC5D30-3B13-4E3A-8670-89405AA95288"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">本林常將著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>匠家 四方轉柱之圖四方轉勾配之圖 </title></titleInfo><note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note><note type="price">二角三分</note><identifier type="mh">book_4038</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ADBC5D30-3B13-4E3A-8670-89405AA95288">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">本林常將著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>匠家 四方轉柱之圖四方轉勾配之圖 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,雛形類,p 868</note>
+    <note type="price">二角三分</note>
+    <identifier type="mh">book_4038</identifier>
+</mods>

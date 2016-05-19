@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6772841A-D016-4370-8F7D-7A578FD5C3D1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大和田健樹著述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>修辭學 《通俗文學全書》第一編 </title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,修辭演說,p 1062</note><note type="price">一角五分</note><identifier type="mh">book_6509</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6772841A-D016-4370-8F7D-7A578FD5C3D1">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">大和田健樹著述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>修辭學 《通俗文學全書》第一編 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,修辭演說,p 1062</note>
+    <note type="price">一角五分</note>
+    <identifier type="mh">book_6509</identifier>
+</mods>

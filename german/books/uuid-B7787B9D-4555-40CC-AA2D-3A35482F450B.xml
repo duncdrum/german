@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B7787B9D-4555-40CC-AA2D-3A35482F450B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">木村貢藏編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 頭書插畫 十八史畧字類大全</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1083</note><note type="price">二角二分</note><identifier type="mh">book_6807</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B7787B9D-4555-40CC-AA2D-3A35482F450B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">木村貢藏編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 頭書插畫 十八史畧字類大全</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1083</note>
+    <note type="price">二角二分</note>
+    <identifier type="mh">book_6807</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F8BB955C-1DC4-4ED7-97A8-DAF7BEC58352"><titleInfo lang="chi" script="Hant"><title>萬國通史前編</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,古史,p 46</note><abstract type="summary"> 萬國通史前編十卷 廣學會本   [英]李思約翰比事，蔡爾康屬辭。第一卷曰太古志，皆地質學家、人類學家所鉤 稽而得者，所叙較古史探源等書為詳。第二卷志埃及，第三卷合志迦勒邸、亞 述；第四卷合志米塔、波斯；第五卷志猶太；第六卷志𡌦泥基、赫涕、阿剌伯；第七 卷、第八卷志希臘；第十卷志羅馬。其書於國政戰事之外，於民間俗尚宗教之 沿革言之尤詳，藉以見各國不免興亡，而人事必有進步，并附圖四百幅以明 之。雖譯筆煩冘，然西洋古史固以此為最詳贍矣。李與蔡將通譯天下古今之 國史，故名此為前編云。 [徐補]  </abstract><identifier type="mh">book_15</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F8BB955C-1DC4-4ED7-97A8-DAF7BEC58352">
+    <titleInfo lang="chi" script="Hant">
+        <title>萬國通史前編</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,古史,p 46</note>
+    <abstract type="summary"> 萬國通史前編十卷 廣學會本   [英]李思約翰比事，蔡爾康屬辭。第一卷曰太古志，皆地質學家、人類學家所鉤 稽而得者，所叙較古史探源等書為詳。第二卷志埃及，第三卷合志迦勒邸、亞 述；第四卷合志米塔、波斯；第五卷志猶太；第六卷志𡌦泥基、赫涕、阿剌伯；第七 卷、第八卷志希臘；第十卷志羅馬。其書於國政戰事之外，於民間俗尚宗教之 沿革言之尤詳，藉以見各國不免興亡，而人事必有進步，并附圖四百幅以明 之。雖譯筆煩冘，然西洋古史固以此為最詳贍矣。李與蔡將通譯天下古今之 國史，故名此為前編云。 [徐補]  </abstract>
+    <identifier type="mh">book_15</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6D16F7CD-98D8-4EB3-9180-3BB54BE7E051"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">渡邊嘉重著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 改正 合級教授術</title></titleInfo><note type="citation">日本書目志,卷十,教育門,實地教育,p 932</note><note type="price">一角二分</note><identifier type="mh">book_4749</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6D16F7CD-98D8-4EB3-9180-3BB54BE7E051">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">渡邊嘉重著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 改正 合級教授術</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,實地教育,p 932</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_4749</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0D50BA07-42F9-48E7-8B5C-CA173589098F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">石塚純造編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>下野國全圖</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,府縣及分國圖,p 693</note><note type="price">九角</note><identifier type="mh">book_2103</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0D50BA07-42F9-48E7-8B5C-CA173589098F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">石塚純造編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>下野國全圖</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,府縣及分國圖,p 693</note>
+    <note type="price">九角</note>
+    <identifier type="mh">book_2103</identifier>
+</mods>

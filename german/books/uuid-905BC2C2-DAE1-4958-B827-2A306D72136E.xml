@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-905BC2C2-DAE1-4958-B827-2A306D72136E"><titleInfo lang="chi" script="Hant"><title>刑法治罪法傍訓 寸本 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,治罪法,p 801</note><note type="price">五分</note><identifier type="mh">book_3440</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-905BC2C2-DAE1-4958-B827-2A306D72136E">
+    <titleInfo lang="chi" script="Hant">
+        <title>刑法治罪法傍訓 寸本 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,治罪法,p 801</note>
+    <note type="price">五分</note>
+    <identifier type="mh">book_3440</identifier>
+</mods>

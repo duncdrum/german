@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6A2C4145-E4BA-4B2A-BDD0-2EF6B9FF8F00"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">內閣統計局譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>政家年鑑</title></titleInfo><note type="citation">日本書目志,卷五,政治門,政治雜書,p 752</note><note type="price">一圓</note><identifier type="mh">book_2831</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6A2C4145-E4BA-4B2A-BDD0-2EF6B9FF8F00">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">內閣統計局譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>政家年鑑</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,政治雜書,p 752</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_2831</identifier>
+</mods>

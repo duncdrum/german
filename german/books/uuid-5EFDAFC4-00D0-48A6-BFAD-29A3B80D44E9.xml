@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5EFDAFC4-00D0-48A6-BFAD-29A3B80D44E9"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">下平用采譯補</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>簡明外科各論</title></titleInfo><note type="citation">日本書目志,卷一,生理門,外科學,p 608</note><note type="price">一圓</note><identifier type="mh">book_1141</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5EFDAFC4-00D0-48A6-BFAD-29A3B80D44E9">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">下平用采譯補</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>簡明外科各論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,外科學,p 608</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_1141</identifier>
+</mods>

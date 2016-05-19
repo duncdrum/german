@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F77B92FA-06C6-46CD-A589-BE0236DF3214"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">國府義胤著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>本邦地租論</title></titleInfo><note type="citation">日本書目志,卷五,政治門,財政學,p 758</note><note type="price">二角</note><identifier type="mh">book_2897</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F77B92FA-06C6-46CD-A589-BE0236DF3214">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">國府義胤著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>本邦地租論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,財政學,p 758</note>
+    <note type="price">二角</note>
+    <identifier type="mh">book_2897</identifier>
+</mods>

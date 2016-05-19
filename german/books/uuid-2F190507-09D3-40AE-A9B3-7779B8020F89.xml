@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2F190507-09D3-40AE-A9B3-7779B8020F89"><titleInfo lang="chi" script="Hant"><title>德川御實記附錄 《我自刊我叢書》 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本史,p 711</note><note type="price">三圓七角</note><identifier type="mh">book_2343</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2F190507-09D3-40AE-A9B3-7779B8020F89">
+    <titleInfo lang="chi" script="Hant">
+        <title>德川御實記附錄 《我自刊我叢書》 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 711</note>
+    <note type="price">三圓七角</note>
+    <identifier type="mh">book_2343</identifier>
+</mods>

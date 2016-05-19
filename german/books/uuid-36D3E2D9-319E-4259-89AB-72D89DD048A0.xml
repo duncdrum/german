@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-36D3E2D9-319E-4259-89AB-72D89DD048A0"><titleInfo lang="chi" script="Hant"><title>附日本紅十字會同盟諸國記</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note><abstract type="summary">  附 日本紅十字會同盟諸國記　卷 譯書公會報本   譯書公會譯。 [顧補]  </abstract><identifier type="mh">book_771</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-36D3E2D9-319E-4259-89AB-72D89DD048A0">
+    <titleInfo lang="chi" script="Hant">
+        <title>附日本紅十字會同盟諸國記</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note>
+    <abstract type="summary">  附 日本紅十字會同盟諸國記　卷 譯書公會報本   譯書公會譯。 [顧補]  </abstract>
+    <identifier type="mh">book_771</identifier>
+</mods>

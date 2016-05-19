@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-80C57FE0-BF6B-46BD-A48C-5CC7C1C29D70"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">平田東助平、塚定二郎合譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>國家論</title></titleInfo><note type="citation">日本書目志,卷五,政治門,國家政治學,p 741</note><note type="price">一圓二角</note><identifier type="mh">book_2709</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80C57FE0-BF6B-46BD-A48C-5CC7C1C29D70">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">平田東助平、塚定二郎合譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國家論</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,國家政治學,p 741</note>
+    <note type="price">一圓二角</note>
+    <identifier type="mh">book_2709</identifier>
+</mods>

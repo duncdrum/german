@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EBF7DA84-A170-4E1E-BF45-9C1E9B68D681"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">杉浦重剛、宮崎道正合譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 改正增補 羅斯珂氏化學書</title></titleInfo><note type="citation">日本書目志,卷二,理學門,化學,p 630</note><note type="price">一圓七角五分</note><identifier type="mh">book_1372</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EBF7DA84-A170-4E1E-BF45-9C1E9B68D681">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">杉浦重剛、宮崎道正合譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 改正增補 羅斯珂氏化學書</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,化學,p 630</note>
+    <note type="price">一圓七角五分</note>
+    <identifier type="mh">book_1372</identifier>
+</mods>

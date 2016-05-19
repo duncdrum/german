@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5726F695-31DD-4074-B77A-D092FADE4E76"><titleInfo lang="chi" script="Hant"><title>多武峯少將物語 《日本文學全書》第七編之內 </title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1031</note><note type="price">二角五分</note><identifier type="mh">book_6052</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5726F695-31DD-4074-B77A-D092FADE4E76">
+    <titleInfo lang="chi" script="Hant">
+        <title>多武峯少將物語 《日本文學全書》第七編之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,和文學,p 1031</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_6052</identifier>
+</mods>

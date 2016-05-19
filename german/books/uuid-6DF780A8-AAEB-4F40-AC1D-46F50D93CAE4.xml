@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6DF780A8-AAEB-4F40-AC1D-46F50D93CAE4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">內田嘉一、岡村增太郎合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>實用讀本 小學校用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,小學讀本,p 951</note><note type="price">四角五分</note><identifier type="mh">book_4973</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6DF780A8-AAEB-4F40-AC1D-46F50D93CAE4">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">內田嘉一、岡村增太郎合著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>實用讀本 小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,小學讀本,p 951</note>
+    <note type="price">四角五分</note>
+    <identifier type="mh">book_4973</identifier>
+</mods>

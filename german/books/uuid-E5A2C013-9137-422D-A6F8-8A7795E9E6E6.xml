@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E5A2C013-9137-422D-A6F8-8A7795E9E6E6"><titleInfo lang="chi" script="Hant"><title>數學理</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 183</note><abstract type="summary"> 數學理九卷附一卷 製造局本四冊   [英]棣麽甘著，[英]傅蘭雅譯，趙元益述，凡記數加減乘除分數開方比例之理，悉 以淺近出之，於數學一切變化之理均已包括全盡，其深處已寓微分之理，附 卷習算各法學者皆可曉然，第十款論何而捺解相等式之理，能開多位小數 之方，其說較數學啟蒙為詳備，其理與天元同其列式，則異學算筆談，第六卷 亦引及之。 製造局有英傅蘭雅、李善蘭譯，奈端數學四冊，未成。  </abstract><identifier type="mh">book_521</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E5A2C013-9137-422D-A6F8-8A7795E9E6E6">
+    <titleInfo lang="chi" script="Hant">
+        <title>數學理</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 183</note>
+    <abstract type="summary"> 數學理九卷附一卷 製造局本四冊   [英]棣麽甘著，[英]傅蘭雅譯，趙元益述，凡記數加減乘除分數開方比例之理，悉 以淺近出之，於數學一切變化之理均已包括全盡，其深處已寓微分之理，附 卷習算各法學者皆可曉然，第十款論何而捺解相等式之理，能開多位小數 之方，其說較數學啟蒙為詳備，其理與天元同其列式，則異學算筆談，第六卷 亦引及之。 製造局有英傅蘭雅、李善蘭譯，奈端數學四冊，未成。  </abstract>
+    <identifier type="mh">book_521</identifier>
+</mods>

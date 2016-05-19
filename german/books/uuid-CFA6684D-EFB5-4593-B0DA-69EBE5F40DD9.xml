@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CFA6684D-EFB5-4593-B0DA-69EBE5F40DD9"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">工學士門馬軍平編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>礦山學講義錄</title></titleInfo><note type="citation">日本書目志,卷二,理學門,鑛學,p 638</note><note type="price">一角八分</note><identifier type="mh">book_1467</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CFA6684D-EFB5-4593-B0DA-69EBE5F40DD9">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">工學士門馬軍平編輯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>礦山學講義錄</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,鑛學,p 638</note>
+    <note type="price">一角八分</note>
+    <identifier type="mh">book_1467</identifier>
+</mods>

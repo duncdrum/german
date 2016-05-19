@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-37FEC1A4-ACAC-49B5-9E97-7301742D1A98"><titleInfo lang="chi" script="Hant"><title> 明治新刻 福壽大雜書</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,類書,p 737</note><note type="price">一角三分</note><identifier type="mh">book_2687</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-37FEC1A4-ACAC-49B5-9E97-7301742D1A98">
+    <titleInfo lang="chi" script="Hant">
+        <title> 明治新刻 福壽大雜書</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,類書,p 737</note>
+    <note type="price">一角三分</note>
+    <identifier type="mh">book_2687</identifier>
+</mods>

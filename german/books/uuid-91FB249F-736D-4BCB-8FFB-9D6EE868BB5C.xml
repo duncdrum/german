@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-91FB249F-736D-4BCB-8FFB-9D6EE868BB5C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">文部省藏板</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 《百科全書》 交際及政體</title></titleInfo><note type="citation">日本書目志,卷五,政治門,政治雜書,p 750</note><note type="price">二角四分</note><identifier type="mh">book_2807</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-91FB249F-736D-4BCB-8FFB-9D6EE868BB5C">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">文部省藏板</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 《百科全書》 交際及政體</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,政治雜書,p 750</note>
+    <note type="price">二角四分</note>
+    <identifier type="mh">book_2807</identifier>
+</mods>

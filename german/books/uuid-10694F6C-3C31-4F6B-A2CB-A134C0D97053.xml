@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-10694F6C-3C31-4F6B-A2CB-A134C0D97053"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">阪谷芳郎講述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>經濟學史講義</title></titleInfo><note type="citation">日本書目志,卷五,政治門,經濟學,p 765</note><note type="price">一圓</note><identifier type="mh">book_2984</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-10694F6C-3C31-4F6B-A2CB-A134C0D97053">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">阪谷芳郎講述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>經濟學史講義</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,經濟學,p 765</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_2984</identifier>
+</mods>

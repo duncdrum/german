@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6C0CA9CE-1912-44CE-8F6F-FA181ACC923F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">堀中以津子編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 明治 女用文章大全</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,女用文章,p 1055</note><note type="price">四角</note><identifier type="mh">book_6400</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C0CA9CE-1912-44CE-8F6F-FA181ACC923F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">堀中以津子編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 明治 女用文章大全</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,女用文章,p 1055</note>
+    <note type="price">四角</note>
+    <identifier type="mh">book_6400</identifier>
+</mods>

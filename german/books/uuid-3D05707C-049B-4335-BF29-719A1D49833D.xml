@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3D05707C-049B-4335-BF29-719A1D49833D"><titleInfo lang="chi" script="Hant"><title>歐洲八大帝王傳</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 63</note><abstract type="summary"> 歐洲八大帝王傳一卷 [廣學會本一冊]   [英]李提摩太著，亦名歐洲八帝紀。輯八帝事各自為傳，歐洲往古戰爭之跡於 此畧見，其振興文學、創修新政，由草昧而進文明，亦粗具梗概，雖寥寥數葉，固 談歐事者一助也。 知新報印有英約翰巴羅著，周逢源譯，俄皇大彼得傳　卷；東亞書局譯有亞歷山大王戰記；譯書公會報印有英拔納脫司密剌著，張令宜譯，維多利亞載紀十二卷，均未成。  </abstract><identifier type="mh">book_72</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3D05707C-049B-4335-BF29-719A1D49833D">
+    <titleInfo lang="chi" script="Hant">
+        <title>歐洲八大帝王傳</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 63</note>
+    <abstract type="summary"> 歐洲八大帝王傳一卷 [廣學會本一冊]   [英]李提摩太著，亦名歐洲八帝紀。輯八帝事各自為傳，歐洲往古戰爭之跡於 此畧見，其振興文學、創修新政，由草昧而進文明，亦粗具梗概，雖寥寥數葉，固 談歐事者一助也。 知新報印有英約翰巴羅著，周逢源譯，俄皇大彼得傳　卷；東亞書局譯有亞歷山大王戰記；譯書公會報印有英拔納脫司密剌著，張令宜譯，維多利亞載紀十二卷，均未成。  </abstract>
+    <identifier type="mh">book_72</identifier>
+</mods>

@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D37D9CA1-5845-4054-8640-9288953951C4"><titleInfo lang="chi" script="Hant"><title>日本民法人事篇正條 附《法令財產取得篇》、《續篇》 </title></titleInfo><note type="citation">日本書目志,卷六,法律門,民法,p 791</note><note type="price">七分</note><identifier type="mh">book_3290</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D37D9CA1-5845-4054-8640-9288953951C4">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本民法人事篇正條 附《法令財產取得篇》、《續篇》 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,民法,p 791</note>
+    <note type="price">七分</note>
+    <identifier type="mh">book_3290</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2F89CAF4-7E84-4441-9043-E2851E81A5FD"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">學海居士著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 腳本 政黨美談淑女之操</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,腳本,p 1016</note><note type="price">一角六分</note><identifier type="mh">book_5860</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2F89CAF4-7E84-4441-9043-E2851E81A5FD">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">學海居士著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 腳本 政黨美談淑女之操</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,腳本,p 1016</note>
+    <note type="price">一角六分</note>
+    <identifier type="mh">book_5860</identifier>
+</mods>

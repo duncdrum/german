@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5ECC340E-2D36-4FAB-BA19-ABCEE2FC8CC3"><titleInfo lang="chi" script="Hant"><title>日本憲兵制</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 102</note><abstract type="summary"> 日本憲兵制一冊 南洋公學本   [日本]憲兵章程原本，南洋公學譯書院譯，憲兵之設所以約束海陸軍人，而輔 警察之不足，其制始於歐洲，日本明治十四年仿行之，其後屢有損益。是書據 三十一年改正章程，譯出凡四款，首憲兵章程，次服務章程，次服務細則，次服 務細則施行章程，末附勤務表三，憲兵之制大略可見矣。 [徐補]  </abstract><identifier type="mh">book_203</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5ECC340E-2D36-4FAB-BA19-ABCEE2FC8CC3">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本憲兵制</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 102</note>
+    <abstract type="summary"> 日本憲兵制一冊 南洋公學本   [日本]憲兵章程原本，南洋公學譯書院譯，憲兵之設所以約束海陸軍人，而輔 警察之不足，其制始於歐洲，日本明治十四年仿行之，其後屢有損益。是書據 三十一年改正章程，譯出凡四款，首憲兵章程，次服務章程，次服務細則，次服 務細則施行章程，末附勤務表三，憲兵之制大略可見矣。 [徐補]  </abstract>
+    <identifier type="mh">book_203</identifier>
+</mods>

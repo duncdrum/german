@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4D291F22-ED6C-4400-92E7-BECBB7C4BFFF"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">舟越鎮太郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>修身綱目 小學校用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 920</note><note type="price">一角</note><identifier type="mh">book_4583</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4D291F22-ED6C-4400-92E7-BECBB7C4BFFF">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">舟越鎮太郎編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>修身綱目 小學校用 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 920</note>
+    <note type="price">一角</note>
+    <identifier type="mh">book_4583</identifier>
+</mods>

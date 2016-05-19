@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7EC8FB8E-7590-44B0-BF8E-4D08A93FD2BE"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">參謀本部</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>支那全圖</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,亞細亞地圖,p 695</note><note type="price">七角</note><identifier type="mh">book_2121</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7EC8FB8E-7590-44B0-BF8E-4D08A93FD2BE">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">參謀本部</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>支那全圖</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,亞細亞地圖,p 695</note>
+    <note type="price">七角</note>
+    <identifier type="mh">book_2121</identifier>
+</mods>

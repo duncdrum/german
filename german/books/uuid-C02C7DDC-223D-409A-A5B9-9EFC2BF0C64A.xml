@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C02C7DDC-223D-409A-A5B9-9EFC2BF0C64A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">水野忠雄著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>服忌令五等親一覽表</title></titleInfo><note type="citation">日本書目志,卷六,法律門,法規雜書,p 810</note><note type="price">八分</note><identifier type="mh">book_3555</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C02C7DDC-223D-409A-A5B9-9EFC2BF0C64A">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">水野忠雄著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>服忌令五等親一覽表</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,法規雜書,p 810</note>
+    <note type="price">八分</note>
+    <identifier type="mh">book_3555</identifier>
+</mods>

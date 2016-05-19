@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-92299DE6-5726-40B5-BFE8-79435680904A"><titleInfo lang="chi" script="Hant"><title>公法會通</title></titleInfo><note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 88</note><abstract type="summary"> 公法會通十卷 同文館本五冊　東洋印本五冊   [德]步倫著，[美]丁韙良譯，首論公法源流，二論代國而行，三四論轄地轄人之權， 五論條約，六論邦國啟釁，七八論交戰時事，九論局外權責，十載行軍訓誡。即 事明義，絶無偏倚，丁氏復加注釋，較萬國公法更為明絜也。 </abstract><identifier type="mh">book_163</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-92299DE6-5726-40B5-BFE8-79435680904A">
+    <titleInfo lang="chi" script="Hant">
+        <title>公法會通</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 88</note>
+    <abstract type="summary"> 公法會通十卷 同文館本五冊　東洋印本五冊   [德]步倫著，[美]丁韙良譯，首論公法源流，二論代國而行，三四論轄地轄人之權， 五論條約，六論邦國啟釁，七八論交戰時事，九論局外權責，十載行軍訓誡。即 事明義，絶無偏倚，丁氏復加注釋，較萬國公法更為明絜也。 </abstract>
+    <identifier type="mh">book_163</identifier>
+</mods>

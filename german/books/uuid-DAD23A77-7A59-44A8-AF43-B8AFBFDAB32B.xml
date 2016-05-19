@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DAD23A77-7A59-44A8-AF43-B8AFBFDAB32B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">安積艮齋遺稿　土田淡堂訓註</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 訓註 名賢言行略</title></titleInfo><note type="citation">日本書目志,卷十,教育門,言行錄,p 923</note><note type="price">三角</note><identifier type="mh">book_4629</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DAD23A77-7A59-44A8-AF43-B8AFBFDAB32B">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">安積艮齋遺稿　土田淡堂訓註</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 訓註 名賢言行略</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,言行錄,p 923</note>
+    <note type="price">三角</note>
+    <identifier type="mh">book_4629</identifier>
+</mods>

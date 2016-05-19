@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E5137228-66B9-4A1F-A875-07D41251DBE9"><titleInfo lang="chi" script="Hant"><title>腓尼基喀頹基攷</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,古史,p 48</note><abstract type="summary"> 腓尼基喀頹基攷一卷 嶺學報本   唐紹儀譯，當羅馬之隆，闢歐洲摧馬其頓，壞波斯屬之印度，合東西為一統，蓄 志積慮，硎刃待發，喀頹基違其先志，悍然攖其鋒，千年之積，倉廪廣土，為羅馬 藉因以宰割天下，惜夫腓尼基乘亞述、巴比倫之隙，竊一蓺之長水之所至，築 船澳、儲新糧，陸四十里建館舍，周行旅之乏，逐時趁虛，邀世之利甚悉，殆亦今 之英吉利與。 [顧補]  </abstract><identifier type="mh">book_20</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E5137228-66B9-4A1F-A875-07D41251DBE9">
+    <titleInfo lang="chi" script="Hant">
+        <title>腓尼基喀頹基攷</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,古史,p 48</note>
+    <abstract type="summary"> 腓尼基喀頹基攷一卷 嶺學報本   唐紹儀譯，當羅馬之隆，闢歐洲摧馬其頓，壞波斯屬之印度，合東西為一統，蓄 志積慮，硎刃待發，喀頹基違其先志，悍然攖其鋒，千年之積，倉廪廣土，為羅馬 藉因以宰割天下，惜夫腓尼基乘亞述、巴比倫之隙，竊一蓺之長水之所至，築 船澳、儲新糧，陸四十里建館舍，周行旅之乏，逐時趁虛，邀世之利甚悉，殆亦今 之英吉利與。 [顧補]  </abstract>
+    <identifier type="mh">book_20</identifier>
+</mods>

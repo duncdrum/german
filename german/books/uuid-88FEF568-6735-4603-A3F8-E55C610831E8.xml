@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-88FEF568-6735-4603-A3F8-E55C610831E8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">市川米菴著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>米菴百古</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,書法及墨場書,p 1108</note><note type="price">六角</note><identifier type="mh">book_7125</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-88FEF568-6735-4603-A3F8-E55C610831E8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">市川米菴著</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>米菴百古</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,書法及墨場書,p 1108</note>
+    <note type="price">六角</note>
+    <identifier type="mh">book_7125</identifier>
+</mods>

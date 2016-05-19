@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-50E756DE-6151-45B9-91C7-EBCA19FA501E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">笹屋</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>增補浮世繪類考 《溫知叢書》第四篇之內 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1090</note><note type="price">二角五分</note><identifier type="mh">book_6863</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-50E756DE-6151-45B9-91C7-EBCA19FA501E">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">笹屋</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>增補浮世繪類考 《溫知叢書》第四篇之內 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1090</note>
+    <note type="price">二角五分</note>
+    <identifier type="mh">book_6863</identifier>
+</mods>

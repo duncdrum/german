@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7E811650-EEA7-41E2-B7C7-211CD735F2F9"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">文部省藏板</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 《百科全書》 光學及音學</title></titleInfo><note type="citation">日本書目志,卷二,理學門,物理學,p 629</note><note type="price">一角六分五</note><identifier type="mh">book_1359</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7E811650-EEA7-41E2-B7C7-211CD735F2F9">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">文部省藏板</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 《百科全書》 光學及音學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,物理學,p 629</note>
+    <note type="price">一角六分五</note>
+    <identifier type="mh">book_1359</identifier>
+</mods>

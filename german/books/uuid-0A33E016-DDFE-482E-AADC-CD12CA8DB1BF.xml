@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0A33E016-DDFE-482E-AADC-CD12CA8DB1BF"><titleInfo lang="chi" script="Hant"><title>假名手本忠臣藏財布之連判</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1009</note><note type="price">七分四釐</note><identifier type="mh">book_5765</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0A33E016-DDFE-482E-AADC-CD12CA8DB1BF">
+    <titleInfo lang="chi" script="Hant">
+        <title>假名手本忠臣藏財布之連判</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1009</note>
+    <note type="price">七分四釐</note>
+    <identifier type="mh">book_5765</identifier>
+</mods>

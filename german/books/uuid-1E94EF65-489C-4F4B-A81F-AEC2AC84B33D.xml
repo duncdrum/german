@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1E94EF65-489C-4F4B-A81F-AEC2AC84B33D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">栗本廣勝、棟方隆譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>列氏皮膚病學</title></titleInfo><note type="citation">日本書目志,卷一,生理門,皮膚病及黴毒學,p 609</note><note type="price">一圓</note><identifier type="mh">book_1155</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1E94EF65-489C-4F4B-A81F-AEC2AC84B33D">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">栗本廣勝、棟方隆譯</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>列氏皮膚病學</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,皮膚病及黴毒學,p 609</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_1155</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-95409107-47B8-401B-987E-3DAB75F924AE"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">根岸免三郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 文明雜俎 處世之物種</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1211</note><note type="price">二角四分</note><identifier type="mh">book_8608</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-95409107-47B8-401B-987E-3DAB75F924AE">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">根岸免三郎編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 文明雜俎 處世之物種</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1211</note>
+    <note type="price">二角四分</note>
+    <identifier type="mh">book_8608</identifier>
+</mods>

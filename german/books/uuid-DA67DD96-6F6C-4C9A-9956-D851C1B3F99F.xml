@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DA67DD96-6F6C-4C9A-9956-D851C1B3F99F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">伊藤謙編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 增訂 藥品名彙</title></titleInfo><note type="citation">日本書目志,卷一,生理門,藥用,p 603</note><note type="price">一圓五角</note><identifier type="mh">book_1072</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DA67DD96-6F6C-4C9A-9956-D851C1B3F99F">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">伊藤謙編</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title> 增訂 藥品名彙</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,藥用,p 603</note>
+    <note type="price">一圓五角</note>
+    <identifier type="mh">book_1072</identifier>
+</mods>

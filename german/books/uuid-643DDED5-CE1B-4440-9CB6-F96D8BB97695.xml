@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-643DDED5-CE1B-4440-9CB6-F96D8BB97695"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">伊藤武壽</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>國民道德論 《通俗教育全書》四十一篇 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,道德修身學,p 906</note><note type="price">一角二分</note><identifier type="mh">book_4383</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-643DDED5-CE1B-4440-9CB6-F96D8BB97695">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">伊藤武壽</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國民道德論 《通俗教育全書》四十一篇 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,道德修身學,p 906</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_4383</identifier>
+</mods>

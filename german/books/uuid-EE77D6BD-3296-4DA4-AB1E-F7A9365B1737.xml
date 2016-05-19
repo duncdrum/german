@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EE77D6BD-3296-4DA4-AB1E-F7A9365B1737"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">澁江保</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>普通教育學 《通俗教育全書》第三十篇 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,教育學書,p 929</note><note type="price">一角二分</note><identifier type="mh">book_4710</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EE77D6BD-3296-4DA4-AB1E-F7A9365B1737">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">澁江保</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>普通教育學 《通俗教育全書》第三十篇 </title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教育學書,p 929</note>
+    <note type="price">一角二分</note>
+    <identifier type="mh">book_4710</identifier>
+</mods>

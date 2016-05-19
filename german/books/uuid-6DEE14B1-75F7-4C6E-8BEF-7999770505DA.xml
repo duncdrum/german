@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6DEE14B1-75F7-4C6E-8BEF-7999770505DA"><titleInfo lang="chi" script="Hant"><title>馬其頓攷略、後馬其頓攷略</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,古史,p 48</note><abstract type="summary"> 馬其頓攷略一卷後馬其頓攷略一卷 嶺學報本   李承恩譯，亞力山大足為一世之雄，因民所利掠地，編三洲建名城，以十數據 要害，上節度諸方伯，無敢有異志，令將士八十人皆娶波斯之女，聯其情，泯諸 族，翹異禍賊之患，為西方祖述宜矣。鑒希利尼諸國無統紀，綱領不振，或相攻 擊以至於亡，翻然美波斯之政，乃下至衣履之微，則而效之，權主於上風，同於 下雖欲無強，烏可得耶。功高而驕荒於酒色，天其天年可慨也夫。 [顧補]  </abstract><identifier type="mh">book_21</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6DEE14B1-75F7-4C6E-8BEF-7999770505DA">
+    <titleInfo lang="chi" script="Hant">
+        <title>馬其頓攷略、後馬其頓攷略</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,古史,p 48</note>
+    <abstract type="summary"> 馬其頓攷略一卷後馬其頓攷略一卷 嶺學報本   李承恩譯，亞力山大足為一世之雄，因民所利掠地，編三洲建名城，以十數據 要害，上節度諸方伯，無敢有異志，令將士八十人皆娶波斯之女，聯其情，泯諸 族，翹異禍賊之患，為西方祖述宜矣。鑒希利尼諸國無統紀，綱領不振，或相攻 擊以至於亡，翻然美波斯之政，乃下至衣履之微，則而效之，權主於上風，同於 下雖欲無強，烏可得耶。功高而驕荒於酒色，天其天年可慨也夫。 [顧補]  </abstract>
+    <identifier type="mh">book_21</identifier>
+</mods>

@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E3D4376F-B08E-4FFC-BC20-741323D78E57"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">宋贊寧撰　福田行誡校正</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>僧史略</title></titleInfo><note type="citation">日本書目志,卷三,宗教門,佛教歷史,p 663</note><note type="price">三角</note><identifier type="mh">book_1730</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E3D4376F-B08E-4FFC-BC20-741323D78E57">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">宋贊寧撰　福田行誡校正</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>僧史略</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,佛教歷史,p 663</note>
+    <note type="price">三角</note>
+    <identifier type="mh">book_1730</identifier>
+</mods>

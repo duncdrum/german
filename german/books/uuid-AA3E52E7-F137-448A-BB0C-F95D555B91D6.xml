@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AA3E52E7-F137-448A-BB0C-F95D555B91D6"><titleInfo lang="chi" script="Hant"><title>日本昆蟲學</title></titleInfo><note type="citation">增版東西學書錄,卷三,動植物學第二十二,蟲學,p 240</note><abstract type="summary"> 日本昆蟲學一卷 農學報本   [　] </abstract><identifier type="mh">book_731</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AA3E52E7-F137-448A-BB0C-F95D555B91D6">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本昆蟲學</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,動植物學第二十二,蟲學,p 240</note>
+    <abstract type="summary"> 日本昆蟲學一卷 農學報本   [　] </abstract>
+    <identifier type="mh">book_731</identifier>
+</mods>

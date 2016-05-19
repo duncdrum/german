@@ -1,1 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-12569888-3E06-4393-B01C-9D04D59BA2A8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">磯部四郎、伏見正史講述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>刑事訴訟法博義</title></titleInfo><note type="citation">日本書目志,卷六,法律門,刑事訴訟法,p 800</note><note type="price">一圓</note><identifier type="mh">book_3426</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-12569888-3E06-4393-B01C-9D04D59BA2A8">
+    <name type="personal" xlink:href="">
+        <namePart lang="chi" script="Hant">磯部四郎、伏見正史講述</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>刑事訴訟法博義</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,刑事訴訟法,p 800</note>
+    <note type="price">一圓</note>
+    <identifier type="mh">book_3426</identifier>
+</mods>

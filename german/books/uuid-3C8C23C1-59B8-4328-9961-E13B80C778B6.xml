@@ -1,1 +1,11 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3C8C23C1-59B8-4328-9961-E13B80C778B6"><titleInfo lang="chi" script="Hant"><title>土國戰事述畧</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 59</note><abstract type="summary"> 土國戰事述畧一卷 小方壺齋本   [英]艾約瑟著，記土爾其與其屬地瑣爾非雅之戰事。案瑣本欲興師取土君士 但丁都城，反為土所并，中間米羅施族克自奮發，其子米迦勤立整頓軍旅，講 求政治，土將監守之兵撤回，尋被刺，子米蘭立復能繼父志，此篇所著寥寥數 葉，然足見其大概。 俄蘇佈勒有英阿戰紀，未譯出。  </abstract><identifier type="mh">book_59</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3C8C23C1-59B8-4328-9961-E13B80C778B6">
+    <titleInfo lang="chi" script="Hant">
+        <title>土國戰事述畧</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 59</note>
+    <abstract type="summary"> 土國戰事述畧一卷 小方壺齋本   [英]艾約瑟著，記土爾其與其屬地瑣爾非雅之戰事。案瑣本欲興師取土君士 但丁都城，反為土所并，中間米羅施族克自奮發，其子米迦勤立整頓軍旅，講 求政治，土將監守之兵撤回，尋被刺，子米蘭立復能繼父志，此篇所著寥寥數 葉，然足見其大概。 俄蘇佈勒有英阿戰紀，未譯出。  </abstract>
+    <identifier type="mh">book_59</identifier>
+</mods>
