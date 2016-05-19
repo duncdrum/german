@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-31B2B469-C95D-4C69-AD8C-1D2BAA45AFBE">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">中井弘著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

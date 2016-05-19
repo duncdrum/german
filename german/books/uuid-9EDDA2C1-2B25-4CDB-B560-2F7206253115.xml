@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9EDDA2C1-2B25-4CDB-B560-2F7206253115">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">藤田隆三郎編述</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

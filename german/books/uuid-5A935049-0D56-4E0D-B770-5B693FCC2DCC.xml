@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-5A935049-0D56-4E0D-B770-5B693FCC2DCC">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">聽天居主人編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

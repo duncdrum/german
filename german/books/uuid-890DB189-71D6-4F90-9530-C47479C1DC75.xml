@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-890DB189-71D6-4F90-9530-C47479C1DC75">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">青木純造　小柴信六郎譯補</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

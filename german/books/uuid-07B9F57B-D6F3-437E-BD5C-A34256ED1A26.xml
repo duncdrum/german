@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-07B9F57B-D6F3-437E-BD5C-A34256ED1A26">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">渡邊益編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

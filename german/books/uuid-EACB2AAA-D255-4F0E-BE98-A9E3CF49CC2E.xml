@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-EACB2AAA-D255-4F0E-BE98-A9E3CF49CC2E">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">生田目經德註釋</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

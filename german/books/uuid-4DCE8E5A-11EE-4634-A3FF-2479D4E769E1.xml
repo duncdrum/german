@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-4DCE8E5A-11EE-4634-A3FF-2479D4E769E1">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">坂上成美編輯　石村貞一校</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

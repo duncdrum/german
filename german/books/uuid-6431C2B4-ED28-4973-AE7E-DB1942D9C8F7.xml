@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-6431C2B4-ED28-4973-AE7E-DB1942D9C8F7">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">境澤彌天郎著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

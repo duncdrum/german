@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-2F52AF7F-3510-4DB7-BA00-9FDCEB978BEB">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">明治法律學士講述</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

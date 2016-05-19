@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-DF25BAC9-ADB2-444F-A49A-218A59C338DA">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">樫村清德校閱　廣瀨桂次郎譯補</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-0CE76B4A-2291-4E7F-A929-548EB8918AC0">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">三屋大五郎編　藤井忠弘畫</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

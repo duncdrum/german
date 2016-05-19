@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-2CDEC25A-50CD-4B1F-A27E-F00355E8DD1C">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">村瀨秀甫著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

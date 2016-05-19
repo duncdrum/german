@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-8E4F1517-CDDD-48EB-8B6D-9CA30F51AFC9">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">桃川如燕著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

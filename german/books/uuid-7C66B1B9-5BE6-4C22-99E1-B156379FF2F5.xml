@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-7C66B1B9-5BE6-4C22-99E1-B156379FF2F5">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">後藤元太郎編　山陽外史評</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

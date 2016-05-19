@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-26238D41-8CFA-45E5-BB69-5F7437DB1B84">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">松林伯知口述　今村次郎速記</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

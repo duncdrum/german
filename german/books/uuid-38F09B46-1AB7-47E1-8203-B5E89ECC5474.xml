@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-38F09B46-1AB7-47E1-8203-B5E89ECC5474">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">田口卯吉演說　德富猪一郎序</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

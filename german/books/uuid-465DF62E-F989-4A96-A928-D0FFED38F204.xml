@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-465DF62E-F989-4A96-A928-D0FFED38F204">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">下平用采、吾妻慶治合譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

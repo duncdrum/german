@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-407E442B-3C80-4437-A2BE-80A7D0ACA1EA">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">川田剛評點　小藥昌造選</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

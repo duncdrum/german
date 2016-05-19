@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-88279520-0D5D-4438-8B23-348540C603F4">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">渡邊政吉、總川猪之吉合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

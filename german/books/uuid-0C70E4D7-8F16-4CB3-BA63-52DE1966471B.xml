@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-0C70E4D7-8F16-4CB3-BA63-52DE1966471B">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">鈴木貞次郎編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

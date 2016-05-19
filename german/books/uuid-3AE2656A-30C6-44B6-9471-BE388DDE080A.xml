@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-3AE2656A-30C6-44B6-9471-BE388DDE080A">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">咬菜軒主人閱 佐久間孝子著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

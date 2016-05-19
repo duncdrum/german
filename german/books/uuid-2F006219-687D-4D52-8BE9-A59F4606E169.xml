@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-2F006219-687D-4D52-8BE9-A59F4606E169">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">沼田順匡校　植田友二郎編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

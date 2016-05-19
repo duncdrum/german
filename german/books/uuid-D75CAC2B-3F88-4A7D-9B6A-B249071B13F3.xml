@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-D75CAC2B-3F88-4A7D-9B6A-B249071B13F3">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">恒藤規隆編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

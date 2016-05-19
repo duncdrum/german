@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-A0343F82-3525-4AE3-8407-9B05519A73B2">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">齋藤孝治、緩鹿實彰合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

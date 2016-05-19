@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-DE3EEC78-1524-4DBE-A991-E2E7718CC224">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">德人厚氏著　中根重一譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

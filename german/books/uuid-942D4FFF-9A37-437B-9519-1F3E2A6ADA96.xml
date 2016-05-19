@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-942D4FFF-9A37-437B-9519-1F3E2A6ADA96">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">米國氏原著　浦部省三譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

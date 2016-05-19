@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9887894C-9D6D-40AB-AC3E-FA31F3BC5D4B">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">岡本岱次郎編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

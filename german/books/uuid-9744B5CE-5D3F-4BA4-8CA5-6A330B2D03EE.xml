@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9744B5CE-5D3F-4BA4-8CA5-6A330B2D03EE">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">宮城政明譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

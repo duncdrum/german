@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-8C23505B-9B45-4D43-9083-DD3E6683B4CE">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">海野力太郎纂譯　田口卯吉序</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

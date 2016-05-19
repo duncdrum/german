@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-B77481FA-FC05-4BED-BBA1-FDD52B3BEE65">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">英國原著　宮崎言成譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9DD2BFC7-EB98-49D6-85C6-1735F53E7940">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">竹田出雲作　近松門左衛門添刪</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

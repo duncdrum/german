@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-B36960D8-AE7C-4FAE-AD66-FFD355278977">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">東洋太郎閱　中島市平著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

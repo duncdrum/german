@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-DFFF6174-0C39-4172-A70D-7E48056348F1">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">高井蘭山著　市川清流校</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

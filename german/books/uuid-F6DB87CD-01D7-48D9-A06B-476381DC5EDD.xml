@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-F6DB87CD-01D7-48D9-A06B-476381DC5EDD">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">一法學士山口莊言著　文學士濱田健二郎閱</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-59CC04F6-2C43-4C36-A874-0D5CC4C2E394">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">外山正一清、野勉譯補</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

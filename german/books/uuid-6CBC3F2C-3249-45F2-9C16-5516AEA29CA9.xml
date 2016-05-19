@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-6CBC3F2C-3249-45F2-9C16-5516AEA29CA9">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">北村援琴翁、籬鳥軒主人共著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

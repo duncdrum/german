@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-079C991E-8989-40C1-B454-06B9020E3489">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">石川暎作、嵯峨正作、金谷昭、三木實合譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

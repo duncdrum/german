@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-74EB1C23-0A5D-40D5-936B-F56FD7F0B3C3">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">下啟助、鈴木軒與、三田利德同輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

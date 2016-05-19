@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-4308F002-C739-43FF-9613-58F7DCAE772B">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">北村紫山撰　松井廣吉校</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

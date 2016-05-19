@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-39FDB3B1-8FB1-4B11-8695-12E2AC3EDF1A">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">浪岡橘平、淺田一鳥合作</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

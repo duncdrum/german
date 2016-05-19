@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-7EEA3B4C-6DF9-4FD4-99B3-BB104585CD2A">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">風當朔朗編纂　西村茂樹題辭</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-A956D64F-EE6A-45DC-8D57-F7885B8CCB94">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">小中村義象、增田干信</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

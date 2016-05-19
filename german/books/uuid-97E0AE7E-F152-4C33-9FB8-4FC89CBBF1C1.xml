@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-97E0AE7E-F152-4C33-9FB8-4FC89CBBF1C1">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">文華亭主人編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

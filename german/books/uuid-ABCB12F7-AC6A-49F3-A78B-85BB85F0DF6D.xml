@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-ABCB12F7-AC6A-49F3-A78B-85BB85F0DF6D">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">稻生輝雄謹譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

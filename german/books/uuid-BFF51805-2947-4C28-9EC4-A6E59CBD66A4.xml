@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-BFF51805-2947-4C28-9EC4-A6E59CBD66A4">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">伊藤法學士著　石川法學士著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

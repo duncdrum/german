@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-BC681EC0-F8C9-4300-B7BC-F27955967B52">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">高田耕安、笠原光具纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

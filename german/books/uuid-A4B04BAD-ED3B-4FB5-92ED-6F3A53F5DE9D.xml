@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-A4B04BAD-ED3B-4FB5-92ED-6F3A53F5DE9D">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">內藤恥叟著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

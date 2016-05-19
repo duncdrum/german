@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-C945C2DF-8F15-458C-A1D8-83B05A20F12F">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">西野古海編　卷菱潭書</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

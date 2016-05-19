@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-EADBD1D7-D62B-44A7-AB00-C3585497BF8C">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">村瀨新太郎編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

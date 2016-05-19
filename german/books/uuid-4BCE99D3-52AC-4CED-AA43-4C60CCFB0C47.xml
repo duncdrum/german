@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-4BCE99D3-52AC-4CED-AA43-4C60CCFB0C47">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">秋山行藏、石川豐太郎合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

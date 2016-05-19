@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-81972A9A-FB04-400F-95FD-1A7070A4E7F2">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">猪野中行外四名共纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

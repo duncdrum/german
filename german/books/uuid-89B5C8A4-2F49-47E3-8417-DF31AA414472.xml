@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-89B5C8A4-2F49-47E3-8417-DF31AA414472">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">柴田承桂、丹彼敬三譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

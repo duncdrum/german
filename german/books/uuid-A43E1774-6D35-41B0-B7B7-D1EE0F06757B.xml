@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-A43E1774-6D35-41B0-B7B7-D1EE0F06757B">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">川口宗昌編輯　猩令曉齋畫</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

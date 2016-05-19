@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-06606B2F-7F2B-460F-B9A6-BCFCE27AE9B4">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">撫蘭仙仙編次</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

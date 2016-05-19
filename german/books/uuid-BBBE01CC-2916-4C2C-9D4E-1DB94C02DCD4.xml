@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-BBBE01CC-2916-4C2C-9D4E-1DB94C02DCD4">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">新井朗吉、行野德次郎、伊原真次郎、望月久</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

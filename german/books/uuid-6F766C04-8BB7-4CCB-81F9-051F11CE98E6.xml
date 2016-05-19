@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-6F766C04-8BB7-4CCB-81F9-051F11CE98E6">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">石川鴻齋、川田孝吉編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

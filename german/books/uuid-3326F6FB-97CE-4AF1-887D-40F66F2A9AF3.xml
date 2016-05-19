@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-3326F6FB-97CE-4AF1-887D-40F66F2A9AF3">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">內閣法制局藏板</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

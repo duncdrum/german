@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-964B9529-8CF9-43F9-A2F6-FC3CBE8C9190">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">植村善作、太田忠恕同著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

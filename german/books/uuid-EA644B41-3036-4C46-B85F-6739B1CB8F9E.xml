@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-EA644B41-3036-4C46-B85F-6739B1CB8F9E">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">首藤新三、兒玉利庸共釋</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

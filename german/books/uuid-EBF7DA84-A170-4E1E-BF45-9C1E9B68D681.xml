@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-EBF7DA84-A170-4E1E-BF45-9C1E9B68D681">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">杉浦重剛、宮崎道正合譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

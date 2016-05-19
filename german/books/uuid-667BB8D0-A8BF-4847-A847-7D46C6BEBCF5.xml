@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-667BB8D0-A8BF-4847-A847-7D46C6BEBCF5">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">長屋鍾太郎著　高津鍬三郎校閱</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

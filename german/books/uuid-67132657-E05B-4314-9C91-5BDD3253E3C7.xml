@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-67132657-E05B-4314-9C91-5BDD3253E3C7">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">美國謝衛樓著　日本岡千仞訓點</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

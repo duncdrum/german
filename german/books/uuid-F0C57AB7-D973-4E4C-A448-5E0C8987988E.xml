@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-F0C57AB7-D973-4E4C-A448-5E0C8987988E">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">原亮策編　片桐霧峯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

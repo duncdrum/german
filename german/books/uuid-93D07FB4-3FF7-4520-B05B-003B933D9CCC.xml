@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-93D07FB4-3FF7-4520-B05B-003B933D9CCC">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">鈴木貞次郎、柳沼榮、三宅雎合輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

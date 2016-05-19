@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-A22771D0-EB1D-4632-948C-0110A8BCEF17">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">近藤缾城著　賴復閱岡千仞校</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-E4CB470F-BE0B-4716-B478-5CE1FF51A4EF">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">岡白駒箋註　佐木向陽標疏</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

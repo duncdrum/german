@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-3F58531F-CA56-4B2E-90D0-D4F7ABD9F41A">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">三崎尚之、松本之盛同譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

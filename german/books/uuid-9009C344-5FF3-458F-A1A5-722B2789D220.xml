@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9009C344-5FF3-458F-A1A5-722B2789D220">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">松石香川熊藏書　信濃教育會編纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

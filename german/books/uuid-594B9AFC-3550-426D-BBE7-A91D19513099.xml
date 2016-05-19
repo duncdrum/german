@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-594B9AFC-3550-426D-BBE7-A91D19513099">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">田中登作、松島剛、佐藤黽世、橋本武合譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

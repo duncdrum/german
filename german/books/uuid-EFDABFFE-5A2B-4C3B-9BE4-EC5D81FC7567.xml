@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-EFDABFFE-5A2B-4C3B-9BE4-EC5D81FC7567">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">葛飾為一北齋翁畫</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

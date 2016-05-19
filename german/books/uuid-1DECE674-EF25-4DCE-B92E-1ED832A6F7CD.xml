@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-1DECE674-EF25-4DCE-B92E-1ED832A6F7CD">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">齋田功太郎　高橋章臣同纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

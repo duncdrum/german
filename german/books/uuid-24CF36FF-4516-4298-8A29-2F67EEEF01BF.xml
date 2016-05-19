@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-24CF36FF-4516-4298-8A29-2F67EEEF01BF">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">宮內省藏版　西村茂樹編纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

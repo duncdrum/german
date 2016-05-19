@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-843E23CE-B6BB-4296-81EB-AE104E8AA046">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">久松定弘校　湯目補隆譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

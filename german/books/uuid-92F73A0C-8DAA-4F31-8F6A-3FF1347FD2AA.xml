@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-92F73A0C-8DAA-4F31-8F6A-3FF1347FD2AA">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">吉本鐵華編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

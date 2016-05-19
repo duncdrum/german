@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-79ABB4C0-13BB-4E6D-968E-FCB1ABEA84AA">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">渡邊敏著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

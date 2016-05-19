@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-E4A0FCC7-55DF-4B77-8E1B-6C27DC167025">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">金港堂書籍會社編輯所編輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

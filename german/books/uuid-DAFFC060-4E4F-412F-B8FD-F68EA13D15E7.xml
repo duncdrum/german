@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-DAFFC060-4E4F-412F-B8FD-F68EA13D15E7">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">淺井得次郎、莊□親編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

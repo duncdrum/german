@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9C675082-9530-47BD-8FC4-0AA033CE2E56">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">新宮涼園、伊地知英太郎纂輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-7D0AE984-2F33-4D31-B5CE-C0B28E92A0F3">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">梅田磯吉編　奧山朝恭作曲</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

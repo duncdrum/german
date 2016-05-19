@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-07F21523-8C3A-4454-9553-40B80DFF0AC9">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">印藤真楯、岡村增太郎合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

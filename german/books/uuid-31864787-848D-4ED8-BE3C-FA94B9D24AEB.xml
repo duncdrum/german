@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-31864787-848D-4ED8-BE3C-FA94B9D24AEB">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">坪井玄道、田中盛業同輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

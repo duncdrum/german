@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-C971FB18-3D02-4081-A068-C7E3D5B85159">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">杉浦重剛譯　渡邊元吉、草川清編纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

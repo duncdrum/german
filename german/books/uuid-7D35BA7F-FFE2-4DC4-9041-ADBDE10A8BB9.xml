@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-7D35BA7F-FFE2-4DC4-9041-ADBDE10A8BB9">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">村井吉瓶口述　佃與治郎速記</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-D644ABEE-79D7-4C87-B461-20AE11CC8CA8">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">米國源撰　日本和久正辰譯述</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

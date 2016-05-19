@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-2627FC2B-2763-44A1-B2F3-64271CB7BBAC">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">淺間新五郎、小野崎五助合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

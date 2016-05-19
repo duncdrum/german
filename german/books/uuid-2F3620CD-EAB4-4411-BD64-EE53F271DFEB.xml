@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-2F3620CD-EAB4-4411-BD64-EE53F271DFEB">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">福地源一郎編輯　海石村田揮毫</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

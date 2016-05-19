@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-64D9A2D4-36AB-459E-83EE-5F32147CA387">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">美國人口述　石川千代松筆記</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

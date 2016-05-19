@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-5B2F50F5-AC61-4E6C-8F8F-2B8CA23BDFB5">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">大矢透校　山口仙松著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

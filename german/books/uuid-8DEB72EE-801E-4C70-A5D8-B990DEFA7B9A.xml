@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-8DEB72EE-801E-4C70-A5D8-B990DEFA7B9A">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">黑川真瀨校閱　羽山和鄉編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

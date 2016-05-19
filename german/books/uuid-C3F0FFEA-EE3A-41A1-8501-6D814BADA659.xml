@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-C3F0FFEA-EE3A-41A1-8501-6D814BADA659">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">石川錦郎、大澤真吉、龜山真秀合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-04399B06-02C1-4AA6-A13A-FFD91E2B9CF9">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">大石真虎、歌川國直、歌川國芳、池田英泉共</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

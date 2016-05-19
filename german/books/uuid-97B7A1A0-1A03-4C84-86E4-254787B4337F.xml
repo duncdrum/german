@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-97B7A1A0-1A03-4C84-86E4-254787B4337F">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">佐木弘綱、佐木信綱校訂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

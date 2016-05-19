@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-7871A55F-58A6-4240-AD5E-3F30F05C3E69">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">吉村新太郎、渡邊茂男編纂</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

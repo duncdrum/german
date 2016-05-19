@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-7F30EDB9-87A9-41F2-B21B-8687A956A0E6">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">松本楓湖、津江秋芳同輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-54FE1A3D-4ADD-45E6-8975-350A7BC1DFC3">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">少僧正權田雷斧和尚編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

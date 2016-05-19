@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-F66C3944-79C4-4DA5-ADE0-3AF88E20F221">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">伊藤桂洲書　川田孝吉編</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

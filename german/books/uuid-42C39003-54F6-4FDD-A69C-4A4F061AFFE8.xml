@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-42C39003-54F6-4FDD-A69C-4A4F061AFFE8">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">山岡謙介譯　小林義直閱</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

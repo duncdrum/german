@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-60C3476E-4E8F-4EBE-A6B5-4461583FA15E">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">屈田正忠、森順正同輯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

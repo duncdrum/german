@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-A61A8C3B-6C6A-411D-9F4D-5E5DD5D9F272">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">鈴木瓊江纂譯</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

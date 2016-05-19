@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-9B4AF016-BA40-4E29-8854-936B948926A7">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">曲亭馬琴翁著　藍亭青藍增補</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-8D1C326D-0080-4EC1-95C0-40BFFAC01263">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">齋田功太郎、染谷德五郎合著</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>

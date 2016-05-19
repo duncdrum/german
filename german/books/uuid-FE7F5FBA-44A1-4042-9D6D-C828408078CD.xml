@@ -2,7 +2,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
     ID="uuid-FE7F5FBA-44A1-4042-9D6D-C828408078CD">
-    <name type="personal" xlink:href="">
+    <name type="personal">
         <namePart lang="chi" script="Hant">田中敬三編輯　小田切東潭書</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
