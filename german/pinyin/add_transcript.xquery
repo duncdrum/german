@@ -13,17 +13,16 @@ let $hz := collection('file:/Users/halalpha/Documents/gits/german/german/books/'
 for $source in $hz//mods:mods/@ID,
      $trans in $py//mods:mods/@ID[. = $source]
 
-return 
-
-update insert 
-    <namePart>{$trans/..//mods:namePart}</namePart> into $source/../mods:name 
-    <titleInfo>{$trans/..//mods:titleInfo}</titleInfo> following $source/../mods:titleInfo
-     <language>
-        <languageTerm type="code" authority="iso639-2b"/>
-    </language>
-    <recordInfo>
-        <recordOrigin>exported from MHDB database</recordOrigin>
-    </recordInfo> preceding $source/../mods:identifier
+return (
+    insert node <namePart>{$trans/..//mods:namePart/text()}</namePart> into $source/../mods:name, 
+    insert node <titleInfo>{$trans/..//mods:titleInfo/text()}</titleInfo> after $source/../mods:titleInfo,
+    insert nodes <language>
+                <languageTerm type="code" authority="iso639-2b"/>
+            </language>
+            <recordInfo>
+                <recordOrigin>exported from MHDB database</recordOrigin>
+            </recordInfo> before $source/../mods:identifier
+        )
 
 (:Test :)
 
