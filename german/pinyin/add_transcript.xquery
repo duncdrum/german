@@ -11,11 +11,10 @@ declare default element namespace "http://www.loc.gov/mods/v3";
 
 
 declare updating function local:upName($source as node()*, $target as node()*)  {
-let $source := doc(document-uri($source/..))/mods:mods
-return 
-    if (exists($source/mods:name)) 
-    then (insert node <namePart lang="chi" transliteration="chinese/ala-lc">{$target/..//mods:namePart/text()}</namePart> into $source/mods:name)
-    else ()    
+for $n in $source/mods:name
+return
+    insert node <namePart lang="chi" transliteration="chinese/ala-lc">{$target/..//mods:namePart/text()}</namePart> into doc(document-uri($n/../..))//mods:name
+    
 };       
 
 
@@ -40,13 +39,17 @@ declare updating function local:inRecord($source as node()*, $target as node()*)
 let $py := doc('file:/Users/halalpha/Documents/gits/german/german/pinyin/merge_py_wenlin2.xml')
 let $hz := collection('file:/Users/halalpha/Documents/gits/german/german/books/')
 
-for $source in $hz/mods:mods
+let $source := $hz/mods:mods
 let $trans := $py//mods:mods[@ID[. = $source/@ID]]
  
-return
 
 
-    local:upName($source, $trans)
+(:for $n in $source/mods:name
+
+return 
+doc(document-uri($n/../..))//mods:name:)
+
+(:    local:upName($source, $trans):)
     
     (:Test :)
 
