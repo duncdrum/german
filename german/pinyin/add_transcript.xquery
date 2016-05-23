@@ -20,6 +20,8 @@ return
 
 
 declare updating function local:upTitle($source as node()*, $target as node()*)  {
+let $source := doc(document-uri($source/..))/mods:mods
+return     
     insert node <titleInfo type="translated" transliteration="chinese/ala-lc">{$target/..//mods:titleInfo/text()}</titleInfo> after $source/../mods:titleInfo
 };
 
@@ -39,7 +41,7 @@ let $py := doc('file:/Users/halalpha/Documents/gits/german/german/pinyin/merge_p
 let $hz := collection('file:/Users/halalpha/Documents/gits/german/german/books/')
 
 for $source in $hz/mods:mods
-let $trans := $py//mods:mods[@ID = $source/@ID]
+let $trans := $py//mods:mods[@ID[. = $source/@ID]]
  
 return
 
