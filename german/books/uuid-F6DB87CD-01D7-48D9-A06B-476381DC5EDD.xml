@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F6DB87CD-01D7-48D9-A06B-476381DC5EDD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F6DB87CD-01D7-48D9-A06B-476381DC5EDD">
     <name type="personal">
         <namePart lang="chi" script="Hant">一法學士山口莊言著　文學士濱田健二郎閱</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yi faxueshi shankou zhuang yanzhe　wenxueshi bin tian jian er lang yue</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>蓋世偉業 比斯馬克公傳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaishi weiye bi si make gong chuan</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,傳記,p 724</note>
     <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2523</identifier>
 </mods>

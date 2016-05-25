@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-275EB8A9-EA03-4354-825A-8829EF27A309">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-275EB8A9-EA03-4354-825A-8829EF27A309">
     <titleInfo lang="chi" script="Hant">
         <title>鑄錢工蓺</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhuqian gong yi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 154</note>
     <abstract lang="chi" type="summary">鑄錢工蓺三卷附圖 製造局本二冊 [英]傅蘭雅、鍾天緯同譯，首總論錢法源流，並用錢定值之法，從英國通商字典 摘譯，餘論各國鑄錢法及工蓺物料建造之費，換兌之值，識理財者必須之書。 製造局印有英傅蘭雅、汪振聲譯，鑄錢論畧，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_404</identifier>
 </mods>

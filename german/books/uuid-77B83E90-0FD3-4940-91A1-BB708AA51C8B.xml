@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-77B83E90-0FD3-4940-91A1-BB708AA51C8B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-77B83E90-0FD3-4940-91A1-BB708AA51C8B">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木倉之助</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu cang zhi zhu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>少年英傑尚武史談 《通俗教育全書》二十九篇</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shaonian yingjie shangwu shi tan «tongsu jiaoyu quanshu» ershijiu pian</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1205</note>
     <note type="price">一角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_8509</identifier>
 </mods>

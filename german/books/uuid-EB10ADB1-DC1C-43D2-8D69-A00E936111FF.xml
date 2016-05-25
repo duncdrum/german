@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EB10ADB1-DC1C-43D2-8D69-A00E936111FF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EB10ADB1-DC1C-43D2-8D69-A00E936111FF">
     <titleInfo lang="chi" script="Hant">
         <title>民約通議</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Minyue tong yi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 279</note>
     <abstract lang="chi" type="summary">民約通議一卷 上海譯書局本一冊 [法]戎雅屈婁騷著，[日本]中江篤介譯。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_881</identifier>
 </mods>

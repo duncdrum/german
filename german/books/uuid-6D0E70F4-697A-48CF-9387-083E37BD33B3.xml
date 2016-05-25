@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-6D0E70F4-697A-48CF-9387-083E37BD33B3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6D0E70F4-697A-48CF-9387-083E37BD33B3">
     <name type="personal">
         <namePart lang="chi" script="Hant">安本德寬編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">An ben de kuan bian</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>動物書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongwu shu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,動物學,p 646</note>
     <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_1530</identifier>
 </mods>

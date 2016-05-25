@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5609C3B5-EE39-46F1-9F5B-F2D15F433142">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5609C3B5-EE39-46F1-9F5B-F2D15F433142">
     <name type="personal">
         <namePart lang="chi" script="Hant">宫澤時次編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gong ze shi ci bianji</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>和歌獨案內</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>He ge du an nei</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,歌學及歌集,p 976</note>
     <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_5277</identifier>
 </mods>

@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0A1E0FFA-EC01-4D79-857E-B7655ACBF7E4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0A1E0FFA-EC01-4D79-857E-B7655ACBF7E4">
     <name type="personal">
         <namePart lang="chi" script="Hant">高橋榮編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao qiao rong bianzuan</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>今體文範</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jinti wen fan</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,作文書,p 1037</note>
     <note type="price">一角三分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_6132</identifier>
 </mods>

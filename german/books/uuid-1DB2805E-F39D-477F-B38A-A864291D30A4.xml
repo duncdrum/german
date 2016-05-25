@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-1DB2805E-F39D-477F-B38A-A864291D30A4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1DB2805E-F39D-477F-B38A-A864291D30A4">
     <titleInfo lang="chi" script="Hant">
         <title>美國種蘆粟栽製試驗表</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meiguo zhong lusu zai zhi shiyan biao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農家雜蓺,p 138</note>
     <abstract lang="chi" type="summary">美國種蘆粟栽製試驗表一卷 農學報本 [日本]駒場農學校編，[日本]藤田豐八譯，此農學校以化學試騐栽培及製沙糖 之實迹，後并列澳洲、中國栽培諸表及甘蔗栽培榨汁諸表，以資比較。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_343</identifier>
 </mods>

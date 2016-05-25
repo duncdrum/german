@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-3F54DE17-F37F-450B-8F4C-3119F6BDCD3F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3F54DE17-F37F-450B-8F4C-3119F6BDCD3F">
     <titleInfo lang="chi" script="Hant">
         <title>天文畧解</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tianwen lüe jie</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,天學第十九,p 216</note>
     <abstract lang="chi" type="summary">天文畧解二卷 光緒二十二年滙文書院排印本一冊 [美]李安德著，[美]劉海瀾訂，前卷記各國言天文之源流稍畧，後卷記日月地球 日會五星、諸行星小星、日月食、天王、海王二星，飛星、慧星、黃道光、潮汐，皆採集 諸書而成，頗詳備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_632</identifier>
 </mods>

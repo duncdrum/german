@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0A2DB69D-D91D-467E-98CE-A7BA2A2BFB22">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0A2DB69D-D91D-467E-98CE-A7BA2A2BFB22">
     <titleInfo lang="chi" script="Hant">
         <title>心算啟蒙</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xinsuan qimeng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 181</note>
     <abstract lang="chi" type="summary">心算啟蒙一卷 美華書館排印本一冊 [美]那夏禮著，演數必先記數。故西人習算以心算始，此書釋題習問由淺及深， 依次誦習，步步入勝，前數章雖一覽無餘，入後愈引愈深，即已通數學者亦須 耐想，方得其妙，蒙學中善本也。 益智書會印有哈氏心算數學，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_515</identifier>
 </mods>

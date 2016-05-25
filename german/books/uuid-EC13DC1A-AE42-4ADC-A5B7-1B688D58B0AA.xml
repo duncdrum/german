@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EC13DC1A-AE42-4ADC-A5B7-1B688D58B0AA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EC13DC1A-AE42-4ADC-A5B7-1B688D58B0AA">
     <titleInfo lang="chi" script="Hant">
         <title>兒科撮要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Erke cuoyao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 244</note>
     <abstract lang="chi" type="summary">兒科撮要二卷 光緒十八年博濟醫局刊本二冊 不著撰人名氏，尹端模譯，是書與病理撮要，俱為嶺南尹文楷筆譯而未載撰 人，蓋據各西書撮其要也。書中辨症皆設為問答，間列藥方甚為詳便。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_748</identifier>
 </mods>

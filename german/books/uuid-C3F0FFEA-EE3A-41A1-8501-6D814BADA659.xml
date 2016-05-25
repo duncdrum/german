@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C3F0FFEA-EE3A-41A1-8501-6D814BADA659">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C3F0FFEA-EE3A-41A1-8501-6D814BADA659">
     <name type="personal">
         <namePart lang="chi" script="Hant">石川錦郎、大澤真吉、龜山真秀合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shi chuan jin lang, da ze zhen ji, gui shan zhen xiu hezhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>學理應用 民法精義 卷之一</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xueli yingyong minfa jingyi juan zhiyi</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,民法,p 789</note>
     <note type="price">一圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_3264</identifier>
 </mods>

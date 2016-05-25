@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F400D7B2-1E17-45DE-99C0-63D141B6311C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F400D7B2-1E17-45DE-99C0-63D141B6311C">
     <name type="personal">
         <namePart lang="chi" script="Hant">石川鴻齋編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shi chuan hong zhai bian</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>篆文詳註 日本大玉篇</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhuanwen xiangzhu Riben da Yupian</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1064</note>
     <note type="price">三圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_6529</identifier>
 </mods>

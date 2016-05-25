@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0B909E8E-0479-4726-AFE5-8E5E55D2FC42">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0B909E8E-0479-4726-AFE5-8E5E55D2FC42">
     <titleInfo lang="chi" script="Hant">
         <title>省身指掌</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Sheng shen zhizhang</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 233</note>
     <abstract lang="chi" type="summary">省身指掌九卷附西字表一卷 美華書館印本一冊 [美]博恒理著，先論肌骨，次論消化養育，次論血脈運行，次論聲與呼吸，次論腎 經、皮膚，次論腦與腦線，次論腦與靈魂。論列極有條理，且較全體闡微說理新 而要，八九兩卷皆言腦氣筋作用，尤不可不讀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_703</identifier>
 </mods>

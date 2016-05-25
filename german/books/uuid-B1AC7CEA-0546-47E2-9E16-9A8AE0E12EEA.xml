@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B1AC7CEA-0546-47E2-9E16-9A8AE0E12EEA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B1AC7CEA-0546-47E2-9E16-9A8AE0E12EEA">
     <name type="personal">
         <namePart lang="chi" script="Hant">□□健二郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">□□Jian er langzhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,6 +9,15 @@
     <titleInfo lang="chi" script="Hant">
         <title>新撰 小學商業書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xin zhuan xiaoxue shangye shu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,商業書,p 888</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4234</identifier>
 </mods>

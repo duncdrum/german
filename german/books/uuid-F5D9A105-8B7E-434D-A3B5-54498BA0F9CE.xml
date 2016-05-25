@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F5D9A105-8B7E-434D-A3B5-54498BA0F9CE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F5D9A105-8B7E-434D-A3B5-54498BA0F9CE">
     <name type="personal">
         <namePart lang="chi" script="Hant">山田邦彥著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shantian bangyanzhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>小學校讀書科 教授法新案</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxuexiao dushu ke jiaoshoufa xin an</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,實地教育,p 931</note>
     <note type="price">一角三分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4741</identifier>
 </mods>

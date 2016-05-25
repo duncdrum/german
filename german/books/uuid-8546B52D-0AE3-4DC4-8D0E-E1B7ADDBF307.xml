@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8546B52D-0AE3-4DC4-8D0E-E1B7ADDBF307">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8546B52D-0AE3-4DC4-8D0E-E1B7ADDBF307">
     <titleInfo lang="chi" script="Hant">
         <title>地理全志</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dili quan zhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 223</note>
     <abstract lang="chi" type="summary">地理全志五卷 益智書會本一冊　西學大成本 [英]慕維廉著，讀此書可知國地政俗大畧，地學門徑惜太簡太舊，而於近年沿 革相殊亦多，但每卷各列文質政論頗可觀。 益智書會印有[　]江載德萬國地理；又地理大圖譯書公會報印有法蒲以賢著，法賽商重編，法古雷業增訂，吳宗濂譯，增訂五洲通志，均未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_661</identifier>
 </mods>

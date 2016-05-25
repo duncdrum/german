@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-36DC46B9-4BF3-416E-B6F8-48EFF5D5BB03">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-36DC46B9-4BF3-416E-B6F8-48EFF5D5BB03">
     <name type="personal">
         <namePart lang="chi" script="Hant">久保田海石編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jiu bao tian hai shi bianzuan</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,6 +9,15 @@
     <titleInfo lang="chi" script="Hant">
         <title>明治習字帖 尋常小學校用</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming zhi xizitie xunchang xiaoxuexiao yong</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1021</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_5939</identifier>
 </mods>

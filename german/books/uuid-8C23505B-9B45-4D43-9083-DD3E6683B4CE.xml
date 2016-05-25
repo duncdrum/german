@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8C23505B-9B45-4D43-9083-DD3E6683B4CE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8C23505B-9B45-4D43-9083-DD3E6683B4CE">
     <name type="personal">
         <namePart lang="chi" script="Hant">海野力太郎纂譯　田口卯吉序</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Hai ye li tai lang zuan yi　tian kou mao ji xu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>簿記學起原考</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bujixue qiyuan kao</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,簿記書,p 899</note>
     <note type="price">六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4331</identifier>
 </mods>

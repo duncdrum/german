@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-AC60D377-AA53-415C-8617-C9DA53BB2C68">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AC60D377-AA53-415C-8617-C9DA53BB2C68">
     <titleInfo lang="chi" script="Hant">
         <title>格致彙編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gezhi huibian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 271</note>
     <abstract lang="chi" type="summary">格致彙編二十八冊 自印本每年四冊凡七年 [英]傅蘭雅輯，所言格致新理擇要摘譯，洪纖具載，彙集成編，多有出於所譯各 書之外者，凡首尾完具之數十種，已散見各類中載答問語數百條，若分類別 刊一編，其啟發後學不少也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_850</identifier>
 </mods>

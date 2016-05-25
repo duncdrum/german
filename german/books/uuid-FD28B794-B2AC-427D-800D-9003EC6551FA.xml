@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FD28B794-B2AC-427D-800D-9003EC6551FA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FD28B794-B2AC-427D-800D-9003EC6551FA">
     <titleInfo lang="chi" script="Hant">
         <title>累卵東洋</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Leiluan Dongyang</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note>
     <abstract lang="chi" type="summary">累卵東洋一卷 明治三十四年日本排印本一冊 [日本]大橋乙羽著，大房元太郎譯，愚公訂，言英人蠶食印度種種酷虐情形，有 智度其人者欲雪此恥，遊厯亞洲以冀借助外人重興印度，皆寓言也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_922</identifier>
 </mods>

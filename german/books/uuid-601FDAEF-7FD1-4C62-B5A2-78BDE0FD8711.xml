@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-601FDAEF-7FD1-4C62-B5A2-78BDE0FD8711">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-601FDAEF-7FD1-4C62-B5A2-78BDE0FD8711">
     <name type="personal">
         <namePart lang="chi" script="Hant">農務局、工務局藏版</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nong wu ju, gongwuju cang ban</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>府縣漆器沿革漆工傳統誌</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu xian qiqi yange qigong chuantong zhi</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,匠學書,p 877</note>
     <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4121</identifier>
 </mods>

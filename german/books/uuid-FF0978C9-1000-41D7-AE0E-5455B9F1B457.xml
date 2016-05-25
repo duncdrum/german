@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FF0978C9-1000-41D7-AE0E-5455B9F1B457">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FF0978C9-1000-41D7-AE0E-5455B9F1B457">
     <name type="personal">
         <namePart lang="chi" script="Hant">渡邊直之編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Du bian zhi zhi bianji</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>新訂 茨城縣管內地圖 二十萬分之一</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xin ding ci cheng xian guan nei ditu ershi wanfen zhiyi</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,府縣及分國圖,p 693</note>
     <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2097</identifier>
 </mods>

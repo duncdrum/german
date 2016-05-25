@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EC4FD34F-4D42-4F9A-AE50-BC9B2A700864">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EC4FD34F-4D42-4F9A-AE50-BC9B2A700864">
     <titleInfo lang="chi" script="Hant">
         <title>法國賽會總章</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Faguo saihui zong zhang</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,會例,p 171</note>
     <abstract lang="chi" type="summary">法國賽會總章一卷附物件分類名目一卷 時務報本分類名目未畢，昌言報接印。 [英]萬國公賽會原本，潘彥譯。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_479</identifier>
 </mods>

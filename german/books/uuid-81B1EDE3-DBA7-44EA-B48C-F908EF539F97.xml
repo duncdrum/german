@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-81B1EDE3-DBA7-44EA-B48C-F908EF539F97">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-81B1EDE3-DBA7-44EA-B48C-F908EF539F97">
     <titleInfo lang="chi" script="Hant">
         <title>銀礦指南</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yinkuang zhinan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 141</note>
     <abstract lang="chi" type="summary">銀礦指南一卷附圖 製造局本一冊　礦務叢刻本　礦務五種本　富強叢書本 [英]亞倫著，[英]傅蘭雅譯，應祖錫述，此為亞倫重定本，中詳於煉銀諸法於騐礦 之事未為詳備，蓋作者但求親試，力從簡便，勒為一書，未嘗旁羅衆說，故講究 此學者尚宜搜求新法，參攷之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_355</identifier>
 </mods>

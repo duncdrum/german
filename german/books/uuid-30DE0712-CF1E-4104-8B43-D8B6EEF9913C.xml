@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-30DE0712-CF1E-4104-8B43-D8B6EEF9913C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-30DE0712-CF1E-4104-8B43-D8B6EEF9913C">
     <titleInfo lang="chi" script="Hant">
         <title>百鳥圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bainiao tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,動物學,p 238</note>
     <abstract lang="chi" type="summary">百鳥圖說一冊 益智書會刻本 [英]韋門道著，其論鳥有一百四十五種，曰肉食之鳥、曰家鳥、曰善爬之鳥、曰鴿 類、曰雞類、曰善跪之鳥、曰水地行走之鳥、曰有掌之鳥，所列名目足以證中國 言名物諸書，其詞尚淺近，間附臘丁稱謂，專為訓蒙而設。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_724</identifier>
 </mods>

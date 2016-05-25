@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-73E89222-E1C3-45C3-AB82-2F522350897F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-73E89222-E1C3-45C3-AB82-2F522350897F">
     <titleInfo lang="chi" script="Hant">
         <title>斐利迭太王農政要略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fei li die tai wang nongzheng yaolüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 120</note>
     <abstract lang="chi" type="summary">斐利迭太王農政要略　卷 農學報本 [德]師他代爾曼著，[日本]和田維四郎譯，樊炳清重譯，普魯士在十七世紀之時 僅轄白蘭丁保一國，其長尚未稱君，惟稱克爾費爾斯脫而已。十字軍之役，白 蘭丁保人口大遭損害，田園荒蕪，一千六百四十年斐利迭禮璽大王即位，首 以振興農務為任，爰自和蘭召集農民及外國之為宗教而被逐者、移居之民 隨其故鄉風俗，各奏所長，農務為之日盛，後嗣諸王能繼厥志，普國之強實基 於此，讀此書者可知農學殖民為強國根本，宜先從事矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_267</identifier>
 </mods>

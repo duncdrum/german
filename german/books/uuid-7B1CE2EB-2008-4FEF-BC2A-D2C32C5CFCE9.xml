@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-7B1CE2EB-2008-4FEF-BC2A-D2C32C5CFCE9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7B1CE2EB-2008-4FEF-BC2A-D2C32C5CFCE9">
     <titleInfo lang="chi" script="Hant">
         <title>迦因小傳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jia yin xiaozhuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,雜著第三十一,小說,p 291</note>
     <abstract lang="chi" type="summary">迦因小傳一卷 勵學譯編本 蟠溪子譯，此書西名迦因嘉托來所譯，係下半部纏綿悱惻，甚可觀。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_929</identifier>
 </mods>

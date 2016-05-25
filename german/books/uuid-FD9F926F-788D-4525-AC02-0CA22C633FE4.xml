@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FD9F926F-788D-4525-AC02-0CA22C633FE4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FD9F926F-788D-4525-AC02-0CA22C633FE4">
     <titleInfo lang="chi" script="Hant">
         <title>南部阿非利加遊厯談</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nanbu a fei li jia you li tan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 268</note>
     <abstract lang="chi" type="summary">南部阿非利加遊厯談　卷 亞東時報本　通學彙編本 [日本]古谷駒平著，亞東時報館摘譯，古谷駒平君夙有意於南部阿非利加，此 次遠游塗次，抵印度麻都拉斯，由麻都拉斯駛往那大爾沿東岸，而南進經苡 西都倫頓波土埃里沙倍斯茉些爾倍遠喜望峰，轉而赴岌朴丹更，中央鐵路 北進入內地，於金魃聯地方視察金剛石，坑在都蘭士拔兒地方，探見金銀坑 ，又旁察其風土人情焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_839</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-3C2D86FC-FAE9-4E44-84AB-7584B2899090">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3C2D86FC-FAE9-4E44-84AB-7584B2899090">
     <titleInfo lang="chi" script="Hant">
         <title>幼童衛生編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Youtong weisheng bian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note>
     <abstract lang="chi" type="summary">幼童衛生編一卷 益智書會本一冊 [英]傅蘭雅輯譯，原書為約翰怒及布登所著，而戒煙會中女監督恨得氏復有 所增改，大旨與孩童衛生論略同，此益加密，後附學堂要言全身骨數各一篇。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_773</identifier>
 </mods>

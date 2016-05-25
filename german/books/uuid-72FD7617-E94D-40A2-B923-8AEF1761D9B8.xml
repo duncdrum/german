@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-72FD7617-E94D-40A2-B923-8AEF1761D9B8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-72FD7617-E94D-40A2-B923-8AEF1761D9B8">
     <titleInfo lang="chi" script="Hant">
         <title>大同學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Da tongxue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 281</note>
     <abstract lang="chi" type="summary">大同學一卷 萬國公報本　廣學會單印本一冊 [英]企德著，[英]李提摩太譯，蔡爾康述，凡四章，曰今世景象、曰進境、曰相爭相進 之理、曰人世第一大事。其意在以彼教主義與哲學者爭理多不確，所徵引頗 可觀。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_888</identifier>
 </mods>

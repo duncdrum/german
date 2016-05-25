@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5041072D-5298-436D-B991-87C68DD68B24">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5041072D-5298-436D-B991-87C68DD68B24">
     <titleInfo lang="chi" script="Hant">
         <title>論俄國增兵過度</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lun Eguo zengbing guodu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論兵,p 288</note>
     <abstract lang="chi" type="summary">論俄國增兵過度一卷 亞東時報本 [英]西門士著，[美]林樂知譯，任延旭述。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_914</identifier>
 </mods>

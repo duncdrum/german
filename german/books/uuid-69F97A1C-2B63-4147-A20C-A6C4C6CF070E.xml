@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-69F97A1C-2B63-4147-A20C-A6C4C6CF070E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-69F97A1C-2B63-4147-A20C-A6C4C6CF070E">
     <name type="personal">
         <namePart lang="chi" script="Hant">榧木寬則纂譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Fei mu kuan ze zuan yi</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>新撰 生理篇 小學校用</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xin zhuan shengli pian xiaoxuexiao yong</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,生理學學校用,p 592</note>
     <note type="price">五角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_952</identifier>
 </mods>

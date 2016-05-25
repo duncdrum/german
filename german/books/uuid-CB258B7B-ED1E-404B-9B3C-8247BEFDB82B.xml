@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-CB258B7B-ED1E-404B-9B3C-8247BEFDB82B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CB258B7B-ED1E-404B-9B3C-8247BEFDB82B">
     <titleInfo lang="chi" script="Hant">
         <title>紡織機器圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fangzhi jiqi tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 153</note>
     <abstract lang="chi" type="summary">紡織機器圖說一卷 格致彙編本一冊　西政叢書本 [英]傅蘭雅輯譯，前論機器用法、紡織功效，後附字林報論上海紡織及丹科論 紡織工蓺情形，最足借鑒。彙編一二有論棉花工蓺源流、論棉花去子及紡紗 織布各機器并價值，又總論，又紡織廠圖說，又美國棉油廠說凡八篇，可互證。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_399</identifier>
 </mods>

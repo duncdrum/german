@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-60F1C797-9397-45A0-811E-3558FE866643">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-60F1C797-9397-45A0-811E-3558FE866643">
     <titleInfo lang="chi" script="Hant">
         <title>國民教育資料</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guomin jiaoyu ziliao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 84</note>
     <abstract lang="chi" type="summary">國民教育資料二卷 教育世界本 [日本]峯是三郎著，沈紘譯，一國之人無國家思想，而言論自由則流弊甚大，故 各國皆籌教育普及之法，而寓國家主義於其中，是書則日本教育家所持以 為演繹國家主義之資料者也。我國有志教育者當依其例，而酌於我國國體 以為之。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_148</identifier>
 </mods>

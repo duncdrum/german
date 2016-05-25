@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D6068EB7-B901-4D9A-B0F6-E4E0C5896363">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D6068EB7-B901-4D9A-B0F6-E4E0C5896363">
     <titleInfo lang="chi" script="Hant">
         <title>胎產舉要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tai chan juyao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 244</note>
     <abstract lang="chi" type="summary">胎產舉要二卷 光緒十九年博濟醫局刊本 [美]阿庶頓輯，尹端模譯，上卷論胎，下卷論產，皆設問答，以明其理，可謂詳備，惜 譯筆欠顯達。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_746</identifier>
 </mods>

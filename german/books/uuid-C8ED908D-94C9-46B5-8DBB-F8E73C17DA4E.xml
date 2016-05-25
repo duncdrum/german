@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C8ED908D-94C9-46B5-8DBB-F8E73C17DA4E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C8ED908D-94C9-46B5-8DBB-F8E73C17DA4E">
     <titleInfo lang="chi" script="Hant">
         <title>上船政大臣裕製船條陳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shangchuan zheng dachen yu zhi chuan tiaochen</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,船艦,p 109</note>
     <abstract lang="chi" type="summary">上船政大臣裕製船條陳一卷 昌言報本　秦中彙報本 [法]杜爾業著，所言各國新製各船非盡是三十海里，至三十二海里之速率，故 歐洲各國製造，各等快船無過二十二三海里者，惟魚雷艇兵船方有三十海 里左右之速率，大東溝之役，日人之勝，中國實賴有上等快炮，非以速率取勝 也。前後所列各表，言船政頗為詳晰，惟言德廠非確實可靠，諸款未免有偏袒 之意。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_227</identifier>
 </mods>

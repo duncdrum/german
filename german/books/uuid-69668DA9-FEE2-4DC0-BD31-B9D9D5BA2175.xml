@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-69668DA9-FEE2-4DC0-BD31-B9D9D5BA2175">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-69668DA9-FEE2-4DC0-BD31-B9D9D5BA2175">
     <titleInfo lang="chi" script="Hant">
         <title>營壘圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yinglei tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,營壘,p 103</note>
     <abstract lang="chi" type="summary">營壘圖說一卷附圖 製造局本一冊　西學大成本 [比]伯里牙芒著，[美]金楷理譯，李鳳苞述，凡用兵者能明急成土壘之法為要義。 西國曩時以築壘獲勝者，史不絕書，書中於布置造作之法言之詳慎，蓋土壘 既可蔽護圍內之兵丁，又可防馬兵之攻突，各國用此顯著成效，誠軍政之要 事。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_205</identifier>
 </mods>

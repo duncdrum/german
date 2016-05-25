@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FE6E752F-431A-4DF5-B5E5-6978FF4AFAC7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FE6E752F-431A-4DF5-B5E5-6978FF4AFAC7">
     <titleInfo lang="chi" script="Hant">
         <title>測候器</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Cehou qi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,天學第十九,p 218</note>
     <abstract lang="chi" type="summary">測候器一冊 格致彙編本在格致釋器中 [英]傅蘭雅著，此從倫敦尼古類氏散布拉公司所造器譯印，為類七，為圖七十 有四，所論皆測量所用各器與各器之理及功用，其詳其密，實講地文學者不 可少之書。彙編一又有自記風雨表圖說，又二有論測風器論汽機測騐諸器 ，均可參觀。 製造局印有英傅蘭雅、江衡譯，測候諸器記二冊；傅蘭雅、華蘅芳譯，風雨表說一冊；傅蘭雅、徐壽譯，燥溼表說一冊，皆未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_641</identifier>
 </mods>

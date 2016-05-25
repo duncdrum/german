@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-AACD46CA-759C-419F-8F7A-21CD854C6706">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AACD46CA-759C-419F-8F7A-21CD854C6706">
     <titleInfo lang="chi" script="Hant">
         <title>附印度產金額數紀畧</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu Yindu chan jin'e shu ji lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 142</note>
     <abstract lang="chi" type="summary">附 印度產金額數紀畧一卷 湖北商務報本 湖北商務報館譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_359</identifier>
 </mods>

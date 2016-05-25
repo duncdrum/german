@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0475FBF1-850E-4EFB-AB2D-934E478B789A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0475FBF1-850E-4EFB-AB2D-934E478B789A">
     <titleInfo lang="chi" script="Hant">
         <title>透物電光機圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tou wu dianguang ji tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,光學第十七,光學器,p 210</note>
     <abstract lang="chi" type="summary">透物電光機圖說　卷 滙報本 滙報館著，始於西厤一千八百五十一年隆高福創有電筒，繼之者為德人高 倫根，其製始精篇中言透光機之理頗詳，附圖七幅亦甚明晰。 知新報有義光新器說；嶺學報有堅倫鏡說；中外日報有曷格斯射光鏡說，並可參觀。[顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_612</identifier>
 </mods>

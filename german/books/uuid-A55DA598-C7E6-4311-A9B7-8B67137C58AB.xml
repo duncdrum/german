@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A55DA598-C7E6-4311-A9B7-8B67137C58AB">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A55DA598-C7E6-4311-A9B7-8B67137C58AB">
     <name type="personal">
         <namePart lang="chi" script="Hant">朝比奈又三郎</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Chao bi nai you san lang</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,6 +9,15 @@
     <titleInfo lang="chi" script="Hant">
         <title>警察官必攜</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jingcha guan bi xie</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,警察書,p 755</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2871</identifier>
 </mods>

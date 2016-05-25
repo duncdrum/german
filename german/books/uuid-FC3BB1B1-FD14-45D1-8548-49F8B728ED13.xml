@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FC3BB1B1-FD14-45D1-8548-49F8B728ED13">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FC3BB1B1-FD14-45D1-8548-49F8B728ED13">
     <titleInfo lang="chi" script="Hant">
         <title>中俄交界圖</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong e jiaojie tu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 231</note>
     <abstract lang="chi" type="summary">中俄交界圖三十五幅 天津局印本 [俄]原圖，洪鈞譯繪，按原圖祗數幅，文卿侍郎展為三十五幅。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_694</identifier>
 </mods>

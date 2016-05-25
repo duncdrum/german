@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DB351B56-A0C0-4B69-846D-6C65B14D21CF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DB351B56-A0C0-4B69-846D-6C65B14D21CF">
     <titleInfo lang="chi" script="Hant">
         <title>格物雜說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gewu zashuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 179</note>
     <abstract lang="chi" type="summary">格物雜說無卷數 格致彙編本 [英]傅蘭雅輯，此書從各國格致書中摘要譯出，凡天地萬物無所不載，皆西人 新推測之理，每季譯印數則，啟人智慧不少。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_503</identifier>
 </mods>

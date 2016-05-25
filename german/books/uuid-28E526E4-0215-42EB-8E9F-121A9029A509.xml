@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-28E526E4-0215-42EB-8E9F-121A9029A509">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-28E526E4-0215-42EB-8E9F-121A9029A509">
     <name type="personal">
         <namePart lang="chi" script="Hant">伊東千代作編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yi dong qian dai zuo bian</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>小學讀本萬國地理小誌 小學校用</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue duben wanguo dili xiao zhi xiaoxuexiao yong</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note>
     <note type="price">三角六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_1914</identifier>
 </mods>

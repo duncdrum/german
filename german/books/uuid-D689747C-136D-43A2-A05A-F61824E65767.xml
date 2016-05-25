@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D689747C-136D-43A2-A05A-F61824E65767">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D689747C-136D-43A2-A05A-F61824E65767">
     <titleInfo lang="chi" script="Hant">
         <title>八綫簡表</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ba xian jian biao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,三角八綫,p 190</note>
     <abstract lang="chi" type="summary">八綫簡表一冊 製造局本　中西算學大成本　數理精蘊本未善 [泰西人]原書，賈步緯校述，割圓一術中西自古算學家皆以勾股屢次開方，費 極大工夫，始得圓周密率，而八綫一表實剏自西人，從三角比例衍級數而立 表，始易其法，見代數術及三角數理，此冊列正餘弦切割各數至分而止，故曰 簡表。除首位小數七位平常測算，已足敷用，其正餘矢為正餘弦與半徑相較 之數，故不列表。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_542</identifier>
 </mods>

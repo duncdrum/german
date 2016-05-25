@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-03A7B70E-1B17-4A53-925C-B4640D749DE0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-03A7B70E-1B17-4A53-925C-B4640D749DE0">
     <titleInfo lang="chi" script="Hant">
         <title>礮乘新法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bao cheng xinfa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 113</note>
     <abstract lang="chi" type="summary">礮乘新法三卷首一卷圖一卷 製造局本六冊 [英]製造官局原書，舒高第、鄭昌棪同譯述，首論造礮乘材料，次論陸路礮車，次 論水師礮架於近時製造新法，纖悉詳盡。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_244</identifier>
 </mods>

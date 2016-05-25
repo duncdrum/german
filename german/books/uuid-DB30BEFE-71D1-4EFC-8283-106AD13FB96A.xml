@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DB30BEFE-71D1-4EFC-8283-106AD13FB96A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DB30BEFE-71D1-4EFC-8283-106AD13FB96A">
     <name type="personal">
         <namePart lang="chi" script="Hant">狩野法眼元信真筆</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shou ye fayan yuan xin zhen bi</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>玄宗皇帝楊貴妃圖 美術畫第二</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xuanzong huangdi Yang Guifei tu meishu hua di-er</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1094</note>
     <note type="price">一角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_6930</identifier>
 </mods>

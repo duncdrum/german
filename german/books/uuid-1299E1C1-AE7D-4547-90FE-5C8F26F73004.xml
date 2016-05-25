@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-1299E1C1-AE7D-4547-90FE-5C8F26F73004">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1299E1C1-AE7D-4547-90FE-5C8F26F73004">
     <titleInfo lang="chi" script="Hant">
         <title>公法總論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gongfa zonglun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 89</note>
     <abstract lang="chi" type="summary">公法總論一卷 製造局本一冊　富強叢書本　軍政全書本　西政叢書本 [英]羅伯村著，[英]傅蘭雅、汪振聲同譯，公法有二事，一為一定有界限之公法，一 為各國現行相待之公法，此總論不過將各國常用之法，挈其要領，凡交涉之 成案不及備載，其末篇歸重講公法，以息爭端，乃仁人君子之用心，學者苦諸 公法書繁重，得此足為綱領。 同文館印有德步倫著，美丁韙良、金楷理譯，公法千章，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_165</identifier>
 </mods>

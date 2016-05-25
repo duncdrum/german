@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D585F387-3C42-483C-B86D-2F4DFE0327EF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D585F387-3C42-483C-B86D-2F4DFE0327EF">
     <titleInfo lang="chi" script="Hant">
         <title>化學新編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue xinbian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 205</note>
     <abstract lang="chi" type="summary">化學新編一冊 光緒丙申金陵滙文書院印本 [英]福開森著，李天相譯，講化學以考質為基，譯化學書以定名為要。書中皆用 攷定之新名，復旁綴西字至為清晰，論生物、死物各質自取法，收法性情功用 一一詳載，後附金類二十六種，酸質十二種，攷底質之要，又試騐金類全法圖， 工商業家不可不讀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_588</identifier>
 </mods>

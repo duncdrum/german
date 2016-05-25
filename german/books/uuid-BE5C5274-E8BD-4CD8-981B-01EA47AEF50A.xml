@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-BE5C5274-E8BD-4CD8-981B-01EA47AEF50A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BE5C5274-E8BD-4CD8-981B-01EA47AEF50A">
     <titleInfo lang="chi" script="Hant">
         <title>探路日記</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tanlu riji</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 265</note>
     <abstract lang="chi" type="summary">探路日記一卷 小方壺齋本 [英]密斯耨著，此一千八百六十八年使中國至七十七年差滿，遂游西藏、雲貴 等處而作。 譯書公會報印有英巴伯探西藏行記一卷；法岱理松著，袖海客譯，東遊隨筆，均未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_828</identifier>
 </mods>

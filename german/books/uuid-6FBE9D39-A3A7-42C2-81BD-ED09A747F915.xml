@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-6FBE9D39-A3A7-42C2-81BD-ED09A747F915">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6FBE9D39-A3A7-42C2-81BD-ED09A747F915">
     <titleInfo lang="chi" script="Hant">
         <title>英興記</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ying xing ji</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 56</note>
     <abstract lang="chi" type="summary">英興記二卷首一卷 廣學會本二冊 [英]鄧理槎著，[美]林樂知、任延旭同譯，所記皆英主維多利亞在位六十年中之 政教，大抵彙集報章而成，雖未詳備，亦足攷見英之日臻強盛也。記近今英事 無過是書。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_47</identifier>
 </mods>

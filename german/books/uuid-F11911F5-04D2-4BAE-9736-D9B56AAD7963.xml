@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F11911F5-04D2-4BAE-9736-D9B56AAD7963">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F11911F5-04D2-4BAE-9736-D9B56AAD7963">
     <titleInfo lang="chi" script="Hant">
         <title>數學啟蒙</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shuxue qimeng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 182</note>
     <abstract lang="chi" type="summary">數學啟蒙二卷 上海排印本二冊　湖南刻本　上海縮印本，改名西算入門。 [英]偉烈亞力著，專明筆算，分加減乘除、分法、比例方法、對數各門，每法但列一 題，蓋數理精蘊之節本。第二卷有開諸乘方捷法為數理精蘊所無，最便初學 ，此法創自何而捺，在西土為新術，即中土天元開方也，但語太簡潔，初學易忽 略讀過耳。英艾約瑟亦有數學啟蒙，譯成未刻。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_520</identifier>
 </mods>

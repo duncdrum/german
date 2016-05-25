@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D82F41A3-731C-400E-BBA1-D3925B88D61B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D82F41A3-731C-400E-BBA1-D3925B88D61B">
     <titleInfo lang="chi" script="Hant">
         <title>農學報</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nong xuebao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 272</note>
     <abstract lang="chi" type="summary">農學報 石印本設上海 中東人合譯，羅振玉等撰述，光緒二十三年四月始至十二月止每月二冊二 十四年以後，每月三冊專譯中外言農之書，次第編印數葉，裝訂成冊，所譯以 日本農學新法之書為多，首載中國講農諭摺、稟牘及東西農人各報，間錄會 員採訪各省農事情形最為可觀。中國近來講求農政，誠為亟務，此報之益實 非淺尠，但農人多不識字，守舊之見牢不可破，開通風氣在報館，振興農利在 有位，宜於此二端，先加意焉。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_856</identifier>
 </mods>

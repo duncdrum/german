@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-13FA6F8F-E68B-41BF-BD5D-84DE13F25C8D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-13FA6F8F-E68B-41BF-BD5D-84DE13F25C8D">
     <titleInfo lang="chi" script="Hant">
         <title>開煤要法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kai mei yao fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 140</note>
     <abstract lang="chi" type="summary">開煤要法十二卷附表 製造局本二冊　礦務叢刻本　上海石印礦務五種本富強叢書本　西學大成本無表 [英]士密德輯，英傅蘭雅譯，王德均述，試騐、開採、起運、防備之法及器具工作無 不詳載，後出之書雖多，但加密求便而已。書中論預防各險甚詳，中載中國產 煤處所尚未周備。彙編一有鑽地覔煤法，又有力儲於煤說，又有開煤略法，並 可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_351</identifier>
 </mods>

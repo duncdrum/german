@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B184939D-6B10-4484-B7B7-2BA9460653CD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B184939D-6B10-4484-B7B7-2BA9460653CD">
     <titleInfo lang="chi" script="Hant">
         <title>世界商業史</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shijie shangye shi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 166</note>
     <abstract lang="chi" type="summary">世界商業史　卷 譯林本 [日本]六條隆吉近藤千吉合著，譯林館譯，斯書參攷英人伊支氏丐賓氏所著 者，其中凡言財政農業之事採長棄短，以成此書。所叙古今萬國之商業沿革， 極為詳明，誠以外國貿易之興已數十年，其關係在文明二大原力，曰蒸汽、曰 電氣，今日之五洲通道四海一家者，非藉此蒸電二原力之用哉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_456</identifier>
 </mods>

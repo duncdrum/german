@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-E32716F2-FBD5-4564-AB71-D6FC5DA9FC49">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E32716F2-FBD5-4564-AB71-D6FC5DA9FC49">
     <name type="personal">
         <namePart lang="chi" script="Hant">後藤牧太外三名合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Hou teng mu tai wai san ming hezhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>小學校生徒用 物理書 小學校用</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxuexiao shengtu yong wuli shu xiaoxuexiao yong</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷二,理學門,物理學,p 628</note>
     <note type="price">四角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_1343</identifier>
 </mods>

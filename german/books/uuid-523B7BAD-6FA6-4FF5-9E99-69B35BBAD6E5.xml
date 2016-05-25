@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-523B7BAD-6FA6-4FF5-9E99-69B35BBAD6E5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-523B7BAD-6FA6-4FF5-9E99-69B35BBAD6E5">
     <name type="personal">
         <namePart lang="chi" script="Hant">田中犢二郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Tian zhong du er langzhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>俳諧獨案內 《寸珍百種》十二篇</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Paixie du an nei «cun zhen bai zhong» shi'er pian</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,俳書及俳諧集,p 986</note>
     <note type="price">七分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_5436</identifier>
 </mods>

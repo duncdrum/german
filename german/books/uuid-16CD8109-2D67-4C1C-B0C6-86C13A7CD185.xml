@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-16CD8109-2D67-4C1C-B0C6-86C13A7CD185">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-16CD8109-2D67-4C1C-B0C6-86C13A7CD185">
     <titleInfo lang="chi" script="Hant">
         <title>化學週期律</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue zhou qi lü</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 205</note>
     <abstract lang="chi" type="summary">化學週期律一卷 亞泉雜志本 虞欽和譯，週期律為近來新得之學理，向來譯書中未曾述及，亞泉學館揭錄 化學原質新表，其序次悉依原點重率，以冀與週期律相核證焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_592</identifier>
 </mods>

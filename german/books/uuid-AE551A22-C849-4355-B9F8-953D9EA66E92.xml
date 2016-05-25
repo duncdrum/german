@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-AE551A22-C849-4355-B9F8-953D9EA66E92">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AE551A22-C849-4355-B9F8-953D9EA66E92">
     <titleInfo lang="chi" script="Hant">
         <title>化學定性分析</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue dingxing fenxi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 203</note>
     <abstract lang="chi" type="summary">化學定性分析　卷 亞泉雜志本　普通學書室原印本一冊 [日本]下山順一郎校閱，平野一貫河村汪編，亞泉學館譯，斯書為日本有名之 化學書。編纂之時取俄國某府大學校排依魯所著之書為標準，旁採諸家之 書參互考訂，其宗旨實導生徒實習考質之法。書分二章，上章選擇鹽類中常 用之物分別試騐，以示各本質配質相感之性，名曰考質分試法；下章則示以 考質相生之法，名曰考質相生法。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_584</identifier>
 </mods>

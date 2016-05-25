@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-7515EA11-F078-4F02-A142-2AA5EED3C833">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7515EA11-F078-4F02-A142-2AA5EED3C833">
     <titleInfo lang="chi" script="Hant">
         <title>重學須知</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong xue xuzhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,重學第十三,重學,p 195</note>
     <abstract lang="chi" type="summary">重學須知一卷 格致須知二集本一冊 [英]傅蘭雅著，篇幅雖少於靜重學之義理，擇要著之，初學最易通曉。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_557</identifier>
 </mods>

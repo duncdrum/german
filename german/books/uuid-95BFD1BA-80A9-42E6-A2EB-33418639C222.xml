@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-95BFD1BA-80A9-42E6-A2EB-33418639C222">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-95BFD1BA-80A9-42E6-A2EB-33418639C222">
     <titleInfo lang="chi" script="Hant">
         <title>步兵各個教練書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bubing gege jiaolian shu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 96</note>
     <abstract lang="chi" type="summary">步兵各個教練書　卷 南洋公學本 [日本]軍事教育會稻村新六編，南洋公學譯書院譯，日本現役兵每年以十二 月一日入營，入營之始，未諳軍事，人各施教，令就範圍，限十週畢業，是為各個 教練。是書彙步兵操典野外要務令、軍隊教育次序令諸書，而又以作者平日 所閱厯附著之，首緒言，次教練綱領，次十週課目，而終以結論，於作止、進退、軍 禮、槍法、攻守、偵探等事指導備至，又時時設為問答，使各兵知返求之道，又以 毋泥成法，勗諸教官，可謂詳盡矣。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_188</identifier>
 </mods>

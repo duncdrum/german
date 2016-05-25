@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-ED65DC65-CD04-4501-AA20-25E5DB154310">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-ED65DC65-CD04-4501-AA20-25E5DB154310">
     <titleInfo lang="chi" script="Hant">
         <title>文學興國策</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wenxue xing guoce</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 82</note>
     <abstract lang="chi" type="summary">文學興國策二卷 廣學會本二冊 [日本]森有禮輯，[美]林樂知譯，任延旭述，有禮曾肄業英國，復使美國，深鑒美之 盛實賴學校，乃訪求其文學成法，告諸本國朝廷，採而用之，遂廣設學堂，徧召 生徒，幾如美盛。此編所載皆美國各部大臣議院各紳及各書院、監院照覆公 函，凡設塾之良規，教學之成法，具著於此，惟其中論救世教語，不免囿於美俗 耳。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_139</identifier>
 </mods>

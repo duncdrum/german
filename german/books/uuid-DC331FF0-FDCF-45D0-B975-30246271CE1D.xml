@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DC331FF0-FDCF-45D0-B975-30246271CE1D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DC331FF0-FDCF-45D0-B975-30246271CE1D">
     <name type="personal">
         <namePart lang="chi" script="Hant">村田文夫、山田貢一郎合譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Cun tian wen fu, shantian gong yi lang heyi</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>增補 西洋家作雛形</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zengbu xiyang jia zuo chuxing</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷八,工業門,建築書,p 872</note>
     <note type="price">四角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4068</identifier>
 </mods>

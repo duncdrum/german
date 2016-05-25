@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-1A87334F-B423-4500-8BEB-3F98253C565D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A87334F-B423-4500-8BEB-3F98253C565D">
     <titleInfo lang="chi" script="Hant">
         <title>滙報</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hui bao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 276</note>
     <abstract lang="chi" type="summary">滙報 排印本，設上海徐家滙。 [法]教士等輯譯，其體例一仍格致益聞滙報之舊，仍每七日出二紙，每紙界八 葉，四葉言西學各事，頗淺近易曉，附以答問，尤為明晰；四葉言時事，亦無冗雜 之弊，間有言教務處，宜分別觀之，始於光緒二十四年七月。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_870</identifier>
 </mods>

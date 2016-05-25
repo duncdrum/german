@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-02FAD12C-F229-4347-AFF0-3331CE0AB46B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-02FAD12C-F229-4347-AFF0-3331CE0AB46B">
     <name type="personal">
         <namePart lang="chi" script="Hant">北島石兼、弘傅藏渡、德山銓一郎合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Bei dao shi jian, hong fu cang du, de shan quan yi lang hezhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>會計法釋義</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kuaiji fa shiyi</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,財政學,p 757</note>
     <note type="price">三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2892</identifier>
 </mods>

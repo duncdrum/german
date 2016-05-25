@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-47885A2D-648C-4E40-AA27-B787F6429841">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-47885A2D-648C-4E40-AA27-B787F6429841">
     <titleInfo lang="chi" script="Hant">
         <title>聲學揭要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shengxue jie yao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,聲學第十六,聲學,p 207</note>
     <abstract lang="chi" type="summary">聲學揭要一卷 益智書會本一冊　登卅文會館本 [美]赫士譯，朱葆琛述，凡七十一節，所論諸聲之理，簡淺易曉，頗便初學。彙編一 有論傳聲器、像聲器二則，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_597</identifier>
 </mods>

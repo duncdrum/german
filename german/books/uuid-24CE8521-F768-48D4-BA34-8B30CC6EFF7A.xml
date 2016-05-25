@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-24CE8521-F768-48D4-BA34-8B30CC6EFF7A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-24CE8521-F768-48D4-BA34-8B30CC6EFF7A">
     <name type="personal">
         <namePart lang="chi" script="Hant">法制局御藏板</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Fazhi ju yu cang ban</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>英國等親拜不動產相續法圖解佛國民法等親拜相續法圖解</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yingguo deng qin bai budongchan xiangxu fa tujie Foguo minfa deng qin baixiang xu fa tujie</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,外國民法,p 793</note>
     <note type="price">七角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_3322</identifier>
 </mods>

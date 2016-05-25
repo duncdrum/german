@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-9DFCD6AB-4DD9-4451-AFE1-1C27030865A0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9DFCD6AB-4DD9-4451-AFE1-1C27030865A0">
     <titleInfo lang="chi" script="Hant">
         <title>西國鍊鋼說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi guo lian gang shuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 142</note>
     <abstract lang="chi" type="summary">西國鍊鋼說一卷 格致彙編本 [英]傅蘭雅輯譯，是書蓋鍊鋼全書要說彙輯而成，凡鍊銅鍊鋼各法與鋼之 用處一一詳說，按中國近來需鐵甚多，若全取之外洋，則巨資流出特甚，亟宜 講求開採鎔鍊，庶不至仰外人鼻息。書中亦見及此每申論之。彙編二有化分 中國鐵礦說、西國鍊鐵法畧論，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_357</identifier>
 </mods>

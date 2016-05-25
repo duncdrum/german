@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D6124672-EB1A-4CBC-A496-2D3B1D585626">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D6124672-EB1A-4CBC-A496-2D3B1D585626">
     <titleInfo lang="chi" script="Hant">
         <title>留聲新機說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Liu sheng xin ji shuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,聲學第十六,音學,p 208</note>
     <abstract lang="chi" type="summary">留聲新機說　卷 知新報本 周逢源譯所云，鉛皮膠棍各節與今售者異，然言理頗詳，足為探要之論。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_602</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A7ACAB68-3C13-400E-BC25-D582BA695A45">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A7ACAB68-3C13-400E-BC25-D582BA695A45">
     <titleInfo lang="chi" script="Hant">
         <title>植楮法、植雁皮法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhi chu fa, zhi yanpi fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note>
     <abstract lang="chi" type="summary">植楮法一卷植雁皮法一卷 農學報本 [日本]初瀨川健增著，楮與雁皮皆造紙之用，然二物種法小有不同，此書僅言 其大概。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_317</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-13E1B1BA-EDB0-49A1-B5D0-5D5E75C63B38">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-13E1B1BA-EDB0-49A1-B5D0-5D5E75C63B38">
     <titleInfo lang="chi" script="Hant">
         <title>非洲疆域說略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Feizhou jiangyu shuo lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 226</note>
     <abstract lang="chi" type="summary">非洲疆域說略　卷 知新報本 周逢源譯 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_674</identifier>
 </mods>

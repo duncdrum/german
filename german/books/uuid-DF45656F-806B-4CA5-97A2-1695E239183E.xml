@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DF45656F-806B-4CA5-97A2-1695E239183E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF45656F-806B-4CA5-97A2-1695E239183E">
     <titleInfo lang="chi" script="Hant">
         <title>皮膚新編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Pifu xinbian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 243</note>
     <abstract lang="chi" type="summary">皮膚新編一卷 光緒十四年博濟醫局刊本一冊 [美]嘉約翰譯，林湘東述，內經言善治者治皮毛，其次治肌膚，又言秋刺皮膚，中 醫不甚措意，而以一表藥了之，其著而成，病者當檢此編。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_743</identifier>
 </mods>

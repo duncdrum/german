@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-CCACC075-BA59-4B9C-B21D-A54E3856E5F9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CCACC075-BA59-4B9C-B21D-A54E3856E5F9">
     <name type="personal">
         <namePart lang="chi" script="Hant">米本吉太郎、吉技隅次合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Mi ben ji tai lang, ji ji yu ci hezhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>度量衡法規註解</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Duliangheng fagui zhujie</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷九,商業門,度量衡書,p 896</note>
     <note type="price">五角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4304</identifier>
 </mods>

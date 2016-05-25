@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8F7D5C52-9469-479B-AA8D-42FA6EC6FCB7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8F7D5C52-9469-479B-AA8D-42FA6EC6FCB7">
     <titleInfo lang="chi" script="Hant">
         <title>格致質學啟蒙</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gezhi zhi xue qimeng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 177</note>
     <abstract lang="chi" type="summary">格致質學啟蒙一卷 西學啟蒙本一冊 [英]艾約瑟著，凡十一章，前言萬物之力，後言各質之形性，論電力尤詳，末附用 器格言器物價值，亦便，大恉與司氏啟蒙相似。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_497</identifier>
 </mods>

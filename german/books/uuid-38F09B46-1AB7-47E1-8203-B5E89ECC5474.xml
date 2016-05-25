@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-38F09B46-1AB7-47E1-8203-B5E89ECC5474">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-38F09B46-1AB7-47E1-8203-B5E89ECC5474">
     <name type="personal">
         <namePart lang="chi" script="Hant">田口卯吉演說　德富猪一郎序</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Tian kou mao ji yanshuo　de fu zhu yi lang xu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>再版 條約改正論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zaiban tiaoyue gaizheng lun</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,條約,p 804</note>
     <note type="price">四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_3467</identifier>
 </mods>

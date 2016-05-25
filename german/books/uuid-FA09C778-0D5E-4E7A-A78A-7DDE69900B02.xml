@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FA09C778-0D5E-4E7A-A78A-7DDE69900B02">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FA09C778-0D5E-4E7A-A78A-7DDE69900B02">
     <titleInfo lang="chi" script="Hant">
         <title>法國水師攷</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Faguo shuishi kao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 107</note>
     <abstract lang="chi" type="summary">法國水師攷一卷 製造局一冊手　富強叢書本 [美]杜點能著，[美]羅亨利、瞿昂來同譯，前載船艦隻數與造船法制中載水師官 弁額數，後專記造船之廠法，自西厤七百五十年復興船政，其後逐年增改，遂 與英匹，足見西國講求水師，不遺餘力。是書所記至一千八百八十五年止以 後更定兵制，增造戰艦，宜備攷之，以附於後。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_219</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4DF0CCE2-B9FF-49BF-8AFC-BFFC73F627F1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4DF0CCE2-B9FF-49BF-8AFC-BFFC73F627F1">
     <titleInfo lang="chi" script="Hant">
         <title>輪船布陣</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lunchuan buzhen</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,船艦,p 108</note>
     <abstract lang="chi" type="summary">輪船布陣十二卷首一卷圖一冊 製造局本二冊　富強叢書本 [英]賈密倫、斐路同著，[英]傅蘭雅譯，徐建寅述，進退布陣之法畢具於此。 製造局印有美金楷理、李鳳苞譯，布國兵船操練一冊，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_223</identifier>
 </mods>

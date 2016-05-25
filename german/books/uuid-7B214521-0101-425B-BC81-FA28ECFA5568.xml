@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-7B214521-0101-425B-BC81-FA28ECFA5568">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7B214521-0101-425B-BC81-FA28ECFA5568">
     <titleInfo lang="chi" script="Hant">
         <title>全體通攷</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Quanti tong kao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 232</note>
     <abstract lang="chi" type="summary">全體通攷十八卷附圖二卷 同文館本十六冊 [英]德貞著，詳較骨度諸書，未及其密，餘與闡微相似，惟說理稱名之文太病詰 屈，然名家著述積理甚微，似較他書講形用者更進一層也。彙編一有舒高第 譯，論脈，可參觀。 益智書會印有英德貞人身理論、博氏人身淺說，皆未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_701</identifier>
 </mods>

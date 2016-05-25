@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-726438E0-E024-41C1-A46E-78D03DF93248">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-726438E0-E024-41C1-A46E-78D03DF93248">
     <titleInfo lang="chi" script="Hant">
         <title>四裔編年卷</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Siyi biannian juan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,編年,p 44</note>
     <abstract lang="chi" type="summary">四裔編年卷四卷 製造局本四冊　上海石印本 [英]博那著，[美]林樂知、嚴良勳同譯，李鳳苞彙編，自少昊四十年當西歷前二千 三百四十九年起，訖咸豐十一年當西歷一千八百六十一年止。其中種族變 遷，政學始末，與夫戰爭大局一一具載，頗便檢閱，而舛錯處亦不少，依竹書紀 中國年代尤其巨謬。 製造局有英傅蘭雅、徐建寅譯，年代表一冊，未印出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_10</identifier>
 </mods>

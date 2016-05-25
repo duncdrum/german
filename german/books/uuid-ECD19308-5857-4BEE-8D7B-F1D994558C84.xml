@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-ECD19308-5857-4BEE-8D7B-F1D994558C84">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-ECD19308-5857-4BEE-8D7B-F1D994558C84">
     <titleInfo lang="chi" script="Hant">
         <title>化學求數</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue qiu shu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 204</note>
     <abstract lang="chi" type="summary">化學求數十五卷附求數便用表一卷 製造局本十四冊　富強叢書本 [德]富里西尼烏司著，[英]傅蘭雅譯，徐壽述，即攷質之續編，專求輕重體積之數， 或為原質所分析者，則於所分各求其數，或兩質合而為一者，則以比例求其 數與夫變換之質性、化合之形狀。蓋化學之理，原憑求數，所求愈工，其理愈密， 學者宜細心讀之，後附來以折數推算原質，皆燦若列眉。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_586</identifier>
 </mods>

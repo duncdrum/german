@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4746ED35-4595-4811-BAC0-9CC792BD42C9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4746ED35-4595-4811-BAC0-9CC792BD42C9">
     <name type="personal">
         <namePart lang="chi" script="Hant">英國故大宰著　橘村關直彥譯述</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yingguo gu da zaizhe　ju cun guan zhi yan yishu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>政黨餘談 春鶯囀</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhengdang yu tan chunying zhuan</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十四,小說門,小說,p 1193</note>
     <note type="price">三圓三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_8338</identifier>
 </mods>

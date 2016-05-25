@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2C4B3DB2-7A1E-4E1E-BA80-BE766463FD30">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2C4B3DB2-7A1E-4E1E-BA80-BE766463FD30">
     <titleInfo lang="chi" script="Hant">
         <title>商務教程</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shangwu jiaocheng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 165</note>
     <abstract lang="chi" type="summary">商務教程一卷 江南商務報本 [日本]田岡佐代治譯，此書原為日本小學學生知商務初步而作，故其所叙說 悉依日本商務事項，與中國商務不同，譯者存本書面目不改，而所紀講說摘 要、教授要領、方法問答，頗多可採。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_452</identifier>
 </mods>

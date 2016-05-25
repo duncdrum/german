@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-64291009-4EFA-4676-8D9C-FFB8BE4F1FC4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-64291009-4EFA-4676-8D9C-FFB8BE4F1FC4">
     <titleInfo lang="chi" script="Hant">
         <title>日本憲法義解</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben xianfa yi jie</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 73</note>
     <abstract lang="chi" type="summary">日本憲法義解一卷 上海金粟齋本一冊 [日本]伊藤博文著，沈紘譯，書凡七章，章各為條若干，為天皇十有七，為臣民權 利義務者十有五，為帝國議會者二十有二，為國務大臣樞密顧問者二，為司 法者五，為會計者十有一，為補則者一，總七章七十三條，而日本維新之規凡 所以體國保民，紀綱四國，經緯萬端者，具於此矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_105</identifier>
 </mods>

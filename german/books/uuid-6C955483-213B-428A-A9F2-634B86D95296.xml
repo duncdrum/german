@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-6C955483-213B-428A-A9F2-634B86D95296">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6C955483-213B-428A-A9F2-634B86D95296">
     <titleInfo lang="chi" script="Hant">
         <title>地學須知</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dixue xuzhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 220</note>
     <abstract lang="chi" type="summary">地學須知一卷 格致須知和集本一冊 [英]傅蘭雅著，凡六章略論地質及石之層次，以究生物種類水陸變遷之理，於 石類礦類之詳細形性皆未論及，大略與祁氏啟蒙相同。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_646</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B11A19D8-8CB5-44E8-A840-524D74AF5D8A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B11A19D8-8CB5-44E8-A840-524D74AF5D8A">
     <titleInfo lang="chi" script="Hant">
         <title>西藝知新正編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi yi zhi xinzheng bian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 155</note>
     <abstract lang="chi" type="summary">西藝知新正編十卷續編十二卷 製造局本　上海石印二層本 江南製造局編，彙編一有造冰機器造針法說畧，又二有造荷蘭水機器製紐 法，又四有西國發藍法，又六有壓成金類器皿機器圖說、論機器造冰之法、造 自來火法，又七有製皮法、論電氣熟皮，皆西蓺新法，特附記於此。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_407</identifier>
 </mods>

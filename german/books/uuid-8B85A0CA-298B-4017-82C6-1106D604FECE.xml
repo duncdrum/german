@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8B85A0CA-298B-4017-82C6-1106D604FECE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8B85A0CA-298B-4017-82C6-1106D604FECE">
     <titleInfo lang="chi" script="Hant">
         <title>礮藥記要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bao yao jiyao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,子藥,p 113</note>
     <abstract lang="chi" type="summary">礮藥記要六卷附圖 製造局本一冊　西學大成本 [美]水雷局原書，舒高第譯，趙元益述，以化學之理解其化分、化合之性質，切用 其理既確，其配合愈精，是書能詳言之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_245</identifier>
 </mods>

@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D749279C-B2CE-41FF-A072-55B5E5AFCB8B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D749279C-B2CE-41FF-A072-55B5E5AFCB8B">
     <name type="personal">
         <namePart lang="chi" script="Hant">廣瀨桂次郎、原田八十八同譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Guang lai gui ci lang, yuantian bashiba tong yi</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>愛氏診斷學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ai shi zhenduanxue</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,診斷學,p 605</note>
     <note type="price">四圓五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_1100</identifier>
 </mods>

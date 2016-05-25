@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0F541B4C-F5EB-4DCD-B182-83F1F06BEBEA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0F541B4C-F5EB-4DCD-B182-83F1F06BEBEA">
     <name type="personal">
         <namePart lang="chi" script="Hant">谷口吉太郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gu kou ji tai lang yi</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>通俗 病理問答 第一編內科部</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tongsu bingli wen-da di-yi biannei ke bu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,病理學,p 604</note>
     <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_1088</identifier>
 </mods>

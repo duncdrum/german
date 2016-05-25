@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F2BBF2B2-BE69-4A70-858C-1387EB3386E4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F2BBF2B2-BE69-4A70-858C-1387EB3386E4">
     <titleInfo lang="chi" script="Hant">
         <title>會審信隆行租船全案</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huishen xin long xing zuchuan quan an</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,案牘,p 94</note>
     <abstract lang="chi" type="summary">會審信隆行租船全案一卷 時務報本 [上海字林西字報]原本，張德坤譯，此為隆洋行租用南洋兵船轇轕之全案， 其中一字一句有暗為埋伏者，有互相抵制者，有避重就輕者，有以曲作直者， 統觀前後於西律之心旨，足以畧窺一二，而與西人交涉之道，思過半矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_183</identifier>
 </mods>

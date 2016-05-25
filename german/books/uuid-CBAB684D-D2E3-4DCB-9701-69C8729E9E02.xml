@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-CBAB684D-D2E3-4DCB-9701-69C8729E9E02">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CBAB684D-D2E3-4DCB-9701-69C8729E9E02">
     <name type="personal">
         <namePart lang="chi" script="Hant">東京慈惠病院醫學校編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Dongjing ci hui bingyuan yixue jiaobian</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>石版着色解剖圖</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shiban zhaose jiepoutu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷一,生理門,解剖學,p 594</note>
     <note type="price">二圓七角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_975</identifier>
 </mods>

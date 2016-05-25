@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FB6FA48E-81B1-441A-AF5C-261CC2BA7156">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FB6FA48E-81B1-441A-AF5C-261CC2BA7156">
     <titleInfo lang="chi" script="Hant">
         <title>名和昆蟲研究所志畧</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming he kunchong yanjiusuo zhi lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,蟲學,p 240</note>
     <abstract lang="chi" type="summary">名和昆蟲研究所志畧一卷 農學報本 樊炳清譯，研究六足蟲之理，甚確。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_729</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-58978DF4-B574-4F07-A28F-DF195F2ED2A5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-58978DF4-B574-4F07-A28F-DF195F2ED2A5">
     <titleInfo lang="chi" script="Hant">
         <title>法國印花稅章程</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Faguo yinhuashui zhangcheng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 170</note>
     <abstract lang="chi" type="summary">法國印花稅章程一卷 時務報本 [法]印花局原本，黃致堯譯，法自一千七百九十九年廢印花舊例，更定新章以 後，隨時增修，悉祖於此，此章程分為四類，曰按張大小之印花、曰按值微稅之 印花、曰躉購印花、曰專項印花。其辦理皆遵此四類，可謂簡括，昔言印稅以法 為最重，觀此可知。 時務報館譯有英國印花稅則，未印出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_476</identifier>
 </mods>

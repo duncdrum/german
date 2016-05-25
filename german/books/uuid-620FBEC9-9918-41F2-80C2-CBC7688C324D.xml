@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-620FBEC9-9918-41F2-80C2-CBC7688C324D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-620FBEC9-9918-41F2-80C2-CBC7688C324D">
     <name type="personal">
         <namePart lang="chi" script="Hant">農商務省藏版</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nong shangwu sheng cang ban</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,6 +9,15 @@
     <titleInfo lang="chi" script="Hant">
         <title>專賣特許發明細書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhuanmai texu faming xi shu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,報告書,p 940</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4825</identifier>
 </mods>

@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4C7281F7-A046-479E-8C50-7C893A4DFADE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4C7281F7-A046-479E-8C50-7C893A4DFADE">
     <titleInfo lang="chi" script="Hant">
         <title>俄國政治通攷</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Eguo zhengzhi tong kao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 57</note>
     <abstract lang="chi" type="summary">俄國政治通攷三卷 萬國公報本 [美]林樂知譯，任延旭述，斯書為印度廣學會所輯原本英文也。刊行於一千八 百九十三年，都上中下三卷，上卷專論俄國歐洲境內人民之情形，中卷專論 俄國歐洲境內各城邑之情形，下卷專論俄國亞洲境內人民之情形。其於俄 國幅員、戶口、政治、教宗、學校、刑律、文事、武備、河道、鐵路、耕牧、製造、商務、物產諸 大端以及國俗、民風、日用、衣食諸細務莫不詳載，不以瑣碎為嫌。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_50</identifier>
 </mods>

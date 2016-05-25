@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-76DBCA0F-8DC2-4C36-AF41-9A69DE25C73B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-76DBCA0F-8DC2-4C36-AF41-9A69DE25C73B">
     <titleInfo lang="chi" script="Hant">
         <title>英國頒行公司定例</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yingguo banxing gongsi dingli</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 78</note>
     <abstract lang="chi" type="summary">英國頒行公司定例　卷 新學彙編本 [英]哲美森著，[英]李提摩太譯，蔡爾康筆述。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_124</identifier>
 </mods>

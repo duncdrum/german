@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-3EEC615B-9828-4BC2-9F4F-6D50BBF54E5A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3EEC615B-9828-4BC2-9F4F-6D50BBF54E5A">
     <titleInfo lang="chi" script="Hant">
         <title>日本高等師範學校章程</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben gaodeng shifan xuexiao zhangcheng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 86</note>
     <abstract lang="chi" type="summary">日本高等師範學校章程一卷 時務報館本在日本學校章程三種內 [日本]古城貞吉譯，日本變法首在師範，其高等章程五十七條，曰文科、曰理科， 分倫理、教育、國語、漢文、英語、厤史、地理、哲學、理財、體操為教目九；理科分倫理、 教育、國語、英語、數學、物理學、化學、地學、動物學、植物學、生理學、農業、工蓺、圖學、 體操為教目十五。每學之中又自有條目，其教授時刻、卒業年限，考校選擇章 程亦並詳載，內附譯者解語數則。 譯書公會印有日本安藤虎雄譯，日本女子高等師範學校章程；東亞書局譯有女學校胎教新法，均未出。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_154</identifier>
 </mods>

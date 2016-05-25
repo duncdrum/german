@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-501933D8-1697-4136-8F33-B8A5A5DA6F68">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-501933D8-1697-4136-8F33-B8A5A5DA6F68">
     <titleInfo lang="chi" script="Hant">
         <title>海防臆測</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Haifang yice</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 104</note>
     <abstract lang="chi" type="summary">海防臆測二卷 湖南長沙刻本 [日本]侗庵賀古著，序稱侗庵著述百二十種，是書天保九年所撰，特其緒餘耳， 然其先見卓識可以窺矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_212</identifier>
 </mods>

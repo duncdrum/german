@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A0343F82-3525-4AE3-8407-9B05519A73B2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A0343F82-3525-4AE3-8407-9B05519A73B2">
     <name type="personal">
         <namePart lang="chi" script="Hant">齋藤孝治、緩鹿實彰合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhai teng xiao zhi, huan lu shi zhang hezhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>民事訴訟提要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Minshi susong tiyao</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,民事訴訟法,p 799</note>
     <note type="price">並製五角五分上製七角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_3412</identifier>
 </mods>

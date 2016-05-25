@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0A588560-6A36-4631-98D0-68923889ACE8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0A588560-6A36-4631-98D0-68923889ACE8">
     <titleInfo lang="chi" script="Hant">
         <title>華洋貿易總冊</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hua yang maoyi zongce</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 169</note>
     <abstract lang="chi" type="summary">華洋貿易總冊 總稅務司本 中國總稅司輯譯，自中國通商始，每年一冊至光緒二十三年，已積三十九冊 ，凡各口出入貨物、船艘、關稅數目、貿易情形及所設沿海燈塔、燈船、海浮新查 礁石，皆由各關稅司與巡洋稅司查報，而總稅司總其成。中國商務之進退，閱 此足以攷見原委。按稅司之設始於咸豐三年，四年即在上海開辦，其後續行 分設，於是有總稅司及稅司之名。 知新報印有香港西字報原本，周逢源譯，東方商埠述要，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_471</identifier>
 </mods>

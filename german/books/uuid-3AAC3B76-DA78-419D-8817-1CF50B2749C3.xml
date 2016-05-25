@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-3AAC3B76-DA78-419D-8817-1CF50B2749C3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3AAC3B76-DA78-419D-8817-1CF50B2749C3">
     <titleInfo lang="chi" script="Hant">
         <title>蟲學論略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chong xue lun lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,蟲學,p 239</note>
     <abstract lang="chi" type="summary">蟲學論略一卷 格致彙編本 [西國]華約翰稿，英傅蘭雅輯譯，是書大概分兩種，一變不全，二變整全，每種又 分八種，八種之中每種更分若干種數，計每蟲可分十七層部位，頭分四層，身 分三層，尾分十層，蟲氣出入不由口而由尾，上兩邊有氣管以通出入之氣。西 國院中聚蟲樣二十萬種，悉心考究，可見西人之學纖細不遺。彙編二有說蟲 ，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_728</identifier>
 </mods>

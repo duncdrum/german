@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DF554E6D-3A02-4218-BE7A-2CE98BAA328F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF554E6D-3A02-4218-BE7A-2CE98BAA328F">
     <titleInfo lang="chi" script="Hant">
         <title>水學測算</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shui xue cesuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,氣學第十八,水學,p 212</note>
     <abstract lang="chi" type="summary">水學測算一卷 同文館格物測算七種本 [美]丁韙良著，凡二章，上章論靜水，下章論流水，亦設為問答，繪圖衍式，演題附 題與力學測算同例。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_620</identifier>
 </mods>

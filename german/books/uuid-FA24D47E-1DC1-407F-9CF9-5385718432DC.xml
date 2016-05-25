@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FA24D47E-1DC1-407F-9CF9-5385718432DC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FA24D47E-1DC1-407F-9CF9-5385718432DC">
     <titleInfo lang="chi" script="Hant">
         <title>英機器報紡織機圖</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ying jiqi bao fangzhiji tu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 153</note>
     <abstract lang="chi" type="summary">英機器報紡織機圖二十幅 萃報本 [英]機器報原本萃報館譯，繪計二十圖，棉花抽出機、纏綿機、自動喂哈綿機，開 棉並打棉用複製機、單製打棉機、梳機、精製梳絲機一，備注管凝滊器、精製梳 絲機二，備注管凝滊器輥軸，并梳絲機迴轉平延梳絲機梳絲匡。前面之圖梳 絲匡，後面之圖纏絲機紡績絲環錘匡一，英國方法複製絲環錘匡二，滑面用 紡績機一，滑面用紡績機二，引伸匡機整軸車機。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_400</identifier>
 </mods>

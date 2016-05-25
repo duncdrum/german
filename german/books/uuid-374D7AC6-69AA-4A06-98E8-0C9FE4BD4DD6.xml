@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-374D7AC6-69AA-4A06-98E8-0C9FE4BD4DD6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-374D7AC6-69AA-4A06-98E8-0C9FE4BD4DD6">
     <titleInfo lang="chi" script="Hant">
         <title>列國變通興盛記</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lieguo biantong xingsheng ji</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 55</note>
     <abstract lang="chi" type="summary">列國變通興盛記四卷 廣學會本一冊　玉雞苗館本 [英]李提摩太著，記俄國則詳於大彼得政法，記日本則詳於明治以來仿效西 法諸事，又附載其三條，實美公、有棲川親王、巖倉具視、伊藤博文四人傳略於 日記後，以著其遷易新政之迹，其中言印度、緬甸、安南等國興盛乃割歸英法 以後之迹，欲變法自強者，觀是書可以決所從事矣。 東亞書局譯有亞美利加繁盛記，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_43</identifier>
 </mods>

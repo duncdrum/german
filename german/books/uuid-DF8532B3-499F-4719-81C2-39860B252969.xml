@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DF8532B3-499F-4719-81C2-39860B252969">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF8532B3-499F-4719-81C2-39860B252969">
     <name type="personal">
         <namePart lang="chi" script="Hant">水野筑後、守堀織部正</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shui ye zhu hou, shou ku zhi bu zheng</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>南北開拓意見 《日本文庫》第十一編之內</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nan-bei kaituo yijian «Riben wenku» di shiyi bian zhinei</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷五,政治門,政治雜書,p 750</note>
     <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2802</identifier>
 </mods>

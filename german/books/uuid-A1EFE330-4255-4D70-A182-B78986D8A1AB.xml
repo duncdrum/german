@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A1EFE330-4255-4D70-A182-B78986D8A1AB">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A1EFE330-4255-4D70-A182-B78986D8A1AB">
     <titleInfo lang="chi" script="Hant">
         <title>食物標準及食物各貨化分表</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shiwu biaozhun ji shiwu ge huo huafen biao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 253</note>
     <abstract lang="chi" type="summary">食物標準及食物各貨化分表　卷 亞泉雜志本 亞泉學館譯，係從日本近藤會次郎與田中禮助所編之有機化學內節譯，養 生家隨時檢閱，使然料、補料合於比例，當不讓參蓍矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_783</identifier>
 </mods>

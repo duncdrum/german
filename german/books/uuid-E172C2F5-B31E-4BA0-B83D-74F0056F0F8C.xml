@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-E172C2F5-B31E-4BA0-B83D-74F0056F0F8C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E172C2F5-B31E-4BA0-B83D-74F0056F0F8C">
     <titleInfo lang="chi" script="Hant">
         <title>未來戰事論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Weilai zhanshi lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論兵,p 286</note>
     <abstract lang="chi" type="summary">未來戰事論一卷 中國旬報本 [俄]布樂著，中國旬報館譯，布樂君為俄舊京木斯哥之銀行老手也。近年棄其 故業，留心經濟，著有過去未來戰事等書，而尤着眼於未來一說，此卷為其生 平得意之作，四年前脫稿於俄，復譯為法、德文，共六卷。英人史秩獨取其末卷 節而譯之，已足括全書之要，並將其大意設為問答，以盡其義，而中國旬報即 據史秩本轉譯華文，改名俄人論戰，附報印行。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_909</identifier>
 </mods>

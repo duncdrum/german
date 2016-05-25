@@ -1,13 +1,17 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5C335D2B-2B5A-4BB6-A79B-F4AAB88A6F5E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5C335D2B-2B5A-4BB6-A79B-F4AAB88A6F5E">
     <titleInfo lang="chi" script="Hant">
         <title>拳匪紀事</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Quanfei jishi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 62</note>
     <abstract lang="chi" type="summary">拳匪紀事六卷附圖 上海排印本四冊 [日本]佐原篤介輯，卷首詳繪聯軍入京，兩軍相戰情形，並本書目錄，卷一恭錄 　上諭；卷二匪亂紀聞；卷三各省防衛志；卷四八國聯軍志；卷五通論；卷六附 記，並附教士受難記及救濟日記。刊圖百餘幅，於拳匪肇事始末和議約款條 目詳盡無遺，足資攷鑑焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_70</identifier>
 </mods>

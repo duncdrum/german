@@ -1,11 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-77E93B17-5D33-4161-9DC1-8828064083F3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-77E93B17-5D33-4161-9DC1-8828064083F3">
     <name type="personal">
         <namePart lang="chi" script="Hant">內山正如</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nei shan zhengru</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +9,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>受驗問答 日本歷史一千題 《通俗教育全書》三十八篇</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shou yan wen-da Riben lishi yiqian ti «tongsu jiaoyu quanshu» sanshiba pian</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 710</note>
     <note type="price">一角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2318</identifier>
 </mods>
