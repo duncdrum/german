@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7E47A9EF-DD8B-4A4C-AF85-C33850B94756">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7E47A9EF-DD8B-4A4C-AF85-C33850B94756">
     <name type="personal">
         <namePart lang="chi" script="Hant">西村富次郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xi cun fu ci langzhe</namePart>

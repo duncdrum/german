@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9D521BEC-5A8B-4A6F-9286-53FCFA37D401">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9D521BEC-5A8B-4A6F-9286-53FCFA37D401">
     <name type="personal">
         <namePart lang="chi" script="Hant">蒲生弘批評　岡三慶著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Pu sheng hong piping　gang san qingzhe</namePart>

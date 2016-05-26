@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E29DC08A-E4D8-421F-8A5A-9F7D501728DF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E29DC08A-E4D8-421F-8A5A-9F7D501728DF">
     <name type="personal">
         <namePart lang="chi" script="Hant">大石兵藏</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Da shi bing cang</namePart>

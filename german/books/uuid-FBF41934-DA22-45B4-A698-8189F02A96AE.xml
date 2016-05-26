@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FBF41934-DA22-45B4-A698-8189F02A96AE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FBF41934-DA22-45B4-A698-8189F02A96AE">
     <name type="personal">
         <namePart lang="chi" script="Hant">市川力藏編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shi chuan li cang bian</namePart>

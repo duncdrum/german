@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FEACAF6F-0705-4527-A445-580E6776C057">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FEACAF6F-0705-4527-A445-580E6776C057">
     <name type="personal">
         <namePart lang="chi" script="Hant">重野安譯監修、山田安榮編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhong ye an yi jianxiu, shantian an rong bianzuan</namePart>

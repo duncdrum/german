@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FBE2AB6B-FAEA-4078-A45B-4C97EF49F3F0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FBE2AB6B-FAEA-4078-A45B-4C97EF49F3F0">
     <name type="personal">
         <namePart lang="chi" script="Hant">結城正明著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jie cheng zheng mingzhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-795C537A-AF00-43D5-A2A3-E6A64E6AC11D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-795C537A-AF00-43D5-A2A3-E6A64E6AC11D">
     <name type="personal">
         <namePart lang="chi" script="Hant">稻垣滿次郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Dao yuan man ci langzhe</namePart>

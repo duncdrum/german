@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DBB7D5E8-1AC7-4095-B04B-7BBD2E1073E1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DBB7D5E8-1AC7-4095-B04B-7BBD2E1073E1">
     <name type="personal">
         <namePart lang="chi" script="Hant">山岡鐵作</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shangang tie zuo</namePart>

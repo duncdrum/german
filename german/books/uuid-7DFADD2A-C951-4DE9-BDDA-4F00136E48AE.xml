@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7DFADD2A-C951-4DE9-BDDA-4F00136E48AE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7DFADD2A-C951-4DE9-BDDA-4F00136E48AE">
     <name type="personal">
         <namePart lang="chi" script="Hant">福井月齋縮摹</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fu jing yue zhai suo mo</namePart>

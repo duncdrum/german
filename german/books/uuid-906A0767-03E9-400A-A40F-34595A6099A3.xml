@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-906A0767-03E9-400A-A40F-34595A6099A3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-906A0767-03E9-400A-A40F-34595A6099A3">
     <name type="personal">
         <namePart lang="chi" script="Hant">吉田賢輔、岡村增太郎編述</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ji tian xian fu, gang cun zeng tai lang bianshu</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2CDC3ACE-9B70-4829-964A-7C0A5FBDE07F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2CDC3ACE-9B70-4829-964A-7C0A5FBDE07F">
     <name type="personal">
         <namePart lang="chi" script="Hant">笠間益三、三尾重定同輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Li jian yi san, san wei zhong ding tong ji</namePart>

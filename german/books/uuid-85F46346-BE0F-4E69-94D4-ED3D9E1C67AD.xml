@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-85F46346-BE0F-4E69-94D4-ED3D9E1C67AD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-85F46346-BE0F-4E69-94D4-ED3D9E1C67AD">
     <name type="personal">
         <namePart lang="chi" script="Hant">岡本賢藏著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gang ben xian cangzhe</namePart>

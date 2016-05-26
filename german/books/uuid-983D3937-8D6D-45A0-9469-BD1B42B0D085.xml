@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-983D3937-8D6D-45A0-9469-BD1B42B0D085">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-983D3937-8D6D-45A0-9469-BD1B42B0D085">
     <name type="personal">
         <namePart lang="chi" script="Hant">原慶二郎編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yuan qing er lang bianzuan</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3F515E6A-D263-4F57-A03D-075F6DEFC258">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3F515E6A-D263-4F57-A03D-075F6DEFC258">
     <name type="personal">
         <namePart lang="chi" script="Hant">福地源一郎編輯　海石村田揮毫</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fudi yuan yi lang bianji　hai shi cun tian huihao</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-766B239D-1DD3-4E4F-8E60-3E2C67CF43E3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-766B239D-1DD3-4E4F-8E60-3E2C67CF43E3">
     <name type="personal">
         <namePart lang="chi" script="Hant">伊東洋二郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yi Dongyang er langzhe</namePart>

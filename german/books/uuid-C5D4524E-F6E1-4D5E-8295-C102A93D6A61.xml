@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C5D4524E-F6E1-4D5E-8295-C102A93D6A61">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C5D4524E-F6E1-4D5E-8295-C102A93D6A61">
     <name type="personal">
         <namePart lang="chi" script="Hant">近松門左衛門作</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jin song men zuo wei men zuo</namePart>

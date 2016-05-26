@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-49FC79B2-74ED-464E-93D3-32BD11F4EB54">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-49FC79B2-74ED-464E-93D3-32BD11F4EB54">
     <name type="personal">
         <namePart lang="chi" script="Hant">山中譱三郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shanzhong shan san lang bian</namePart>

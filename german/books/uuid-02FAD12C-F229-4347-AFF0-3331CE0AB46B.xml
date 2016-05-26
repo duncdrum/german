@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-02FAD12C-F229-4347-AFF0-3331CE0AB46B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-02FAD12C-F229-4347-AFF0-3331CE0AB46B">
     <name type="personal">
         <namePart lang="chi" script="Hant">北島石兼、弘傅藏渡、德山銓一郎合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Bei dao shi jian, hong fu cang du, de shan quan yi lang hezhe</namePart>

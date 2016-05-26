@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CA4DCB5A-7FD9-4C41-93C0-E4E86B4D3CA0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CA4DCB5A-7FD9-4C41-93C0-E4E86B4D3CA0">
     <name type="personal">
         <namePart lang="chi" script="Hant">成瀨隆藏著　小島春書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Cheng lai long cangzhe　xiaodao chun shu</namePart>

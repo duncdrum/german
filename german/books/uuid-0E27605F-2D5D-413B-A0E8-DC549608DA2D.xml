@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0E27605F-2D5D-413B-A0E8-DC549608DA2D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0E27605F-2D5D-413B-A0E8-DC549608DA2D">
     <name type="personal">
         <namePart lang="chi" script="Hant">元良勇次郎、家永豐吉合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yuan liang yong ci lang, jia yong feng ji hezhe</namePart>

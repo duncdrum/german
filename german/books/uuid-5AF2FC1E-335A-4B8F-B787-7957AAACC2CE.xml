@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5AF2FC1E-335A-4B8F-B787-7957AAACC2CE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5AF2FC1E-335A-4B8F-B787-7957AAACC2CE">
     <name type="personal">
         <namePart lang="chi" script="Hant">農學士原熙著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nong xueshi yuan   xizhe</namePart>

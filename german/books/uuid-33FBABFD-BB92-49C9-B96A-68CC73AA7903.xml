@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-33FBABFD-BB92-49C9-B96A-68CC73AA7903">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-33FBABFD-BB92-49C9-B96A-68CC73AA7903">
     <name type="personal">
         <namePart lang="chi" script="Hant">工學士近滕俞次郎、田中禮助共編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gongxueshi jin teng yu ci lang, tian zhong li zhu gong bian</namePart>

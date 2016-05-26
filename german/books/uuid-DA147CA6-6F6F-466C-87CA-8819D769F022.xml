@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DA147CA6-6F6F-466C-87CA-8819D769F022">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DA147CA6-6F6F-466C-87CA-8819D769F022">
     <name type="personal">
         <namePart lang="chi" script="Hant">町田則文、林吾一合譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ting tian ze wen, lin wu yi heyi</namePart>

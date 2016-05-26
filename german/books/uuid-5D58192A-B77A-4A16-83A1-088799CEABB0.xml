@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5D58192A-B77A-4A16-83A1-088799CEABB0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5D58192A-B77A-4A16-83A1-088799CEABB0">
     <name type="personal">
         <namePart lang="chi" script="Hant">關根正直、小中村義象共著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Guan gen zhengzhi, xiao zhong cun yi xiang gongzhe</namePart>

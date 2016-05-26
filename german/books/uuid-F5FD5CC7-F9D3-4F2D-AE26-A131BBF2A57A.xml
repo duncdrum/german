@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F5FD5CC7-F9D3-4F2D-AE26-A131BBF2A57A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F5FD5CC7-F9D3-4F2D-AE26-A131BBF2A57A">
     <name type="personal">
         <namePart lang="chi" script="Hant">闗直彥解釋</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Kui zhi yan jieshi</namePart>

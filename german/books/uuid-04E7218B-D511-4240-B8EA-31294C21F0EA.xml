@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-04E7218B-D511-4240-B8EA-31294C21F0EA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-04E7218B-D511-4240-B8EA-31294C21F0EA">
     <name type="personal">
         <namePart lang="chi" script="Hant">酒井昇造速記　三遊亭圓朝口述</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jiu jing sheng zao suji　san you ting yuan chao koushu</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7F30EDB9-87A9-41F2-B21B-8687A956A0E6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7F30EDB9-87A9-41F2-B21B-8687A956A0E6">
     <name type="personal">
         <namePart lang="chi" script="Hant">松本楓湖、津江秋芳同輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Song ben feng hu, jin jiang qiu fang tong ji</namePart>

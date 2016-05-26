@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F746C031-6FFD-4F8A-9C08-4B130F0DF03B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F746C031-6FFD-4F8A-9C08-4B130F0DF03B">
     <name type="personal">
         <namePart lang="chi" script="Hant">矢島玄四郎纂譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shi dao xuan si lang zuan yi</namePart>

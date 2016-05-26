@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7C0E9EF2-0D5E-498C-8980-6BFBA3485C66">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7C0E9EF2-0D5E-498C-8980-6BFBA3485C66">
     <name type="personal">
         <namePart lang="chi" script="Hant">竹原熙編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhu yuan xi bianji</namePart>

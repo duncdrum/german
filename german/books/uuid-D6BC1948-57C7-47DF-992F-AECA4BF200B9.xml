@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D6BC1948-57C7-47DF-992F-AECA4BF200B9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D6BC1948-57C7-47DF-992F-AECA4BF200B9">
     <name type="personal">
         <namePart lang="chi" script="Hant">三宅敬造編輯　村田海石校正</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">San zhai jing zao bianji　cun tian hai shi jiaozheng</namePart>

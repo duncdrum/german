@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-60D14E63-D9FE-4C5F-9F80-40B523A2EC1F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-60D14E63-D9FE-4C5F-9F80-40B523A2EC1F">
     <name type="personal">
         <namePart lang="chi" script="Hant">梅川新右衛門編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Mei chuan xin you wei men bianzuan</namePart>

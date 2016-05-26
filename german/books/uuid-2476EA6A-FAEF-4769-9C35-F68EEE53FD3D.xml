@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2476EA6A-FAEF-4769-9C35-F68EEE53FD3D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2476EA6A-FAEF-4769-9C35-F68EEE53FD3D">
     <name type="personal">
         <namePart lang="chi" script="Hant">同小林清親筆</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Tong xiao lin qing qinbi</namePart>

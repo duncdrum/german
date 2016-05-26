@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BCAA8534-1BF2-4DFE-AFC8-46CB71F7C69A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BCAA8534-1BF2-4DFE-AFC8-46CB71F7C69A">
     <name type="personal">
         <namePart lang="chi" script="Hant">高橋久右衛門著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gao qiao jiu you wei menzhe</namePart>

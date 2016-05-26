@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1F8ABE7C-3BF9-4EC3-BFFB-D84250195BF0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1F8ABE7C-3BF9-4EC3-BFFB-D84250195BF0">
     <name type="personal">
         <namePart lang="chi" script="Hant">香川熊藏書　白井毅</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiang chuan xiong cangshu　bai jing yi</namePart>

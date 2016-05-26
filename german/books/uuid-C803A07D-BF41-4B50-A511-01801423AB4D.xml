@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C803A07D-BF41-4B50-A511-01801423AB4D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C803A07D-BF41-4B50-A511-01801423AB4D">
     <name type="personal">
         <namePart lang="chi" script="Hant">名和菱江書　太田忠恕編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ming he ling jiang shu　tai tian zhong-shu bian</namePart>

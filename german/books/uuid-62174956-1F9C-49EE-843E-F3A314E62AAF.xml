@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-62174956-1F9C-49EE-843E-F3A314E62AAF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-62174956-1F9C-49EE-843E-F3A314E62AAF">
     <name type="personal">
         <namePart lang="chi" script="Hant">法學博士箕作麟祥增訂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Faxue boshi ji zuo lin xiang zengding</namePart>

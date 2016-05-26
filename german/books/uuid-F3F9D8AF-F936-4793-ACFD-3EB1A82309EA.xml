@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F3F9D8AF-F936-4793-ACFD-3EB1A82309EA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F3F9D8AF-F936-4793-ACFD-3EB1A82309EA">
     <name type="personal">
         <namePart lang="chi" script="Hant">時重初熊、津野慶太郎共譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shi zhong chu xiong, jin ye qing tai lang gong yi</namePart>

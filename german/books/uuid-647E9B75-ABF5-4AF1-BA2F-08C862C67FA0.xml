@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-647E9B75-ABF5-4AF1-BA2F-08C862C67FA0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-647E9B75-ABF5-4AF1-BA2F-08C862C67FA0">
     <name type="personal">
         <namePart lang="chi" script="Hant">水本成美遺稿</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shui ben cheng mei yigao</namePart>

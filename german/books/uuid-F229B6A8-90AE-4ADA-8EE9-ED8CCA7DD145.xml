@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F229B6A8-90AE-4ADA-8EE9-ED8CCA7DD145">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F229B6A8-90AE-4ADA-8EE9-ED8CCA7DD145">
     <name type="personal">
         <namePart lang="chi" script="Hant">服部因淑著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fu bu yin shuzhe</namePart>

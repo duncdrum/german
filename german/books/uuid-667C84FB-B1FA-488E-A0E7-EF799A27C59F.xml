@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-667C84FB-B1FA-488E-A0E7-EF799A27C59F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-667C84FB-B1FA-488E-A0E7-EF799A27C59F">
     <name type="personal">
         <namePart lang="chi" script="Hant">學海指針社撰</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xuehai zhizhen she zhuan</namePart>

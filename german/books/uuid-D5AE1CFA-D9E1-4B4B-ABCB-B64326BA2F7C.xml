@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D5AE1CFA-D9E1-4B4B-ABCB-B64326BA2F7C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D5AE1CFA-D9E1-4B4B-ABCB-B64326BA2F7C">
     <name type="personal">
         <namePart lang="chi" script="Hant">兼子初太郎譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jian zi chu tai lang yi</namePart>

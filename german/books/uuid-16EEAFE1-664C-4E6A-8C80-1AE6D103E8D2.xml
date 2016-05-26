@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-16EEAFE1-664C-4E6A-8C80-1AE6D103E8D2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-16EEAFE1-664C-4E6A-8C80-1AE6D103E8D2">
     <name type="personal">
         <namePart lang="chi" script="Hant">佐藤良恭編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zuo teng liang gong bian</namePart>

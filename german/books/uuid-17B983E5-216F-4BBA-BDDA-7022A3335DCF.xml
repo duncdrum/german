@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-17B983E5-216F-4BBA-BDDA-7022A3335DCF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-17B983E5-216F-4BBA-BDDA-7022A3335DCF">
     <name type="personal">
         <namePart lang="chi" script="Hant">加藤義質、唐川徹、佐藤義勇同輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jia teng yi zhi, tang chuan che, zuo teng yiyong tong ji</namePart>

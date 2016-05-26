@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-66DB9D7D-15F3-4C8D-A394-CB8AF0AACE29">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-66DB9D7D-15F3-4C8D-A394-CB8AF0AACE29">
     <name type="personal">
         <namePart lang="chi" script="Hant">三宅炗比古著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">San zhai guang bi guzhe</namePart>

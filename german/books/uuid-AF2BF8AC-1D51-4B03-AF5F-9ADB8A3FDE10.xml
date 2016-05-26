@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AF2BF8AC-1D51-4B03-AF5F-9ADB8A3FDE10">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AF2BF8AC-1D51-4B03-AF5F-9ADB8A3FDE10">
     <name type="personal">
         <namePart lang="chi" script="Hant">藤井高尚著　文迺家增補</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Teng jing gaoshangzhe　wen nai jia zengbu</namePart>

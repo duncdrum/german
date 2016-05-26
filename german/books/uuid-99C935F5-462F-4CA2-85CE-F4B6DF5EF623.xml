@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-99C935F5-462F-4CA2-85CE-F4B6DF5EF623">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-99C935F5-462F-4CA2-85CE-F4B6DF5EF623">
     <name type="personal">
         <namePart lang="chi" script="Hant">為永春水、柳亭種彥著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Wei yongchun shui, liu ting zhong yanzhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A20EBC4E-B7E6-4A01-AF7B-698BE4D30918">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A20EBC4E-B7E6-4A01-AF7B-698BE4D30918">
     <name type="personal">
         <namePart lang="chi" script="Hant">關谷彥、近藤近共編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Guan gu yan, jin teng jin gong bian</namePart>

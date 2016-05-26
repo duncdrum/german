@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-93D58363-87BB-4FE5-998E-2539FD81BE49">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-93D58363-87BB-4FE5-998E-2539FD81BE49">
     <name type="personal">
         <namePart lang="chi" script="Hant">海石村田治藏揮　東京府學務課編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Hai shi cun tian zhi cang hui　Dongjing fuxue wu ke bian</namePart>

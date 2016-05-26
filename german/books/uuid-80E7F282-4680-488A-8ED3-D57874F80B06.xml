@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-80E7F282-4680-488A-8ED3-D57874F80B06">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80E7F282-4680-488A-8ED3-D57874F80B06">
     <name type="personal">
         <namePart lang="chi" script="Hant">小藤文次郎編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao teng wen ci lang bianzuan</namePart>

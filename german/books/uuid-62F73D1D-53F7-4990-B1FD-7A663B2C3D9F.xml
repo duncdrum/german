@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-62F73D1D-53F7-4990-B1FD-7A663B2C3D9F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-62F73D1D-53F7-4990-B1FD-7A663B2C3D9F">
     <name type="personal">
         <namePart lang="chi" script="Hant">風月莊左衛門著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fengyue zhuang zuo wei menzhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8225CCA9-F0E3-4B1B-B6A2-0F32135AF9B2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8225CCA9-F0E3-4B1B-B6A2-0F32135AF9B2">
     <name type="personal">
         <namePart lang="chi" script="Hant">岡白駒箋註</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gang bai ju jianzhu</namePart>

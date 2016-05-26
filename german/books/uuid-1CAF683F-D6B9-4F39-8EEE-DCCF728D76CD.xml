@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1CAF683F-D6B9-4F39-8EEE-DCCF728D76CD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1CAF683F-D6B9-4F39-8EEE-DCCF728D76CD">
     <name type="personal">
         <namePart lang="chi" script="Hant">小林雄七郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao lin xiong qi langzhe</namePart>

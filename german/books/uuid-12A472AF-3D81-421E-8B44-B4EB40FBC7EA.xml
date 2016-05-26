@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-12A472AF-3D81-421E-8B44-B4EB40FBC7EA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-12A472AF-3D81-421E-8B44-B4EB40FBC7EA">
     <name type="personal">
         <namePart lang="chi" script="Hant">藤懸貴重編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Teng xuan guizhong bian</namePart>

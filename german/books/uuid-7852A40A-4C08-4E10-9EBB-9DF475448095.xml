@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7852A40A-4C08-4E10-9EBB-9DF475448095">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7852A40A-4C08-4E10-9EBB-9DF475448095">
     <name type="personal">
         <namePart lang="chi" script="Hant">酒井捨彥編纂　岡村增太郎校</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jiu jing she yan bianzuan　gang cun zeng tai lang xiao</namePart>

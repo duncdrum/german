@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DA7C6F0A-F831-4652-8091-27FFA25C398D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DA7C6F0A-F831-4652-8091-27FFA25C398D">
     <name type="personal">
         <namePart lang="chi" script="Hant">周遊散人原著　石田偎次郎編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhou you sanren yuanzhu　shitian wei ci lang bianji</namePart>

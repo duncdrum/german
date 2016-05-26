@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0CD5E276-0388-4221-AB7F-C14FB0FBAA18">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0CD5E276-0388-4221-AB7F-C14FB0FBAA18">
     <name type="personal">
         <namePart lang="chi" script="Hant">長谷川政忠編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chang guchuan zheng zhong bian</namePart>

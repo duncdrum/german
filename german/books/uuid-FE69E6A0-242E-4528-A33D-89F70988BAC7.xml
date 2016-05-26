@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FE69E6A0-242E-4528-A33D-89F70988BAC7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FE69E6A0-242E-4528-A33D-89F70988BAC7">
     <name type="personal">
         <namePart lang="chi" script="Hant">片山國嘉纂著　江口襄校閱</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Pian shanguo jia zuanzhe　jiangkou xiang jiaoyue</namePart>

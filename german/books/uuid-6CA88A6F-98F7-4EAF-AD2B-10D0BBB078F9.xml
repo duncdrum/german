@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6CA88A6F-98F7-4EAF-AD2B-10D0BBB078F9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6CA88A6F-98F7-4EAF-AD2B-10D0BBB078F9">
     <name type="personal">
         <namePart lang="chi" script="Hant">上田貞治郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shang tian zhen zhi langzhe</namePart>

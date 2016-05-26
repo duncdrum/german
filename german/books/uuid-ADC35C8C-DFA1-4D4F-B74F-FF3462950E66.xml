@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-ADC35C8C-DFA1-4D4F-B74F-FF3462950E66">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ADC35C8C-DFA1-4D4F-B74F-FF3462950E66">
     <name type="personal">
         <namePart lang="chi" script="Hant">手塚貞彥編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shou zhong zhen yan bian</namePart>

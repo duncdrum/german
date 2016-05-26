@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2A396DD3-5D3D-435A-B4BC-39C214AE42B3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2A396DD3-5D3D-435A-B4BC-39C214AE42B3">
     <name type="personal">
         <namePart lang="chi" script="Hant">德國人著　關澄藏譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Deguo renzhe　guan cheng cang yi</namePart>

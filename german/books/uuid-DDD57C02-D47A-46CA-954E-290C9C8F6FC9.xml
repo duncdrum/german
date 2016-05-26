@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DDD57C02-D47A-46CA-954E-290C9C8F6FC9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DDD57C02-D47A-46CA-954E-290C9C8F6FC9">
     <name type="personal">
         <namePart lang="chi" script="Hant">石川笑作、嵯峨正作、金谷昭、三木實合譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shi chuan xiao zuo, cuo'e zheng zuo, jin gu zhao, sanmu shi heyi</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BC0E0B75-3F15-4DA1-977B-DB5474BCB5DC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BC0E0B75-3F15-4DA1-977B-DB5474BCB5DC">
     <name type="personal">
         <namePart lang="chi" script="Hant">大藏省印刷局</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Da cang sheng yinshua ju</namePart>

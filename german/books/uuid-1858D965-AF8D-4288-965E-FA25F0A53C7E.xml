@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1858D965-AF8D-4288-965E-FA25F0A53C7E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1858D965-AF8D-4288-965E-FA25F0A53C7E">
     <name type="personal">
         <namePart lang="chi" script="Hant">荻原正年檢閱　梅原寬重編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Di yuan zheng nian jianyue　mei yuan kuan zhong bianji</namePart>

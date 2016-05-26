@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E1033194-F740-447F-A694-360A58D0CF63">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E1033194-F740-447F-A694-360A58D0CF63">
     <name type="personal">
         <namePart lang="chi" script="Hant">小川之助、山村直次郎、清木鐵吉、內藤泰正</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao chuan zhi zhu, shancun zhi ci lang, qing mu tie ji, nei teng tai zheng</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0E7CC2C1-9A4D-4149-8C69-961C582B8BD8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0E7CC2C1-9A4D-4149-8C69-961C582B8BD8">
     <name type="personal">
         <namePart lang="chi" script="Hant">中原貞七譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhongyuan zhen qi yi</namePart>

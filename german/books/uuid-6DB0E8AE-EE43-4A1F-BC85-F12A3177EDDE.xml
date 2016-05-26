@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6DB0E8AE-EE43-4A1F-BC85-F12A3177EDDE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6DB0E8AE-EE43-4A1F-BC85-F12A3177EDDE">
     <name type="personal">
         <namePart lang="chi" script="Hant">故賴春水著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gu lai chunshuizhe</namePart>

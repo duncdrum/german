@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-22F3E8A9-3B3C-4F03-9326-C72A188314CF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-22F3E8A9-3B3C-4F03-9326-C72A188314CF">
     <name type="personal">
         <namePart lang="chi" script="Hant">文學士平沼淑郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Wenxueshi ping zhao shu lang bian</namePart>

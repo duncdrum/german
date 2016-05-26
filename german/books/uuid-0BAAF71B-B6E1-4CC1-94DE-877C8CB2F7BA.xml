@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0BAAF71B-B6E1-4CC1-94DE-877C8CB2F7BA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0BAAF71B-B6E1-4CC1-94DE-877C8CB2F7BA">
     <name type="personal">
         <namePart lang="chi" script="Hant">鏑木溪庵著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Di mu xi anzhe</namePart>

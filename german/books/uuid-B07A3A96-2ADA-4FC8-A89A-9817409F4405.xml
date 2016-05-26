@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B07A3A96-2ADA-4FC8-A89A-9817409F4405">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B07A3A96-2ADA-4FC8-A89A-9817409F4405">
     <name type="personal">
         <namePart lang="chi" script="Hant">豐田幾次郎、淺野多作合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fengtian ji ci lang, qian ye duo zuohezhe</namePart>

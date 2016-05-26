@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3A7DF7B5-F4B4-451D-B5DF-844314DB2EEA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3A7DF7B5-F4B4-451D-B5DF-844314DB2EEA">
     <name type="personal">
         <namePart lang="chi" script="Hant">富松郁三郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fu song yu san langzhe</namePart>

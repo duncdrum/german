@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A69A6D5F-B55A-4CAE-B0D5-0C092CAF8626">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A69A6D5F-B55A-4CAE-B0D5-0C092CAF8626">
     <name type="personal">
         <namePart lang="chi" script="Hant">原田真一著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yuantian zhen yizhe</namePart>

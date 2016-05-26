@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8A3DDD99-48AB-4FD4-81AE-F2C40138E63E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8A3DDD99-48AB-4FD4-81AE-F2C40138E63E">
     <name type="personal">
         <namePart lang="chi" script="Hant">江木衷、澁谷造爾、山田喜之助合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jiang mu zhong, se gu zao er, shantian xi zhi zhu hezhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A153D23E-A791-424A-BE92-6D9CDFDBAEA3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A153D23E-A791-424A-BE92-6D9CDFDBAEA3">
     <name type="personal">
         <namePart lang="chi" script="Hant">川勝隆義譯述</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chuan sheng long yiyi shu</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E0653B79-3BF6-41BA-9CBA-956FEDFFA1EC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E0653B79-3BF6-41BA-9CBA-956FEDFFA1EC">
     <name type="personal">
         <namePart lang="chi" script="Hant">佐瀨得所書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zuo lai desuo shu</namePart>

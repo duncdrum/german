@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F50F7EC0-68E0-4DAA-90FB-D7A8BAFB5BF3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F50F7EC0-68E0-4DAA-90FB-D7A8BAFB5BF3">
     <name type="personal">
         <namePart lang="chi" script="Hant">秦長四郎撰</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Qin chang si lang zhuan</namePart>

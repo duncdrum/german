@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A8FDD6EE-8B77-4B84-9D52-3CDAE25508AC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A8FDD6EE-8B77-4B84-9D52-3CDAE25508AC">
     <name type="personal">
         <namePart lang="chi" script="Hant">曾郎鉉三郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ceng lang xuan san langzhe</namePart>

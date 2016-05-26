@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-825FE1B5-B49F-4502-ABC3-C77B4F6151DC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-825FE1B5-B49F-4502-ABC3-C77B4F6151DC">
     <name type="personal">
         <namePart lang="chi" script="Hant">稻生輝雄編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Dao shenghui xiong bian</namePart>

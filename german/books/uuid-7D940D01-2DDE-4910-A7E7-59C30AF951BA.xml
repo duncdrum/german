@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7D940D01-2DDE-4910-A7E7-59C30AF951BA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7D940D01-2DDE-4910-A7E7-59C30AF951BA">
     <name type="personal">
         <namePart lang="chi" script="Hant">東京府教育會編　西川春洞書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Dongjing fu jiaoyuhui bian　Xichuan chun dong shu</namePart>

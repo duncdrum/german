@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-05A1D7BC-2BD2-48B5-B243-4D38FFFAD41A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-05A1D7BC-2BD2-48B5-B243-4D38FFFAD41A">
     <name type="personal">
         <namePart lang="chi" script="Hant">藤代禎輔譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Teng dai zhen fu yi</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CAF2C41A-69D8-4C0A-ABF5-B9EDFF32F637">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CAF2C41A-69D8-4C0A-ABF5-B9EDFF32F637">
     <name type="personal">
         <namePart lang="chi" script="Hant">南豐蘭畹著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nan feng lan wanzhe</namePart>

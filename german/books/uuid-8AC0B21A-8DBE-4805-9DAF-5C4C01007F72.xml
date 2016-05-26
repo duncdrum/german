@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8AC0B21A-8DBE-4805-9DAF-5C4C01007F72">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8AC0B21A-8DBE-4805-9DAF-5C4C01007F72">
     <name type="personal">
         <namePart lang="chi" script="Hant">小中村義象、荻野由之合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao zhong cun yi xiang, di ye youzhi hezhe</namePart>

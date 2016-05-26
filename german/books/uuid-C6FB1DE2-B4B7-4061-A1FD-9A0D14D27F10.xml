@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C6FB1DE2-B4B7-4061-A1FD-9A0D14D27F10">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C6FB1DE2-B4B7-4061-A1FD-9A0D14D27F10">
     <name type="personal">
         <namePart lang="chi" script="Hant">井口隆太郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jingkou long tai langzhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E097BD4D-25BD-4F7A-B350-3980E8070366">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E097BD4D-25BD-4F7A-B350-3980E8070366">
     <name type="personal">
         <namePart lang="chi" script="Hant">文學士澤柳政太郎、本田信教同纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Wenxueshi ze liu zheng tai lang, Bentian xinjiao tong zuan</namePart>

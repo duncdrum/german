@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BE3F315B-25EA-4D61-85B4-8C2DCB9A57A2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE3F315B-25EA-4D61-85B4-8C2DCB9A57A2">
     <name type="personal">
         <namePart lang="chi" script="Hant">武田惓吾譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Wu tian quan wu yi</namePart>

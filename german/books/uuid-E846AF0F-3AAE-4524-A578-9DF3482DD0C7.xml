@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E846AF0F-3AAE-4524-A578-9DF3482DD0C7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E846AF0F-3AAE-4524-A578-9DF3482DD0C7">
     <name type="personal">
         <namePart lang="chi" script="Hant">藤良國著　內山校正</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Teng liang guozhe　nei shan jiaozheng</namePart>

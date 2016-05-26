@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EF76FAFA-6B44-4D10-8606-76A039C21688">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EF76FAFA-6B44-4D10-8606-76A039C21688">
     <name type="personal">
         <namePart lang="chi" script="Hant">越川文之助譯述　山縣悌三郎纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yue chuan wen zhi zhu yishu　shan xian ti san lang zuan</namePart>

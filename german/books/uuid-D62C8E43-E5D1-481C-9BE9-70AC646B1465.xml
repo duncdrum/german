@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D62C8E43-E5D1-481C-9BE9-70AC646B1465">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D62C8E43-E5D1-481C-9BE9-70AC646B1465">
     <name type="personal">
         <namePart lang="chi" script="Hant">平尾鍈三郎、關口寬一郎合編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ping wei yang san lang, guankou kuan yi lang hebian</namePart>

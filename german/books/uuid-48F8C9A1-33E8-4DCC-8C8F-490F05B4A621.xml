@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-48F8C9A1-33E8-4DCC-8C8F-490F05B4A621">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-48F8C9A1-33E8-4DCC-8C8F-490F05B4A621">
     <name type="personal">
         <namePart lang="chi" script="Hant">保利真直編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Bao li zhen zhi bian</namePart>

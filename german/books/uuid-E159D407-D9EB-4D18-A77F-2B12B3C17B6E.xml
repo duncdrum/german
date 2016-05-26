@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E159D407-D9EB-4D18-A77F-2B12B3C17B6E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E159D407-D9EB-4D18-A77F-2B12B3C17B6E">
     <name type="personal">
         <namePart lang="chi" script="Hant">法學士小松鐮二郎注釋</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Faxueshi xiao song lian er lang zhushi</namePart>

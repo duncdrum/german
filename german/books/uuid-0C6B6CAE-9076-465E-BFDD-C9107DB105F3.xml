@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0C6B6CAE-9076-465E-BFDD-C9107DB105F3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0C6B6CAE-9076-465E-BFDD-C9107DB105F3">
     <name type="personal">
         <namePart lang="chi" script="Hant">金港堂書籍會社編輯所編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jin gang tang shuji huishe bianji suo bianji</namePart>

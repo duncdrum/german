@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D8471F48-A463-4B84-8B7F-8C416AE1F5C8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D8471F48-A463-4B84-8B7F-8C416AE1F5C8">
     <name type="personal">
         <namePart lang="chi" script="Hant">富士谷孝維編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fu shi gu xiao wei bianzuan</namePart>

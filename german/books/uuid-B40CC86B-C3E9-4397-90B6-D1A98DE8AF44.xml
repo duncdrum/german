@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B40CC86B-C3E9-4397-90B6-D1A98DE8AF44">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B40CC86B-C3E9-4397-90B6-D1A98DE8AF44">
     <name type="personal">
         <namePart lang="chi" script="Hant">川崎典民摸寫</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chuanqi dian min mo xie</namePart>

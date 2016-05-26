@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D8C22F88-1AC5-4713-B998-0EF4C2A51446">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D8C22F88-1AC5-4713-B998-0EF4C2A51446">
     <name type="personal">
         <namePart lang="chi" script="Hant">稻垣千穎撰</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Dao yuan qian ying zhuan</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2AE3A8D6-43D4-4AA3-BD4D-BC80F88AF458">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2AE3A8D6-43D4-4AA3-BD4D-BC80F88AF458">
     <name type="personal">
         <namePart lang="chi" script="Hant">松柏齋一瓢著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Song-bai zhai yi piaozhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5B1B8FCB-6A4F-4813-B7D6-88ED9D15D52B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5B1B8FCB-6A4F-4813-B7D6-88ED9D15D52B">
     <name type="personal">
         <namePart lang="chi" script="Hant">香雪散史著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiang xue san shizhe</namePart>

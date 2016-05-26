@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DD19D4D0-33F2-4C57-9950-C6532EE94AB0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DD19D4D0-33F2-4C57-9950-C6532EE94AB0">
     <name type="personal">
         <namePart lang="chi" script="Hant">農學士橫井特敬著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nong xueshi heng jing te jingzhe</namePart>

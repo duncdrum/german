@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1DEF553C-E8B8-44FA-A6F5-FC62CCA1E0A7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1DEF553C-E8B8-44FA-A6F5-FC62CCA1E0A7">
     <name type="personal">
         <namePart lang="chi" script="Hant">北越關四郎太註釋前田交繁校</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Bei Yue guan si lang tai zhushi qian tian jiao fan xiao</namePart>

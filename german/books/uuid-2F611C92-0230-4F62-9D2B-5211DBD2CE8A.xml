@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2F611C92-0230-4F62-9D2B-5211DBD2CE8A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2F611C92-0230-4F62-9D2B-5211DBD2CE8A">
     <name type="personal">
         <namePart lang="chi" script="Hant">林吾一著　村田海石書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Lin wu yizhe　cun tian hai shi shu</namePart>

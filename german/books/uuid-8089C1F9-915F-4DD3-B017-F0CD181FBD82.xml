@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8089C1F9-915F-4DD3-B017-F0CD181FBD82">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8089C1F9-915F-4DD3-B017-F0CD181FBD82">
     <name type="personal">
         <namePart lang="chi" script="Hant">田口卯吉序　藤尾錄郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Tian kou mao ji xu　teng wei lu langzhe</namePart>

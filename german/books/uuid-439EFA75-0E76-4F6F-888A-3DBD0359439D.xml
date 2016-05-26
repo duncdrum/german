@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-439EFA75-0E76-4F6F-888A-3DBD0359439D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-439EFA75-0E76-4F6F-888A-3DBD0359439D">
     <name type="personal">
         <namePart lang="chi" script="Hant">小中村義象、落合直文考案</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao zhong cun yi xiang, luo he zhi wen kao an</namePart>

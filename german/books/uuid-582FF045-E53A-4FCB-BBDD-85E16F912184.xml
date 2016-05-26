@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-582FF045-E53A-4FCB-BBDD-85E16F912184">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-582FF045-E53A-4FCB-BBDD-85E16F912184">
     <name type="personal">
         <namePart lang="chi" script="Hant">伊吹專太郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yi chui zhuan tai lang bian</namePart>

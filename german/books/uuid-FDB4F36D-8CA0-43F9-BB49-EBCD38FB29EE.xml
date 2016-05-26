@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FDB4F36D-8CA0-43F9-BB49-EBCD38FB29EE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FDB4F36D-8CA0-43F9-BB49-EBCD38FB29EE">
     <name type="personal">
         <namePart lang="chi" script="Hant">高崎正風著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gao qi zhengfengzhe</namePart>

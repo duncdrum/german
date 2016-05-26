@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AAB63273-4FAB-4981-A70C-AE287D88FEC4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AAB63273-4FAB-4981-A70C-AE287D88FEC4">
     <name type="personal">
         <namePart lang="chi" script="Hant">內務省報告課編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Neiwu sheng baogao ke bianzuan</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BAED3EA2-C49B-4F3D-A008-2B7B39E7E95A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BAED3EA2-C49B-4F3D-A008-2B7B39E7E95A">
     <name type="personal">
         <namePart lang="chi" script="Hant">津野慶太郎編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jin ye qing tai lang bianzuan</namePart>

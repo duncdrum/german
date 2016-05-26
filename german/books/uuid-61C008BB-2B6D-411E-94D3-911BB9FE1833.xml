@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-61C008BB-2B6D-411E-94D3-911BB9FE1833">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-61C008BB-2B6D-411E-94D3-911BB9FE1833">
     <name type="personal">
         <namePart lang="chi" script="Hant">青木鐵五郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Qing mu tie wu langzhe</namePart>

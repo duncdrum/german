@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-097F34D0-E3D9-4E2C-9A0D-6949E8C7F030">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-097F34D0-E3D9-4E2C-9A0D-6949E8C7F030">
     <name type="personal">
         <namePart lang="chi" script="Hant">杉山三郎、依田貞繼同選</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shan shan san lang, yi tian zhen ji tong xuan</namePart>

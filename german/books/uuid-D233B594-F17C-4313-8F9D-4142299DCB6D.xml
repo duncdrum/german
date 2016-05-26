@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D233B594-F17C-4313-8F9D-4142299DCB6D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D233B594-F17C-4313-8F9D-4142299DCB6D">
     <name type="personal">
         <namePart lang="chi" script="Hant">農學士小島銀吉著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nong xueshi xiaodao yin jizhe</namePart>

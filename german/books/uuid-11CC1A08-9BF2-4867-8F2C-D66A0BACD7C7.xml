@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-11CC1A08-9BF2-4867-8F2C-D66A0BACD7C7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-11CC1A08-9BF2-4867-8F2C-D66A0BACD7C7">
     <name type="personal">
         <namePart lang="chi" script="Hant">內田總一著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nei tian zong yizhe</namePart>

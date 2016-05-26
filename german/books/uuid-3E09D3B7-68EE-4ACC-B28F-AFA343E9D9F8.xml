@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3E09D3B7-68EE-4ACC-B28F-AFA343E9D9F8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3E09D3B7-68EE-4ACC-B28F-AFA343E9D9F8">
     <name type="personal">
         <namePart lang="chi" script="Hant">佐藤信夫編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zuo teng xin fu bian</namePart>

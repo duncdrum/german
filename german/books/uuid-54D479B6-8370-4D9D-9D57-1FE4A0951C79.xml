@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-54D479B6-8370-4D9D-9D57-1FE4A0951C79">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-54D479B6-8370-4D9D-9D57-1FE4A0951C79">
     <name type="personal">
         <namePart lang="chi" script="Hant">宮脅通赫編輯　酒井捨彥增補</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gong xie tong he bianji　jiu jing she yan zengbu</namePart>

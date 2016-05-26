@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F4F75527-CDD1-4A28-A150-A49D9B91FCAD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F4F75527-CDD1-4A28-A150-A49D9B91FCAD">
     <name type="personal">
         <namePart lang="chi" script="Hant">忍之屋孝仙輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ren zhi wu xiao xian ji</namePart>

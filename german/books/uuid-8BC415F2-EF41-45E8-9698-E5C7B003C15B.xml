@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8BC415F2-EF41-45E8-9698-E5C7B003C15B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8BC415F2-EF41-45E8-9698-E5C7B003C15B">
     <name type="personal">
         <namePart lang="chi" script="Hant">水村世蕭、多田義俊</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shui cun shi xiao, duo tian yi jun</namePart>

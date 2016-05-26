@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3DA827C1-CAFD-4CD6-A25E-92D3D26C6FDE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3DA827C1-CAFD-4CD6-A25E-92D3D26C6FDE">
     <name type="personal">
         <namePart lang="chi" script="Hant">長尾景弼編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Changwei jing bi bianzuan</namePart>

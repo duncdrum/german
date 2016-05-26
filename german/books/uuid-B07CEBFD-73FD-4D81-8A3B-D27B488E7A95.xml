@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B07CEBFD-73FD-4D81-8A3B-D27B488E7A95">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B07CEBFD-73FD-4D81-8A3B-D27B488E7A95">
     <name type="personal">
         <namePart lang="chi" script="Hant">東方覺之抄譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Dongfang jue zhi chao yi</namePart>

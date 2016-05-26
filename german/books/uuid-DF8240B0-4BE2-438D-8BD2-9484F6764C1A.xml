@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF8240B0-4BE2-438D-8BD2-9484F6764C1A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DF8240B0-4BE2-438D-8BD2-9484F6764C1A">
     <name type="personal">
         <namePart lang="chi" script="Hant">農學士高田鑑三著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nong xueshi gao tian jian sanzhe</namePart>

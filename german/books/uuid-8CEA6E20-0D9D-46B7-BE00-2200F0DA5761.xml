@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8CEA6E20-0D9D-46B7-BE00-2200F0DA5761">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8CEA6E20-0D9D-46B7-BE00-2200F0DA5761">
     <name type="personal">
         <namePart lang="chi" script="Hant">南部常次郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nanbu chang ci langzhe</namePart>

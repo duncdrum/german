@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DF05F16D-0CD2-44EF-A23B-A530A7007A71">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DF05F16D-0CD2-44EF-A23B-A530A7007A71">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木貞次郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu zhen ci lang bian</namePart>

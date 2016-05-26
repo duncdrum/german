@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-60CAA776-C5F9-4FA1-BBA0-6AB0D7103FD4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-60CAA776-C5F9-4FA1-BBA0-6AB0D7103FD4">
     <name type="personal">
         <namePart lang="chi" script="Hant">賴山陽著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Lai shanyangzhe</namePart>

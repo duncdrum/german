@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-27722408-9AFB-482C-B30F-30C87DD4C7D1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-27722408-9AFB-482C-B30F-30C87DD4C7D1">
     <name type="personal">
         <namePart lang="chi" script="Hant">村山自強編纂　中島幹事校閱</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Cun shan ziqiang bianzuan　zhong dao ganshi jiaoyue</namePart>

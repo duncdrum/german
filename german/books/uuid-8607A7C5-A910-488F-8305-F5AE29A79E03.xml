@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8607A7C5-A910-488F-8305-F5AE29A79E03">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8607A7C5-A910-488F-8305-F5AE29A79E03">
     <name type="personal">
         <namePart lang="chi" script="Hant">川崎千虎、松尾四郎合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chuanqi qian hu, song wei si lang hezhe</namePart>

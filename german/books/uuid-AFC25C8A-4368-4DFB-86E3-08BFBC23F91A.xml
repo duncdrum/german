@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AFC25C8A-4368-4DFB-86E3-08BFBC23F91A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AFC25C8A-4368-4DFB-86E3-08BFBC23F91A">
     <name type="personal">
         <namePart lang="chi" script="Hant">溪齋英泉書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xi zhai ying quan shu</namePart>

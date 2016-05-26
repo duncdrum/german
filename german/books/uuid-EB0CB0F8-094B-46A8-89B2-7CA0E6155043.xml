@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EB0CB0F8-094B-46A8-89B2-7CA0E6155043">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EB0CB0F8-094B-46A8-89B2-7CA0E6155043">
     <name type="personal">
         <namePart lang="chi" script="Hant">条井隆吉纂譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Tiao jing long ji zuan yi</namePart>

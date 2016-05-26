@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-04BDC411-8EE9-4FA6-A6EE-9B0C00B2D296">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-04BDC411-8EE9-4FA6-A6EE-9B0C00B2D296">
     <name type="personal">
         <namePart lang="chi" script="Hant">竹田出雲、三好松洛合作</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhu tian chu yun, sanhao song luo hezuo</namePart>

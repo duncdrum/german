@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3166D5EA-A05E-4ADF-A949-DD025C45D354">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3166D5EA-A05E-4ADF-A949-DD025C45D354">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木孝之助、印東玄德譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu xiao zhi zhu, yin dong xuande yi</namePart>

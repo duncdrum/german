@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0552EC5E-184E-4AB4-89E7-2FFF491E5C35">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0552EC5E-184E-4AB4-89E7-2FFF491E5C35">
     <name type="personal">
         <namePart lang="chi" script="Hant">月岡芳年畫筆</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yue gang fang nianhua bi</namePart>

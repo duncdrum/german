@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-51FE3F2A-974E-47E0-8AA6-B72933230899">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-51FE3F2A-974E-47E0-8AA6-B72933230899">
     <name type="personal">
         <namePart lang="chi" script="Hant">小宮山綏介、內藤恥叟校訂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao gong shan sui jie, nei teng chi sou jiaoding</namePart>

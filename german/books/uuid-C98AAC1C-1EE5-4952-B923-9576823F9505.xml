@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C98AAC1C-1EE5-4952-B923-9576823F9505">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C98AAC1C-1EE5-4952-B923-9576823F9505">
     <name type="personal">
         <namePart lang="chi" script="Hant">原田道義著　伊藤桂洲書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yuantian daoyizhe　yi teng gui zhou shu</namePart>

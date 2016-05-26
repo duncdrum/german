@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9E8EAC29-1AA6-427D-80D6-211737830D50">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9E8EAC29-1AA6-427D-80D6-211737830D50">
     <name type="personal">
         <namePart lang="chi" script="Hant">近松半二、三好松洛合作</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jin song ban er, sanhao song luo hezuo</namePart>

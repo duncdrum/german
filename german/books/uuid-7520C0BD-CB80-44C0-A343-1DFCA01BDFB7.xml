@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7520C0BD-CB80-44C0-A343-1DFCA01BDFB7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7520C0BD-CB80-44C0-A343-1DFCA01BDFB7">
     <name type="personal">
         <namePart lang="chi" script="Hant">直江外次郎編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhi jiang wai ci lang bianzuan</namePart>

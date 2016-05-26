@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DBBCE8C1-BA07-4F3B-880C-1465F43CFB1E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DBBCE8C1-BA07-4F3B-880C-1465F43CFB1E">
     <name type="personal">
         <namePart lang="chi" script="Hant">江見水蔭著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jiang jian shui yinzhe</namePart>

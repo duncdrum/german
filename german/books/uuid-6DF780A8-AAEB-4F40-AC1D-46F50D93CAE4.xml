@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6DF780A8-AAEB-4F40-AC1D-46F50D93CAE4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6DF780A8-AAEB-4F40-AC1D-46F50D93CAE4">
     <name type="personal">
         <namePart lang="chi" script="Hant">內田嘉一、岡村增太郎合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Nei tian jia yi, gang cun zeng tai lang hezhe</namePart>

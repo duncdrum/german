@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FFA39F0B-AB87-411F-AA2A-E9D3402C9326">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FFA39F0B-AB87-411F-AA2A-E9D3402C9326">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木貞次郎著　卷菱潭書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu zhen ci langzhe　juan ling tan shu</namePart>

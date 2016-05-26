@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BE6A4A71-2866-4395-B508-B789CAA7393B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE6A4A71-2866-4395-B508-B789CAA7393B">
     <name type="personal">
         <namePart lang="chi" script="Hant">森琴石製圖　青木恒三郎改正</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Sen qin shi zhitu　qing mu heng san lang gaizheng</namePart>

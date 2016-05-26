@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5DB52663-6F2A-4F28-8AE2-29477E6971B2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5DB52663-6F2A-4F28-8AE2-29477E6971B2">
     <name type="personal">
         <namePart lang="chi" script="Hant">天野英國孔理齋著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Tian ye Yingguo kong li zhaizhe</namePart>

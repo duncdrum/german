@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5CE4DB21-8AE9-4B9C-A623-F001B7194FD1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5CE4DB21-8AE9-4B9C-A623-F001B7194FD1">
     <name type="personal">
         <namePart lang="chi" script="Hant">都筑法堯著述</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Dou zhu fa yao zhushu</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6ACFFAAB-A133-44C0-9E6C-CB9491CD90AF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6ACFFAAB-A133-44C0-9E6C-CB9491CD90AF">
     <name type="personal">
         <namePart lang="chi" script="Hant">壬辰出社社著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Renchen chu she shezhe</namePart>

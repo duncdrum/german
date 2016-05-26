@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-41E62C5E-39E5-45D6-86BD-96B9CB974D87">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-41E62C5E-39E5-45D6-86BD-96B9CB974D87">
     <name type="personal">
         <namePart lang="chi" script="Hant">饗庭篁村著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiang ting huang cunzhe</namePart>

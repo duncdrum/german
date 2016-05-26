@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D4876A5D-831C-49A3-92B1-15EBB0316015">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D4876A5D-831C-49A3-92B1-15EBB0316015">
     <name type="personal">
         <namePart lang="chi" script="Hant">平松福三郎外四人同編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ping song fu san lang wai si ren tong bian</namePart>

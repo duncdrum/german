@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A176E15-86E5-451A-AAAC-D53558C508A1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1A176E15-86E5-451A-AAAC-D53558C508A1">
     <name type="personal">
         <namePart lang="chi" script="Hant">英國人著　榊原幾久若譯述</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yingguo renzhe　shen yuan ji jiu ruo yishu</namePart>

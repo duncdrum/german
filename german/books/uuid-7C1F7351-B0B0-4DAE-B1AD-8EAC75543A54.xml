@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7C1F7351-B0B0-4DAE-B1AD-8EAC75543A54">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7C1F7351-B0B0-4DAE-B1AD-8EAC75543A54">
     <name type="personal">
         <namePart lang="chi" script="Hant">長谷川政太郎製圖</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chang guchuan zheng tai lang zhitu</namePart>

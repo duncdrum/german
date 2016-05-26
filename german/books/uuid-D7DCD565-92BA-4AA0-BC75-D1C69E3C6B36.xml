@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D7DCD565-92BA-4AA0-BC75-D1C69E3C6B36">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D7DCD565-92BA-4AA0-BC75-D1C69E3C6B36">
     <name type="personal">
         <namePart lang="chi" script="Hant">內務省警保局藏版</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Neiwu sheng jing bao ju cang ban</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9F8EC012-AAEB-4386-B0A1-FCB9ABD41CC0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9F8EC012-AAEB-4386-B0A1-FCB9ABD41CC0">
     <name type="personal">
         <namePart lang="chi" script="Hant">小島原泰民譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiaodao yuan tai min yi</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C6BBC7ED-9CC6-4A26-95B1-6FCC38B8DDF7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C6BBC7ED-9CC6-4A26-95B1-6FCC38B8DDF7">
     <name type="personal">
         <namePart lang="chi" script="Hant">櫻癡居士著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ying chi jushizhe</namePart>

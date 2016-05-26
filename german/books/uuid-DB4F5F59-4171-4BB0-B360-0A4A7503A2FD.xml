@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-DB4F5F59-4171-4BB0-B360-0A4A7503A2FD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DB4F5F59-4171-4BB0-B360-0A4A7503A2FD">
     <name type="personal">
         <namePart lang="chi" script="Hant">柴田方齋，林省三編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chai tian fang zhai, lin sheng san bianji</namePart>

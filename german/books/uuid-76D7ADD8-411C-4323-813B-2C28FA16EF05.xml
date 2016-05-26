@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-76D7ADD8-411C-4323-813B-2C28FA16EF05">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-76D7ADD8-411C-4323-813B-2C28FA16EF05">
     <name type="personal">
         <namePart lang="chi" script="Hant">熊澤善庵、柴田承桂編纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiong ze shan an, chai tian cheng gui bianzuan</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BA54334B-36B7-4F3F-BAF3-9B4DDF045EA3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BA54334B-36B7-4F3F-BAF3-9B4DDF045EA3">
     <name type="personal">
         <namePart lang="chi" script="Hant">竹村良八郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhu cun liang ba lang bian</namePart>

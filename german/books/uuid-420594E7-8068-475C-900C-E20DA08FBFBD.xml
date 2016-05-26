@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-420594E7-8068-475C-900C-E20DA08FBFBD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-420594E7-8068-475C-900C-E20DA08FBFBD">
     <name type="personal">
         <namePart lang="chi" script="Hant">竹澤、福田、中村合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhu ze, futian, zhong cun hezhe</namePart>

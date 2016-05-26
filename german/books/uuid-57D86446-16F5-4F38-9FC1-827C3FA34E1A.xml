@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-57D86446-16F5-4F38-9FC1-827C3FA34E1A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-57D86446-16F5-4F38-9FC1-827C3FA34E1A">
     <name type="personal">
         <namePart lang="chi" script="Hant">麻溪居士著　春亭九華補</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ma xi jushizhe　chun ting jiu hua bu</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A68CE471-E6BC-4C54-B8D8-D7E88364D4D4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A68CE471-E6BC-4C54-B8D8-D7E88364D4D4">
     <name type="personal">
         <namePart lang="chi" script="Hant">小島安太郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiaodao an tai langzhe</namePart>

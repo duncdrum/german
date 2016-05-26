@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8CBD2CB0-4DFF-44A8-87FB-D0E774F3099C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8CBD2CB0-4DFF-44A8-87FB-D0E774F3099C">
     <name type="personal">
         <namePart lang="chi" script="Hant">文學士高津鍬三郎、文學士和田萬吉同纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Wenxueshi gao jin qiao san lang, wenxueshi he tian wan ji tong zuan</namePart>

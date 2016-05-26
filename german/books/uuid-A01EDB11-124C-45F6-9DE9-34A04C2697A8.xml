@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A01EDB11-124C-45F6-9DE9-34A04C2697A8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A01EDB11-124C-45F6-9DE9-34A04C2697A8">
     <name type="personal">
         <namePart lang="chi" script="Hant">柳澤甚五郎編淺井忠畫</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Liu ze shen wu lang bian qian jing zhong hua</namePart>

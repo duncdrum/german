@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8D6E4C36-5332-4D41-845A-60981416EAF6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8D6E4C36-5332-4D41-845A-60981416EAF6">
     <name type="personal">
         <namePart lang="chi" script="Hant">有栖川熾仁親王題字</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">You qi chuan chi ren qinwang tizi</namePart>

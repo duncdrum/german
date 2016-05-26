@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-410A7AE7-BE40-4B5C-A085-8D0D910E0029">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-410A7AE7-BE40-4B5C-A085-8D0D910E0029">
     <name type="personal">
         <namePart lang="chi" script="Hant">橋本好正著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Qiao ben hao zhengzhao</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-453741DA-8CC6-4DBC-8A81-3847111CC950">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-453741DA-8CC6-4DBC-8A81-3847111CC950">
     <name type="personal">
         <namePart lang="chi" script="Hant">岡田熊太郎、片山熊太郎</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gang tian xiong tai lang, pian shan xiong tai lang</namePart>

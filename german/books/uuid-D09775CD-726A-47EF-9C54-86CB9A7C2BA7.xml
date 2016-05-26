@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D09775CD-726A-47EF-9C54-86CB9A7C2BA7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D09775CD-726A-47EF-9C54-86CB9A7C2BA7">
     <name type="personal">
         <namePart lang="chi" script="Hant">秋山銀次郎著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Qiu shan yin ci langzhe</namePart>

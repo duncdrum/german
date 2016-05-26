@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2A46E025-7819-443A-9EB9-2F028142B9C5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2A46E025-7819-443A-9EB9-2F028142B9C5">
     <name type="personal">
         <namePart lang="chi" script="Hant">安達吟光畫作　小島勝月畫作</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">An da yin guang hua zuo　xiaodao sheng yue hua zuo</namePart>

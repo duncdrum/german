@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1BFC51EE-0425-4E2F-AE00-D091A41DBCD3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1BFC51EE-0425-4E2F-AE00-D091A41DBCD3">
     <name type="personal">
         <namePart lang="chi" script="Hant">伊勢錠五郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yi shi ding wu lang bian</namePart>

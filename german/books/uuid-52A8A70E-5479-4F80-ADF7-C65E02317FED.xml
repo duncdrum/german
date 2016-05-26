@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-52A8A70E-5479-4F80-ADF7-C65E02317FED">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-52A8A70E-5479-4F80-ADF7-C65E02317FED">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木弘恭編　多田親愛書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu hong gong bian　duo tian qin'ai shu</namePart>

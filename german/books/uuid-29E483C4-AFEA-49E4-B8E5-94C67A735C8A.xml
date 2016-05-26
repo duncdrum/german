@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-29E483C4-AFEA-49E4-B8E5-94C67A735C8A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-29E483C4-AFEA-49E4-B8E5-94C67A735C8A">
     <name type="personal">
         <namePart lang="chi" script="Hant">磯邊彌一郎譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ji bian mi yi lang yi</namePart>

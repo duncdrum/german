@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B9BB4C89-35B8-4B66-8D1D-ED9D432799B7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B9BB4C89-35B8-4B66-8D1D-ED9D432799B7">
     <name type="personal">
         <namePart lang="chi" script="Hant">木野森城、□時尾合著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Mu ye sen cheng, □shi wei hezhe</namePart>

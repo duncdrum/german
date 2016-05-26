@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1E94EF65-489C-4F4B-A81F-AEC2AC84B33D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1E94EF65-489C-4F4B-A81F-AEC2AC84B33D">
     <name type="personal">
         <namePart lang="chi" script="Hant">栗本廣勝、棟方隆譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Li ben guang sheng, dong fang long yi</namePart>

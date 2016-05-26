@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-901A45CE-5AED-4F5B-9E3D-F4F7ADDD41F5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-901A45CE-5AED-4F5B-9E3D-F4F7ADDD41F5">
     <name type="personal">
         <namePart lang="chi" script="Hant">天眼鈴木力著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Tianyan ling mu lizhe</namePart>

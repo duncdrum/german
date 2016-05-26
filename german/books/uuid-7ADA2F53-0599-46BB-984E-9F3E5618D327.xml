@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7ADA2F53-0599-46BB-984E-9F3E5618D327">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7ADA2F53-0599-46BB-984E-9F3E5618D327">
     <name type="personal">
         <namePart lang="chi" script="Hant">本多康道、今村信行共著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ben duo kang dao, jin cun xin xing gongzhe</namePart>

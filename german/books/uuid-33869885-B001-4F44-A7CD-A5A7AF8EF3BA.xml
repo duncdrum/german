@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-33869885-B001-4F44-A7CD-A5A7AF8EF3BA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-33869885-B001-4F44-A7CD-A5A7AF8EF3BA">
     <name type="personal">
         <namePart lang="chi" script="Hant">齋藤普春纂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhai teng pu chun zuan</namePart>

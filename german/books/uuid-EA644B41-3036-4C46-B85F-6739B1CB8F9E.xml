@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-EA644B41-3036-4C46-B85F-6739B1CB8F9E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EA644B41-3036-4C46-B85F-6739B1CB8F9E">
     <name type="personal">
         <namePart lang="chi" script="Hant">首藤新三、兒玉利庸共釋</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shou teng xin san, er yu li yong gong shi</namePart>

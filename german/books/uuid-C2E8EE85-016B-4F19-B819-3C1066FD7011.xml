@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C2E8EE85-016B-4F19-B819-3C1066FD7011">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C2E8EE85-016B-4F19-B819-3C1066FD7011">
     <name type="personal">
         <namePart lang="chi" script="Hant">增田于信譯木居豐穎閱</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zeng tian yu xinyi mu ju feng ying yue</namePart>

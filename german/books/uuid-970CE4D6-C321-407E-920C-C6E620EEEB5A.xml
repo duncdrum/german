@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-970CE4D6-C321-407E-920C-C6E620EEEB5A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-970CE4D6-C321-407E-920C-C6E620EEEB5A">
     <name type="personal">
         <namePart lang="chi" script="Hant">小中村義象、增田干信著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao zhong cun yi xiang, zeng tian gan xinzhe</namePart>

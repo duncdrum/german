@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-86EC91CB-AD97-4CB9-8D11-DDAE8BB5B4BD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-86EC91CB-AD97-4CB9-8D11-DDAE8BB5B4BD">
     <name type="personal">
         <namePart lang="chi" script="Hant">豐田辛延著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fengtian xin yanzhe</namePart>

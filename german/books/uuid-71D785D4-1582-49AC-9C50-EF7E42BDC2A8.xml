@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-71D785D4-1582-49AC-9C50-EF7E42BDC2A8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-71D785D4-1582-49AC-9C50-EF7E42BDC2A8">
     <name type="personal">
         <namePart lang="chi" script="Hant">井汲陸二郎編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jing ji lu er lang bian</namePart>

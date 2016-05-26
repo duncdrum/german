@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1400E809-172C-4858-AE23-0B98247C3A9B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1400E809-172C-4858-AE23-0B98247C3A9B">
     <name type="personal">
         <namePart lang="chi" script="Hant">小杉豐甕著　鳥居烋夫、平阪閎閱</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xiao shan feng wengzhe　niao ju xiao fu, ping ban hong yue</namePart>

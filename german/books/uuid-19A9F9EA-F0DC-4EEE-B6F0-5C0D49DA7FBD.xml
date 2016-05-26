@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-19A9F9EA-F0DC-4EEE-B6F0-5C0D49DA7FBD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-19A9F9EA-F0DC-4EEE-B6F0-5C0D49DA7FBD">
     <name type="personal">
         <namePart lang="chi" script="Hant">飯塚</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Fan zhong</namePart>

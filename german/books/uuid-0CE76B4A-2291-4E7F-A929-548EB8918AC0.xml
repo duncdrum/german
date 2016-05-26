@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0CE76B4A-2291-4E7F-A929-548EB8918AC0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0CE76B4A-2291-4E7F-A929-548EB8918AC0">
     <name type="personal">
         <namePart lang="chi" script="Hant">三屋大五郎編　藤井忠弘畫</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">San wu da wu lang bian　teng jing zhong hong hua</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B9CB526D-6ECE-4A9B-B8DB-7A9DA58E4B74">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B9CB526D-6ECE-4A9B-B8DB-7A9DA58E4B74">
     <name type="personal">
         <namePart lang="chi" script="Hant">矢津永昌著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shi jin yong changzhe</namePart>

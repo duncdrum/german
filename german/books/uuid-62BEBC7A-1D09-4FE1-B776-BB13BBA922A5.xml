@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-62BEBC7A-1D09-4FE1-B776-BB13BBA922A5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-62BEBC7A-1D09-4FE1-B776-BB13BBA922A5">
     <name type="personal">
         <namePart lang="chi" script="Hant">大橋宗俊著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Da qiao zong junzhe</namePart>

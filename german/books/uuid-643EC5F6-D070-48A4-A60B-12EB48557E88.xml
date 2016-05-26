@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-643EC5F6-D070-48A4-A60B-12EB48557E88">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-643EC5F6-D070-48A4-A60B-12EB48557E88">
     <name type="personal">
         <namePart lang="chi" script="Hant">上原佐一郎編輯　久保田梁山書</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shang yuan zuo yi lang bianji　jiu bao tian liang shan shu</namePart>

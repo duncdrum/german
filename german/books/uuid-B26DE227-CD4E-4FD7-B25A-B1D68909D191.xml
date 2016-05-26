@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B26DE227-CD4E-4FD7-B25A-B1D68909D191">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B26DE227-CD4E-4FD7-B25A-B1D68909D191">
     <name type="personal">
         <namePart lang="chi" script="Hant">遠藤外三郎、高版駒三郎共譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Yuan teng wai san lang, gao ban ju san lang gong yi</namePart>

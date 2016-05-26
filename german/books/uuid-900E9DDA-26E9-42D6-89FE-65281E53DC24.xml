@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-900E9DDA-26E9-42D6-89FE-65281E53DC24">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-900E9DDA-26E9-42D6-89FE-65281E53DC24">
     <name type="personal">
         <namePart lang="chi" script="Hant">荒川義泰製圖</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Huang chuan yi tai zhitu</namePart>

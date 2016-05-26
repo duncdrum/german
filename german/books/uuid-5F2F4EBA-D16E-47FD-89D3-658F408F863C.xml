@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5F2F4EBA-D16E-47FD-89D3-658F408F863C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5F2F4EBA-D16E-47FD-89D3-658F408F863C">
     <name type="personal">
         <namePart lang="chi" script="Hant">犬養毅譯氏原著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Quan yang yi yi shi yuanzhu</namePart>

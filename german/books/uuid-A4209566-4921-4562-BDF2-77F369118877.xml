@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A4209566-4921-4562-BDF2-77F369118877">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A4209566-4921-4562-BDF2-77F369118877">
     <name type="personal">
         <namePart lang="chi" script="Hant">中山力太郎編纂　織田純一郎訂正</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhongshan li tai lang bianzuan　zhi tian chunyi lang dingzheng</namePart>

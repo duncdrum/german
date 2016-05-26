@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-86F6526D-2433-4496-A6F0-E79F63F19FC9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-86F6526D-2433-4496-A6F0-E79F63F19FC9">
     <name type="personal">
         <namePart lang="chi" script="Hant">故中村正直序　經濟雜誌社編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gu zhong cun zhengzhi xu　jingji zazhi she bianji</namePart>

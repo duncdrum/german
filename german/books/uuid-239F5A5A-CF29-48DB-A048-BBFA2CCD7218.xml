@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-239F5A5A-CF29-48DB-A048-BBFA2CCD7218">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-239F5A5A-CF29-48DB-A048-BBFA2CCD7218">
     <name type="personal">
         <namePart lang="chi" script="Hant">木村知治著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Mu cun zhi zhizhe</namePart>

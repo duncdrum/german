@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-27DD8128-8B65-4C52-AC84-437EBB4E136A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-27DD8128-8B65-4C52-AC84-437EBB4E136A">
     <name type="personal">
         <namePart lang="chi" script="Hant">獨逸氏原著　杉本耕太郎譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Du yi shi yuanzhu　shan ben geng tai lang yi</namePart>

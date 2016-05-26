@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B6157B66-817E-47C9-9EAC-B77EC6CABEC7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B6157B66-817E-47C9-9EAC-B77EC6CABEC7">
     <name type="personal">
         <namePart lang="chi" script="Hant">甘利忠、田代哲太郎共編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gan li zhong, tian dai zhe tai lang gong bian</namePart>

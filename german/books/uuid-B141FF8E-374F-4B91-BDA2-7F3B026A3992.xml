@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B141FF8E-374F-4B91-BDA2-7F3B026A3992">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B141FF8E-374F-4B91-BDA2-7F3B026A3992">
     <name type="personal">
         <namePart lang="chi" script="Hant">山崎元脩　石川清忠合譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shan qi yuan xiu　shi chuan qing zhong heyi</namePart>

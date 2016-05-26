@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C469B7E8-EB22-448E-8577-0FB6D10D8B3C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C469B7E8-EB22-448E-8577-0FB6D10D8B3C">
     <name type="personal">
         <namePart lang="chi" script="Hant">岡村增太郎作歌　四竈納治作曲</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gang cun zeng tai lang zuoge　si zao na zhi zuoqu</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-83543094-5271-4826-9FBE-C30E5243F633">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-83543094-5271-4826-9FBE-C30E5243F633">
     <name type="personal">
         <namePart lang="chi" script="Hant">宮內省藏板　芳樹編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gong neixing cang ban　fang shu bianji</namePart>

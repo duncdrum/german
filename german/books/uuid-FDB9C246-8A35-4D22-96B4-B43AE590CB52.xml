@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FDB9C246-8A35-4D22-96B4-B43AE590CB52">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FDB9C246-8A35-4D22-96B4-B43AE590CB52">
     <name type="personal">
         <namePart lang="chi" script="Hant">齋田功太郎、染谷德五郎補譯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhai tian gong tai lang, ran gu de wu lang bu yi</namePart>

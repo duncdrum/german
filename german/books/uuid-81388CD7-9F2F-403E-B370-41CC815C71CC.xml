@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-81388CD7-9F2F-403E-B370-41CC815C71CC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-81388CD7-9F2F-403E-B370-41CC815C71CC">
     <name type="personal">
         <namePart lang="chi" script="Hant">今井定介、畠山健校正</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Jin jing ding jie, huang shan jian jiaozheng</namePart>

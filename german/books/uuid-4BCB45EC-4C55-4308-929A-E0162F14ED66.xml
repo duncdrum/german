@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4BCB45EC-4C55-4308-929A-E0162F14ED66">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4BCB45EC-4C55-4308-929A-E0162F14ED66">
     <name type="personal">
         <namePart lang="chi" script="Hant">長沿辨次郎編述</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chang yan bian ci lang bianshu</namePart>

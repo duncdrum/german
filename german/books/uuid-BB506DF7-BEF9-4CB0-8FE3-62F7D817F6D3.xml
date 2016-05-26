@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BB506DF7-BEF9-4CB0-8FE3-62F7D817F6D3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BB506DF7-BEF9-4CB0-8FE3-62F7D817F6D3">
     <name type="personal">
         <namePart lang="chi" script="Hant">鈴木史琴編輯</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu shi qin bianji</namePart>

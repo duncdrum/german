@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-66A5B14A-4DB5-435B-94F9-5D37171F3303">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-66A5B14A-4DB5-435B-94F9-5D37171F3303">
     <name type="personal">
         <namePart lang="chi" script="Hant">狩野雪信女子真筆</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shou ye xue xin nüzi zhen bi</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-549A95D2-B171-44C4-80F2-12D4AE33B1FE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-549A95D2-B171-44C4-80F2-12D4AE33B1FE">
     <name type="personal">
         <namePart lang="chi" script="Hant">松島剛譯　勝海舟翁序</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Song dao gang yi　sheng hai zhou weng xu</namePart>

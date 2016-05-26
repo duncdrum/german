@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FE800452-98A4-444C-9D68-A50ECFC485A6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FE800452-98A4-444C-9D68-A50ECFC485A6">
     <name type="personal">
         <namePart lang="chi" script="Hant">中濱東一郎、管之芳編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhong bin dong yi lang, guan zhi fang bian</namePart>

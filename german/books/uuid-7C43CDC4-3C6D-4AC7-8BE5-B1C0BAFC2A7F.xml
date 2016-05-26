@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7C43CDC4-3C6D-4AC7-8BE5-B1C0BAFC2A7F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7C43CDC4-3C6D-4AC7-8BE5-B1C0BAFC2A7F">
     <name type="personal">
         <namePart lang="chi" script="Hant">福田久松著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Futian jiu songzhe</namePart>

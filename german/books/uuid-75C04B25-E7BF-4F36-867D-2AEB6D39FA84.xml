@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-75C04B25-E7BF-4F36-867D-2AEB6D39FA84">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-75C04B25-E7BF-4F36-867D-2AEB6D39FA84">
     <name type="personal">
         <namePart lang="chi" script="Hant">西村於蒐著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xi cun yu souzhe</namePart>

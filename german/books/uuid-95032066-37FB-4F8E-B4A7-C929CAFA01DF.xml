@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-95032066-37FB-4F8E-B4A7-C929CAFA01DF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-95032066-37FB-4F8E-B4A7-C929CAFA01DF">
     <name type="personal">
         <namePart lang="chi" script="Hant">辻敬之、岡村增太郎同編</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Shi jing zhi, gang cun zeng tai lang tong bian</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-888C767F-9EED-4DD4-9F5A-AD557192ACB5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-888C767F-9EED-4DD4-9F5A-AD557192ACB5">
     <name type="personal">
         <namePart lang="chi" script="Hant">中根淑閱　原亮策著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Zhong gen shu yue　yuan liang cezhe</namePart>

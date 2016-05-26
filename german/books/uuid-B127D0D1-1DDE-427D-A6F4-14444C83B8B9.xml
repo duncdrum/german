@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B127D0D1-1DDE-427D-A6F4-14444C83B8B9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B127D0D1-1DDE-427D-A6F4-14444C83B8B9">
     <name type="personal">
         <namePart lang="chi" script="Hant">林學士鈴木審三著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Linxue shi ling mu shen sanzhe</namePart>

@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4AB2ECC4-8297-49D6-809C-A34EECB25EC3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4AB2ECC4-8297-49D6-809C-A34EECB25EC3">
     <name type="personal">
         <namePart lang="chi" script="Hant">博文館編輯局製</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Bowen guan bianji ju zhi</namePart>

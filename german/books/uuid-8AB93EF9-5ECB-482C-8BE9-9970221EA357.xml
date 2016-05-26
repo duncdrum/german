@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8AB93EF9-5ECB-482C-8BE9-9970221EA357">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8AB93EF9-5ECB-482C-8BE9-9970221EA357">
     <name type="personal">
         <namePart lang="chi" script="Hant">長田定穗譯　石川清公校訂</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Chang tian ding sui yi　shi chuan qing gong jiaoding</namePart>

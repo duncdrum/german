@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2CDEC25A-50CD-4B1F-A27E-F00355E8DD1C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2CDEC25A-50CD-4B1F-A27E-F00355E8DD1C">
     <name type="personal">
         <namePart lang="chi" script="Hant">村瀨秀甫著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Cun lai xiu fuzhe</namePart>

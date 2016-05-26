@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6226AB69-6205-4B7B-B50D-13899846DADF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6226AB69-6205-4B7B-B50D-13899846DADF">
     <name type="personal">
         <namePart lang="chi" script="Hant">西澤公雄纂譯　吉田彥六閱</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Xi ze gong xiong zuan yi　ji tian yan liu yue</namePart>

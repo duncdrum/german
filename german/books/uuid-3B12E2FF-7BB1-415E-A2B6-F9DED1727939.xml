@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3B12E2FF-7BB1-415E-A2B6-F9DED1727939">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3B12E2FF-7BB1-415E-A2B6-F9DED1727939">
     <name type="personal">
         <namePart lang="chi" script="Hant">故中野其明著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Gu zhong ye qi mingzhe</namePart>

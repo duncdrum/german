@@ -1,4 +1,7 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BCFBEA98-5D6F-4279-9C91-86D504BDBDBF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BCFBEA98-5D6F-4279-9C91-86D504BDBDBF">
     <name type="personal">
         <namePart lang="chi" script="Hant">文學博士坪井九馬三著</namePart>
         <namePart lang="chi" transliteration="chinese/ala-lc">Wenxue boshi ping jing jiu ma sanzhe</namePart>
