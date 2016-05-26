@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8BE14349-8505-497D-8997-D505C221A261">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8BE14349-8505-497D-8997-D505C221A261">
     <name type="personal">
         <namePart lang="chi" script="Hant">天野春翁著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Tian ye chun wengzhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>詞之踏分</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ci zhi ta fen</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1061</note>
     <note type="price">六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_6488</identifier>
 </mods>

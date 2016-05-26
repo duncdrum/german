@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-79C51FFD-9740-48D5-B60F-AF8B5048A213">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-79C51FFD-9740-48D5-B60F-AF8B5048A213">
     <titleInfo lang="chi" script="Hant">
         <title>高隆傳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gao long chuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 69</note>
     <abstract lang="chi" type="summary">高隆傳一卷 滙報本 滙報館譯，從法文中擇要譯出，即覔美洲之科侖布也，或作閣龍，篇中言高事 蹟頗詳。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_92</identifier>
 </mods>

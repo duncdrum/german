@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-ABDFA59B-80A4-4C48-8C57-CE2BD4FBBF52">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ABDFA59B-80A4-4C48-8C57-CE2BD4FBBF52">
     <name type="personal">
         <namePart lang="chi" script="Hant">慈眼和尚作</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ci yan heshang zuo</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>世中道歌百喻</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shi zhongdao ge bai yu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,歌集,p 980</note>
     <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_5336</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F82B0874-22F3-45D8-AA95-90732CBF1C20">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F82B0874-22F3-45D8-AA95-90732CBF1C20">
     <titleInfo lang="chi" script="Hant">
         <title>歐美各大國師船表</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ou-Mei ge daguo shi chuan biao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,船艦,p 108</note>
     <abstract lang="chi" type="summary">歐美各大國師船表一卷 戊戍十月申報本 [英]惠而生著，斯表載一千八百九十八年各國水師情形并水師所用器械。惠 而生閱之擊節稱賞，并捐資若干以示鼓勵，惠君曾於白雷斯福叠詳論各國 水師，書中採近百年中情形而輯成者。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_226</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EFA3E5F7-43A3-49C8-88DC-0E7E3AE1A392">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EFA3E5F7-43A3-49C8-88DC-0E7E3AE1A392">
     <titleInfo lang="chi" script="Hant">
         <title>天下五洲各大國志要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tianxia wu-zhou ge daguo zhi yao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 41</note>
     <abstract lang="chi" type="summary">天下五洲各大國志要一卷 廣學會本一冊　瀏陽質學社叢刻本小方壺齋再續鈔本 [英]李提摩太著，鑄鐵生述，以富於養民，強於教民二語為本書宗旨，歷論古今 各國有益於民諸大政，其意將合五洲萬國為一家，尤汲汲以講求教養，諷中 國。李教士所作諸書皆以保國養民為主，與他教士取義不同，雖簡略未可厚 非，是書亦名三十一國志略。 益智書會印，有歐氏中國史略，英魯斯約翰朝鮮紀略、滿洲攷二卷；東亞書局譯有，萬國新史提要、五大洲人類種族攷，均未出。集成報印，有法賴阿司撰，王衡齡譯，五洲古今野史亦未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2</identifier>
 </mods>

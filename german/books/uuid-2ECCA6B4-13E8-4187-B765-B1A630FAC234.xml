@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2ECCA6B4-13E8-4187-B765-B1A630FAC234">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2ECCA6B4-13E8-4187-B765-B1A630FAC234">
     <name type="personal">
         <namePart lang="chi" script="Hant">樋山廣業編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Tong shan guang ye bianzuan</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>六法大全</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Liufa daquan</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,現行法律,p 785</note>
     <note type="price">六角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_3215</identifier>
 </mods>

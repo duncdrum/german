@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4DE431CA-0CA3-4354-A38E-F5BD6BF6792E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4DE431CA-0CA3-4354-A38E-F5BD6BF6792E">
     <titleInfo lang="chi" script="Hant">
         <title>星軺指掌</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xing yao zhizhang</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 93</note>
     <abstract lang="chi" type="summary">星軺指掌四卷附續一卷 光緒二年同文館本四冊　西學大成本　上海排印本 [布]馬爾頓著，[歐洲]葛福根注，聯芳慶常同譯，此亦章程類之書，言使臣分內職 掌及派使規則，恃使禮法皆具於中，惜僅譯上編。葛氏所注，或引成案，或載條 例，或辨異同，足以補原書所未備；續卷為美國領事則例，後并附公文程式。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_179</identifier>
 </mods>

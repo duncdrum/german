@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5DA831CD-43AD-43B7-B584-CB4FB532294E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5DA831CD-43AD-43B7-B584-CB4FB532294E">
     <name type="personal">
         <namePart lang="chi" script="Hant">小笠原勝刪修</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xiao li yuan sheng shan xiu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>續國史略 後編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xu guo shilüe hou bian</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 707</note>
     <note type="price">大六角八分　小五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2271</identifier>
 </mods>

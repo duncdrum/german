@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-881E0327-41B0-4643-A2CD-8009CC36DF4E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-881E0327-41B0-4643-A2CD-8009CC36DF4E">
     <name type="personal">
         <namePart lang="chi" script="Hant">直舍一九著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhi she yi jiuzhe</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>諸國道中金之草鞋</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhu guodao zhong jin zhi caoxie</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,旅行案內及道中記,p 734</note>
     <note type="price">一圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2651</identifier>
 </mods>

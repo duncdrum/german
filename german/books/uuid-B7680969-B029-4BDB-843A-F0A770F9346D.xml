@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B7680969-B029-4BDB-843A-F0A770F9346D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B7680969-B029-4BDB-843A-F0A770F9346D">
     <titleInfo lang="chi" script="Hant">
         <title>脈表診病論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mai biao zhenbing lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 245</note>
     <abstract lang="chi" type="summary">脈表診病論一卷 格致彙編本一冊 [英]傅蘭雅輯譯，馬利所作之表名曰身內通行血脈醫學理，以表置於小臂，每 脈一至，板必少動，而虛實舒縮諸象可知。書中專論表之用處、造法，並言其弊 及改變之法，列為圖解以明其說，後附實脈類圖說，又英散特生論心縮之法 與時刻，因與人身發血管有相關之理，故載之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_754</identifier>
 </mods>

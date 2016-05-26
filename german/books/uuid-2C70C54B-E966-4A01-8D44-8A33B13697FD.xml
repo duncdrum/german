@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2C70C54B-E966-4A01-8D44-8A33B13697FD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2C70C54B-E966-4A01-8D44-8A33B13697FD">
     <titleInfo lang="chi" script="Hant">
         <title>連盟論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lian meng lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 91</note>
     <abstract lang="chi" type="summary">連盟論　卷 東亞時報本 [日本]有賀長雄著，飛天道人譯，凡十章皆論日本與中國宜協諾，不宜同盟之 理，並揭同盟之宗旨於篇。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_172</identifier>
 </mods>

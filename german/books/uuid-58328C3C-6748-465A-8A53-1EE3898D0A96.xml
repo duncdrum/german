@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-58328C3C-6748-465A-8A53-1EE3898D0A96">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-58328C3C-6748-465A-8A53-1EE3898D0A96">
     <titleInfo lang="chi" script="Hant">
         <title>論機器之益</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lun jiqi zhi yi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,工學,p 144</note>
     <abstract lang="chi" type="summary">論機器之益　卷 新學彙編本　廣學會單行本 [英]艾約瑟著，蔡爾康潤色，論機器並不妨害人工，足破中國守舊之見。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_363</identifier>
 </mods>

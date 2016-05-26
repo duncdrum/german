@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EB33A787-62CE-492C-A591-CD8DCAABBAD3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EB33A787-62CE-492C-A591-CD8DCAABBAD3">
     <titleInfo lang="chi" script="Hant">
         <title>化學須知</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue xuzhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 201</note>
     <abstract lang="chi" type="summary">化學須知一卷 格致須知初集本一冊 [英]傅蘭雅輯，專論化成類質之大概，不及生長類原質，是書與羅氏啟蒙同出 一本，譯者稍異其文。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_574</identifier>
 </mods>

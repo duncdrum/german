@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C6AAAA8E-BBFE-4A9A-B518-8A76D6FA8815">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C6AAAA8E-BBFE-4A9A-B518-8A76D6FA8815">
     <titleInfo lang="chi" script="Hant">
         <title>動物須知</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongwu xuzhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,動物學,p 238</note>
     <abstract lang="chi" type="summary">動物須知一卷 格致須知三集本一冊 [英]傅蘭雅著</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_722</identifier>
 </mods>

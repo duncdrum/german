@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B980B243-2684-4DD0-9C15-A9F727A375EA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B980B243-2684-4DD0-9C15-A9F727A375EA">
     <titleInfo lang="chi" script="Hant">
         <title>地學指略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dixue zhi lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 220</note>
     <abstract lang="chi" type="summary">地學指略三卷 益智書會本一冊 [英]文教治著，李慶軒譯，專論地內之泥沙土石，而未嘗深入其裏。蓋攷地殼之 書於地質學中所謂淺說。中西聞見錄有包爾騰地學指略，可參觀。 益智書會印有[ ]文氏地學入門，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_647</identifier>
 </mods>

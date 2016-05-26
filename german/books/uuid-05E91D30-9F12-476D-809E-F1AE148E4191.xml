@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-05E91D30-9F12-476D-809E-F1AE148E4191">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-05E91D30-9F12-476D-809E-F1AE148E4191">
     <titleInfo lang="chi" script="Hant">
         <title>工程致富論略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gongcheng zhifu lun lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,工學,p 143</note>
     <abstract lang="chi" type="summary">工程致富論略十三卷附圖 製造局本八冊　富強叢書本　西政叢書本 [英]瑪體生著，[英]傅蘭雅、鍾天緯同譯，前三卷專論工程利益及國家定律保息、 擅利助本，又包工查驗根源工程弊端；四卷以下分論各項工程利弊、開辦利 益，蓋以工程能使商務興盛，英人視工程為最要事，故其商務亦獨盛，書中皆 就英人所作之工程立論，頗稱賅備。 益智書會印有英傅蘭雅，泰西工蓺；製造局印有英傅蘭雅、徐家寶，工蓺準繩，均未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_361</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2A6B2B5C-0FBE-46DD-A488-F4A07B70EF44">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2A6B2B5C-0FBE-46DD-A488-F4A07B70EF44">
     <titleInfo lang="chi" script="Hant">
         <title>潔淨新例</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jie jing xin li</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 79</note>
     <abstract lang="chi" type="summary">潔淨新例一卷 香港中國報本 [英]香港潔淨局定，此例訂於西厤一千八百九十九年，其第三十四條則例，章 程限制住屋間隔等事，誠防疫之善法。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_128</identifier>
 </mods>

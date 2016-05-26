@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5FECDB67-B1D3-4045-A6BE-41B42C562014">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5FECDB67-B1D3-4045-A6BE-41B42C562014">
     <titleInfo lang="chi" script="Hant">
         <title>農業三事</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongye san shi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 127</note>
     <abstract lang="chi" type="summary">農業三事　卷 農學報本 [奧]荷衣伯連著，[日本]津田述、沈紘譯，發明三事曰埋筒而地之瘠者腴、曰偃枝 而實之歉者豐，曰媒花而種之莠者良。憑累年之經驗，便實地之施行，功迴造 化，力謝汽機，法簡效宏，殆無逾。此荷氏挾此術馳名中外，法主拿破崙第三世 特命各官考驗得實，大賞之，七年間解所佩懸荷氏胸前，以旌其明農之功，寰 宇榮之。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_294</identifier>
 </mods>

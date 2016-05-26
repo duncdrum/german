@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C1A243AD-D1FD-4246-8B98-7BD44BE96D29">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C1A243AD-D1FD-4246-8B98-7BD44BE96D29">
     <name type="personal">
         <namePart lang="chi" script="Hant">松田貞幹、崛中東洲編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Song tian zhen gan, jue Zhongdong zhou bian</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>伊吕波節用集漢語伊吕波字引 二書合本</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yi lü bo jieyong ji Hanyu yi lü bo zi yin er shu he ben</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,伊吕波引,p 1072</note>
     <note type="price">四角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_6643</identifier>
 </mods>

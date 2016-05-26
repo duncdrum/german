@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-1E753292-7C8E-49E2-A326-3D64B6D1F653">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1E753292-7C8E-49E2-A326-3D64B6D1F653">
     <titleInfo lang="chi" script="Hant">
         <title>西藥略釋</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiyao lüeshi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,藥品,p 247</note>
     <abstract lang="chi" type="summary">西藥略釋四卷 光緒元年博濟醫局刊本作一卷　光緒十二年新增重刊本 不著撰人名氏，[美]嘉約翰、孔慶高同譯，說理精確，西書之善者，此書所載西國 常用藥品約百餘種，前有總論，講明用藥之總理，極便省覽，惜兩次寫刻譯音 先後不同，學者當以第二次刊本為準。彙編七有英稻維德譯，醫藥略論，可參 觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_762</identifier>
 </mods>

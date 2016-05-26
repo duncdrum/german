@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-222A8258-2536-4075-BAEB-006B758781D8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-222A8258-2536-4075-BAEB-006B758781D8">
     <titleInfo lang="chi" script="Hant">
         <title>獸有百種論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shou you bai zhong lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,動物學,p 239</note>
     <abstract lang="chi" type="summary">獸有百種論一卷 格致彙編本 [英]傅蘭雅著，其分類與韋氏百獸圖說同，惟所論較韋書為詳贍，學者當與厚 氏活物學參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_727</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DDF29724-D294-4138-9B6F-8E39EABE55D5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DDF29724-D294-4138-9B6F-8E39EABE55D5">
     <titleInfo lang="chi" script="Hant">
         <title>全體須知</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Quanti xuzhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 231</note>
     <abstract lang="chi" type="summary">全體須知一卷 格致須知三集本一冊 [英]傅蘭雅著，傅氏於心靈一學亦最留意，故此書後論腦筋、覺悟二章，頗簡明 可讀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_697</identifier>
 </mods>

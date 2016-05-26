@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-1B6A63A9-989C-415D-88B9-C3C185747E8F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1B6A63A9-989C-415D-88B9-C3C185747E8F">
     <titleInfo lang="chi" script="Hant">
         <title>美人侈譚戰略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meiren chi tan zhanlüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 61</note>
     <abstract lang="chi" type="summary">美人侈譚戰略一卷 知新報本 [美]紐約哈罷月報館著，周靈生譯，言美西戰事甚詳，雖不免鋪張美師，然其言 西師處處失機，雖有堅船利砲不能致用，非美師足以敗之，實西人自取敗亡 也，合前紀事本末觀之，於美西海戰之得失，思過半矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_67</identifier>
 </mods>

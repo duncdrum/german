@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-813168BE-5145-475B-8EF1-5BED7FE4EAB5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-813168BE-5145-475B-8EF1-5BED7FE4EAB5">
     <titleInfo lang="chi" script="Hant">
         <title>勸學篇</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Quanxue pian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,理學第二十五,理學,p 258</note>
     <abstract lang="chi" type="summary">勸學篇一卷 侯官嚴氏叢刻本 [英]斯賓塞爾著，嚴復譯，此書以勉人治羣學為宗旨，以為凡人民自相生相養 通功易事，以至於禮樂刑政之大，皆從能羣之性以生，故惟羣事為最難，亦惟 治羣學為最要，是篇以近今格致之理，推明日用人生之事，以及治平之大精 義妙說，深切著明，惜僅譯第一篇耳。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_797</identifier>
 </mods>

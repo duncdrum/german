@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5293263C-3E49-4CCF-8915-F8D131F43CB6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5293263C-3E49-4CCF-8915-F8D131F43CB6">
     <titleInfo lang="chi" script="Hant">
         <title>勵學譯編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Li xue yi bian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 277</note>
     <abstract lang="chi" type="summary">勵學譯編 木刻本，設蘇州。 勵學社譯，譯東西各書有關政治、輿地、格致、歷史者，按月譯行，間附小說一二 種，每月一冊，始於光緒二十七年正月。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_874</identifier>
 </mods>

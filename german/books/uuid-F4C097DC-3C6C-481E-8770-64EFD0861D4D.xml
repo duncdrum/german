@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F4C097DC-3C6C-481E-8770-64EFD0861D4D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F4C097DC-3C6C-481E-8770-64EFD0861D4D">
     <titleInfo lang="chi" script="Hant">
         <title>渥雅度小傳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wo ya du xiaozhuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 67</note>
     <abstract lang="chi" type="summary">渥雅度小傳一卷 知新報本 [英]侯滑布煙著，周靈生譯，渥雅度以非律賓羣島抗西班牙、美利堅二國之師， 至年餘之久，雖力竭為美所併，然其志固可嘉也。傳中言渥雅度之事甚詳。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_83</identifier>
 </mods>

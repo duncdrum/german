@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0489DBF3-006D-4BA6-8F29-CA9CD144713B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0489DBF3-006D-4BA6-8F29-CA9CD144713B">
     <titleInfo lang="chi" script="Hant">
         <title>外交通義</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Waijiao tongyi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 90</note>
     <abstract lang="chi" type="summary">外交通義　卷 日本刊本 [日本]長岡春一著，斯書起筆於外交之觀念，而由與國際法之關係以至外交 機關之品種，列國會議之委曲條約文之樣式，洪纖不遺，其所述公法家之學 說，並所採錄東西外交之事項，尤無遺蘊，誠有志研究斯學者所宜讀也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_170</identifier>
 </mods>

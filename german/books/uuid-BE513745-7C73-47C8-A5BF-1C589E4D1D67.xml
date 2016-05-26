@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-BE513745-7C73-47C8-A5BF-1C589E4D1D67">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE513745-7C73-47C8-A5BF-1C589E4D1D67">
     <titleInfo lang="chi" script="Hant">
         <title>格致新報</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gezhi xin bao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 274</note>
     <abstract lang="chi" type="summary">格致新報 排印本，設上海。 朱開甲、王顯理等譯，光緒二十四年二月起，每月一冊，每次載答問數，則頗足 啟發，至十冊止，後與益聞錄合，改名格致益聞彙報，每七月印二次，後又改名 滙報。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_864</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C8D2EEA6-21AE-4AA1-96EE-FEF45E8642EC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C8D2EEA6-21AE-4AA1-96EE-FEF45E8642EC">
     <titleInfo lang="chi" script="Hant">
         <title>植三椏樹法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhi san ya shu fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note>
     <abstract lang="chi" type="summary">植三椏樹法一卷 農學報本 [日本]梅原寬重著，三椏一名結香，造紙最良，此書蓋即梅原氏三椏，培養新說， 益以初瀨川健增之說，合為著明者。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_318</identifier>
 </mods>

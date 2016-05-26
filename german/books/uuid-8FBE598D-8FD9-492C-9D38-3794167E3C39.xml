@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8FBE598D-8FD9-492C-9D38-3794167E3C39">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8FBE598D-8FD9-492C-9D38-3794167E3C39">
     <titleInfo lang="chi" script="Hant">
         <title>量光力器圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Liang guang li qi tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,光學第十七,光學器,p 210</note>
     <abstract lang="chi" type="summary">量光力器圖說一卷 格致彙編本一冊　西學大成本 [英]傅蘭雅譯，此器為英國格致家克羅克司所創，書中論量光與光力之理，并 言造器之法，精乎此，於測算之學又加一等功力矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_611</identifier>
 </mods>

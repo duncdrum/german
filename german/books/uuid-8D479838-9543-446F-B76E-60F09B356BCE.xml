@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8D479838-9543-446F-B76E-60F09B356BCE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8D479838-9543-446F-B76E-60F09B356BCE">
     <titleInfo lang="chi" script="Hant">
         <title>治國要務</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhiguo yaowu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 282</note>
     <abstract lang="chi" type="summary">治國要務一冊 廣學會本 [英]韋廉臣著，凡九章。中言林木之益，其說甚可据，惜中國未嘗採用之也。末章 復涉教語，可刪去之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_891</identifier>
 </mods>

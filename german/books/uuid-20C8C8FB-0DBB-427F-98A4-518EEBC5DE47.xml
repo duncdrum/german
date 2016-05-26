@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-20C8C8FB-0DBB-427F-98A4-518EEBC5DE47">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-20C8C8FB-0DBB-427F-98A4-518EEBC5DE47">
     <titleInfo lang="chi" script="Hant">
         <title>英國印花稅章程</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yingguo yinhuashui zhangcheng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 170</note>
     <abstract lang="chi" type="summary">英國印花稅章程一卷續編一卷 江南商務報本 沈鑑譯，楊葆寅輯，全書計一百二十二章，附表若干，於印花稅辦法無微不詳， 可與時務報譯，法國印花章程參觀，原書訂於西厤一千八百九十年，續編則 增修於一千八百九十一年，凡六章附表於後。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_473</identifier>
 </mods>

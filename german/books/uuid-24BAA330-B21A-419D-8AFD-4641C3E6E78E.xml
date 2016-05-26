@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-24BAA330-B21A-419D-8AFD-4641C3E6E78E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-24BAA330-B21A-419D-8AFD-4641C3E6E78E">
     <titleInfo lang="chi" script="Hant">
         <title>國際公法之主體</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guoji gongfa zhi zhuti</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 90</note>
     <abstract lang="chi" type="summary">國際公法之主體一卷 東亞報本 [日本]角谷大三郎譯，以國家承認他國，不可不加慎重，以免張亂黨之燄，殊有 至理。所言領海、公海以潮退落之時自三海里約縮得之，可為主權所及之地 ，亦係確論。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_168</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4554F0AB-4D1A-4A32-A03F-E047C725BD1E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4554F0AB-4D1A-4A32-A03F-E047C725BD1E">
     <titleInfo lang="chi" script="Hant">
         <title>俄羅斯近狀</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Eluosi jinzhuang</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 57</note>
     <abstract lang="chi" type="summary">俄羅斯近狀一卷 亞東時報本 亞東時報館著，計八章，叙俄人帝系、政治、官制，言甚明晰，亦攷求俄事者不可 不讀之書也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_49</identifier>
 </mods>

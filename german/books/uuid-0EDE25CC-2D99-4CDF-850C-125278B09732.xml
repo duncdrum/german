@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0EDE25CC-2D99-4CDF-850C-125278B09732">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0EDE25CC-2D99-4CDF-850C-125278B09732">
     <titleInfo lang="chi" script="Hant">
         <title>航海簡法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hanghai jian fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,船政第十,行船事宜,p 173</note>
     <abstract lang="chi" type="summary">航海簡法三卷行海表一卷 製造局本二冊　西學大成本 [英]那麗著，[美]金楷理譯，王德均述，西人於海面行船攷求日精沙線，風濤之外 尤以講究經緯度為最，要此書即於行船若何依距經緯度之法，悉心推測，著 之於篇而言求其簡，俾航海者易於尋覽。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_485</identifier>
 </mods>

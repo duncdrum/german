@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F61E6DD5-C947-47C6-86D6-42C3D1FC7C4C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F61E6DD5-C947-47C6-86D6-42C3D1FC7C4C">
     <titleInfo lang="chi" script="Hant">
         <title>日本警察新法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben jingcha xinfa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 76</note>
     <abstract lang="chi" type="summary">日本警察新法　卷 上海善鄰譯書館本一冊 [日本]官書，凡衛生保民之道，有關警察事務者，備著於篇。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_117</identifier>
 </mods>

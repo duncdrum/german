@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0967AD14-E56D-4AB9-9F85-2928A0B22CFC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0967AD14-E56D-4AB9-9F85-2928A0B22CFC">
     <titleInfo lang="chi" script="Hant">
         <title>列國陸軍制</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lieguo lujun zhi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 100</note>
     <abstract lang="chi" type="summary">列國陸軍制三卷 製造局本三冊　富強叢書本　軍政全書本 [美]歐發登著，[美]林樂知，瞿昂來同譯，所載自日本、俄、英、法、德、奧、意、印度、波斯九 國一千八百六十年後所設之兵額。作者美人，故美國兵制從缺，日本自國變 後借材法國，更定軍制新章，卒成強國。印度、波斯兵事頽廢，遂起各國干與之 漸，其後印度卒滅於英；波斯屈於英俄，未能自振，其亡也可立而待。作者首日 本，終波斯，殆所以諷中國也。 製造局印有英傅蘭雅譯，西國兵制源流，未出；實學報館印有法愛乃培撰，朱樹人譯，歐洲防務志二十卷圖一卷，未成；時務報館譯出有西國陸軍制攷略，亦未印。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_197</identifier>
 </mods>

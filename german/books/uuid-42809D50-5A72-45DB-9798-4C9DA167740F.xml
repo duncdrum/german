@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-42809D50-5A72-45DB-9798-4C9DA167740F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-42809D50-5A72-45DB-9798-4C9DA167740F">
     <titleInfo lang="chi" script="Hant">
         <title>新式工程機器圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xinshi gongcheng jiqi tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 151</note>
     <abstract lang="chi" type="summary">新式工程機器圖說一卷 格致彙編本 [英]傅蘭雅輯譯，皆採各國報章所載，近時新出機器擇要載之，為圖十二。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_391</identifier>
 </mods>

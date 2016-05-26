@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-3253D2C2-4FDE-450C-B6B0-9AE6A48979DA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3253D2C2-4FDE-450C-B6B0-9AE6A48979DA">
     <titleInfo lang="chi" script="Hant">
         <title>開闢美洲閣龍航海家獨列幾合傳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kai pi Meizhou ge long hanghaijia du lie ji hezhuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 69</note>
     <abstract lang="chi" type="summary">開闢美洲閣龍航海家獨列幾合傳一卷 東亞書局本一冊 [日本]橋本海關譯，上卷為閣龍傳，下卷為獨列幾傳，一闢美洲成合衆之局，一 週全球開航海之業，實為古今罕有之奇人，惜傳中所載未能詳其功業，閣龍 即科侖布，彙編四有傳，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_91</identifier>
 </mods>

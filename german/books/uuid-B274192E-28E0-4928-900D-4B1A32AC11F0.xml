@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B274192E-28E0-4928-900D-4B1A32AC11F0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B274192E-28E0-4928-900D-4B1A32AC11F0">
     <titleInfo lang="chi" script="Hant">
         <title>天文啟蒙</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tianwen qimeng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,天學第十九,p 215</note>
     <abstract lang="chi" type="summary">天文啟蒙七卷首一卷 西學啟蒙本一冊 [英]艾約瑟著，論地球日月星行動之真迹，次論方位次論推測專取淺顯之理 以罕譬之，詳於駱書而課蒙尤便。彙編四有英羅亨利譯潮汐致日漸長論，又 七有答日距地遠近論，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_630</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-CF462F64-47E3-4DD3-B68D-86029E3A21EA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CF462F64-47E3-4DD3-B68D-86029E3A21EA">
     <titleInfo lang="chi" script="Hant">
         <title>測候叢談</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Cehou congtan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,天學第十九,p 218</note>
     <abstract lang="chi" type="summary">測候叢談四卷 製造局本二冊　富強叢書本 [美]金楷理譯，華蘅芳述，測候之學須用兩法，或誌其大端推驗其變，或細推瑣 屑之，故有所見，按年月日紀之。是書專究天氣變化、地面熱度諸理，復及纖細 之故，以徵其信。篇中間列圖表皆極詳明。彙編一有艾約瑟測月新論，可參觀。 益智書會印有[ ]費理飭測候易知，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_640</identifier>
 </mods>

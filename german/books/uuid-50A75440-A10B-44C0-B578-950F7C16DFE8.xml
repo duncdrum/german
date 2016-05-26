@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-50A75440-A10B-44C0-B578-950F7C16DFE8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-50A75440-A10B-44C0-B578-950F7C16DFE8">
     <titleInfo lang="chi" script="Hant">
         <title>婦嬰新說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu-ying xin shuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 244</note>
     <abstract lang="chi" type="summary">婦嬰新說一卷 惠愛醫舘刊本一冊 [英]合信著，西醫於外症尤擅長，其治難產必能補中醫所不及，惜於各種外治， 置而未錄。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_744</identifier>
 </mods>

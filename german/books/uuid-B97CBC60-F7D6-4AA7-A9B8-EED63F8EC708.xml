@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B97CBC60-F7D6-4AA7-A9B8-EED63F8EC708">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B97CBC60-F7D6-4AA7-A9B8-EED63F8EC708">
     <titleInfo lang="chi" script="Hant">
         <title>落葉松栽培法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Luoyesong zaipei fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 133</note>
     <abstract lang="chi" type="summary">落葉松栽培法　卷 農學報本 [日本]高見澤著，林壬譯，書分七章。其造林一章所言尤有至理。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_321</identifier>
 </mods>

@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-BBBE01CC-2916-4C2C-9D4E-1DB94C02DCD4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BBBE01CC-2916-4C2C-9D4E-1DB94C02DCD4">
     <name type="personal">
         <namePart lang="chi" script="Hant">新井朗吉、行野德次郎、伊原真次郎、望月久</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xin jing lang ji, xing ye de ci lang, yi yuan zhen ci lang, wangyue jiu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>高等小學 作文</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaodeng xiaoxue zuowen</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1040</note>
     <note type="price">一圓二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_6185</identifier>
 </mods>

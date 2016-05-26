@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-45CF7725-2917-4764-9BA3-5BFA591E7D7B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-45CF7725-2917-4764-9BA3-5BFA591E7D7B">
     <titleInfo lang="chi" script="Hant">
         <title>防海新論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fang hai xin lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 104</note>
     <abstract lang="chi" type="summary">防海新論十八卷 製造局本六冊　富強叢書本改名，南北花旂戰記。 [布]希理哈著，[英]傅蘭雅譯，華蘅芳述，專記南北花旗交戰水路攻守情形。大抵 綴輯文報，而希氏復有所論斷也。書中將所得新理新法一一指出門徑，而藏 伏水雷之法論之獨詳，末於燈光照海之法，尤為致意。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_211</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-CB059DBD-8E78-48F6-A1CA-9C5385FFFC02">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CB059DBD-8E78-48F6-A1CA-9C5385FFFC02">
     <titleInfo lang="chi" script="Hant">
         <title>古教彙參</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gu jiao hui can</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,宗教第二十七,p 264</note>
     <abstract lang="chi" type="summary">古教彙參三卷 益智書會本三冊 [英]韋廉臣著，董樹棠述專述埃及、巴比倫、叙利亞、希臘各教及印度之婆羅門 惜多闕略，未能詳盡，譯筆亦劣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_821</identifier>
 </mods>

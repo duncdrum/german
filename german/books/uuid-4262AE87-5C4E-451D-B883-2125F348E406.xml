@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4262AE87-5C4E-451D-B883-2125F348E406">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4262AE87-5C4E-451D-B883-2125F348E406">
     <titleInfo lang="chi" script="Hant">
         <title>繪地法原</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hui de fa yuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,圖學第二十四,測繪,p 255</note>
     <abstract lang="chi" type="summary">繪地法原一冊附圖 製造局本　西學大成本 英國原書，[美]金楷理譯，王德均述，為章十有二，為圖十有二，為表五，又附以經 緯圓方等圖，繪地必準諸天，故此書先言測定經緯，攷求朔望交食，以準地體 ，後論繪畫，分總平圓諸圖及畫圖諸法，讀此書不特詳於繪地之理，而天學亦 可稍得崖略。彙編二有論測繪器具，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_787</identifier>
 </mods>

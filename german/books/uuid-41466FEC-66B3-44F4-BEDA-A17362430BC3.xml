@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-41466FEC-66B3-44F4-BEDA-A17362430BC3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-41466FEC-66B3-44F4-BEDA-A17362430BC3">
     <titleInfo lang="chi" script="Hant">
         <title>氣學器</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qi xue qi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,氣學第十八,器具,p 214</note>
     <abstract lang="chi" type="summary">氣學器一卷 格致彙編本在格致釋器中 [英]傅蘭雅著，氣學器以抽氣為主，已於化學器內擇常用者論之，此皆化學器 內，未經列入之氣學器。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_627</identifier>
 </mods>

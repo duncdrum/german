@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4F033995-3CA3-4E51-8EEB-88A9D640299E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4F033995-3CA3-4E51-8EEB-88A9D640299E">
     <titleInfo lang="chi" script="Hant">
         <title>免暈船嘔吐說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mian yunchuan outu shuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 253</note>
     <abstract lang="chi" type="summary">免暈船嘔吐說一卷 格致彙編本 [美]巴次著，[英]傅蘭雅譯，巴氏久在輪船行醫，考悉暈船之根源與治法，雖依其 法未能全免，然十驗八九。彙編本僅摘其大要，原書未見。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_782</identifier>
 </mods>

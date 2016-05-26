@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-44FA8A5D-2842-4CC1-BAF0-CA54C7D248E3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-44FA8A5D-2842-4CC1-BAF0-CA54C7D248E3">
     <name type="personal">
         <namePart lang="chi" script="Hant">東京府教育會編　西川春洞書</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Dongjing fu jiaoyuhui bian　Xichuan chun dong shu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>小學習字帖 文部省檢定濟</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue xizitie wenbu sheng jianding ji</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1019</note>
     <note type="price">八角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_5912</identifier>
 </mods>

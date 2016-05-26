@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C8A78FBD-3BC4-440F-81C4-719FA601703C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C8A78FBD-3BC4-440F-81C4-719FA601703C">
     <titleInfo lang="chi" script="Hant">
         <title>幾何原本</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jihe yuanben</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 184</note>
     <abstract lang="chi" type="summary">幾何原本舊譯六卷新譯九卷共十五卷 萬厤辛亥再校本　天學初函二編本　製造局依數理精蘊排印本三冊　海山仙館叢書本，以上皆刊刻前六卷　咸豐七年韓應陛刻本，祇後九卷　金陵興則古昔齋算學重學三種合刻本，共二十冊　上海石印本以上皆十五卷　中西算學大成本十七卷 [希利足]歐几里得著，前六卷[意大利]利瑪竇口譯，明徐光啟筆受，後九卷[英]偉 烈亞力口譯，李善蘭筆受，前四卷論綫與面，五卷論比例六卷論面與比例相 合，七八九卷論數，十卷論無比例之幾何，十一卷至末卷俱論體，而十三卷論 中末線之用，其十四、十五卷申言等面五體首例，與薄大古書則後人所續也。 每款先列界說，每題有法有解，有論有系，言理不言術，言象不言數，非心思細 密者不可讀。狄攷文謂將當時算學幾盡載，其中又謂七、八、九、十四卷各國多 不譯，偉烈君譯各國所不屑，譯者不過為好奇者所樂觀，其語未免過當要之 ，此四卷於幾何中最精奧，故李壬叔亦云各國俗本多掣去之，製造局六卷本 有異同，金陵局本第十卷分上中下，中西算學大成本析而為三，故有十七卷。 益智書會印有美狄攷文幾何初基；時務報館譯有幾何快讀；英華里司輯英傅蘭雅、華蘅芳有代數幾何，均未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_527</identifier>
 </mods>

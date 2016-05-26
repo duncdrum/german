@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FC45A90C-585C-4AFD-A408-4838AA19AF87">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FC45A90C-585C-4AFD-A408-4838AA19AF87">
     <titleInfo lang="chi" script="Hant">
         <title>算器圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Suanqi tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,算器,p 194</note>
     <abstract lang="chi" type="summary">算器圖說一卷 格致彙編本 [英]傅蘭雅輯，論當時最靈巧算器之制度與用法，乃法人多馬所創製，僅一篇。 新式算器圖說一卷 格致彙編本 [英]傅蘭雅輯譯，論新式算器，一為美國斐拉得他倫廠所造算器，一為美國加 法算器，書僅一篇，其用法價值均詳列。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_553</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8FD5A82E-FE7B-4811-A469-E154647F9839">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8FD5A82E-FE7B-4811-A469-E154647F9839">
     <titleInfo lang="chi" script="Hant">
         <title>德國軍制述要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Deguo junzhi shu yao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 100</note>
     <abstract lang="chi" type="summary">德國軍制述要一卷 金陵刻本一冊　西政叢書本　光緒乙未刊本 [德]來春石泰著，沈敦和、[德]錫樂巴同譯，書中言陸軍十有九，言海軍一，此來氏 在江甯充洋操教習時所述，意有專注，故詳陸略水，但言軍制而訓練戰陣之 法，皆不及自沈仲禮觀察，成自強軍西法類編，後此書可不讀也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_198</identifier>
 </mods>

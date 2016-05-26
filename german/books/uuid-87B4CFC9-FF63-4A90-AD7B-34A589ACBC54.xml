@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-87B4CFC9-FF63-4A90-AD7B-34A589ACBC54">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-87B4CFC9-FF63-4A90-AD7B-34A589ACBC54">
     <titleInfo lang="chi" script="Hant">
         <title>光學揭要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guangxue jie yao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,光學第十七,光學,p 209</note>
     <abstract lang="chi" type="summary">光學揭要二卷 益智書會本一冊　登州文會館本 [美]赫士譯，朱葆琛述，西人光學新理日出不窮，然大致皆備於此，後附論然根 光即近年所創照骨之法，此書所說，猶未完具。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_605</identifier>
 </mods>

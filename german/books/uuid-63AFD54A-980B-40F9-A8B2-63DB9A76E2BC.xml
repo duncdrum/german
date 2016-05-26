@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-63AFD54A-980B-40F9-A8B2-63DB9A76E2BC">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-63AFD54A-980B-40F9-A8B2-63DB9A76E2BC">
     <titleInfo lang="chi" script="Hant">
         <title>中西教會報廣學會本每月</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong-Xi jiao huibao guang xuehui ben mei yue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 270</note>
     <abstract lang="chi" type="summary">中西教會報 廣學會本每月一冊 [泰西人]教會編輯多載說教之語，極可厭，然亦間有新政、新論。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_848</identifier>
 </mods>

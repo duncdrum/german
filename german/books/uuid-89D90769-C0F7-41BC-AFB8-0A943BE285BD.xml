@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-89D90769-C0F7-41BC-AFB8-0A943BE285BD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-89D90769-C0F7-41BC-AFB8-0A943BE285BD">
     <titleInfo lang="chi" script="Hant">
         <title>聲音學測算</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shengyinxue cesuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,聲學第十六,聲學,p 207</note>
     <abstract lang="chi" type="summary">聲音學測算一卷 同文館附格物測算七種本附氣學測算後 [美]丁韙良著</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_598</identifier>
 </mods>

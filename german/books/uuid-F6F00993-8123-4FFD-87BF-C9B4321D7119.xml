@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-F6F00993-8123-4FFD-87BF-C9B4321D7119">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F6F00993-8123-4FFD-87BF-C9B4321D7119">
     <titleInfo lang="chi" script="Hant">
         <title>代形合參</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dai xing he can</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 188</note>
     <abstract lang="chi" type="summary">代形合參三卷附一卷 美華書館排印本一冊 [美]羅密士著，[美]潘慎文譯，謝洪賚述，是書前二卷即代微積拾級之，前九卷而 條段算式均有增益，後兩卷論空中之點與直綫以及平面曲面，皆以代數三 次式推體積中各事三變數二次公式一章，則以容諸曲綫之變甚為明晰，附 卷以圖顯格致之理又及諸曲綫之用，此書可與方程界綫參看已明，方程界 綫之理者閱此較易，潘序云原書至今屢加增訂，蓋後出之本益臻美備，其微 積兩種必有可觀，惜未譯出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_538</identifier>
 </mods>

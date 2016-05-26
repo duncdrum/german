@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-203F288B-6CFF-4A44-9E22-B9EEBFABAE51">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-203F288B-6CFF-4A44-9E22-B9EEBFABAE51">
     <titleInfo lang="chi" script="Hant">
         <title>農產製造學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongchan zhizao xue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農家雜蓺,p 137</note>
     <abstract lang="chi" type="summary">農產製造學　卷 農學報本 [日本]楠巖編，沈紘譯，以釀酒、製糖為主，其餘凡農學與製造相關者，皆附焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_338</identifier>
 </mods>

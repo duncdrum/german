@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-4DBF668D-1E75-4EDB-8F69-68E0DECB2C21">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4DBF668D-1E75-4EDB-8F69-68E0DECB2C21">
     <titleInfo lang="chi" script="Hant">
         <title>德國文教說畧</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Deguo wenjiao shuo lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 84</note>
     <abstract lang="chi" type="summary">德國文教說畧一卷 嶺學報本 嶺學報館譯，德以文學雄地球，普魯士興，藉其通學慧智之民，而兵之以傾嗹， 撻奧，蹶法，赫然為歐洲望國。間攷德史文教，列表其文學，以撒遜為最，通國不 知書者僅千之七，宜其強矣，此編攷德之鄉校書院頗詳。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_146</identifier>
 </mods>

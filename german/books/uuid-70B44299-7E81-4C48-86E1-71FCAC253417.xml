@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-70B44299-7E81-4C48-86E1-71FCAC253417">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-70B44299-7E81-4C48-86E1-71FCAC253417">
     <titleInfo lang="chi" script="Hant">
         <title>意大利蠶書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yidali can shu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 127</note>
     <abstract lang="chi" type="summary">意大利蠶書一卷 製造局譯本在蠶學叢刻初集內 [意]丹吐魯著，[英]傅蘭雅、傅紹蘭同譯，汪振聲、趙元益述，養蠶之法一不可有病， 二必使足食，三熱度合宜。然各國所設之法惟意最合宜，是書為意國候爵丹 吐魯著，英人譯之以教愛爾蘭島之民者，自飼養之法及民間國家所得利益 無不具載，蠶房蠶具亦詳說之，體貼周密，足以為法。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_292</identifier>
 </mods>

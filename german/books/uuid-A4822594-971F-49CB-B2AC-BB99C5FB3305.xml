@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A4822594-971F-49CB-B2AC-BB99C5FB3305">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A4822594-971F-49CB-B2AC-BB99C5FB3305">
     <titleInfo lang="chi" script="Hant">
         <title>保華新書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bao hua xinshu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 283</note>
     <abstract lang="chi" type="summary">保華新書四冊 廣學會本 [英]貝思福著，[美]林樂知譯，蔡爾康錄，書中力闢畫分方罫之妄談，而以洞闢重 門為歐洲各國自保在華權利之上策，各國誠採用其議，保華之局即寓其中。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_898</identifier>
 </mods>

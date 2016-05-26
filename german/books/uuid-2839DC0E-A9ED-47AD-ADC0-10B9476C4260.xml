@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2839DC0E-A9ED-47AD-ADC0-10B9476C4260">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2839DC0E-A9ED-47AD-ADC0-10B9476C4260">
     <titleInfo lang="chi" script="Hant">
         <title>工商學報</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gongshang xuebao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 276</note>
     <abstract lang="chi" type="summary">工商學報 排印本，設上海。 張德坤等譯，光緒二十四年八月起，每月四冊，不久即停，後附英惠克斐爾撰， 東方商埠攷略一種，論中國各口岸商務，頗足借鑒，惜未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_869</identifier>
 </mods>

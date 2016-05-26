@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A2DBA4CF-871D-47AD-BBCF-AF8DA1009749">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A2DBA4CF-871D-47AD-BBCF-AF8DA1009749">
     <titleInfo lang="chi" script="Hant">
         <title>染色法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ranse fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 161</note>
     <abstract lang="chi" type="summary">染色法一卷 工蓺叢書本一冊 [日本]伊達道太郎、小泉榮次郎合著，沈紘譯，言布帛絲絨毛革等物染色之法， 後有攝列華三氏騐溫度比較表，又波梅德華特魯二氏度數及比重比較表， 凡講求各蓺學皆便繙檢，除污跡各法亦附載之，原名染色法一覽。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_440</identifier>
 </mods>

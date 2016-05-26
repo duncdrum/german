@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-DEFB93CC-1D5B-4A8B-8C02-494FBC1D5D3B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DEFB93CC-1D5B-4A8B-8C02-494FBC1D5D3B">
     <titleInfo lang="chi" script="Hant">
         <title>中國防海編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong guofang hai bian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 106</note>
     <abstract lang="chi" type="summary">中國防海編一卷 亞東時報本 [德]窩克湼爾著，[日本]晴獵兩讀園主人譯，專言扼守順天、天津當以築連系堡 為第一要義，其築鐵路、練海軍、經營膠州灣諸論頗有至理。斯書作於光緒十 七年，呈諸使德 大 太 臣李君鳳苞，亞東時報譯之於二十五年五月，使當局者能 採用之，何至有西兵之入踞哉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_217</identifier>
 </mods>

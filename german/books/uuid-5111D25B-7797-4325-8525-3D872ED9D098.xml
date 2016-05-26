@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5111D25B-7797-4325-8525-3D872ED9D098">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5111D25B-7797-4325-8525-3D872ED9D098">
     <titleInfo lang="chi" script="Hant">
         <title>光學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guangxue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,光學第十七,光學,p 209</note>
     <abstract lang="chi" type="summary">光學二卷附視學諸器說一卷 製造局本三冊　西學大成本　石印本名光學大成　富強叢書本 [英]田大里、西里門同輯著，[美]金楷理譯，趙元益述，論諸光之理已得其大較其 辨別日、月、恒星、虹蜺之光氣，近譯天學書中所言較密，蓋新製之器愈精，其功 用愈大。田氏所著論聲學凹凸之質力及速率，足與是書互證其理。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_608</identifier>
 </mods>

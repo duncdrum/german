@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EE66F77C-E7A5-493E-8612-6983C82C295C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EE66F77C-E7A5-493E-8612-6983C82C295C">
     <titleInfo lang="chi" script="Hant">
         <title>長生術</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Changsheng shu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,雜著第三十一,小說,p 290</note>
     <abstract lang="chi" type="summary">長生術一卷 時務報本 [英]解佳著，曾廣銓譯，叙述中亞非利加洲荒古蠻野之形狀，託言親身遊厯，所 述文情離奇怪誕，頗堪悅目。 東亞書局譯有長命術、催眠術，均未出；昌言報印有美勞立志撰，曾廣銓譯，西伯利亞避虐記，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_926</identifier>
 </mods>

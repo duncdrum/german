@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-80EE5C81-4BA1-4163-8A5D-302369174C59">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80EE5C81-4BA1-4163-8A5D-302369174C59">
     <titleInfo lang="chi" script="Hant">
         <title>擬請中國嚴整武備說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Niqing Zhongguo yanzheng wubei shuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,議論第三十,論兵,p 287</note>
     <abstract lang="chi" type="summary">擬請中國嚴整武備說一卷 格致彙編本 [德]瑞乃爾著，瑞君於同治九年來中國為登榮水師教習。是編所列凡八章，計 二十條，厯言德國武備之精及兵額，以冀中國更改其制，惜當時未嘗信從之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_910</identifier>
 </mods>

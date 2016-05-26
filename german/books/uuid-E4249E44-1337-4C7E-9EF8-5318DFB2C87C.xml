@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-E4249E44-1337-4C7E-9EF8-5318DFB2C87C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E4249E44-1337-4C7E-9EF8-5318DFB2C87C">
     <titleInfo lang="chi" script="Hant">
         <title>戰術學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhanshuxue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 99</note>
     <abstract lang="chi" type="summary">戰術學三卷 南洋公學本四冊 [日本]士官學校原本，南洋公學譯書院譯。是書為日本士官學校教將之書，採 取諸家兵學分類編輯，屢經增訂始於明治二十年，凡九年而後成，為篇十三 為圖五十有二。首篇論用兵要旨，二三四篇論長短兵之用與步騎礮工諸兵 戰術聯合諸法，五篇論命令報知，六篇論警戒偵探通法，七篇論行軍，八篇論 駐軍，九十兩篇論警弁、偵探，則詳六篇之條目也。十一篇以下皆戰門之法，總 其所論蓋多身在行間閱歷，有得之言，故慮遠思周，非紙上談兵者比。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_196</identifier>
 </mods>

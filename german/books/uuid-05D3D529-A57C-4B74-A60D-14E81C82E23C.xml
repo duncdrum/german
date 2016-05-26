@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-05D3D529-A57C-4B74-A60D-14E81C82E23C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-05D3D529-A57C-4B74-A60D-14E81C82E23C">
     <titleInfo lang="chi" script="Hant">
         <title>礦石圖說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kuangshi tushuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 140</note>
     <abstract lang="chi" type="summary">礦石圖說一卷 益智書會本一冊 [英]傅蘭雅譯，但言純整之礦石，而不及汽水土石各類，並有大圖一幅，繪各沙 石之形色，儼然逼真，習礦學者宜先觀此種書，大有稗益。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_349</identifier>
 </mods>

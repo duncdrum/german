@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-D1C9405F-7091-4840-BAB0-5034894DF47F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D1C9405F-7091-4840-BAB0-5034894DF47F">
     <titleInfo lang="chi" script="Hant">
         <title>萬國公報廣學會本每月</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wanguo gongbao guang xuehui ben mei yue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 270</note>
     <abstract lang="chi" type="summary">萬國公報 廣學會本每月一冊 [泰西人]教會編輯報，創自癸未、甲申間，後因事中止，至己丑復延林樂知主筆， 踵而行之，甲午以後又延蔡爾康筆述。報中所採多教士議論時事之作，而中 西重大新政悉具於中，惜文筆未佳，每冊首載有言教之說，為可厭。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_847</identifier>
 </mods>

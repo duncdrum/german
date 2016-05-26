@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-49BDD6EA-AEC6-41C6-A061-E7C628F496C1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-49BDD6EA-AEC6-41C6-A061-E7C628F496C1">
     <titleInfo lang="chi" script="Hant">
         <title>割症全書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ge zheng quanshu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,醫學第二十三,外科,p 246</note>
     <abstract lang="chi" type="summary">割症全書七卷 博濟醫局刻本七冊 [美]嘉約翰譯，首論炎症之理，後於剖割之法與夫器具藥方，言之詳密，足以補 中醫所未備，軍中採用其法，最有效，然不可不講求手法也。前刻本祇一冊未 備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_758</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-05D1FEE0-F45F-44C6-B3AD-7885775C3B40">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-05D1FEE0-F45F-44C6-B3AD-7885775C3B40">
     <titleInfo lang="chi" script="Hant">
         <title>農產物分析表</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongchanwu fenxi biao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 119</note>
     <abstract lang="chi" type="summary">農產物分析表一卷 農學報本 [日本]恒藤規隆著，[日本]藤田豐八譯，專辨動植物類所合之質列表分析，足以 知何物所含何質為多，於人身有益與否，一展卷即瞭然矣。講衛生學者不可 不讀。 農學報印有日本楠原正三著，日本古城貞吉譯，米麥篇二卷，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_264</identifier>
 </mods>

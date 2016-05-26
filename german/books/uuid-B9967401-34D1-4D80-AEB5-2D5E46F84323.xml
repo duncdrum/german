@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B9967401-34D1-4D80-AEB5-2D5E46F84323">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B9967401-34D1-4D80-AEB5-2D5E46F84323">
     <titleInfo lang="chi" script="Hant">
         <title>稅歛要例</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shui han yao li</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 169</note>
     <abstract lang="chi" type="summary">稅歛要例一卷 廣學會本一冊 [美]卜舫濟著，汲汲為中國籌稅歛之法，取各國重歛公例與中國相較，見中外 待民之仁苛相去不可以道里計，中論烟寮、酒肆等遊戲之地，設票收捐，隱寓 禁止之法，中國未嘗不可仿而行之也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_472</identifier>
 </mods>

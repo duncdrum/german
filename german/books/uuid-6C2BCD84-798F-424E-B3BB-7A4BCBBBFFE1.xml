@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-6C2BCD84-798F-424E-B3BB-7A4BCBBBFFE1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C2BCD84-798F-424E-B3BB-7A4BCBBBFFE1">
     <titleInfo lang="chi" script="Hant">
         <title>克虜伯礮操法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ke lu bo bao caofa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 112</note>
     <abstract lang="chi" type="summary">克虜伯礮操法四卷附表八卷 製造局本二冊　富強叢書本 [布]軍政局原書，[美]金楷理譯，李鳳苞述，記操演法可謂周備，表記礮彈大小、遠 近、遲速，專為取準之用，亦甚精善，然在教演者，神明其用耳。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_240</identifier>
 </mods>

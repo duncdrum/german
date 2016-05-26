@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5F31A810-919D-49D1-A74E-2E644E1927E7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5F31A810-919D-49D1-A74E-2E644E1927E7">
     <titleInfo lang="chi" script="Hant">
         <title>鍊石編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lian shi bian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 154</note>
     <abstract lang="chi" type="summary">鍊石編三卷圖一卷 製造局本二冊　富強叢書本 [英]亨利黎特著，舒高第、鄭昌棪同譯，專論製造塞門德土之法，中論地學金石 及煤層石灰石，可與地質學書參證。彙編四有徐建寅論造石灰法，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_402</identifier>
 </mods>

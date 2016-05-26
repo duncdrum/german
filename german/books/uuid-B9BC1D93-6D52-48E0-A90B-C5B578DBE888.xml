@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B9BC1D93-6D52-48E0-A90B-C5B578DBE888">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B9BC1D93-6D52-48E0-A90B-C5B578DBE888">
     <titleInfo lang="chi" script="Hant">
         <title>海上權力要素論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Haishang quanli yaosu lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 105</note>
     <abstract lang="chi" type="summary">海上權力要素論一卷 亞東時報本 [美]馬鴻著，[日本]劍潭釣徒譯，此書成於一千八百八十九年當時北美怡熙為 風海軍衰替，故為大言以激勸國民，其後十年有古巴之役，美國政略情形一 變，海軍推擴之議興，蓋馬鴻與有力焉。原書所謂一安穩口岸，即古巴三查左 之謂，當時該島國屬於西班牙，不便明言，故迷離其詞，俾讀者暗知其意之所 在，美覬覦二島蓋濫觴於此。迨至一千八百九十八年藉救民而行其雄略，馬 鴻之志始酬矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_215</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-37F1E8FB-E4A8-4A33-9FFA-444AC57ED88F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-37F1E8FB-E4A8-4A33-9FFA-444AC57ED88F">
     <titleInfo lang="chi" script="Hant">
         <title>山藍新說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shan lan xin shuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 133</note>
     <abstract lang="chi" type="summary">山藍新說　卷 農學報本 [日本]掘內良平編，林壬譯，藍為染料使用最多，日本所產，凡二種，曰蓼藍、曰山 藍，初不知山藍之適用，嗣經研究成蹟頗優。斯編所叙述不僅山藍栽培法，且 及製靛法及染色一班焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_320</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-FA5EDC64-2D34-4B5F-8F31-BD0FAF91F6DD">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FA5EDC64-2D34-4B5F-8F31-BD0FAF91F6DD">
     <titleInfo lang="chi" script="Hant">
         <title>國政貿易相關書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guo zheng maoyi xiangguan shu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 163</note>
     <abstract lang="chi" type="summary">國政貿易相關書二卷 製造局本二冊　光緒戊戌上海石印本 [英]法拉著，[英]傅蘭雅譯，徐家寶述，英以商立國，故貿易之事竭意講求，如定律 法均稅，則擴輪路，開河道，限金銀之價，創郵運之局，定利息之界，立專利之期， 設公司之例，議保險之法，凡國政職分所當為者無微不至。是貿易者實為英 國開闢植民之長策，書中所設各法，於保護貿易之事無不具載大旨，以衆人 能自主為根本，然因地制宜在管理者隨時更變，同時英人直文思作國政與 各工相關書，惜尚無譯本。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_445</identifier>
 </mods>

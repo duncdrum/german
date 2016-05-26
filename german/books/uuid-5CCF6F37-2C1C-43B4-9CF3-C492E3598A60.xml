@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5CCF6F37-2C1C-43B4-9CF3-C492E3598A60">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5CCF6F37-2C1C-43B4-9CF3-C492E3598A60">
     <titleInfo lang="chi" script="Hant">
         <title>中等教育日本歷史</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhongdeng jiaoyu Riben lishi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,編年,p 45</note>
     <abstract lang="chi" type="summary">中等教育日本歷史二卷 教育世界社本 [日本]萩野由之著，劉大猷譯，上卷四編曰總論、曰太古史、曰上古史、曰中古史； 下卷三編曰近古史、曰近世史、曰今代史，前附歷代表略及皇室執政系畧譜， 略後附諸國封建沿革略，是書為日本中等教育課本，略如紀事本末體，於建 國之體制，皇代之系統，相門將門之更擅，忠烈賢哲之精誠以及今世國政變 革，文明進步分章立題，首尾完具，足為歷史學善本。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_13</identifier>
 </mods>

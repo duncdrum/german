@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0ED1750A-3223-4A6E-A40C-4EABACBDBEAF">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0ED1750A-3223-4A6E-A40C-4EABACBDBEAF">
     <titleInfo lang="chi" script="Hant">
         <title>脫影奇觀</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tuo ying qiguan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 160</note>
     <abstract lang="chi" type="summary">脫影奇觀三卷續編一冊 北京醫院刻本五冊　中西聞見錄本摘刻未全。 [英]德貞著，此書所言即燈影鏡套大之法，然近來於脫影一事法更加密，放大 照像有用電光以攝影者，可為奇妙。書中所論尚屬舊法。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_435</identifier>
 </mods>

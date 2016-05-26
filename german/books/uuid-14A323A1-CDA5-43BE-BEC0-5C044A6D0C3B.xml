@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-14A323A1-CDA5-43BE-BEC0-5C044A6D0C3B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-14A323A1-CDA5-43BE-BEC0-5C044A6D0C3B">
     <titleInfo lang="chi" script="Hant">
         <title>重學器</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong xue qi</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,重學第十三,重學器,p 198</note>
     <abstract lang="chi" type="summary">重學器一卷 格致彙綿本在格致釋器中 [英]傅蘭雅著，專述器具，首助力器，次桿、次滑車、次斜面、次輪軸、次螺絲、次論重 心、次論離心力，共分六十圖，以明之。學者按圖作器，悉心試驗，自能究其妙理。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_562</identifier>
 </mods>

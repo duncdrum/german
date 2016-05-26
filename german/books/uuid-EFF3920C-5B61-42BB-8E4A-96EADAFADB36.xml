@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EFF3920C-5B61-42BB-8E4A-96EADAFADB36">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EFF3920C-5B61-42BB-8E4A-96EADAFADB36">
     <titleInfo lang="chi" script="Hant">
         <title>家菌長養法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jia jun chang yang fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 131</note>
     <abstract lang="chi" type="summary">家菌長養法一卷 農學報本 [美]威廉母和爾康尼著，陳壽彭譯，此書一千八百九十七年美國農學會所刊 菌之種法甚易，即無田小農亦可於隙地施種。和氏此書採諸法簡便者，陳君 復取他書為之補注，補圖益縝密矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_310</identifier>
 </mods>

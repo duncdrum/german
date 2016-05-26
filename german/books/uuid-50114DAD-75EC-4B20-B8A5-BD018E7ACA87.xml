@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-50114DAD-75EC-4B20-B8A5-BD018E7ACA87">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-50114DAD-75EC-4B20-B8A5-BD018E7ACA87">
     <titleInfo lang="chi" script="Hant">
         <title>光學入門</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guangxue rumen</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,光學第十七,光學,p 209</note>
     <abstract lang="chi" type="summary">光學入門一卷 格物入門七種本 [美]丁韙良譯，一論光性、二論回光、三論折光、四論視理、五論光色、六論器。所述 諸說皆透發妙理，雖近來新理日出，其大要已不外此。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_606</identifier>
 </mods>

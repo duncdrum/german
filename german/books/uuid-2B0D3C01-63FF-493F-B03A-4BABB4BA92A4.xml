@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2B0D3C01-63FF-493F-B03A-4BABB4BA92A4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2B0D3C01-63FF-493F-B03A-4BABB4BA92A4">
     <titleInfo lang="chi" script="Hant">
         <title>格致啟蒙</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gezhi qimeng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,格致總第十一,p 177</note>
     <abstract lang="chi" type="summary">格致啟蒙一卷 製造局刻格致啟蒙四種本　上海石印四種本 [英]司郁藿著，[美]林樂知譯，鄭昌棪述，凡九十章，專言動力、愛力、吸力、漲力、縮力、 傳力、壓力、速力及流定變化之性，最便初學。 格致益聞滙報印有法白耳脫保羅撰，王顯理譯，格致初桄，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_495</identifier>
 </mods>

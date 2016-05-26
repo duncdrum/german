@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C00E90E4-34E6-4A2E-B730-7F3AA9806F2C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C00E90E4-34E6-4A2E-B730-7F3AA9806F2C">
     <titleInfo lang="chi" script="Hant">
         <title>西國名菜佳花論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi guo mingcai jia hua lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,動植物學第二十二,植物學,p 237</note>
     <abstract lang="chi" type="summary">西國名菜佳花論二卷 格致彙編本一冊 [英]傅蘭雅著，是書分兩類，一為常菜類、一為常花類。傅氏見英國塞敦行中牌 印甚多，取其五十餘方編為是書，詳加考譯，以為植物富民之助，前日本橫演 農政學堂每年採辨花草，以資攷究，亦此意也。閱卷內似尚擬續譯，惜未踵事。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_720</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-03A70D0C-087F-4E47-984B-A99B9BB6A000">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-03A70D0C-087F-4E47-984B-A99B9BB6A000">
     <titleInfo lang="chi" script="Hant">
         <title>教育學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiaoyuxue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 83</note>
     <abstract lang="chi" type="summary">教育學一卷 教育世界本 [日本]立花銳三郎講述，王國維譯。是書分為三編，第一編曰教育之精神，分宗 旨、方便、方法三章；第二編曰教育之原質，分體育、智育及實際教育三章；第三 編曰教育之組織，分教育、訓練、教授三章。作者自言以德國教育學家留額氏 所著書為本，其所未盡以己意補之，智育一章最詳，皆以心理學說明之，讀者 可以證我國舊日專制強灌之非法矣。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_142</identifier>
 </mods>

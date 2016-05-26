@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-906A0767-03E9-400A-A40F-34595A6099A3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-906A0767-03E9-400A-A40F-34595A6099A3">
     <name type="personal">
         <namePart lang="chi" script="Hant">吉田賢輔、岡村增太郎編述</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ji tian xian fu, gang cun zeng tai lang bianshu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>初學讀本入門掛圖 小學校用</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chuxue duben rumen guatu xiaoxuexiao yong</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,小學讀本掛圖,p 937</note>
     <note type="price">二圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4812</identifier>
 </mods>

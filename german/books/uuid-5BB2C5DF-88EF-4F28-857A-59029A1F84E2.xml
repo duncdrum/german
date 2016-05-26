@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5BB2C5DF-88EF-4F28-857A-59029A1F84E2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5BB2C5DF-88EF-4F28-857A-59029A1F84E2">
     <titleInfo lang="chi" script="Hant">
         <title>俾思麥傳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bi si mai chuan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 66</note>
     <abstract lang="chi" type="summary">俾思麥傳一卷 知新報本 知新報館譯，言俾思麥治德事綦詳，可資攷證；集成報有俾思麥小傳一篇，可 參觀。 勵學譯編館新譯，有俾士麥傳未刊。　[顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_82</identifier>
 </mods>

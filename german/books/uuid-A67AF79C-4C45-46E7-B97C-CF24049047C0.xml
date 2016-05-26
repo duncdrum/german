@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A67AF79C-4C45-46E7-B97C-CF24049047C0">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A67AF79C-4C45-46E7-B97C-CF24049047C0">
     <name type="personal">
         <namePart lang="chi" script="Hant">蓮二坊遺稿　渡邊部狂進注</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lian er fang yigao　du bian bu kuang jin zhu</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>《俳諧叢書》 本朝文鑑</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>«Paixie congshu» benchao wen jian</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十一,文學門,俳書及俳諧集,p 987</note>
     <note type="price">三角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_5449</identifier>
 </mods>

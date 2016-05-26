@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C3EEFCE2-573F-4C77-A3A6-7A5D6163F775">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C3EEFCE2-573F-4C77-A3A6-7A5D6163F775">
     <titleInfo lang="chi" script="Hant">
         <title>求是報</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiu shi bao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 273</note>
     <abstract lang="chi" type="summary">求是報 排印本設上海 陳季同、曾仰東、陳壽彭等輯譯，內編目三，曰交涉、曰時事、曰附錄；外編目五，曰 西報、曰西律、曰製造、曰格致、曰泰西稗編。所採多法國書報中，以所譯拿布侖 律為最佳，自光緒二十三年九月起，每月三冊，旋截止，所譯均未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_859</identifier>
 </mods>

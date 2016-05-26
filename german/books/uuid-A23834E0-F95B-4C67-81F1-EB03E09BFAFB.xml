@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-A23834E0-F95B-4C67-81F1-EB03E09BFAFB">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A23834E0-F95B-4C67-81F1-EB03E09BFAFB">
     <titleInfo lang="chi" script="Hant">
         <title>西國造橋論略</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi guo zaoqiao lun lüe</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 145</note>
     <abstract lang="chi" type="summary">西國造橋論略一卷 格致彙編本 [英]傅蘭雅輯譯，採拾各國造成之橋，而總言鐵與磚石之利弊，後附潮水論，蓋 自美國格致報錄出，言潮水漲落，以證每日地球之動，其說有據而可信。 求是報印有法德勃首撰，曾仰東譯，建造橋路工程書，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_369</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-11C37A93-6127-453F-AABC-9A5931481D7B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-11C37A93-6127-453F-AABC-9A5931481D7B">
     <titleInfo lang="chi" script="Hant">
         <title>牛乳新書</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Niuru xinshu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,畜牧,p 135</note>
     <abstract lang="chi" type="summary">牛乳新書二卷 農學報本 [日本]河相大三述，沈紘譯，上卷言擇牛種類察乳之優劣多少，下卷言製乳之 法。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_329</identifier>
 </mods>

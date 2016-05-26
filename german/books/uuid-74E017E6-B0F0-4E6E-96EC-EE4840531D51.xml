@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-74E017E6-B0F0-4E6E-96EC-EE4840531D51">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-74E017E6-B0F0-4E6E-96EC-EE4840531D51">
     <titleInfo lang="chi" script="Hant">
         <title>井礦工程</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jing kuang gongcheng</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 141</note>
     <abstract lang="chi" type="summary">井礦工程三卷 製造局本二冊　礦務叢刻本　礦務五種本　富強叢書本　西學大成本 [英]白爾捺輯，[英]傅蘭雅譯，趙元益述，開井、開礦所論，略備中言造自湧水井及 火藥拉開土石法，可與東國鑿井法，開地道轟藥法，參證；又載中國開井二法 殆行諸北方者，西人之留心可知。彙編二有起水論，可參攷。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_354</identifier>
 </mods>

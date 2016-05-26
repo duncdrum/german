@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-884A5DF4-A0B0-40CF-9760-F7BA833CD5A9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-884A5DF4-A0B0-40CF-9760-F7BA833CD5A9">
     <titleInfo lang="chi" script="Hant">
         <title>昕夕間談</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xin xi jian tan</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,雜著第三十一,小說,p 290</note>
     <abstract lang="chi" type="summary">昕夕間談四冊 申報館本 不著撰人名氏，亦名英國小說，讀之可以見彼土風俗，惜僅譯上半部。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_924</identifier>
 </mods>

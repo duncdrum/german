@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-3F88906A-EB2F-46A1-8281-B7004ADB99E4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3F88906A-EB2F-46A1-8281-B7004ADB99E4">
     <titleInfo lang="chi" script="Hant">
         <title>東亞三國地誌、附內外比較表</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongya Sanguo di zhi, fu neiwai bijiao biao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 226</note>
     <abstract lang="chi" type="summary">東亞三國地誌二卷附內外比較表附圖 日本刻本二冊 [日本]辻武雄著，其間於東亞唇齒之情勢及水陸、邊防、通商、口岸、人口、人種、風 氣、物產、航線、鐵路、政事、軍備、交涉，胥能言之有物，附以內外比較表、精細地圖 數葉。緣辻君前由朝鮮而遊支那，訪問風俗政治，歸國後據三國形勢，博考內 外地理家之所著作與其親歷之地，取舍折衷，參以新議而成是書。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_673</identifier>
 </mods>

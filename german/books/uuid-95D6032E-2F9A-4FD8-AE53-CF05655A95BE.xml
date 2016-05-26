@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-95D6032E-2F9A-4FD8-AE53-CF05655A95BE">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-95D6032E-2F9A-4FD8-AE53-CF05655A95BE">
     <titleInfo lang="chi" script="Hant">
         <title>附中國紡織情形</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu Zhongguo fangzhi qingxing</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜工,p 154</note>
     <abstract lang="chi" type="summary">附 中國紡織情形三卷 湖北商務報本 [日本]時事新報著，湖北商務報館譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_401</identifier>
 </mods>

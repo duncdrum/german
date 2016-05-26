@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-7677C329-E130-4D1A-8AFC-6C5EED03068B">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7677C329-E130-4D1A-8AFC-6C5EED03068B">
     <titleInfo lang="chi" script="Hant">
         <title>重學彙編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong xue huibian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,重學第十三,重學,p 195</note>
     <abstract lang="chi" type="summary">重學彙編一卷 西學大成本 [英]傅蘭雅輯譯，此書所論攝力、重力，合於體質者言之，若重學之義理此不詳 論。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_558</identifier>
 </mods>

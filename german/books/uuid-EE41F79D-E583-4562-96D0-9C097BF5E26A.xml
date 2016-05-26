@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-EE41F79D-E583-4562-96D0-9C097BF5E26A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EE41F79D-E583-4562-96D0-9C097BF5E26A">
     <titleInfo lang="chi" script="Hant">
         <title>薄荷栽培製造法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bohe zaipei zhizao fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 134</note>
     <abstract lang="chi" type="summary">薄荷栽培製造法一卷 農學報本 [日本]山木鉤吉著，沈紘譯，栽薄荷可以製油、製腦，其用於藥品甚廣，歐美近來 製造極精，此為日本人製造法，其器未甚詳細，惟栽培尚可倣傚。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_324</identifier>
 </mods>

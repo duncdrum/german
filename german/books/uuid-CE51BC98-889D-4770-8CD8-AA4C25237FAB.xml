@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-CE51BC98-889D-4770-8CD8-AA4C25237FAB">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CE51BC98-889D-4770-8CD8-AA4C25237FAB">
     <titleInfo lang="chi" script="Hant">
         <title>湖北農務學堂蠶業實修記要</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hubei nong wu xuetang can ye shi xiu jiyao</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 126</note>
     <abstract lang="chi" type="summary">湖北農務學堂蠶業實修記要一卷 農學報本 [日本]峰村喜藏著。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_290</identifier>
 </mods>

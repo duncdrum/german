@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-0659B0B7-194F-4CAA-9883-723E524E062E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0659B0B7-194F-4CAA-9883-723E524E062E">
     <titleInfo lang="chi" script="Hant">
         <title>開地道轟藥法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kai didao hong yao fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,兵制第五,子藥,p 114</note>
     <abstract lang="chi" type="summary">開地道轟藥法三卷圖一卷 製造局本二冊　吳縣葉氏重校本 [英]武備工程學堂定，[英]傅蘭雅譯，汪振聲述，先論各處開道工程，後論各藥及 轟用法，以圖明說，皆有法度。彙編二有鑿石機器一篇，可互證。 製造局有美金楷理、朱格仁譯喇叭法一冊，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_248</identifier>
 </mods>

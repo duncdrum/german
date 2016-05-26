@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-C0692E94-4A44-4DF6-90DA-38F448B272BA">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C0692E94-4A44-4DF6-90DA-38F448B272BA">
     <titleInfo lang="chi" script="Hant">
         <title>西畫初學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xihua chuxue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,圖學第二十四,測繪,p 256</note>
     <abstract lang="chi" type="summary">西畫初學六卷 格致彙編本 [英]傅蘭雅譯，是書乃英淺巴司啟蒙叢書之一，首列總論，次視法，次臨畫，次看 物繪畫，次布置方向，次光暗總理，次縇染各色。作書之意欲學者易明，故指證 繪山水之理法，並畫工所賴之理法淺詞詳解，足為啟蒙之用。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_791</identifier>
 </mods>

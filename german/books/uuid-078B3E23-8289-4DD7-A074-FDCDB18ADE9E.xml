@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-078B3E23-8289-4DD7-A074-FDCDB18ADE9E">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-078B3E23-8289-4DD7-A074-FDCDB18ADE9E">
     <name type="personal">
         <namePart lang="chi" script="Hant">西村貞講義　日下部三之介筆記</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xi cun zhen jiangyi　ri xiabu san zhi jie biji</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>小學教育新篇講義錄</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue jiaoyu xin pian jiangyi lu</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷十,教育門,教育學書,p 928</note>
     <note type="price">二角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_4696</identifier>
 </mods>

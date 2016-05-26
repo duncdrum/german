@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-23E6CA08-679F-49EA-8905-626FCD916449">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-23E6CA08-679F-49EA-8905-626FCD916449">
     <titleInfo lang="chi" script="Hant">
         <title>論畫淺說</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lun hua qianshuo</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,圖學第二十四,測繪,p 256</note>
     <abstract lang="chi" type="summary">論畫淺說一卷 上海排印本一冊 不著撰人名氏，山英居士譯，譯筆甚劣，說亦淺甚，於畫學之理未得其門徑，可 不讀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_793</identifier>
 </mods>

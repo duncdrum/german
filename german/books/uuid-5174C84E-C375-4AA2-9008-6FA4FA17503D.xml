@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5174C84E-C375-4AA2-9008-6FA4FA17503D">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5174C84E-C375-4AA2-9008-6FA4FA17503D">
     <titleInfo lang="chi" script="Hant">
         <title>國聞彙編</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guo wen huibian</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷四,報章第二十九,p 274</note>
     <abstract lang="chi" type="summary">國聞彙編 排印本設天津 中西人合譯，嚴復等撰述，光緒二十三年十一月起，每月三冊，專譯俄、英、法、德、 美、日各報及各國近聞。首譯泰西名論甚為可觀，報章之最佳者，惜至七冊即 止。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_862</identifier>
 </mods>

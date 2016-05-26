@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-B52D3C20-6127-473E-B570-F56AF8FE4E0C">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B52D3C20-6127-473E-B570-F56AF8FE4E0C">
     <titleInfo lang="chi" script="Hant">
         <title>電氣鍍鎳</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dianqi du nie</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 157</note>
     <abstract lang="chi" type="summary">電氣鍍鎳一卷 製造局本　富強叢書本 不著撰人名氏，[英]傅蘭雅譯，徐華封述，鍍鎳之法始於美國，近來別國皆仿效之，是書採拾各法，復備載器具材料，亦工蓺之一助也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_425</identifier>
 </mods>

@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-78FB0D5C-33C0-4ED3-8715-6CE9FCF70915">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-78FB0D5C-33C0-4ED3-8715-6CE9FCF70915">
     <titleInfo lang="chi" script="Hant">
         <title>造鐵全法</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zao tie quan fa</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 158</note>
     <abstract lang="chi" type="summary">造鐵全法四冊 製造局本 [英]非而奔著，[英]傅蘭雅譯，徐建寅述，中西聞見錄有泰西製鐵法。彙編一有造 馬口鐵法，又三有鍊銅、鑄銅、軋銅板、鑄銅管、抽銅管、銲銅管各法，均可參攷。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_427</identifier>
 </mods>

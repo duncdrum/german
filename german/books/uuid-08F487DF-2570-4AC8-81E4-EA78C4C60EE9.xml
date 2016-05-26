@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-08F487DF-2570-4AC8-81E4-EA78C4C60EE9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-08F487DF-2570-4AC8-81E4-EA78C4C60EE9">
     <titleInfo lang="chi" script="Hant">
         <title>日本茶業公會中央會議所規約</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben chaye gonghui zhongyang huiyi suo guiyue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,商務第九,會例,p 172</note>
     <abstract lang="chi" type="summary">日本茶業公會中央會議所規約一卷 江南商務報本 江南商務報館譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_482</identifier>
 </mods>

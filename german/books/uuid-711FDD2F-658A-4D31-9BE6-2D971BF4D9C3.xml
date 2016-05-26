@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-711FDD2F-658A-4D31-9BE6-2D971BF4D9C3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-711FDD2F-658A-4D31-9BE6-2D971BF4D9C3">
     <name type="personal">
         <namePart lang="chi" script="Hant">有賀長雄編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">You he chang xiong bian</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,6 +12,15 @@
     <titleInfo lang="chi" script="Hant">
         <title>日本古代法釋義</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben gudai fa shiyi</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷六,法律門,法律歷史,p 784</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_3194</identifier>
 </mods>

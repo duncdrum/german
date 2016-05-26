@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-5E01BC23-DF1D-43EA-AC7B-D176FDE26F69">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5E01BC23-DF1D-43EA-AC7B-D176FDE26F69">
     <titleInfo lang="chi" script="Hant">
         <title>決疑數學</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jueyi shuxue</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 187</note>
     <abstract lang="chi" type="summary">決疑數學十卷 行素軒算學叢書一冊　製造局本四冊未印出　安徽周氏刻本 [英]傅蘭雅譯，華蘅芳述，是書從拉不拉斯與布韋森等所著書輯出，所採各題 一能顯出決疑算學，理所能推得之各事；二能顯出特設算法之最有公用者， 蓋決疑數理在算學中最為精妙，能以彼例此以虛課實，凡事皆可求其定率 推其中數，數年之後必將盛行也。 製造局有英傅蘭雅、徐壽譯，質學證明四冊，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_536</identifier>
 </mods>

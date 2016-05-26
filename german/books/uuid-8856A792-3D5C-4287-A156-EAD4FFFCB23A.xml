@@ -1,11 +1,10 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-8856A792-3D5C-4287-A156-EAD4FFFCB23A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8856A792-3D5C-4287-A156-EAD4FFFCB23A">
     <name type="personal">
         <namePart lang="chi" script="Hant">橋爪貫一編述　近藤圭造校閱</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qiao zhao guan yi bianshu　jin teng gui zao jiaoyue</namePart>
         <role>
             <roleTerm type="text">author</roleTerm>
         </role>
@@ -13,7 +12,16 @@
     <titleInfo lang="chi" script="Hant">
         <title>近世四戰記聞</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jinshi si zhan ji wen</title>
+    </titleInfo>
     <note type="citation">日本書目志,卷四,圖史門,日本史,p 715</note>
     <note type="price">一圓二角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_2401</identifier>
 </mods>

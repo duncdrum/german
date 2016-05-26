@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-1F6B1448-9DB6-4508-B129-896023916D1A">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1F6B1448-9DB6-4508-B129-896023916D1A">
     <titleInfo lang="chi" script="Hant">
         <title>代微積拾級</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dai wei ji sheji</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 188</note>
     <abstract lang="chi" type="summary">代微積拾級十八卷 咸豐己末墨海書局刊本　又活字板本　趙元益、李鳳苞同校本三冊　坊間改名代數學　中西算學大成摘刻第九卷論越曲綫為代數術殿 [美]羅密士著，[英]偉烈亞力譯，李善蘭述，前九卷論代數幾何，首作方程圖法自 點與綫以至越曲綫圖說明備，其圓錐曲綫各款則艾書採其原，此書竟其委， 中七卷論微分，後二卷論積分、微分者，一剎那中由小漸大之積也，合無數微 分之全積則積分也。大抵由代數級數以求其限而推其變列款，設題簡明可 讀。惟十卷微分第三款，三題答數及十七卷積分第六款兩題，答數皆有誤處， 華氏筆談已訂正之。 英棣麽甘撰，英偉烈亞力、李善蘭譯，有代數學本十三卷，上海墨海書局刊，不戒於火，僅存第一卷。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_537</identifier>
 </mods>

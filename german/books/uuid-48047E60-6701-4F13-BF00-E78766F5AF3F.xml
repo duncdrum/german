@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-48047E60-6701-4F13-BF00-E78766F5AF3F">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-48047E60-6701-4F13-BF00-E78766F5AF3F">
     <titleInfo lang="chi" script="Hant">
         <title>國債論</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guozhai lun</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 72</note>
     <abstract lang="chi" type="summary">國債論　卷 杭州譯林本 [日本]織田一著，合計各國國債多至二百七十萬萬員，以各國人口計之，每人 擔二十三員，以各國土地計之，每平方英里擔七百二十二員，各國負此重債 ，每年當各出其歲入四分之一或五分之一以理之，然則整頓各國財政誠非 易易，而國債論為不可少也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_102</identifier>
 </mods>

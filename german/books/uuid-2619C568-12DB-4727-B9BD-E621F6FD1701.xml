@@ -1,13 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      version="3.6"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
-      ID="uuid-2619C568-12DB-4727-B9BD-E621F6FD1701">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2619C568-12DB-4727-B9BD-E621F6FD1701">
     <titleInfo lang="chi" script="Hant">
         <title>御風要術</title>
     </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yufeng yao shu</title>
+    </titleInfo>
     <note type="citation">增版東西學書錄,卷二,船政第十,行船事宜,p 173</note>
     <abstract lang="chi" type="summary">御風要術三卷 製造局本二冊 [英]白爾特著，[美]金楷理譯，華蘅芳述，是書為航海者避颶風之法，西人於颶風 之由究之已數百年，知某處某種颶風其先見之兆如何，所行之路如何，用何 法防之。書中所論至為詳悉，而每年何處所起之狀備載之，以資後日徵驗。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
     <identifier type="mh">book_486</identifier>
 </mods>
