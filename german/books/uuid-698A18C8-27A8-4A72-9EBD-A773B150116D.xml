@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-698A18C8-27A8-4A72-9EBD-A773B150116D">
+    <titleInfo lang="chi" script="Hant">
+        <title>試驗鐵煤法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shiyan tie mei fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 141</note>
+    <abstract lang="chi" type="summary">試驗鐵煤法一卷 製造局本 [英]傅蘭雅、徐壽同譯。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_352</identifier>
+</mods>

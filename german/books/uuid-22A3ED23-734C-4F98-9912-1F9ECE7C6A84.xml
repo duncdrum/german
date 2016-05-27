@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-22A3ED23-734C-4F98-9912-1F9ECE7C6A84">
+    <titleInfo lang="chi" script="Hant">
+        <title>製糖器具說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhitang qiju shuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農家雜蓺,p 139</note>
+    <abstract lang="chi" type="summary">製糖器具說　卷 農學報本 [日本]大鳥圭介著，樊炳清譯，論製糖之榨汁器、蒸發器、篩密器，列圖六幅以明 之。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_345</identifier>
+</mods>

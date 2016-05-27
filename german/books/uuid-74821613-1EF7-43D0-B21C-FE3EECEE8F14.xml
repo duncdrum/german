@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-74821613-1EF7-43D0-B21C-FE3EECEE8F14">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">三尾重定纂譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">San wei zhong ding zuan yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>文法助語 正續文章軌範字類大全</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wenfa zhu yu zheng xu wenzhang guifan zilei daquan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1078</note>
+    <note type="price">二角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6739</identifier>
+</mods>

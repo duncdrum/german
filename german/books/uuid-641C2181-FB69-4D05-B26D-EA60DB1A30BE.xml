@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-641C2181-FB69-4D05-B26D-EA60DB1A30BE">
+    <titleInfo lang="chi" script="Hant">
+        <title>商工地理學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shang gongdi lixue</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 165</note>
+    <abstract lang="chi" type="summary">商工地理學一卷 江南商務報本 [日本]田岡佐代治譯，第一篇總論，分為二章，曰商工業盛衰之宗旨、曰商工業 盛衰之原因；後分二大篇，曰地文之狀態、曰政治之狀態，於工商各事言之甚 詳。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_453</identifier>
+</mods>

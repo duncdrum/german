@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D705E30C-3268-4701-8775-57C31A124243">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">清水亮三編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qingshui liang san bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>實用大日本地圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shiyong da Riben ditu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本地圖,p 691</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2065</identifier>
+</mods>

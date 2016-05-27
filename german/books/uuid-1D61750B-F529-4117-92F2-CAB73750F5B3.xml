@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1D61750B-F529-4117-92F2-CAB73750F5B3">
+    <titleInfo lang="chi" script="Hant">
+        <title>行軍鐵路工程</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xingjun tielu gongcheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 146</note>
+    <abstract lang="chi" type="summary">行軍鐵路工程二卷附圖 製造局本一冊　富強叢書本 [英]武備工程課則，[英]傅蘭雅、汪振聲同譯，行軍鐵路為工程兵專責，此書所載， 一為兩要隘處擇適中地，造鐵路以利軍行之法；一為已成鐵路為敵人毀壞， 修整復用之法，一恐敵人據此臨時自毀之法。其號令法尤宜採用，若常路汽 車所配零物及裝運分兩尺寸，又另為二表，頗極詳細。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_370</identifier>
+</mods>

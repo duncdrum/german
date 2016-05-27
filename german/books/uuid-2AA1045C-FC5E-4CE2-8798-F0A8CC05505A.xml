@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2AA1045C-FC5E-4CE2-8798-F0A8CC05505A">
+    <titleInfo lang="chi" script="Hant">
+        <title>重學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong xue</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,重學第十三,重學,p 196</note>
+    <abstract lang="chi" type="summary">重學二十卷附圓錐曲線說三卷 同治五年金陵局重刊三種合刻本無首卷有附卷　上海石印本　咸豐已未錢氏活字板本，作十七卷，有首卷，無附卷　中西算學大成本 [英]胡威立著，[英]艾約瑟、李善蘭譯，重學分為二科，曰靜重學、曰動重學，而其理 之最要者有三，曰分力、曰并力、曰重心，為動靜二學之樞紐，蓋萬物以重心為 定，若二力加於一體，令之靜，必定於并力綫，令之動必行於并力綫，故知分力 并力與重心三端，凡環繞攝動諸力之理，皆由此出。是書前七卷論靜重學，後 十卷論動重學，末三卷附流質重學，以算法推論諸理，深切著明，實為善本。西 人原書本分三編，此僅其中編。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_559</identifier>
+</mods>

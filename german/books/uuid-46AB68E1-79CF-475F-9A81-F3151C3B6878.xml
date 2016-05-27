@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-46AB68E1-79CF-475F-9A81-F3151C3B6878">
+    <titleInfo lang="chi" script="Hant">
+        <title>地球說略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Diqiu shuo lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 223</note>
+    <abstract lang="chi" type="summary">地球說略一卷 光緒四年排印本一冊　小方壺齋再續鈔本 [美]褘理哲著 益智書會印有[　]沙氏地球說畧，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_659</identifier>
+</mods>

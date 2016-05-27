@@ -1,0 +1,26 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AD09DE76-4648-40CE-82A6-26590EBD447A">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">富房立川、小兵衛合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Fu fang li chuan, xiao bing wei hezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>增補 軒迴棰雛形</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zengbu xuan hui chui chuxing</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,雛形類,p 867</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4028</identifier>
+</mods>

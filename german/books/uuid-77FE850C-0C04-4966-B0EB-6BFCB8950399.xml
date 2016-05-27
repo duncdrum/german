@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-77FE850C-0C04-4966-B0EB-6BFCB8950399">
+    <titleInfo lang="chi" script="Hant">
+        <title>陸軍教育摘要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lujun jiaoyu zhaiyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 95</note>
+    <abstract lang="chi" type="summary">陸軍教育摘要二冊 南洋公學本 [日本]陸軍省原本，南洋公學譯書院編譯，日本陸軍省歲刊陸軍成規類聚，凡 軍事之條教、號令皆載之。是編據明治三十二年本，摘譯其有關教育者凡十 七款，為軍士教育者二，為將校教育者四，為雜役教育者九，首末兩篇則指導 攷核之事，皆與教育相聯繫者，各款皆由陸軍省審定，頒發通行全國，著為成 憲，雖或舉條例，或挈指要彙而合之，體裁不無歧雜，然摭集官書類次成帙例 ，仍原文亦不必以此議之。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_187</identifier>
+</mods>

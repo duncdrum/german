@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ECB3E278-9F42-4D99-8A07-7011CAE047F9">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">令泉定介、畠山健校正</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ling quan ding jie, huang shan jian jiaozheng</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>《隨筆叢書》 百家說林</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>«Suibi congshu» baijia shuo lin</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1212</note>
+    <note type="price">四圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8614</identifier>
+</mods>

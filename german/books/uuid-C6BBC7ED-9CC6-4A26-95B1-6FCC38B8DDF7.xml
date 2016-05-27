@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C6BBC7ED-9CC6-4A26-95B1-6FCC38B8DDF7">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">櫻癡居士著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ying chi jushizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小督高野物狂</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiao du gao yewu kuang</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,腳本,p 1015</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5846</identifier>
+</mods>

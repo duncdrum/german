@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AF133910-01D7-4320-9271-C82627825B02">
+    <titleInfo lang="chi" script="Hant">
+        <title>自厯明證</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zi li mingzheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,宗教第二十七,p 264</note>
+    <abstract lang="chi" type="summary">自厯明證八卷 廣學會本 [美]林樂知著，記各教源流頗詳足資攷證，末記古時歐洲民人去舊更新之機 ，亦足以瞻歐俗之旋轉。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_823</identifier>
+</mods>

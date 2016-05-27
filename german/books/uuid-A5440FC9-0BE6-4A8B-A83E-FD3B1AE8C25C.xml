@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A5440FC9-0BE6-4A8B-A83E-FD3B1AE8C25C">
+    <titleInfo lang="chi" script="Hant">
+        <title>西學攷畧</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xixue kao lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 81</note>
+    <abstract lang="chi" type="summary">西學攷畧二卷 同文館本二冊　坊間改名西學攷 [美]丁韙良著，此丁氏回國時日記，上卷載歷涉各國之聞見，下卷言各國學校 之規制，其論各國源流一篇，足以窺學術遞變之成迹，而於測算、格致公法、史 學，尤三致意焉。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_137</identifier>
+</mods>

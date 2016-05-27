@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E091E496-A89A-484A-8CED-A111CEA13B3A">
+    <titleInfo lang="chi" script="Hant">
+        <title>東方時局論略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongfang shiju lun lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 279</note>
+    <abstract lang="chi" type="summary">東方時局論略一卷 製造局本一冊　軍政全書本 [英]鄧鏗著，書作於一千八百八十九年，第一章記東亞細亞日迫情事，第二章 記俄人覬覦高麗證據，第三章各報論俄人動靜，內附中高通商條約，皆探取 各報之論，東亞細亞情事者深切著明，可謂直揭俄國詭謀矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_883</identifier>
+</mods>

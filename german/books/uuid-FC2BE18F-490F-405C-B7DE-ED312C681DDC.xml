@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FC2BE18F-490F-405C-B7DE-ED312C681DDC">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">水交社刊行</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shui jiao she kanxing</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>舶用氣機新書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bo yong qiji xinshu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,機器學,p 869</note>
+    <note type="price">三圓四角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4049</identifier>
+</mods>

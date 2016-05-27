@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-33847086-33BC-4484-9A55-F67BD853DB77">
+    <titleInfo lang="chi" script="Hant">
+        <title>聘盟日記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Pin meng riji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 265</note>
+    <abstract lang="chi" type="summary">聘盟日記一卷 中西聞見錄本　小方壺齋本 [俄]雅蘭布著，柏齡譯，此一千六百九十二年即康熙三十年俄特派雅蘭布至 中國，詳訂通商條約時所紀，詳載京都景物而已。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_827</identifier>
+</mods>

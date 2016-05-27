@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F1629168-0D3E-45B6-99C1-36D2708789C4">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學指南</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue zhinan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 201</note>
+    <abstract lang="chi" type="summary">化學指南十卷 同文館本　上海石印本 [法]畢利幹譯，前六卷論金、非金類交感之理，後四卷論生物化學。書中多設答 問，其體例如格物入門。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_576</identifier>
+</mods>

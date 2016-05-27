@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4AED3E34-F0D3-4C7D-96A2-AD14220D3078">
+    <titleInfo lang="chi" script="Hant">
+        <title>山東試種洋棉簡法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shandong shizhong yang mian jian fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 130</note>
+    <abstract lang="chi" type="summary">山東試種洋棉簡法一卷 農學報本　原題明農策 [英]仲均安著，羅振玉編，仲教士在山東時所述，皆西人種棉常法，按種植每 畝可得二百七十斤，中國沿海沿江多宜棉之地，宜募傭舉辦，以開新法。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_307</identifier>
+</mods>

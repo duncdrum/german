@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7018831B-3F51-44C7-859D-E834033654AE">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">鈴木卉人譯補</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ling mu hui ren yi bu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>飲水試驗新法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yinshui shiyan xinfa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,衛生學,p 598</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1012</identifier>
+</mods>

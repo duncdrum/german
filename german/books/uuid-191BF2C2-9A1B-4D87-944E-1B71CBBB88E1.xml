@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-191BF2C2-9A1B-4D87-944E-1B71CBBB88E1">
+    <titleInfo lang="chi" script="Hant">
+        <title>水雷秘要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shuilei miyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 109</note>
+    <abstract lang="chi" type="summary">水雷秘要五卷圖一卷 製造局排印本六冊　又重刻本 [英]史理孟著，舒高第、鄭昌棪述，此書出於一千八百八十年，故其法稍新，凡水 雷及水雷船防禦、保護、攻守、然放、製造及入水查看各法悉具；後論電光并製 電法與電學參看。彙編一，有斯米德水雷說一篇，又四有徐建寅水雷外売造 法一篇，亦可互證。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_229</identifier>
+</mods>

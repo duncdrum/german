@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-501C0805-779A-4485-909E-C55F74C99738">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">大藏十兵衛</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Da cang shi bing wei</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>綿圃要務</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mian pu yaowu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,圃業書,p 838</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3744</identifier>
+</mods>

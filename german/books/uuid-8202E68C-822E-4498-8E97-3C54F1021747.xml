@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8202E68C-822E-4498-8E97-3C54F1021747">
+    <titleInfo lang="chi" script="Hant">
+        <title>對數表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Duishubiao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,三角八綫,p 190</note>
+    <abstract lang="chi" type="summary">對數表一冊 製造局本　中西算學大成本　數理精蘊本未善 [泰西人]原書，賈步緯校述，對數創自訥白爾後布里格斯，改為十進，即今表也。 以加減代乘除為用，最便造法，見代數術及三角數理局本，真數一萬假數去 首位凡十位萬以外，用中比例求之，有說詳卷首。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_543</identifier>
+</mods>

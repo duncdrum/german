@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B6F7F558-C61F-46D0-8E57-4FFB74D364E4">
+    <titleInfo lang="chi" script="Hant">
+        <title>七國新學備要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiguo xinxue bei yao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 80</note>
+    <abstract lang="chi" type="summary">七國新學備要一卷 廣學會本　瀏陽質學社刊廣學會叢書八種本 [英]李提摩太著，前五章紀外國學校數目費用及報館書籍館，大旨已具，後二 章，按英、法、德、俄、美、日本以推算中國宜如何設學，末章專為中國籌變通章程， 語焉不詳，然大端不外乎此。光緒戊戌廣學會復摘印其言學校、書籍者，名曰 速興新學條例。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_134</identifier>
+</mods>

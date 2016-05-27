@@ -1,0 +1,26 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8D5D3756-20FE-4774-B8F2-CC3104E1A8D1">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">農學士齋藤祥三郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nong xueshi zhai teng xiang san lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>農業及農學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongye ji nongxue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,農學總記,p 820</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3586</identifier>
+</mods>

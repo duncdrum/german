@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-81C2032C-01DE-427F-8537-83F5A7BD7FF2">
+    <titleInfo lang="chi" script="Hant">
+        <title>保全中國策</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Baoquan Zhongguo ce</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 284</note>
+    <abstract lang="chi" type="summary">保全中國策一卷 東亞報本 [英]既府羅理既卡司著，[日本]大橋鐵太郎譯，言德據膠州之失，計惟英以保護 中國為己任，雖出於戰亦所不惜，英重商務，固與他國務兼并者異矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_900</identifier>
+</mods>

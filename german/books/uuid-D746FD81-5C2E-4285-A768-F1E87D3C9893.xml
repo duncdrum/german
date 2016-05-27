@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D746FD81-5C2E-4285-A768-F1E87D3C9893">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">加藤拙堂著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jia teng zhuo tangzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>時文軌範作文 秘訣近世名家文粹</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shiwen guifan zuowen mijue jinshi mingjia wen cui</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,作文書,p 1040</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6180</identifier>
+</mods>

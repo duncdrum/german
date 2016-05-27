@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9C21F5D0-935E-4A70-94FD-836CCCF5641F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">木村知治著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Mu cun zhi zhizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>養蠶家必攜 桑樹全書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yangcan jia bi xie sangshu quanshu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,蠶桑書,p 857</note>
+    <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3957</identifier>
+</mods>

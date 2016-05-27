@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6196460B-39BD-4A56-89A0-F176547D2AED">
+    <titleInfo lang="chi" script="Hant">
+        <title>鐵鞭</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tie bian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 281</note>
+    <abstract lang="chi" type="summary">鐵鞭四卷 商務印書館本 [日本]岡本監輔著，分生長、收藏四編，其宗旨與西學探原同，所徵引亦有重複 者，而節目較為詳備，岡本君為彼國老名士，三十年前以氣節文章為時推重 ，維新以來以主張舊學，漸見疎於時賢，牢騷不平，聞其所著萬國史記於我國 流布頗廣，遂挾所著以來其友人為之陸續付印，此書及西學探原最先出者 也，其抉摘彼國浮薄少年之弊，或非加誣，然布此兩書於我國實有阻遏新機 之慮，淮橘為枳，殊可惜也。其書往往作不了語，有我國帖括習氣尤不可解。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_890</identifier>
+</mods>

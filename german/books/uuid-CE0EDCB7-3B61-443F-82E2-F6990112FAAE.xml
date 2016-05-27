@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CE0EDCB7-3B61-443F-82E2-F6990112FAAE">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">青江秀著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qing jiang xiuzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>薩隅 煙草錄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Sa yu yancao lu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,煙草類,p 840</note>
+    <note type="price">五圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3766</identifier>
+</mods>

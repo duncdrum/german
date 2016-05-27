@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1FDDEA37-3334-4FA1-B1E1-E0F32AD7DF9B">
+    <titleInfo lang="chi" script="Hant">
+        <title>畫形圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hua xing tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,圖學第二十四,測繪,p 256</note>
+    <abstract lang="chi" type="summary">畫形圖說一冊 益智書會本 [英]里察森著，[英]傅蘭雅譯，書中論畫視圖十有二法，後及於數體相並之畫法， 各線隱現，逗接亦皆有法，洵初學畫形之捷徑也。 製造局印有英傅蘭雅、趙元益譯，測繪海圖全法；又傅蘭雅、徐建寅譯，繪畫船線二冊，均未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_790</identifier>
+</mods>

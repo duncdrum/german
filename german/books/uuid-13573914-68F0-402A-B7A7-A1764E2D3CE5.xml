@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-13573914-68F0-402A-B7A7-A1764E2D3CE5">
+    <titleInfo lang="chi" script="Hant">
+        <title>植美棉簡法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhi mei mian jian fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 130</note>
+    <abstract lang="chi" type="summary">植美棉簡法一卷 農學報本 直隸臬署原譯，羅振玉編，此美國農部及贐士廠所開種棉事宜，羅君刪潤之 而易今名，所列八則與美國種棉述要，小有不同，可以參閱。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_306</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D6F2246C-05BC-46C1-B8FB-B625E492A1CA">
+    <titleInfo lang="chi" script="Hant">
+        <title>克虜伯電光瞄準器具圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ke lu bo dianguang miaozhun qiju tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 112</note>
+    <abstract lang="chi" type="summary">克虜伯電光瞄準器具圖說無卷數 天津學堂本一冊 不著撰人及譯述名氏，觀總說知原書，即克虜卜礮廠所撰電光瞄準者，加電 燈於表尺準星之上，以利昏夜交戰之用。書分四節，論造法、用法、管理章程及 所用電氣，後列四圖，極精致。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_242</identifier>
+</mods>

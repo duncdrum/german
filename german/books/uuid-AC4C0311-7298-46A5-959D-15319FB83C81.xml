@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AC4C0311-7298-46A5-959D-15319FB83C81">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">陸軍文庫藏版</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lujun wenku cang ban</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>獸類藥法書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shoulei yao fashu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,獸醫學,p 618</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1278</identifier>
+</mods>

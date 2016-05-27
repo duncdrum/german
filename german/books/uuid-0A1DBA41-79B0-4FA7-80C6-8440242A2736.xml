@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0A1DBA41-79B0-4FA7-80C6-8440242A2736">
+    <titleInfo lang="chi" script="Hant">
+        <title>炎症論略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yanzheng lun lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 243</note>
+    <abstract lang="chi" type="summary">炎症論略一卷 廣州刻本一冊 [美]嘉約翰譯，此即割症全書之第一卷，西人謂炎症實百病之總綱，無論內外 症皆可發炎，此書即辨明原因，深究形狀，無微不至，足補中醫所不及。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_742</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-28807700-DC71-4DFA-A1C4-8112D2515F9A">
+    <titleInfo lang="chi" script="Hant">
+        <title>簡易體操法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jianyi ticao fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,幼學第二十六,體操學,p 264</note>
+    <abstract lang="chi" type="summary">簡易體操法　卷 蒙學報本 [日本]澁江保編纂。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_820</identifier>
+</mods>

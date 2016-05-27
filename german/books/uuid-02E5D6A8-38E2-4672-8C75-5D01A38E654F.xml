@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-02E5D6A8-38E2-4672-8C75-5D01A38E654F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">北尾名言齋</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Bei wei mingyan zhai</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>孔子一代記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kongzi yidai ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 722</note>
+    <note type="price">二角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2488</identifier>
+</mods>

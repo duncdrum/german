@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DB126C37-696B-446C-A7E1-47AF7FD61AC3">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">井上義行著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jing shang yixingzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>陸軍治罪法釋義</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lujun zhizui fa shiyi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,軍律書,p 809</note>
+    <note type="price">一圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3535</identifier>
+</mods>

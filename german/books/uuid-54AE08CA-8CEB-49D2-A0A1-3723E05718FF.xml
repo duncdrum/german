@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-54AE08CA-8CEB-49D2-A0A1-3723E05718FF">
+    <titleInfo lang="chi" script="Hant">
+        <title>古今著聞集 《日本文學全書》二十一編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gu-jinzhe wen ji «Riben wenxue quanshu» ershiyi bian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1209</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8578</identifier>
+</mods>

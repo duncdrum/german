@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C8457AFF-6D7A-470E-989A-7C6FDCF34E83">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">今泉六郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jin quan liu lang yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>馬牛解剖圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ma niu jiepou tushuo</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,獸醫學,p 619</note>
+    <note type="price">四角五錢</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1287</identifier>
+</mods>

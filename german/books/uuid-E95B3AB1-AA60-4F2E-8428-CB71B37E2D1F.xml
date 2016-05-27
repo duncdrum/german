@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E95B3AB1-AA60-4F2E-8428-CB71B37E2D1F">
+    <titleInfo lang="chi" script="Hant">
+        <title>金石識別</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jinshi shibie</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 221</note>
+    <abstract lang="chi" type="summary">金石識別十二卷附表 製造局本六冊　富強叢書本　趙元益有重校本未刊 [美]代那著，[美]瑪高溫譯，華蘅芳述，詳言地面、地殼兩層，各質皆歸金類，甚合天 然之理，所譯金石家諸書以此為最有用，原本諸圖別以五色，頗為醒目，惜今 本改之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_649</identifier>
+</mods>

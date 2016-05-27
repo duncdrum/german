@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6D5DC173-10A2-43CF-ACF4-2AE0FDD77989">
+    <titleInfo lang="chi" script="Hant">
+        <title>農學肥料初編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongxue feiliao chu bian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 122</note>
+    <abstract lang="chi" type="summary">農學肥料初編二卷續編二卷 農學報本 [法]德赫翰著，曾仰東譯，上卷六章皆論活質肥料，如獸糞生植物之類；下卷七 章皆論質肥料，如灰石燐養之類。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_273</identifier>
+</mods>

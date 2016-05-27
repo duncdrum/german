@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6B13BCB5-9FCE-469E-97EB-FEE097B40D57">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">渡邊直之編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Du bian zhi zhi bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>活益 伊吕波節用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huo yi yi lü bo jieyong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,伊吕波引,p 1071</note>
+    <note type="price">三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6627</identifier>
+</mods>

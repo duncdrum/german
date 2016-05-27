@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3621325E-C61E-4288-8DB3-EF6D05C0E924">
+    <titleInfo lang="chi" script="Hant">
+        <title>荷蘭牧牛篇</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Helan muniu pian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,畜牧,p 135</note>
+    <abstract lang="chi" type="summary">荷蘭牧牛篇一卷 農學報本 [荷蘭]愛新楷葛尼能同譯，鴛湖漁隱譯，荷蘭牧牛尚沿二千年來舊法未嘗稍 替，其所產之牛素稱極美，是為佛里寺牧牛公司所記，論牛種、論乳質、論乳牛 皆備，惟畜牧法未詳。 農學報有英喬車阿美脫車撰，江紹基譯，牧羊書未印全。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_328</identifier>
+</mods>

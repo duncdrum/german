@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6563C9C6-F7FB-4F5C-A683-51A24B35E491">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">村山常吉校</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Cun shan chang ji xiao</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>支那全圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhina quan tu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,亞細亞地圖,p 695</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2122</identifier>
+</mods>

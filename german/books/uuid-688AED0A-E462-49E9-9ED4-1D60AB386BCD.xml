@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-688AED0A-E462-49E9-9ED4-1D60AB386BCD">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">山田要吉譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shantian yao ji yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>手工製作法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shougong zhizuo fa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,手工學書,p 880</note>
+    <note type="price">八角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4170</identifier>
+</mods>

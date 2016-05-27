@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-20D080B7-8577-41C8-96EA-2A2D40BFECD7">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">金田主稅編著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jin tianzhu shui bianzhu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國士模範 平野國臣傳</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guoshi mofan pingye guo chen chuan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 724</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2519</identifier>
+</mods>

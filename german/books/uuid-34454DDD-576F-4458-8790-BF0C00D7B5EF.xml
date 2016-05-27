@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-34454DDD-576F-4458-8790-BF0C00D7B5EF">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">浦浪六著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Pu lang liuzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>井筒女之助</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jingtong nü zhi zhu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1143</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7583</identifier>
+</mods>

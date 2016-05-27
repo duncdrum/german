@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-184A9FD9-4BC6-4568-A7CB-DFD7CCF4802C">
+    <titleInfo lang="chi" script="Hant">
+        <title>色相留真</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Sexiang liu zhen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 156</note>
+    <abstract lang="chi" type="summary">色相留真一卷 不著撰人名氏，[英]傅蘭雅譯，徐壽述。　富強叢書本　論造照像器具材料及照像之法。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_413</identifier>
+</mods>

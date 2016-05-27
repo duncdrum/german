@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-558D39F9-AAAB-411D-9B81-4A112667CB8F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">赤澤常道編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Chi ze chang dao bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>廣益字林大成</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guangyi zi lin Dacheng</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1068</note>
+    <note type="price">九角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6582</identifier>
+</mods>

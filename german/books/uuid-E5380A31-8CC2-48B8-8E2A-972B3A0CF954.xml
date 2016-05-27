@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E5380A31-8CC2-48B8-8E2A-972B3A0CF954">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">藤原</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Teng yuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>悅目抄 《日本歌學全書》第十二篇之內</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yuemu chao «Riben ge xue quanshu» di shi'er pian zhinei</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,歌學及歌集,p 978</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5306</identifier>
+</mods>

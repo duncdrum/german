@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A1809F7F-9807-4ECB-A093-7FEC4E384CD8">
+    <titleInfo lang="chi" script="Hant">
+        <title>造洋飯書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zao yangfan shu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,雜著第三十一,瑣錄,p 291</note>
+    <abstract lang="chi" type="summary">造洋飯書一冊 美華書館印本 [泰西]高夫人著，皆作西菜之法，錄之以教庖人者。彙編二有磨麪器一篇。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_931</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A0723D51-857B-48DD-B7BC-60073E6AD401">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本理學書目</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben lixue shumu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,理學第二十五,書目,p 261</note>
+    <abstract lang="chi" type="summary">日本理學書目　卷 亞泉雜志本 亞泉學館譯，分十三類，一理學總記學校用理科書、二物理學橫文物理學理 化學、三化學、四天文學厤書、五氣象學、六博物學、七生物學、八人類學、九動物 學、十植物學、十一地質學、十二地震學、十三礦物學。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_806</identifier>
+</mods>

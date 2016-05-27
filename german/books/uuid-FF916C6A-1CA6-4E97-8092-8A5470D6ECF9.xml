@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FF916C6A-1CA6-4E97-8092-8A5470D6ECF9">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">本多利明</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ben duo li ming</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>經世秘策補遺 《日本文庫》第八編之內</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jingshi mi ce buyi «Riben wenku» di-ba bian zhinei</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,財政學,p 758</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2902</identifier>
+</mods>

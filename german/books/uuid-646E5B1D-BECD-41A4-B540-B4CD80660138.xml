@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-646E5B1D-BECD-41A4-B540-B4CD80660138">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">織田得能著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhi tian de nengzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>暹羅佛教事情</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xianluo Fojiao shiqing</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,佛教歷史,p 663</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1733</identifier>
+</mods>

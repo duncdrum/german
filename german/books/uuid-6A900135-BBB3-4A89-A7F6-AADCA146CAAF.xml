@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6A900135-BBB3-4A89-A7F6-AADCA146CAAF">
+    <titleInfo lang="chi" script="Hant">
+        <title>學校衛生學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xuexiao weishengxue</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 251</note>
+    <abstract lang="chi" type="summary">學校衛生學一卷 教育世界本 [日本]三島通良著，汪有齡譯，是書凡十篇，一總論、二校地、三建築校舍及教室 之構造、四採光法、五換氣法、六煖室法、七杌椅及學生態度及書籍黑板、八生 徒之疾病及學校醫之監督、九體操及遊戲、十授業及休業。於學校中有關衛 生者備舉無遺，任教育者誠熟玩而實行之，庶不至以學校為弱人夭人之所 矣。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_777</identifier>
+</mods>

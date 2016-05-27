@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-74EB1C23-0A5D-40D5-936B-F56FD7F0B3C3">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">下啟助、鈴木軒與、三田利德同輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xia qi zhu, ling mu xuan yu, san tian li de tong ji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學作文書 尋常科高等科用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue zuowen shu xunchang ke gaodeng ke yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,作文書學校用,p 1044</note>
+    <note type="price">二圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6232</identifier>
+</mods>

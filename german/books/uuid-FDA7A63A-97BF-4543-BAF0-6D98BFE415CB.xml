@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FDA7A63A-97BF-4543-BAF0-6D98BFE415CB">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">市川盈編纂　河邨靖校正</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shi chuan ying bianzuan　he cun jing jiaozheng</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>字海</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zi hai</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1068</note>
+    <note type="price">一圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6593</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-670B416F-7555-47F7-A478-D573702FD1E5">
+    <titleInfo lang="chi" script="Hant">
+        <title>海塘輯要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Haitang jiyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 144</note>
+    <abstract lang="chi" type="summary">海塘輯要十卷 製造局本二冊　富強叢書本 [英]韋更斯著，[英]傅蘭雅譯，趙元益述，西人以為築塘可以救出沒海之地，所獲 利益未可限量，不特捍水已也，故雖耗費鉅資亦所不惜，是書於擇地築塘、瀉 水禦水、修築舊塘之法及工程經費交涉利弊，與夫成工利益，造塘條理無不 詳載，後附馬立德所撰釋解，足以補韋書所未備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_365</identifier>
+</mods>

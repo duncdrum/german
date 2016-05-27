@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CA46EB8E-FEC4-4D33-AA58-B3E548D5CB9B">
+    <titleInfo lang="chi" script="Hant">
+        <title>英國水師攷</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yingguo shuishi kao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 106</note>
+    <abstract lang="chi" type="summary">英國水師攷一卷 製造局本二冊　富強叢書本　軍政全書本 [英]巴那比，[美]克理同著，[英]傅蘭雅、鍾天緯同譯，先言船礮源流，繼言船艦數目 及製造體力，次言兵額兵費數目及招兵、調備、操練、俸餉、充賞各章程，後載法、 德、意、俄、奧水師大略，以比較英制，固管理兵船者所當知，其鐵甲船表不及外 國師船表之詳，而有船料、礮數為師船表所缺。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_218</identifier>
+</mods>

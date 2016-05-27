@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7EA364B8-4439-44AA-B1D7-0ED84F2A953C">
+    <titleInfo lang="chi" script="Hant">
+        <title>英君主維多利亞一代內所增屬地情形記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ying junzhu Weiduoliya yidai nei suo zeng shudi qingxing ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 64</note>
+    <abstract lang="chi" type="summary">英君主維多利亞一代內所增屬地情形記一卷 經世報本 [英]泰晤士報館著，壽護室主譯，英以孤懸島國，而所有屬地如亞洲之南，墨洲 之北，澳洲、非洲皆有新闢之土宇、約束之藩邦，又得水師電線鐵路以資保護， 握海上之商權，稱地球之雄國，而印度、加拿大新疆日見繁盛，再閱數十年其 進境，尚可量乎。論者謂泰西以商立國者，然尤以殖民為急，印度之亡，公司之 力，南非洲之特蘭士因英人之多，而奪其自主之權，澳洲加拿大土人皆以反 客為主，因之不振，噫可畏矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_76</identifier>
+</mods>

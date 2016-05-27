@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8600F1BF-B853-4EF4-9CAD-266F86D3EEB4">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">長谷信道著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Chang gu xindaozhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>年中行事 教育小兒遊戲</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nianzhong xingshi jiaoyu xiaor youxi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,遊戲書,p 1124</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7343</identifier>
+</mods>

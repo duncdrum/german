@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5B9C4F62-273A-498E-B83B-91CB6D60B263">
+    <titleInfo lang="chi" script="Hant">
+        <title>附西禮須知、戒禮須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu xi li xuzhi, jie li xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,禮儀,p 87</note>
+    <abstract lang="chi" type="summary">附 西禮須知一卷戒禮須知一卷 格致書室刊本二冊 [英]傅蘭雅輯，中西之風俗不同，其禮儀亦異，邇來交際日繁，不得不講求於此。 是書所載僅言其大端，宜與袁氏出洋須知、蔡氏出使須知參看。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_159</identifier>
+</mods>

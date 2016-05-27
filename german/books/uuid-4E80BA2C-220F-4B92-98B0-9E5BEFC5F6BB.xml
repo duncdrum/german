@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4E80BA2C-220F-4B92-98B0-9E5BEFC5F6BB">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">結城正明著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jie cheng zheng mingzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>百工畫手本</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Baigong huashou ben</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,畫手本學校用,p 1114</note>
+    <note type="price">三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7222</identifier>
+</mods>

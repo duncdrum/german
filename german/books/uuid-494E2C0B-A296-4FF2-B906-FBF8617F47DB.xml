@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-494E2C0B-A296-4FF2-B906-FBF8617F47DB">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本維新三傑傳</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben weixin san jie chuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 68</note>
+    <abstract lang="chi" type="summary">日本維新三傑傳三卷 蘇州勵學譯社本 [日本]北林紫山著，馬汝賢譯，彼國維新之治基於覆幕，覆幕之事基於薩長聯合，而 聯合之策則西鄉隆盛、大久保利通、木戶孝允三人所為也。故合而傳之，大抵 覆幕尊王，隆盛之力為多，維新政策多取決於利通，而地方自治制如開町村、 會府、縣會、國會之議，則孝允所建也，傳中均詳其本末。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_87</identifier>
+</mods>

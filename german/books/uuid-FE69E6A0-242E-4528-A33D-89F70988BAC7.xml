@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FE69E6A0-242E-4528-A33D-89F70988BAC7">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">片山國嘉纂著　江口襄校閱</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Pian shanguo jia zuanzhe　jiangkou xiang jiaoyue</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>法醫學提綱</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fayixue tigang</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,法醫學,p 614</note>
+    <note type="price">三圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1215</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-25E12D6B-D31D-4A5F-A1C8-BD33226BB4BA">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">饗庭篁村著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xiang ting huang cunzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>新方萬金丹當世大風吕敷大鼠</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xin fang wanjin dan dangshi dafeng lü fu dashu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1194</note>
+    <note type="price">八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8352</identifier>
+</mods>

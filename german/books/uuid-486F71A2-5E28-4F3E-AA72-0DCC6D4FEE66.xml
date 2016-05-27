@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-486F71A2-5E28-4F3E-AA72-0DCC6D4FEE66">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">久富鐵太郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jiu fu tie tai lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>警官必攜 拳法圖解</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jingguan bi xie quanfa tujie</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十五,兵書門,兵書,p 1218</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8662</identifier>
+</mods>

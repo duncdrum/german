@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D9D604F8-3B2A-4CD3-AD64-64BD7B57359A">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">山西安邦著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shanxi anbangzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>學校用簿記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xuexiao yong buji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷九,商業門,簿記書,p 901</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4364</identifier>
+</mods>

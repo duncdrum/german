@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-642B15B4-4660-405E-8A1E-39C8A7EE2363">
+    <titleInfo lang="chi" script="Hant">
+        <title>初學階梯</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chuxue jieti</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 261</note>
+    <abstract lang="chi" type="summary">初學階梯三冊 香港文裕堂刻本 不著撰人名氏，亦西書塾教初學之本，取習見習聞之事物，著為小論，第三論 故事，論五金、論香港各篇，頗足觀，中有涉教中語，可厭。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_809</identifier>
+</mods>

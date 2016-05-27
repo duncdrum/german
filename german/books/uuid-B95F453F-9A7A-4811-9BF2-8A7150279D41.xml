@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B95F453F-9A7A-4811-9BF2-8A7150279D41">
+    <titleInfo lang="chi" script="Hant">
+        <title>水學器</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shui xue qi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,器具,p 214</note>
+    <abstract lang="chi" type="summary">水學器一卷 格致彙編本在格致釋器中 [英]傅蘭雅著，書分兩類，曰靜水學、曰動水學，靜詳而動畧，內有一門專論起水 引水理法，謂之發水學，一并言之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_628</identifier>
+</mods>

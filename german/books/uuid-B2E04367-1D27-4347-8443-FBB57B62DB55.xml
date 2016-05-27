@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B2E04367-1D27-4347-8443-FBB57B62DB55">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">倉知甲子大郎作曲</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Cang zhi jiazi da lang zuoqu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>新選樂譜 軍歌集</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xinxuan yuepu junge ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,唱歌集,p 994</note>
+    <note type="price">六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5545</identifier>
+</mods>

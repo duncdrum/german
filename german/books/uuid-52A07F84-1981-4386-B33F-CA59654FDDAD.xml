@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-52A07F84-1981-4386-B33F-CA59654FDDAD">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">菅谷勝義著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jian gu sheng yizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>現行 民事訴訟法要論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xianxing minshi susongfa yao lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,民事訴訟法,p 798</note>
+    <note type="price">八角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3384</identifier>
+</mods>

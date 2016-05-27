@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-41D34A89-91AE-47B6-86F7-8D0E4C1E0E4A">
+    <titleInfo lang="chi" script="Hant">
+        <title>德王紀略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>De wang ji lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 65</note>
+    <abstract lang="chi" type="summary">德王紀略一卷 知新報本 [英]倫頓溫故報著，周靈生譯，記威廉第二之事，瑣屑無足觀，末段言德國稅項 等事，足資攷證之用。 亞東時報有德意志皇帝略像，可參觀。　[顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_78</identifier>
+</mods>

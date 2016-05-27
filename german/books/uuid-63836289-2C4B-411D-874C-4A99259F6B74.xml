@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-63836289-2C4B-411D-874C-4A99259F6B74">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">河野敏人纂著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">He ye min ren zuanzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>局處解剖圖譜 著色密圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ju chu jiepou tupu zhaose mi tu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,解剖學,p 595</note>
+    <note type="price">六角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_978</identifier>
+</mods>

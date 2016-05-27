@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-58C6C407-8B75-4EB7-A903-73E5960D3ADA">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">西村正三郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xi cun zheng san langzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>歌謠教育論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Geyao jiaoyu lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,音樂及音曲,p 1115</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7236</identifier>
+</mods>

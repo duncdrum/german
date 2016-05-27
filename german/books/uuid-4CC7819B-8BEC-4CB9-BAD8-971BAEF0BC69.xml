@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4CC7819B-8BEC-4CB9-BAD8-971BAEF0BC69">
+    <titleInfo lang="chi" script="Hant">
+        <title>全體新論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Quanti xin lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 231</note>
+    <abstract lang="chi" type="summary">全體新論一卷 惠愛醫館刊本一冊　海山仙館叢書本作十卷　墨海書局本 [英]合信、陳修堂同著，其骨度與靈樞骨度篇，宋人洗冤錄微有不同，昔人謂頭 骨八斤，蔡州人有九斤，同洲且如此，况異域乎。得諸目騐，諒非鑿空。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_695</identifier>
+</mods>

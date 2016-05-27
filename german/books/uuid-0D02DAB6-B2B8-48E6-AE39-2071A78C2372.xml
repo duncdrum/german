@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0D02DAB6-B2B8-48E6-AE39-2071A78C2372">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">大垣園東岡編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Da yuan yuan dong gang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>俳諧姿見集</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Paixie zi jian ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,俳諧集,p 990</note>
+    <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5482</identifier>
+</mods>

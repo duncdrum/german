@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-85EB395D-68FE-4FED-B35B-4CB714C4CA02">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">酒井捨彥製圖</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jiu jing she yan zhitu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>東京府管內地圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongjing fu guan nei ditu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 685</note>
+    <note type="price">一角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1985</identifier>
+</mods>

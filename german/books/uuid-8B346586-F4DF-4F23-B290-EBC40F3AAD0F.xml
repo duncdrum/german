@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8B346586-F4DF-4F23-B290-EBC40F3AAD0F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">峰是三郎編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Feng shi san lang bianzuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>改正 學校管理法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaizheng xuexiao guanli fa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,實地教育,p 934</note>
+    <note type="price">近刻</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4774</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BBB86F7E-E986-4DF8-B14F-4E5FDCAE75DC">
+    <titleInfo lang="chi" script="Hant">
+        <title>曲綫須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qu xian xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,曲綫,p 191</note>
+    <abstract lang="chi" type="summary">曲綫須知一卷 格致須知二集本一冊 [英]傅蘭雅著，是書即圓錐曲綫說之節本，所節亦不過十分之一。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_546</identifier>
+</mods>

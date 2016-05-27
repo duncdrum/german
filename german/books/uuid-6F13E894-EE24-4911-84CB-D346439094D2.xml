@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6F13E894-EE24-4911-84CB-D346439094D2">
+    <titleInfo lang="chi" script="Hant">
+        <title>遠東商品史</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yuandong shangpin shi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 167</note>
+    <abstract lang="chi" type="summary">遠東商品史一卷 江南商務報本 [英]威廉母著，席有齡譯，原書凡分四類，一農產品、二水產品、三陸產品、四製造 品。書成於西厤一千八百九十九年，席君取而譯之，因事中輟，僅得棉花、羊毛、 磁器三篇。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_460</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1CA61347-C26E-4EDF-B33F-8746E82548AF">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">尾島碩聞著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Wei dao shuo wenzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>方鑒必攜</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fang jian bi xie</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,方鑑書,p 1136</note>
+    <note type="price">七分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7512</identifier>
+</mods>

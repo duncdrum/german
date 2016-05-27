@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-37C5466E-21C9-4FFF-B186-2A96C8F06025">
+    <titleInfo lang="chi" script="Hant">
+        <title>論英人十大罪</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lun ying ren shi dazui</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 285</note>
+    <abstract lang="chi" type="summary">論英人十大罪一卷 亞東時報本 [日本]福本誠著，劍潭釣徒譯，以英人凌虐特蘭士人不合公理，為英罪，其論甚 確，今環球強國務為兼并，又豈獨英人哉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_903</identifier>
+</mods>

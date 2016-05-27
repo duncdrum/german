@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9BFE3C87-3F42-40E6-BB3D-E2630AFC8CA4">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">早川亨太郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zao chuan heng tai lang yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國會實務要訣</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guohui shiwu yaojue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,議院書,p 747</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2772</identifier>
+</mods>

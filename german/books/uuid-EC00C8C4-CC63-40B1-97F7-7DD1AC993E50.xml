@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EC00C8C4-CC63-40B1-97F7-7DD1AC993E50">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">藤森</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Teng sen</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>增註纂評 古文真寶讀本 後集</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zeng zhu zuan ping guwen zhen bao duben hou ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,漢文書,p 959</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5088</identifier>
+</mods>

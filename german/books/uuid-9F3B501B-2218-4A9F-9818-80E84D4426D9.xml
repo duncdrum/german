@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9F3B501B-2218-4A9F-9818-80E84D4426D9">
+    <titleInfo lang="chi" script="Hant">
+        <title>農學初階</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongxue chujie</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 117</note>
+    <abstract lang="chi" type="summary">農學初階一冊 農學報本 [英]黑球華來思著，吳治儉譯，書成於一千八百九十五年，為普通農學較入門 稍深，其目錄悉依文學會農學條理而引伸之，以便童蒙誦習。編中所列皆取 材各家之書，益以大書院中講解，而復加以閱厯，通以格致，近譯農書此最詳 備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_257</identifier>
+</mods>

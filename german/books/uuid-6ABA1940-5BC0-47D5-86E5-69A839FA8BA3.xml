@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6ABA1940-5BC0-47D5-86E5-69A839FA8BA3">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">陸軍文庫</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lujun wenku</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>馬氏 軍制要論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ma shi junzhi yao lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十五,兵書門,兵書,p 1217</note>
+    <note type="price">二角六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8646</identifier>
+</mods>

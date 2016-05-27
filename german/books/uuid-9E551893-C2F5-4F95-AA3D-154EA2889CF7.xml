@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9E551893-C2F5-4F95-AA3D-154EA2889CF7">
+    <titleInfo lang="chi" script="Hant">
+        <title>長江駕駛便覽</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chang Jiang jiashi bianlan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,船政第十,行船事宜,p 174</note>
+    <abstract lang="chi" type="summary">長江駕駛便覽　卷 上海石印本 [泰西]共得利纂，述輪舟引港，並附各馬頭旗幟、圖樣與各公司商標，並法國風 旗，著色繪成，附商務銀洋兌錢總目表、中國丈尺斤兩表。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_489</identifier>
+</mods>

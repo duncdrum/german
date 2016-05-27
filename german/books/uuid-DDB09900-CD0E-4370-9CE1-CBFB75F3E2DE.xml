@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DDB09900-CD0E-4370-9CE1-CBFB75F3E2DE">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">高木周次編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao mu zhou ci bianzuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>現行類聚 日本法律規則大全</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xianxing leiju Riben falü guize daquan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,現行法律,p 786</note>
+    <note type="price">八圓二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3221</identifier>
+</mods>

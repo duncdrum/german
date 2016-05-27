@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C4F87F7-7E43-4652-AF5B-1A5411C2D050">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">宮川孫二郎編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gong chuan sun er lang bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治新政譚</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming zhi xinzheng tan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,風俗書,p 763</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2957</identifier>
+</mods>

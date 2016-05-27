@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A73E7806-48F0-406D-B1B0-5A8925019FAD">
+    <titleInfo lang="chi" script="Hant">
+        <title>支那文明史論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhina wenming shilun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 54</note>
+    <abstract lang="chi" type="summary">支那文明史論一卷 普通學書室印本一冊 [日本]中西牛郎著，普通學書室譯，此書凡十章，推論中國人思想性質及風俗、 政治變遷之理，復收採經文史事，以徵我國之向有文明所在，而得其研究之 法，復推論中國將來時事，及西人與日人推測中國而處置之法，皆深切著明， 不涉泛詞，後載現時我邦漢文學之研究法，專為日本人學漢文而設惜，所列 各書未善備。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_42</identifier>
+</mods>

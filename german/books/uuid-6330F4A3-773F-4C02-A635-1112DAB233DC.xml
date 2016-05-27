@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6330F4A3-773F-4C02-A635-1112DAB233DC">
+    <titleInfo lang="chi" script="Hant">
+        <title>汽機新製</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiji xin zhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note>
+    <abstract lang="chi" type="summary">汽機新製八卷 製造局本二冊　西學大成本 [英]白爾格著，[英]傅蘭雅譯，徐建寅述，書中論水陸所用各機件，宏纖具載，記大 小尺寸數目，皆薈萃諸人製造試騐之盡善者著之，然非明斯學者驟觀未易 悉其理，若近年改良之新法，宜另採一編以補之。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_384</identifier>
+</mods>

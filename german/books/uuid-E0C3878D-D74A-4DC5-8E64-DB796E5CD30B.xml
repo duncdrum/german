@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E0C3878D-D74A-4DC5-8E64-DB796E5CD30B">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">橫村由清、黑村真賴合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Heng cun you qing, hei cun zhen lai hezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>舊典類纂 皇位繼承編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiu dian lei zuan huangwei jicheng bian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本史,p 714</note>
+    <note type="price">一圓五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2385</identifier>
+</mods>

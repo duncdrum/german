@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B1742B91-8E6D-4FBC-9465-7941EF76B175">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">鹿野至郎編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lu ye zhi lang bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>高等小學 漢文記事論說文例</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaodeng xiaoxue Hanwen jishi lunshuowen li</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1044</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6242</identifier>
+</mods>

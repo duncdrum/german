@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5AD41C0B-32F4-4B0A-9F1F-1583CB983B46">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">警醒社編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jingxing she bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>基督教及哲學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jidujiao ji zhexue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,宗教總記,p 662</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1723</identifier>
+</mods>

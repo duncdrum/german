@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3FDF53A6-338D-4652-87DA-A9AF323CBCBB">
+    <titleInfo lang="chi" script="Hant">
+        <title>法政攷</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fazheng kao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 58</note>
+    <abstract lang="chi" type="summary">法政攷三卷 嶺學報本 唐紹儀譯，首篇言議院，中言官制，下言聽訟，元元本本足資攷證。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_54</identifier>
+</mods>

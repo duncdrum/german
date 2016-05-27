@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-733BD5C8-EE01-407C-9A64-93DEE4B15CC8">
+    <titleInfo lang="chi" script="Hant">
+        <title>幼學初階</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Youxue chujie</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,幼學第二十六,幼學,p 261</note>
+    <abstract lang="chi" type="summary">幼學初階一冊 香港文裕堂刻本 不著撰人名氏，專取簡筆之字以成淺俗語，蓋香港西書塾中教幼童而作。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_808</identifier>
+</mods>

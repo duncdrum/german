@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2E157553-4C26-4664-BE79-3F7BCC06C81E">
+    <titleInfo lang="chi" script="Hant">
+        <title>黑蠻風土記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hei man fengtu ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note>
+    <abstract lang="chi" type="summary">黑蠻風土記二冊 上海石印本　小方壺齋本 [英]立溫斯敦著，游阿非利加洲之日記，專記其風俗及歷涉情景無關宏旨，立 溫斯敦居非洲最久，宜其所記，尚為翔實。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_830</identifier>
+</mods>

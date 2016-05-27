@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-08A49272-7BA2-4F05-A6A8-F72837E132F0">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">地理局藏板</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Dili ju cang ban</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>樹木見本一覽</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shumu jian ben yilan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,林木書,p 841</note>
+    <note type="price">三分五釐</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3781</identifier>
+</mods>

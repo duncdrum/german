@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE19AE74-677A-45BE-9567-62530F41EB53">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">鹽田力藏著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yantian li cangzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>美術 工藝色之調和</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meishu gongyi se zhi tiaohe</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,染色書,p 882</note>
+    <note type="price">三分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4171</identifier>
+</mods>

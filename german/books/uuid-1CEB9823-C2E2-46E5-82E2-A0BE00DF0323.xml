@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1CEB9823-C2E2-46E5-82E2-A0BE00DF0323">
+    <titleInfo lang="chi" script="Hant">
+        <title>條陳與中國議和之際事宜</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tiaochen yu Zhongguo yihe zhiji shiyi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 168</note>
+    <abstract lang="chi" type="summary">條陳與中國議和之際事宜一卷 湖北商務報本 [日本]貿易調查會著，一改革中國貨幣制度、二實廢釐金稅及通過稅、三改正 度量衡制度、四解除輸出火穀之禁、五對工業原料品須保證輸出無稅、六保 護商標。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_465</identifier>
+</mods>

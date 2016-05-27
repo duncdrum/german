@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-97B7A1A0-1A03-4C84-86E4-254787B4337F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">佐木弘綱、佐木信綱校訂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zuo mu hong gang, zuo mu xin gang jiaoding</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>永久百首 《日本歌學全書》第六篇之內</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yongjiu bai shou «Riben ge xue quanshu» di-liu pian zhinei</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,歌集,p 985</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5413</identifier>
+</mods>

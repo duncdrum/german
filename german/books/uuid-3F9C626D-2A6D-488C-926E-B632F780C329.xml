@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3F9C626D-2A6D-488C-926E-B632F780C329">
+    <titleInfo lang="chi" script="Hant">
+        <title>火學入門</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huo xue rumen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,火學,p 213</note>
+    <abstract lang="chi" type="summary">火學入門一卷 格物入門七種本 [美]丁韙良輯，此書論火學之公理，與重學入門體例相似，惟上章論熱氣，下章 論光學，猶氣學測算之附音學也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_622</identifier>
+</mods>

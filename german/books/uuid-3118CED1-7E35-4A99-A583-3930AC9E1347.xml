@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3118CED1-7E35-4A99-A583-3930AC9E1347">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">萩原正年檢閱　梅原寬編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qiu yuan zheng nian jianyue　mei yuan kuan bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>《勸農叢書》 農家中行事</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>«Quannong congshu» nongjia Zhong Hang shi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,農曆書,p 844</note>
+    <note type="price">三角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3803</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DB360FBB-5A13-4009-98F2-DC443982954D">
+    <titleInfo lang="chi" script="Hant">
+        <title>礦學須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kuang xue xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 139</note>
+    <abstract lang="chi" type="summary">礦學須知一卷 格致須知三集本一冊 [英]傅蘭雅著，專論礦之性質，於開礦工蓺未詳。 時務報館譯，有開礦章程，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_347</identifier>
+</mods>

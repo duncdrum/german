@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-997A361F-7925-47D1-A762-5253D8D8B304">
+    <titleInfo lang="chi" script="Hant">
+        <title>和漢洋年契</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>He han yang nian qi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,編年,p 44</note>
+    <abstract lang="chi" type="summary">和漢洋年契一冊 東洋刊本 [日本]蘆厔子著，尚之補，大館正林校正，凡分三列，上紀日本，次中土，次西洋各 國，起自中土盤古，訖同治八年。伏羲以前帝號多本路史，而次民離光皆有年 紀，西洋各國太略不足讀，紀本國事神武以前無年紀，大率荒誕，不足徵，神武 以後所紀核之四裔表，頗有出入，四裔表自光嚴建號，始列兩層，此則自鳥羽 起即分上下層，其間出入尤多。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_11</identifier>
+</mods>

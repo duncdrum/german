@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7CB96C10-A45F-40B1-B206-67B054E06F99">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">高橋光咸、稻見紀一郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao qiao guang xian, dao jian ji yi lang yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>萬國地理問答大全</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wanguo dili wen-da daquan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,萬國地理,p 675</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1853</identifier>
+</mods>

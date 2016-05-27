@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4495CCD8-5F33-41C5-8931-C450F95B5001">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">石田猪十郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shitian zhu shi langzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>生田流琴曲歌之海</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Sheng tian liu qin qu ge zhi hai</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,音曲,p 1117</note>
+    <note type="price">一圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7259</identifier>
+</mods>

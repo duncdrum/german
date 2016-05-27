@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B249E9F4-5B4B-4EF4-92E8-8A2146A0F740">
+    <titleInfo lang="chi" script="Hant">
+        <title>附西伯利亞鐵路情形攷</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu Xiboliya tielu qingxing kao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 148</note>
+    <abstract lang="chi" type="summary">附 西伯利亞鐵路情形攷一卷 湖北商務報本 [德]歌崙報原本，商務報館譯，俄國建築西伯利亞鐵路竭力經營，以期速竣。篇 中言各路入段、逐段工程、道路遠近、需費若干以及已竣者何時開行，未竣者 何時告竣，皆詳誌焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_380</identifier>
+</mods>

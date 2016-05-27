@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-89F9EFD3-B7C9-4C92-9F6F-355A48E8E23A">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">內藤加我俗解</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nei teng jia wo su jie</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>民事訴訟法俗解</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Minshi susongfa su jie</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,民事訴訟法,p 799</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3402</identifier>
+</mods>

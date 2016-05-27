@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9011969B-254D-47E9-94AA-8DBD09459745">
+    <titleInfo lang="chi" script="Hant">
+        <title>淡芭菰栽製法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dan ba gu zai zhifa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 134</note>
+    <abstract lang="chi" type="summary">淡芭菰栽製法　卷 農學報本 [美]厄斯宅士藏著，陳壽彭譯，凡十五節，都三千餘言，而淡芭菰栽製諸法已備， 末節論因地氣種類而判優劣，固然然僅指緯線北三十一度上數部落而言， 非概論諸地所產不足，以製雪茄也。雪茄之美者固莫古巴，若今大地所售安 得盡出於古巴，倣製蓋百之九十矣，其為美國所倣者不下四五十，此書所言 製葉精美以備售，即供為倣製雪茄之用，次者則為紙烟，篇中不發明此說，而 以限於地氣種類為結，殆別有微意歟。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_325</identifier>
+</mods>

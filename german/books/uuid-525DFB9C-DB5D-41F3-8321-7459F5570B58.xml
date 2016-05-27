@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-525DFB9C-DB5D-41F3-8321-7459F5570B58">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">林吾一、山崎忠興、前川一郎同輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lin wu yi, shan qi zhong xing, qian chuan yi lang tong ji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學 全科教授法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue quan ke jiaoshoufa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,實地教育,p 931</note>
+    <note type="price">一圓六角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4736</identifier>
+</mods>

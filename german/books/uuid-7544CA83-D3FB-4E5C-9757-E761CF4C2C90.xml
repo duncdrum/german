@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7544CA83-D3FB-4E5C-9757-E761CF4C2C90">
+    <titleInfo lang="chi" script="Hant">
+        <title>美西戰紀本末</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mei xi zhan ji benmo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 61</note>
+    <abstract lang="chi" type="summary">美西戰紀本末一卷 知新報本 [美]紐約蝦巴報館著，周靈生譯，美西之戰為古巴而起，西國船艦砲藥雖堅猛 過於美，然駕馭不得其人，以致敗衄，孟尼拿及汕私衣高之役，西大砲皆無 所用，而美之十二寸、十三寸之砲亦止中二響，軍械以靈速為上，固不在大也， 中日鴨綠江之後，德國懲於船木易焚，改用鐵代之，泰西人經一次戰，長一次 閱厯，不惜捨己從人，宜其強矣。若拘守舊器，不求新製，觀於滿滔造在孟尼拿 之敗，舊船之不足敵新船，愈可知矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_66</identifier>
+</mods>

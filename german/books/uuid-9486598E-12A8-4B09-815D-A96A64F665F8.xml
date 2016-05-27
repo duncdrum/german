@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9486598E-12A8-4B09-815D-A96A64F665F8">
+    <titleInfo lang="chi" script="Hant">
+        <title>格土星</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ge Tuxing</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,天學第十九,p 217</note>
+    <abstract lang="chi" type="summary">格土星一卷 求是報本 [英]登林著，陳壽彭譯，土星離地較遠，其體較小，書中專言其形狀，而旁及諸小 星皆為近時新推測之理。彙編二有論土星，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_636</identifier>
+</mods>

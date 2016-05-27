@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1B248BE4-4026-4C0F-BA84-08AF9FB713D5">
+    <titleInfo lang="chi" script="Hant">
+        <title>格致新機</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gezhi xin ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,理學第二十五,理學,p 259</note>
+    <abstract lang="chi" type="summary">格致新機七卷 廣學會本一冊 [英]慕維廉著，序言指為培根為理學家言，與尋常言格致不同，但譯筆甚劣，未 能深明其義。彙編一有慕氏格致理論，可參證；又二有慕氏格致新法，疑即新 機之節本。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_801</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6A03C6B0-ABF8-4A71-87B2-9D2F37195D4C">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學初階</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue chujie</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 206</note>
+    <abstract lang="chi" type="summary">化學初階二卷 博濟醫局刊本四冊　西學大成本 [美]嘉約翰譯，何瞭然述，是書前二卷與鑑原同出一本，後二卷亦與分原大同 小異，雖譯例不同，逐節攷證，互相發明，偶有疑難，取兩本對讀之，較省心力。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_593</identifier>
+</mods>

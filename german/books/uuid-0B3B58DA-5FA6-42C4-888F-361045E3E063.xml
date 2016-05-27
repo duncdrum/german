@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0B3B58DA-5FA6-42C4-888F-361045E3E063">
+    <titleInfo lang="chi" script="Hant">
+        <title>身理啟蒙</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shen li qimeng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 231</note>
+    <abstract lang="chi" type="summary">身理啟蒙一冊 西學啟蒙本一冊 [英]艾約瑟譯，略於全體模狀而詳，言骨肉血脈運動之由，故謂之身理，其末章 兼涉心靈學。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_696</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BDFF3A6E-6308-49AC-9BCC-CA8C5F4F6137">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">峰是三郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Feng shi san langzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>手藝教育論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shouyi jiaoyu lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教育學書,p 927</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4676</identifier>
+</mods>

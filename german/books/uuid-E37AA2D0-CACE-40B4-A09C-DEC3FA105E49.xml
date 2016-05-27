@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E37AA2D0-CACE-40B4-A09C-DEC3FA105E49">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">生田益雄著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Sheng tian yi xiongzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>通俗 亞仁林染料 一名《染粉案內》</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tongsu ya ren lin ranliao yi ming «ran fen an nei»</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,染色書,p 882</note>
+    <note type="price">六角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4172</identifier>
+</mods>

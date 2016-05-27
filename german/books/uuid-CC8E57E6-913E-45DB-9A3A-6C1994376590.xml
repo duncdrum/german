@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CC8E57E6-913E-45DB-9A3A-6C1994376590">
+    <titleInfo lang="chi" script="Hant">
+        <title>英機器報試彈圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ying jiqi bao shi dan tu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,子藥,p 114</note>
+    <abstract lang="chi" type="summary">英機器報試彈圖八幅 萃報本 [英]機器報著，昔會巴黎，斯時試急冷鐵法所製造之彈丸，其射擊力能將全鍜 鐵甲板貫通，其後用新壓縮法造鋼甲板，年進一年，巴黎斯之彈丸遂不能擊 貫之，於是造彈者亦更求精當。一千八百八十五年及八十六年中，法國有幾 家製鋼者以秘密新法創造，頂上著色鋼製彈丸，英國某公局即擬仿製，先購 此種徑口十寸之彈丸，取十寸半厚之複製鐵甲板後，更加以厚柏板向之試 彈，能貫全板，彈丸全長二十六寸，僅短縮其半寸，英遂購買此法用之，此後英 政府試驗彈丸之法甚嚴，所用試彈之複製甲板必有彈子徑口之尺寸一倍 半厚，遠約有一百二十碼，所定之火藥速力通例一杪時之間，有一千七百餘 尺至製彈所用之鐵，須以上等最量，瑞典鐵鍜冶尤要者，使其鐵變為極剛硬 之性，彈丸尖極硬，尾後略柔，則其射擊不裂破，此皆其試驗之圖焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_249</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80612458-F550-47C7-95BE-1567C9F73C48">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">松浦宏編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Song pu hong bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>初學必攜 大全漢語字書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chuxue bi xie daquan Hanyu zishu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,字引雜書,p 1074</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6683</identifier>
+</mods>

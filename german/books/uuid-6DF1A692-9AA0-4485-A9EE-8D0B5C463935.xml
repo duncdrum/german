@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6DF1A692-9AA0-4485-A9EE-8D0B5C463935">
+    <titleInfo lang="chi" script="Hant">
+        <title>克虜伯礮彈造法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ke lu bo bao dan zao fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,子藥,p 115</note>
+    <abstract lang="chi" type="summary">克虜伯礮彈造法二卷附圖一卷餅藥酒造法一卷 製造局本三冊 [布]軍政局原書，[美]金楷理譯，李鳳苞述，克虜伯來復礮彈製造之法，至精且密 ，然大要不外鑄鐵體、包鉛殼、配彈引儲炸藥，書中於此數端反覆詳盡。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_252</identifier>
+</mods>

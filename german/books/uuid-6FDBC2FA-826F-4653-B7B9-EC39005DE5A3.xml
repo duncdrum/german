@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6FDBC2FA-826F-4653-B7B9-EC39005DE5A3">
+    <titleInfo lang="chi" script="Hant">
+        <title>俄國秘事</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Eguo mishi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 57</note>
+    <abstract lang="chi" type="summary">俄國秘事一卷 地球雜誌本　通學齋叢書本 地球雜志館亦言俄事者，不可不讀。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_52</identifier>
+</mods>

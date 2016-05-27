@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4F6969FE-C557-4420-8435-5FA0B48DA712">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">伍軒著　原錦引泰編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Wu xuanzhe　yuan jin yin tai bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>尚不愧齋存稿</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shang bukui zhai cun gao</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,漢文書,p 960</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5099</identifier>
+</mods>

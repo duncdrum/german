@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-EE5E1928-1336-437C-996B-12D0318CD1C7">
+    <titleInfo lang="chi" script="Hant">
+        <title>物算教科書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wu suan jiaokeshu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 182</note>
+    <abstract lang="chi" type="summary">物算教科書二卷筆算教科書二卷 南洋公學本 [日本]文學社編，董瑞椿口述，朱念椿筆述，前者本名實物計，故省曰物算；後者 是算算故，逕以筆算名之。各分為上下兩卷，上卷教師所用，下卷生徒所用，是 書較筆算數家，尤合於童子心才，蓋幼童學算，其位數不宜過多也。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_517</identifier>
+</mods>

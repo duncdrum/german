@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-715B0C7F-9B38-4399-AC43-1174D457729B">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">植村正久譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhi cun zheng jiu yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>東京演說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongjing yanshuo</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷三,宗教門,雜教類,p 668</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1804</identifier>
+</mods>

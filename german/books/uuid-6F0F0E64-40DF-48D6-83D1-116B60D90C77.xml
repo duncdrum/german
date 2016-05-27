@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6F0F0E64-40DF-48D6-83D1-116B60D90C77">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">內田嘉一著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nei tian jia yizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>增訂 小學讀本 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zengding xiaoxue duben xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,小學讀本,p 950</note>
+    <note type="price">一圓四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4963</identifier>
+</mods>

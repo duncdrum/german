@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-339DE58E-14A6-4F0C-9BA3-851F1C5856B7">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本教育制度</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben jiaoyu zhidu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 85</note>
+    <abstract lang="chi" type="summary">日本教育制度一卷 時務報館本在日本學校章程三種內 [日本]古城貞吉譯，此明治二十三年十月敕定，蓋集諸教育書而成者，凡帝國 大學令十八條，學位令五條，學位令細目十條，中學校令十四條，師範學校令 十二條，尋常師範學校學科及程度十二條，小學校令九十三條。其更制設學 許狀、授官諸要，皆任之文部大臣，故其氣通，其法密，而於小學校教令尤為周 詳，日本變法首在學校，其知所重矣。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_153</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D842E767-45A2-408F-8407-E55B5D1D9B26">
+    <titleInfo lang="chi" script="Hant">
+        <title>東亞報</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongya bao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 274</note>
+    <abstract lang="chi" type="summary">東亞報 排印本，設日本。 中東人合譯，韓曇首等撰述，其例目，曰論說、曰宗教、曰政治、曰法律、曰商務、曰 蓺學、曰經世文選。後附各書所載皆採自日本各報，後譯諸書皆言政治、法律 ，光緒二十四年五月起，每月三冊，今已停。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_865</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4073E842-D45A-4647-BA9B-E61A99C39EA8">
+    <titleInfo lang="chi" script="Hant">
+        <title>地理學講義、附六洲表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dilixue jiangyi, fu liu zhou biao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 219</note>
+    <abstract lang="chi" type="summary">地理學講義　卷附六洲表四幅 上海金泉齊本 [日本]志賀重昂著，薩端譯原書及表，成於明治二十二年，其書略言數理地理、 自然地理、政治地理三種之分別，而尤詳於研究政治地理之法，鈎元開徑有 裨學者，附表四紙，分別亞細亞、歐羅巴、亞非利加、太平洋、北亞美利加、南亞美 利加六大洲邦國，而記其位置、面積、人口、政體、宗教、教育、人種、人情、財政、氣候、 職業、物產、貿易、交通、都邑、港場、度量衡等事。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_642</identifier>
+</mods>

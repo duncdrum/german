@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0B5F276F-BD08-4E7F-B0CD-B6EA48A6F4FD">
+    <titleInfo lang="chi" script="Hant">
+        <title>博物新論三集</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bowu xin lun san ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 180</note>
+    <abstract lang="chi" type="summary">博物新論三集 上海墨海書局刊本　廣州刻西醫五種本一冊　重刻單行本樂善堂刊本三冊 [英]合信著，初集論地文及光電，二集論天文，三集論動物。書雖太舊尚備大旨。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_511</identifier>
+</mods>

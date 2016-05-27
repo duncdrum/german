@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CCCCFA15-1057-4E8D-9F80-7F3A3862826E">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">小島原泰民譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xiaodao yuan tai min yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>齒科病理各論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chike bingli ge lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,齒科學,p 611</note>
+    <note type="price">三圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1178</identifier>
+</mods>

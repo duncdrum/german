@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C31BC907-BF4F-4701-91F1-4A5A32F047C5">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">三尾重定編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">San wei zhong ding bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>序書題跋 小學記事論說文例</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xu shu tiba xiaoxue jishi lunshuowen li</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,記事文,p 1046</note>
+    <note type="price">六角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6272</identifier>
+</mods>

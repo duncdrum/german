@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B462BC2C-8785-45E9-9635-2026E81BA804">
+    <titleInfo lang="chi" script="Hant">
+        <title>水師操練</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shuishi caolian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 104</note>
+    <abstract lang="chi" type="summary">水師操練十八卷附雜說一卷 製造局本三冊 [英]戰船部原書，[英]傅蘭雅譯，徐建寅述，名曰水師而陸地戰陣諸法，間亦述及， 其中言水師船艦操法未能詳盡，槍礮操法則略具矣。首卷所述為戰船操練 要例，不可不讀，特譯筆欠簡達。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_210</identifier>
+</mods>

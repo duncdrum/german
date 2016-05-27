@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-92541AD3-7C53-4CAF-A8DE-93E787EF21D8">
+    <titleInfo lang="chi" script="Hant">
+        <title>地理須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dili xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 222</note>
+    <abstract lang="chi" type="summary">地理須知一卷 格致須知初集本一冊 [英]傅蘭雅著，約分六章，略論地勢、空氣、雨雪、水源、潮汐之理，簡明可讀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_653</identifier>
+</mods>

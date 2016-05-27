@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2A93F7BC-738D-4739-A3F4-821092CCEE83">
+    <titleInfo lang="chi" script="Hant">
+        <title>富國須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fuguo xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 164</note>
+    <abstract lang="chi" type="summary">富國須知一卷 格致須知三集本一冊 [英]傅蘭雅著，書分七章，曰開源、曰政教、曰農事、曰資本、曰人功、曰貨物、曰錢幣， 不事遠大，不求淺隘立說，甚為平近。講商學者先讀此書，再求商學之策。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_448</identifier>
+</mods>

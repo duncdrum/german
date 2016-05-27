@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F039CE92-C105-46F5-913E-A0BB768F8B49">
+    <titleInfo lang="chi" script="Hant">
+        <title>列國現狀</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lieguo xianzhuang</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 55</note>
+    <abstract lang="chi" type="summary">列國現狀一卷 亞東時報本 [法]施塞著，亞東時報館譯，計分英吉利、澳地利、匈牙利、德意志、俄羅斯、意大利、 西班牙、白耳時、荷蘭、葡萄牙、瑞典、哪威、嗹馬、瑞士、巴爾坤半島、日本、北合衆國， 雖法人所撰，不免有揚俄抑英之處，然其概括列國時事，首尾了然，讀之亦可 知天下大勢矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_44</identifier>
+</mods>

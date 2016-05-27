@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6E2A612D-3C01-486C-B647-703D32C3A6D2">
+    <titleInfo lang="chi" script="Hant">
+        <title>禽鳥簡要編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qinniao jianyao bian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,動植物學第二十二,動物學,p 238</note>
+    <abstract lang="chi" type="summary">禽鳥簡要編一卷 格致彙編本 [英]傅蘭雅著，西國於動植學最所講究，皆設院藏蓄，任人觀覽以資考察。此書 雖較韋氏百鳥圖說所論更詳，然西國必有特設詳備之書，惜無譯本。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_725</identifier>
+</mods>

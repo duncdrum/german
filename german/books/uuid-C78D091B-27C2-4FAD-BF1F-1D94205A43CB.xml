@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C78D091B-27C2-4FAD-BF1F-1D94205A43CB">
+    <titleInfo lang="chi" script="Hant">
+        <title>寶藏興焉</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Baozang xing yan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 139</note>
+    <abstract lang="chi" type="summary">寶藏興焉十二卷 製造局本十六冊　礦務叢刻本析為要法八種。 [英]費而奔著，[英]傅蘭雅譯，徐壽述，論金鉑銀銅錫鐵鉛鋅鎳銻鉍汞諸礦形性 ，各盡其理，言鍊法亦極詳密，中譯礦學之書以此本為最要。 知新報印有英珍遮比令加著，周逢源譯，攷礦備要，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_346</identifier>
+</mods>

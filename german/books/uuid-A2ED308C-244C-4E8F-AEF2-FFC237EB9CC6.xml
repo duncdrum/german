@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A2ED308C-244C-4E8F-AEF2-FFC237EB9CC6">
+    <titleInfo lang="chi" script="Hant">
+        <title>日東軍政要略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ri dong jun-zheng yaolüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 101</note>
+    <abstract lang="chi" type="summary">日東軍政要略三卷 南洋公學本二冊 [日本]陸軍經理學校原本，南洋公學譯書院編譯，日本陸軍學校教為陸軍監 督補軍吏者，曰經理學校，其教科書有經理教程摘要者，載軍制條目頗備，譯 者復取陸海軍省官籍刪冗補遺，以成此書。凡三卷，分九篇，一切兵卒徵募、編 列、更代、教育廪給之法，與夫官秩、營制、軍用、馬政臚列詳備，其所增益十倍原 書云。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_202</identifier>
+</mods>

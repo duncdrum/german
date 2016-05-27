@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-67C29016-DE8C-4618-A6D9-A7E0C565FBA5">
+    <titleInfo lang="chi" script="Hant">
+        <title>各國交涉公法論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Geguo jiaoshe gongfa lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 88</note>
+    <abstract lang="chi" type="summary">各國交涉公法論十六卷附校勘記中西紀年 製造局本十六冊　富強叢書本光緒丙申上海石印本 [英]費利摩羅巴德著，[英]傅蘭雅譯，俞世爵、李鳳苞述，分為三集。大抵以羅馬律 法為根據，復彙集成案而成，於和戰條例尤為詳備，較丁譯各書為優矣。性法 公法本分二端，言性法之書譯本頗少於此，可見崖畧。 東亞書局譯有萬國交涉新公法，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_162</identifier>
+</mods>

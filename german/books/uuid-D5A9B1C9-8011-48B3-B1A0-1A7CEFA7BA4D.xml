@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D5A9B1C9-8011-48B3-B1A0-1A7CEFA7BA4D">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">吉岡正直編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ji gang zhengzhi bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小說六種 合本傑作集</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoshuo liu zhong he ben jiezuo ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1174</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8045</identifier>
+</mods>

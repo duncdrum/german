@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AFAC56BB-AF8F-47A3-AD88-69320860D559">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">文部省音樂取調掛</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Wenbu sheng yinyue qu diao gua</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學唱歌掛圖 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue changge guatu xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,唱歌集,p 995</note>
+    <note type="price">四圓一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5566</identifier>
+</mods>

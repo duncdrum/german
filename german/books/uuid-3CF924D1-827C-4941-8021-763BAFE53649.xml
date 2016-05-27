@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3CF924D1-827C-4941-8021-763BAFE53649">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">西﹝野﹞（海）古海編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xi﹝ye﹞ (hai) gu hai bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>改正苗字畫</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaizheng miao zi-hua</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,習字本,p 1016</note>
+    <note type="price">九分五釐</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5866</identifier>
+</mods>

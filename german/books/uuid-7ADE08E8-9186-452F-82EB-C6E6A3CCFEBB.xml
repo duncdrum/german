@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7ADE08E8-9186-452F-82EB-C6E6A3CCFEBB">
+    <titleInfo lang="chi" script="Hant">
+        <title>理學須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lixue xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,理學第二十五,理學,p 260</note>
+    <abstract lang="chi" type="summary">理學須知一卷 光緒二十四年格致書室刊本一冊 [英]傅蘭雅著，其書專揭分晰事物之法，於理學為論辨，於辨學為理辨，與艾約 瑟所譯辨學啟蒙相出入，而文詞之明白過之，學者欲窮格致之要，宜讀此以 植其基，而旁攷西學略述中之言理學，與赫胥黎天演論下卷，以窮其流，於真 理庶乎無疑。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_802</identifier>
+</mods>

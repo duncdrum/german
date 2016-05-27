@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C672B4A-1DF1-46C4-9966-15FEBFE89A3E">
+    <titleInfo lang="chi" script="Hant">
+        <title>西學格致新編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xixue gezhi xinbian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 179</note>
+    <abstract lang="chi" type="summary">西學格致新編　卷 蒙學報本 [日本]小杉豐甕編，[日本]平阪閎補，[日本]松林孝純譯，全書計五篇，曰植物大要、 動物大要、鑛物大要、物理大要、化學大要。凡三十八章，又名小學理科新篇。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_506</identifier>
+</mods>

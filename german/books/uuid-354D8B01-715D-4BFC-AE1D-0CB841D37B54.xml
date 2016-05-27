@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-354D8B01-715D-4BFC-AE1D-0CB841D37B54">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">上原六四郎講述</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shang yuan Liu-Si lang jiangshu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>手工科講義錄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shougong ke jiangyi lu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,手工學書,p 880</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4164</identifier>
+</mods>

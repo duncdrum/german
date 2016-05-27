@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C5EF43C-EA80-48FD-B29C-A5174DD4615A">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">生田秀譯補</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Sheng tian xiu yi bu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>定量分析法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dingliang fenxi fa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,分析書,p 634</note>
+    <note type="price">九角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1431</identifier>
+</mods>

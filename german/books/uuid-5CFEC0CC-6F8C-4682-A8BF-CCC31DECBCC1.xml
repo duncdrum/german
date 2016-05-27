@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5CFEC0CC-6F8C-4682-A8BF-CCC31DECBCC1">
+    <titleInfo lang="chi" script="Hant">
+        <title>公法便覽</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gongfa bianlan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,公法,p 88</note>
+    <abstract lang="chi" type="summary">公法便覽四卷續二卷 光緒三年同文館本六冊　上海排印本 [美]吳爾璽著，[美]丁韙良、汪鳳藻鳳儀、左秉隆德明同譯，此書較惠氏萬國公法 更為周密，例有未達者，厯引泰西史乘及近今案牘以發明之，復經數手精心 筆述，故其文義簡顯，非同惠書之佶屈。續上卷載歐洲各國三百年來所立條 約，下卷名為證義，蓋旁引他書以補正本書之闕漏，二者皆不可少。然繙譯公 法書一字之殊，情節大異，學者當合諸書參攷之則得矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_164</identifier>
+</mods>

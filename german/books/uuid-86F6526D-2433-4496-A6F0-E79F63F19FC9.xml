@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-86F6526D-2433-4496-A6F0-E79F63F19FC9">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">故中村正直序　經濟雜誌社編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gu zhong cun zhengzhi xu　jingji zazhi she bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>訂正增補 大日本人名辭書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dingzheng zengbu da Ribenren ming cishu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 720</note>
+    <note type="price">十 二 圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2460</identifier>
+</mods>

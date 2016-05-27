@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0D7BD0F3-5A21-473C-9E62-02760A5662DD">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本報律</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben bao lü</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 79</note>
+    <abstract lang="chi" type="summary">日本報律一卷 己亥中外日報本 樊炳清譯，凡三十七條。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_129</identifier>
+</mods>

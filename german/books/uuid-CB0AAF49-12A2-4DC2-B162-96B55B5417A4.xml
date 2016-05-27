@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CB0AAF49-12A2-4DC2-B162-96B55B5417A4">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學鑑原續編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue jian yuan xubian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 202</note>
+    <abstract lang="chi" type="summary">化學鑑原續編二十四卷 製造局本六冊　西學大成本　富強叢書本 [英]蒲陸山著，[英]傅蘭雅譯，徐壽述，書中專詳生長類之質，首論含哀之質，次論 蒸煤、蒸木所得之質，次論油酒粉糖醋等質性，以至動物變化植物生長等，各 盡其理。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_581</identifier>
+</mods>

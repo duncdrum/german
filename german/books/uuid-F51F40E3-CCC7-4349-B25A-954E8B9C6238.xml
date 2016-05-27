@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F51F40E3-CCC7-4349-B25A-954E8B9C6238">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">渡邊義方著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Du bian yifangzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>國家干城 谷將軍詳傳</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guojia gancheng gu jiangjun xiang chuan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,傳記,p 720</note>
+    <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2462</identifier>
+</mods>

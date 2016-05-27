@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-30155E2D-AFE8-41BC-B5C9-E0BD780A18A0">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">秋山純編　卷菱潭書</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qiu shan chun bian　juan ling tan shu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>改正教則 小學習字帖 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaizheng jiao ze xiaoxue xizitie xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,習字帖小學校用,p 1023</note>
+    <note type="price">五角九分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5959</identifier>
+</mods>

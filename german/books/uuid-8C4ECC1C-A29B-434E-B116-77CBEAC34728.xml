@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8C4ECC1C-A29B-434E-B116-77CBEAC34728">
+    <titleInfo lang="chi" script="Hant">
+        <title>電氣鍍金略法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dianqi dujin lüe fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 157</note>
+    <abstract lang="chi" type="summary">電氣鍍金略法一卷 製造局本一冊　格致彙編本　富強叢書本 [英]華特著，[英]傅蘭雅譯，周郇兩述。按此法為英人司本沙與俄人約克皮同時 攷得，首論鍍金源流，次論鍍銅、鍍銀、鍍黃銅、鍍鉑、鍍錞等法，附錄四十六款，又 續附四十六款，備詳節目與西蓺知新內鍍金參看，可互證其理。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_424</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-642C439D-9A5B-4861-A46E-93D4D4C54C99">
+    <titleInfo lang="chi" script="Hant">
+        <title>延年益壽論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yannianyishou lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 252</note>
+    <abstract lang="chi" type="summary">延年益壽論一卷 格致彙編本一冊 [英]愛凡司著，[英]傅蘭雅輯譯，是書論人老之故及天然之死，論人老死聚質之 根原，論飲食用何重數能致延年，論人與動植物益壽之案，論人生免死之法 論益壽可用之物，其言率取醫義而究與醫義異，立法近乎衛生，又與衛生不 同，大旨以免病為主，延年為宗，所論平實可聽，亦西人養生之要書。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_780</identifier>
+</mods>

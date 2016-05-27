@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2832B397-2E44-4F29-B829-0F35B05B0F9B">
+    <titleInfo lang="chi" script="Hant">
+        <title>植物圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhiwu tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,動植物學第二十二,植物學,p 236</note>
+    <abstract lang="chi" type="summary">植物圖說四卷 益智書會本一冊 [英]傅蘭雅著，為講求植物學之初基，以之教習童蒙，最為相宜，葉氏植物學歌 略憑此書而作，欲詳考幹體、部類、土宜、形性者，宜與西藥大成參看。 益智書會印有英傅蘭雅植物利用，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_718</identifier>
+</mods>

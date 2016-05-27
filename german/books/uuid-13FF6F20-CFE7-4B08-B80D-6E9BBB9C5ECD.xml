@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-13FF6F20-CFE7-4B08-B80D-6E9BBB9C5ECD">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">大藏永常著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Da cang yong changzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>《勸農叢書》 再種方 一名《二度稻之記》</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>«Quannong congshu» zai zhong fang yi ming «erdu dao zhi ji»</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,稻作書,p 834</note>
+    <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3708</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-07123B04-BE48-465D-95A4-15AAA3B91679">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">長濱兼吉著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Chang bin jian jizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>新體萬國小地理學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xinti wanguo xiao dilixue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,萬國地理,p 674</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1834</identifier>
+</mods>

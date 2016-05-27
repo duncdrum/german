@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-638C3574-D2FB-4E46-AA54-1946C08EE9C5">
+    <titleInfo lang="chi" script="Hant">
+        <title>軍隊內務書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jundui neiwu shu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 98</note>
+    <abstract lang="chi" type="summary">軍隊內務書一冊 南洋公學本 [日本]陸軍省原本，南洋公學譯書院譯，凡二十六章，章各有目，其大綱約分數 端，曰官守、曰醫事、曰營規、曰軍禮、曰兵律、曰馬政，而冠以服從，終以報告。原書 本二十八章，譯者刪其無益實用者二章，而於二十二章增譯懲罰法令大略， 以便誦覽焉。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_192</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B2C0909D-E123-4DB2-9BA4-99982D78AAE1">
+    <titleInfo lang="chi" script="Hant">
+        <title>昌言報</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Changyan bao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 275</note>
+    <abstract lang="chi" type="summary">昌言報 排印本，設上海。 中東人合譯，梁鼎芬、汪康年等撰述，光緒二十四年七月起，每月三冊至十冊 止，體例與時務報同，然多採商務各報，凡時務報附印未成之書，仍由昌言報 接印，惜不久即停。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_867</identifier>
+</mods>

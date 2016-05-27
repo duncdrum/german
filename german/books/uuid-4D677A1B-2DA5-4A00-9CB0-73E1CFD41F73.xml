@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4D677A1B-2DA5-4A00-9CB0-73E1CFD41F73">
+    <titleInfo lang="chi" script="Hant">
+        <title>美國陸軍制</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meiguo lujun zhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 100</note>
+    <abstract lang="chi" type="summary">美國陸軍制一冊 南洋公學本 南洋公學譯書院編譯，是書原本，不著撰人名氏，惟論及法蘭西事皆稱我國， 當是法人隸美籍者，所撰譯者就原書次第，釐為八篇，惟前後皆叙國兵之制 ，獨第三人篇言民兵、義兵，第四篇紀脚車隊，又為民兵中之一事，且第一篇已畧 舉步騎礮工兵制，而第五篇又專論騎兵一門，疑必是急就之作，故體例多未 完整，然美國軍制夙無譯本，得是書亦可見大略矣。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_199</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D69AD58E-B3FF-46F1-B2A3-707950675DDC">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">嵩山堂藏板</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Songshan tang cang ban</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小倉百人一首 大本</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiao cang bai ren yi shou daben</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,歌集,p 979</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5327</identifier>
+</mods>

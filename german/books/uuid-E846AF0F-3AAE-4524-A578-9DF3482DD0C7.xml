@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E846AF0F-3AAE-4524-A578-9DF3482DD0C7">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">藤良國著　內山校正</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Teng liang guozhe　nei shan jiaozheng</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>詩語對句自在</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shi yu duiju zizai</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,作詩及詩集,p 969</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5176</identifier>
+</mods>

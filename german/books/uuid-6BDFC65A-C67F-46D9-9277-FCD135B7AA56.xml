@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6BDFC65A-C67F-46D9-9277-FCD135B7AA56">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">農務省藏板</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nong wu sheng cang ban</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>地質調查 報文分析之部</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dizhi diaocha bao wen fenxi zhi bu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,地質學,p 637</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1458</identifier>
+</mods>

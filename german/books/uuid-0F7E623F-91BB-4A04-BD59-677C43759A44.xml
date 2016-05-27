@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0F7E623F-91BB-4A04-BD59-677C43759A44">
+    <titleInfo lang="chi" script="Hant">
+        <title>格物探原</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gewu tanyuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 180</note>
+    <abstract lang="chi" type="summary">格物探原六卷 廣學會本四冊　活字印本 [英]韋廉臣著，論天地物產之性質，歸功天主學者，當分別觀之。彙編二有混沌 說，又有韋氏格致窮理論，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_509</identifier>
+</mods>

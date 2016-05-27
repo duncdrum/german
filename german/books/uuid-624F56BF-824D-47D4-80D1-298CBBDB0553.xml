@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-624F56BF-824D-47D4-80D1-298CBBDB0553">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">假名垣魯文著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jiaming yuan lu wenzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>各國漫遊記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Geguo man you ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1160</note>
+    <note type="price">八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7833</identifier>
+</mods>

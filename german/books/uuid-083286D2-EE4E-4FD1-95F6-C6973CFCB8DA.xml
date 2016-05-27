@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-083286D2-EE4E-4FD1-95F6-C6973CFCB8DA">
+    <titleInfo lang="chi" script="Hant">
+        <title>前敵須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiandi xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 94</note>
+    <abstract lang="chi" type="summary">前敵須知四卷圖一卷 製造局本五冊　富強叢書本 [英]克利賴著，舒高第、鄭昌棪同譯，全書宗旨偵探為主，厯舉各國戰事若何合 法，若何失勢，皆引戰史為證，其圖皆各國戰事營陣之式，西人凡觀戰者必有 圖說，報之本國，共相攷究。是書即當時所呈報也，彙編五有英奴里司預擬將 來陸戰論，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_184</identifier>
+</mods>

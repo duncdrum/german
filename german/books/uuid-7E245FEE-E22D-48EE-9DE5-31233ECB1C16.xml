@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7E245FEE-E22D-48EE-9DE5-31233ECB1C16">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">長瀨市太郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Chang lai shi tai langzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>民事刑事訴訟手續案內</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Minshi xingshi susong shouxu an nei</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,訴訟法,p 797</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3372</identifier>
+</mods>

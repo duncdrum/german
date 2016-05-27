@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0E0A6AEA-2A10-4DA9-B65F-50E70ECA3807">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">麻生武平譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ma sheng wu ping yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>器械運動解說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qixie yundong jieshuo</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,機器學,p 869</note>
+    <note type="price">一圓三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4050</identifier>
+</mods>

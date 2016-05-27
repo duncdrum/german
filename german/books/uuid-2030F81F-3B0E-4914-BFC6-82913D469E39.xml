@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2030F81F-3B0E-4914-BFC6-82913D469E39">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">桂文樂著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gui wen lezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>深情雪之瀨川</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shenqing xue zhi lai chuan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1196</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8373</identifier>
+</mods>

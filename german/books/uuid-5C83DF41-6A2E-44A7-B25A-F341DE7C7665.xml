@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5C83DF41-6A2E-44A7-B25A-F341DE7C7665">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本財產取得篇 外二種合本</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben caichan qude pian wai er zhong he ben</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,民法,p 790</note>
+    <note type="price">五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3284</identifier>
+</mods>

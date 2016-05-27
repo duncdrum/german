@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-82F5E614-5E7A-4708-91F9-903C6F352AB4">
+    <titleInfo lang="chi" script="Hant">
+        <title>隔靴論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ge xue lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 279</note>
+    <abstract lang="chi" type="summary">隔靴論一卷 東洋本 [日本]鹽谷世宏著，日本地處同洲，言中國利弊較確，其論英十勝而中十敗比 互言之，誠有見地，鹽谷氏雖守舊家，乃能洞見如此，安得不愧。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_880</identifier>
+</mods>

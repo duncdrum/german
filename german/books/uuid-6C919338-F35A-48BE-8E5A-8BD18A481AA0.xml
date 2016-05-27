@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6C919338-F35A-48BE-8E5A-8BD18A481AA0">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">澁江保</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Se jiang bao</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>初等教育小倫理書 《通俗教育全書》二十五篇</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chudeng jiaoyu xiao lunli shu «tongsu jiaoyu quanshu» ershiwu pian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,倫理學,p 658</note>
+    <note type="price">一角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1693</identifier>
+</mods>

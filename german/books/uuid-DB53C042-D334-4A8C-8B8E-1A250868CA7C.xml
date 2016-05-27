@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DB53C042-D334-4A8C-8B8E-1A250868CA7C">
+    <titleInfo lang="chi" script="Hant">
+        <title>泰西本草名疏</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Taixi bencao ming shu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,藥品,p 248</note>
+    <abstract lang="chi" type="summary">泰西本草名疏三卷 東洋刊本 [日本]伊藤清民著，書以窮究植學之理為主，故雌雄之辨，種屬之條，頗為詳密， 說恐不明，附之以圖，伊藤氏本有本草大成之作，惜未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_765</identifier>
+</mods>

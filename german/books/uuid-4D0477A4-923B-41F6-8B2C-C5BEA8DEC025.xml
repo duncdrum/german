@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4D0477A4-923B-41F6-8B2C-C5BEA8DEC025">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">阿部弘國訓點</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">A bu hong guo xun dian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>漢譯伊蘇普譚</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hanyi yi su pu tan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 914</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4496</identifier>
+</mods>

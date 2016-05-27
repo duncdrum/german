@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FE93BA84-FEE7-44B7-890E-55564EDBAD2F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">故大槻磐溪</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gu da gui pan xi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>刪修 近古史談</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shan xiu jingu shi tan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,言行錄,p 923</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4626</identifier>
+</mods>

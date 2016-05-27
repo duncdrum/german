@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-432AAF80-E5F3-4989-83AD-A03AC2CF48BD">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">清野勉增訂補譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qingye mian zengding bu yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>增訂 士都華氏物理學 再訂十版</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zengding shi dou Huashi wulixue zai ding shi ban</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,物理學,p 629</note>
+    <note type="price">二圓五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1355</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4B03E61E-0BCC-4CE3-96F0-CB29ECCB9DFD">
+    <titleInfo lang="chi" script="Hant">
+        <title>俄史輯譯</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>E shi ji yi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 51</note>
+    <abstract lang="chi" type="summary">俄史輯譯四卷 益智書會本四冊　富強叢書本 [英]闞斐迪譯，徐景羅述，俄國自西厤八百六十二年合而為一，始有俄羅斯之 名。是書所記即從此年起，當　中國唐咸通三年，訖於咸豐六年，凡書七十七章， 中如分波蘭，弱瑞典，窺波斯，危突厥，戰英法，其家法尚雄武，喜爭戰，君與臣居 心殘酷皆可想見，而大彼得遺詔十四條，其忍心險語尤為五洲各國所公懼， 至其旁徵曲引，凡政教沿革與夫專制始末，臚載尚備。 製造局印有美林樂知、嚴良勳譯，俄羅斯國史二冊；同文館刻有某人俄國史略；東亞書局譯有俄國內政外交史、俄國近時大事記，均未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_30</identifier>
+</mods>

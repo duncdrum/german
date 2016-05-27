@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BF54DFF9-E119-4C4C-B222-01C0A2894CF3">
+    <titleInfo lang="chi" script="Hant">
+        <title>附人與微生物爭戰論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu ren yu weishengwu zhengzhan lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 234</note>
+    <abstract lang="chi" type="summary">附 人與微生物爭戰論一卷 格致彙編本 [英]禮敦根著，[英]傅蘭雅譯，人之病症大半為極細微之生物所成，西人賴顯微 鏡之力推得妙理，近有特設之書論之甚詳，此為禮氏集會講論之作，於成病 免病之理法，但言其大略，然苟據其論以深究之，足以補中醫所未備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_708</identifier>
+</mods>

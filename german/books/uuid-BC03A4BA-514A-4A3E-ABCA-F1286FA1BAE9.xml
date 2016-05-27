@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BC03A4BA-514A-4A3E-ABCA-F1286FA1BAE9">
+    <titleInfo lang="chi" script="Hant">
+        <title>辨學啟蒙</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bian xue qimeng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,理學第二十五,理學,p 259</note>
+    <abstract lang="chi" type="summary">辨學啟蒙一冊 西學啟蒙本 [英]哲分斯著，[英]艾約瑟譯，人生之初有知識，即知分辨窮理度物，審情推事，大 小精粗無不各有界說，創斯學者首自希臘，其後西人殫心探討，其理日精，而 大書院中遂為教授童蒙課程，是書所列條理僅舉大略，足以窺見辨學之門 徑，亟宜考究，其理由淺入深，詳列問答，以成一書籍為課蒙之用，利瑪竇有辨 學遺牘，與此異。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_800</identifier>
+</mods>

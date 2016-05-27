@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A820C3B6-C0F4-48BF-BA09-E6215BAD7801">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">堀中東洲編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ku Zhongdong zhou bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>繪入古今明細年代記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hui ru gu-jin mingxi niandai ji</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,年代記,p 728</note>
+    <note type="price">六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2568</identifier>
+</mods>

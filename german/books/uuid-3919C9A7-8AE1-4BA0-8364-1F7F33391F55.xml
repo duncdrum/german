@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3919C9A7-8AE1-4BA0-8364-1F7F33391F55">
+    <titleInfo lang="chi" script="Hant">
+        <title>算法起原集</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Suanfa qiyuan ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,數學,p 184</note>
+    <abstract lang="chi" type="summary">算法起原集三卷續集附錄一卷 日本干鍾房本 [日本]佐久閒讚著。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_526</identifier>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B0A67084-5C81-40CD-AF03-C9201A6130EC">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">伊勢錠五郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yi shi ding wu lang yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>內科病論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Neike bing lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,內科學,p 606</note>
+    <note type="price">三圓九角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1106</identifier>
+</mods>

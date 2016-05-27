@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-ACE9B092-7D06-44D6-BA9D-1FCE56343E7A">
+    <titleInfo lang="chi" script="Hant">
+        <title>興華新義</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xing hua xin yi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 285</note>
+    <abstract lang="chi" type="summary">興華新義一卷 廣學會本一冊 [美]林樂知著，蔡爾康述，析為五綱，中言道德一門，仍不免教門之意見，權力一 門其說多可採用。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_905</identifier>
+</mods>

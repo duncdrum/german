@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CE26EC15-D63C-437A-BC4B-CD2B932B5AC2">
+    <titleInfo lang="chi" script="Hant">
+        <title>騐礦砂要法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yan kuangsha yao fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 141</note>
+    <abstract lang="chi" type="summary">騐礦砂要法　卷 廣學會本 同文館化學教習施德明譯，書凡十節。論礦質內提取金銀銅鐵鉛錫之類，係 為礦師騐礦所用，開礦之先將礦砂少許，按法煆煉查，其內含各金之數，以定 開礦時如何提鍊有無利益，記載明晰，法術簡當，器具藥料開列全備，頗切於 實用。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_353</identifier>
+</mods>

@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E36C1C8C-31AF-429C-A134-C226C9AEDE65">
+    <titleInfo lang="chi" script="Hant">
+        <title>造林學各論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zaolin xue ge lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 128</note>
+    <abstract lang="chi" type="summary">造林學各論三卷 農學報本 [日本]本多靜六著，林壬譯，此編專論針葉林木及椰子類、竹類，各種其闊葉林 木概從闕如，日本所有樹種與歐美全異，故造林學亦非僅譯西書所能足用， 作者就日本所有者講究之，以成斯書焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_299</identifier>
+</mods>

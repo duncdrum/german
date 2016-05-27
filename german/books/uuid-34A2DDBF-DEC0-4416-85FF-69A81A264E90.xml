@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-34A2DDBF-DEC0-4416-85FF-69A81A264E90">
+    <titleInfo lang="chi" script="Hant">
+        <title>山東貧窶攷</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shandong pinju kao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 286</note>
+    <abstract lang="chi" type="summary">山東貧窶攷　卷 上海廣學會本　新學彙編本 [英]仲均安著譯，張召棠述，言東省貧窶不關河患，惟民間未學工蓺，不知製作 以抵制漏塞為貧窶之源，其言頗確。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_908</identifier>
+</mods>

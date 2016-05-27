@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-93D97F27-EA91-4A2E-8834-089B5D596E82">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">後藤新平譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Hou teng xin ping yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>普通 生理衛生學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Putong shengli weisheng xue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,生理學學校用,p 593</note>
+    <note type="price">一圓九角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_960</identifier>
+</mods>

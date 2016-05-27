@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4265E26E-8FD0-4F5F-A22A-F190B852C808">
+    <titleInfo lang="chi" script="Hant">
+        <title>製玻璃法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhi boli fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 156</note>
+    <abstract lang="chi" type="summary">製玻璃法二卷附瓷面釉質 不著撰人名氏，[英]傅蘭雅譯，徐壽述。　彙編一有論韌性玻璃一篇，西國瓷器源流一篇；又二有造玻璃法一篇，西國造瓷機器一篇，中西聞見錄有論玻璃二篇，均可參攷。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_420</identifier>
+</mods>

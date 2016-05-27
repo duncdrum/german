@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A48491B8-7436-479D-8342-71A977EC010F">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本中興先覺志</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben zhongxing xianjue zhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 69</note>
+    <abstract lang="chi" type="summary">日本中興先覺志　卷 上海石印本 [日本]岡本監輔著，中載明治維新人物事蹟頗詳，岡本君與諸君生相前後，故 叙事得以核實，讀此書者於日本當日變法與今日自強之原委，思過半矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_90</identifier>
+</mods>

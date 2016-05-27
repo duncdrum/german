@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B8AA5937-355E-4814-B1E6-C0D36835AEF0">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">高坂駒三郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao ban ju san lang yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>生理化學分析表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shengli huaxue fenxi biao</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,分析書,p 635</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1435</identifier>
+</mods>

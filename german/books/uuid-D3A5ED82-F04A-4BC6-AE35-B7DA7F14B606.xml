@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D3A5ED82-F04A-4BC6-AE35-B7DA7F14B606">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">林信廣編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lin xin guang bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>理化學問題及解答</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Li huaxue wenti ji jieda</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,理化學,p 630</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1369</identifier>
+</mods>

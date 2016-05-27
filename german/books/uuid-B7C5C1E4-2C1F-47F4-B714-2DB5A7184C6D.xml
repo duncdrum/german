@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B7C5C1E4-2C1F-47F4-B714-2DB5A7184C6D">
+    <titleInfo lang="chi" script="Hant">
+        <title>泰西本草撮要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Taixi bencao cuoyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,藥品,p 248</note>
+    <abstract lang="chi" type="summary">泰西本草撮要一卷 格致彙編本一冊 [英]傅蘭雅輯譯，西國言藥之書，不獨講論藥品形性，兼論治病理法，此書不能 將藥品與治病相關之理一一詳論，但取植物動物金石之品繪圖以明之，擇 要以解之，期其簡明也，惜又僅譯植物，餘皆未備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_764</identifier>
+</mods>

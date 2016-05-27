@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F9D12907-FD88-417F-9708-C4D74EC01995">
+    <titleInfo lang="chi" script="Hant">
+        <title>觀光紀遊</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Guanguang ji you</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 267</note>
+    <abstract lang="chi" type="summary">觀光紀遊十卷 明治十九年排印本　小方壺齋本 [日本]岡千仞著，當光緒十一年間遊中國所作，曰航滬日記、曰蘇杭日記、曰滬 上日記、曰燕京日記、曰滬上再記、曰奧南日記。憤中國之積弱，而以六經毒與 雅片毒並言，儒者當自反取詬之由。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_835</identifier>
+</mods>

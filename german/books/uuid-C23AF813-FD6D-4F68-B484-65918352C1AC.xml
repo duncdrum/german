@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C23AF813-FD6D-4F68-B484-65918352C1AC">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">中井豐享編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhong jing feng xiang bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>文機活法外篇 近體記事之部</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wen ji huo fa wai pian jin ti jishi zhi bu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,作文書,p 1037</note>
+    <note type="price">四角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6140</identifier>
+</mods>

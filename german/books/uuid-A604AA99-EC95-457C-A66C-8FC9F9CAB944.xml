@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A604AA99-EC95-457C-A66C-8FC9F9CAB944">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">明治法律學士講述</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ming zhi falü xueshi jiangshu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>商法正義 商之通則商事會社</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shangfa zhengyi shang zhi tongze shangshi huishe</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,商法,p 795</note>
+    <note type="price">一圓一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3345</identifier>
+</mods>

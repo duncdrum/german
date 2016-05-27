@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE1F0145-10B9-4B84-A617-9F649132C78B">
+    <titleInfo lang="chi" script="Hant">
+        <title>西燈說略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi deng shuo lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 160</note>
+    <abstract lang="chi" type="summary">西燈說略一卷 格致彙編本 [英]傅蘭雅著，西人於燃燈諸事亦頗詳究其利弊，書中先繪各燈體式，後論中 國與英國海邊所造燈塔為行船要事，特備詳之，講求船政者不可不攷也。彙 編二有論煤氣燈，又五有藥水電燈圖說，又六有美卜舫濟論造臘燭法，皆可 參攷，又四有影戲燈法足以補其未備。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_436</identifier>
+</mods>

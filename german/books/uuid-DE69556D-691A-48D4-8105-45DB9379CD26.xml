@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-DE69556D-691A-48D4-8105-45DB9379CD26">
+    <titleInfo lang="chi" script="Hant">
+        <title>斯密亞丹原富</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Si mi ya dan yuan fu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 164</note>
+    <abstract lang="chi" type="summary">斯密亞丹原富甲二卷部乙部丙各一卷 南洋公學本 [英]斯密亞丹著，嚴復譯，是書凡五部，尚有丁戊二部，未印。斯密氏當英國行護 商法時，創立自利，利他一貫之說，而自由貿易之局，由是開焉。英以致富，其言 繁博精闢，多足為我國近狀之藥石，今去著書時已百餘年枝葉之義，或為後 出之說所勝，嚴氏悉附著之，而又時援我國近狀以相證，可謂完善矣。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_449</identifier>
+</mods>

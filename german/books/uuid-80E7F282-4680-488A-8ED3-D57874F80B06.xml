@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-80E7F282-4680-488A-8ED3-D57874F80B06">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">小藤文次郎編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xiao teng wen ci lang bianzuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>訂正再版 地理學教科書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dingzheng zaiban dilixue jiaokeshu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,萬國地理,p 674</note>
+    <note type="price">一圓七角　七角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1840</identifier>
+</mods>
