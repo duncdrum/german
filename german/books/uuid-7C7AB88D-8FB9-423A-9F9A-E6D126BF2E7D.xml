@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7C7AB88D-8FB9-423A-9F9A-E6D126BF2E7D"><titleInfo lang="chi" script="Hant"><title>二約釋義叢書</title></titleInfo><note type="citation">增版東西學書錄,卷四,宗教第二十七,p 265</note><abstract type="summary"> 二約釋義叢書三冊 廣學會本   [英]韋廉臣著 </abstract><identifier type="mh">book_826</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7C7AB88D-8FB9-423A-9F9A-E6D126BF2E7D">
+    <titleInfo lang="chi" script="Hant">
+        <title>二約釋義叢書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Er yue shiyi congshu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,宗教第二十七,p 265</note>
+    <abstract lang="chi" type="summary">二約釋義叢書三冊 廣學會本 [英]韋廉臣著</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_826</identifier>
+</mods>

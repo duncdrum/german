@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-397DF711-C1AA-4A89-8514-2338E67757AA"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">金港堂編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>小學萬國地誌 小學校用 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note><note type="price">四角五分</note><identifier type="mh">book_1907</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-397DF711-C1AA-4A89-8514-2338E67757AA">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">金港堂編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jin gang tang bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學萬國地誌 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue wanguo de zhi xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 679</note>
+    <note type="price">四角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1907</identifier>
+</mods>

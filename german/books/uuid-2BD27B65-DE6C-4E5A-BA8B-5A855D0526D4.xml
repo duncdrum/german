@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2BD27B65-DE6C-4E5A-BA8B-5A855D0526D4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">高島勝次郎著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>明治理科書高等 小學校用 </title></titleInfo><note type="citation">日本書目志,卷二,理學門,理科學學校用,p 625</note><note type="price">八角</note><identifier type="mh">book_1315</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2BD27B65-DE6C-4E5A-BA8B-5A855D0526D4">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">高島勝次郎著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao dao sheng ci langzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治理科書高等 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming zhili ke shu gaodeng xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,理科學學校用,p 625</note>
+    <note type="price">八角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1315</identifier>
+</mods>

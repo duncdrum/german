@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-345E654F-DD1C-4E70-A655-A38AFD0EB618"><titleInfo lang="chi" script="Hant"><title>騎兵斥候答問</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 98</note><abstract type="summary"> 騎兵斥候答問　卷 南洋公學本   [日本]陸軍教導團原本，南洋公學譯書院譯，凡答問六十四則，於搜索斥候一 事曲折詳盡，細大弗遺。 [徐補]  </abstract><identifier type="mh">book_193</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-345E654F-DD1C-4E70-A655-A38AFD0EB618">
+    <titleInfo lang="chi" script="Hant">
+        <title>騎兵斥候答問</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qibing chihou dawen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 98</note>
+    <abstract lang="chi" type="summary">騎兵斥候答問　卷 南洋公學本 [日本]陸軍教導團原本，南洋公學譯書院譯，凡答問六十四則，於搜索斥候一 事曲折詳盡，細大弗遺。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_193</identifier>
+</mods>

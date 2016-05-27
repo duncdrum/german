@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C0C1109B-D029-405D-9DAE-E7CEAB29BEF2"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">奧野綱城著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>實用民事刑事訴訟手續</title></titleInfo><note type="citation">日本書目志,卷六,法律門,訴訟法,p 797</note><note type="price">一角八分</note><identifier type="mh">book_3370</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C0C1109B-D029-405D-9DAE-E7CEAB29BEF2">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">奧野綱城著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ao ye gang chengzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>實用民事刑事訴訟手續</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shiyong minshi xingshi susong shouxu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,訴訟法,p 797</note>
+    <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3370</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-25B5917D-D98F-4D9E-86F0-D19E0C9C0DDA"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">足立寬譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>彪氏外科通論</title></titleInfo><note type="citation">日本書目志,卷一,生理門,外科學,p 608</note><note type="price">三圓四角</note><identifier type="mh">book_1140</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-25B5917D-D98F-4D9E-86F0-D19E0C9C0DDA">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">足立寬譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zu li kuan yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>彪氏外科通論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Biao shi waike tonglun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,外科學,p 608</note>
+    <note type="price">三圓四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1140</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4DC5D5A4-FFF7-4927-835C-93D1291704FF"><titleInfo lang="chi" script="Hant"><title>生絲繭種審查法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 125</note><abstract type="summary"> 生絲繭種審查法　卷 農學報本   [日本]高橋信貞述，沈紘譯，附以圖說，列表以明之。 [顧補]  </abstract><identifier type="mh">book_285</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4DC5D5A4-FFF7-4927-835C-93D1291704FF">
+    <titleInfo lang="chi" script="Hant">
+        <title>生絲繭種審查法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shengsi jian zhong shencha fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 125</note>
+    <abstract lang="chi" type="summary">生絲繭種審查法　卷 農學報本 [日本]高橋信貞述，沈紘譯，附以圖說，列表以明之。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_285</identifier>
+</mods>

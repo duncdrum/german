@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-36DEB883-F816-45EB-A718-2439DDCDDFAA"><titleInfo lang="chi" script="Hant"><title>黑奴籲天錄</title></titleInfo><note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note><abstract type="summary"> 黑奴籲天錄四卷 林譯本   [泰西]土斯活著，林紓、魏易合譯，原名湯姆叙。當日南美洲凌虐黑奴之狀慘暴 至無人理，而情文凄惋，聞者酸鼻，讀斯書可以悚然懼矣。 [顧補]  </abstract><identifier type="mh">book_920</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-36DEB883-F816-45EB-A718-2439DDCDDFAA">
+    <titleInfo lang="chi" script="Hant">
+        <title>黑奴籲天錄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Heinu yu tian lu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note>
+    <abstract lang="chi" type="summary">黑奴籲天錄四卷 林譯本 [泰西]土斯活著，林紓、魏易合譯，原名湯姆叙。當日南美洲凌虐黑奴之狀慘暴 至無人理，而情文凄惋，聞者酸鼻，讀斯書可以悚然懼矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_920</identifier>
+</mods>

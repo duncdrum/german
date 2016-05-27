@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2E5CE4B2-9BA3-487D-B7AE-F9760F6CB8B1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">櫻陰居士撰</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本英傑百首</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,歌集,p 978</note><note type="price">一角八分</note><identifier type="mh">book_5312</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2E5CE4B2-9BA3-487D-B7AE-F9760F6CB8B1">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">櫻陰居士撰</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ying yin jushi zhuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本英傑百首</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben yingjie bai shou</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,歌集,p 978</note>
+    <note type="price">一角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5312</identifier>
+</mods>

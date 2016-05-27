@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-28C5BE72-321F-4CEC-87AA-D10875C90719"><titleInfo lang="chi" script="Hant"><title>中國度支攷</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 74</note><abstract type="summary"> 中國度支攷一卷 廣學會本一冊   [英]哲美森輯，[美]林樂知譯，是書專攷中國度支，蓋綜中國壬辰以後三年奏報 鈎稽成書，分計出入之數，復總計全國每年出入清單，皆朗若列眉，篇中又歎 息中國負債之可危，貸金之不易，是宜仿泰西設立預算，來年出入之簿，以為 開源節流計焉。 </abstract><identifier type="mh">book_107</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-28C5BE72-321F-4CEC-87AA-D10875C90719">
+    <titleInfo lang="chi" script="Hant">
+        <title>中國度支攷</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhongguo duozhi kao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 74</note>
+    <abstract lang="chi" type="summary">中國度支攷一卷 廣學會本一冊 [英]哲美森輯，[美]林樂知譯，是書專攷中國度支，蓋綜中國壬辰以後三年奏報 鈎稽成書，分計出入之數，復總計全國每年出入清單，皆朗若列眉，篇中又歎 息中國負債之可危，貸金之不易，是宜仿泰西設立預算，來年出入之簿，以為 開源節流計焉。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_107</identifier>
+</mods>

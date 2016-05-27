@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AE86F82A-7CD4-405F-ACAA-BA2EECB86FE3"><titleInfo lang="chi" script="Hant"><title>西洋史要</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,通史,p 43</note><abstract type="summary"> 西洋史要四卷附圖二十九葉 金粟齋本   [日本]小川銀次郎著，樊炳清、薩端同譯，分上世史、中世史、近世史、現世史四期， 如歐羅巴通史而斷限小異，事蹟亦大略相同，譯書較為雅馴，其表各國帝王 世系及輿圖，則通史所無也。 [徐補]  </abstract><identifier type="mh">book_7</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AE86F82A-7CD4-405F-ACAA-BA2EECB86FE3">
+    <titleInfo lang="chi" script="Hant">
+        <title>西洋史要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiyangshi yao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 43</note>
+    <abstract lang="chi" type="summary">西洋史要四卷附圖二十九葉 金粟齋本 [日本]小川銀次郎著，樊炳清、薩端同譯，分上世史、中世史、近世史、現世史四期， 如歐羅巴通史而斷限小異，事蹟亦大略相同，譯書較為雅馴，其表各國帝王 世系及輿圖，則通史所無也。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7</identifier>
+</mods>

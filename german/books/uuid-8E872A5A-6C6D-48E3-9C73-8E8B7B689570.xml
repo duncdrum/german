@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8E872A5A-6C6D-48E3-9C73-8E8B7B689570"><titleInfo lang="chi" script="Hant"><title>內科新說</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 242</note><abstract type="summary"> 內科新說二卷 惠愛醫館刊本一冊   [英]合信著，自叙謂取歐羅巴醫書，擇其要義譯以唐文，蓋為彼國相傅之學曰 新說者，較中土醫說為新耳。 </abstract><identifier type="mh">book_738</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8E872A5A-6C6D-48E3-9C73-8E8B7B689570">
+    <titleInfo lang="chi" script="Hant">
+        <title>內科新說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Neike xin shuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 242</note>
+    <abstract lang="chi" type="summary">內科新說二卷 惠愛醫館刊本一冊 [英]合信著，自叙謂取歐羅巴醫書，擇其要義譯以唐文，蓋為彼國相傅之學曰 新說者，較中土醫說為新耳。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_738</identifier>
+</mods>

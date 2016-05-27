@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7987432B-E048-45C8-8C44-2FBDB31FC261"><titleInfo lang="chi" script="Hant"><title>俄羅斯經國大略</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,政記,p 56</note><abstract type="summary"> 俄羅斯經國大略一卷 知新報本   周靈生譯，言俄國政治綦詳，可與亞東時報之俄羅斯近狀參觀。 [顧補]  </abstract><identifier type="mh">book_48</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7987432B-E048-45C8-8C44-2FBDB31FC261">
+    <titleInfo lang="chi" script="Hant">
+        <title>俄羅斯經國大略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Eluosi jing guo dalüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 56</note>
+    <abstract lang="chi" type="summary">俄羅斯經國大略一卷 知新報本 周靈生譯，言俄國政治綦詳，可與亞東時報之俄羅斯近狀參觀。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_48</identifier>
+</mods>

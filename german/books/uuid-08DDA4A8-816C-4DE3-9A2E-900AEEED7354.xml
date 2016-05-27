@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-08DDA4A8-816C-4DE3-9A2E-900AEEED7354"><titleInfo lang="chi" script="Hant"><title>時事新論</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 282</note><abstract type="summary"> 時事新論十二卷附圖說一冊 廣學會本三冊　湖南繙刻本   [英]李提摩太著，分國政、外國、養民、新學、利源、軍務、教務、雜學為八類，言取淺近， 不立高論，事事可見諸施行。李氏蓋主天津報館時所作，末附圖四十有五，觀 之可以比較各國政事優劣。 </abstract><identifier type="mh">book_892</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-08DDA4A8-816C-4DE3-9A2E-900AEEED7354">
+    <titleInfo lang="chi" script="Hant">
+        <title>時事新論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shishi xin lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 282</note>
+    <abstract lang="chi" type="summary">時事新論十二卷附圖說一冊 廣學會本三冊　湖南繙刻本 [英]李提摩太著，分國政、外國、養民、新學、利源、軍務、教務、雜學為八類，言取淺近， 不立高論，事事可見諸施行。李氏蓋主天津報館時所作，末附圖四十有五，觀 之可以比較各國政事優劣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_892</identifier>
+</mods>

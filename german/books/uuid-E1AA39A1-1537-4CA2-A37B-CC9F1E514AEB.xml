@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E1AA39A1-1537-4CA2-A37B-CC9F1E514AEB"><titleInfo lang="chi" script="Hant"><title>汽機必以</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note><abstract type="summary"> 汽機必以十二卷首一卷圖一冊 製造局本六冊　富強叢書本   [英]蒲而捺著，[英]傅蘭雅譯，徐建寅述，汽機之制愈出愈精，此書所論諸法頗詳。 首卷言造機公法，乃推論其理，講此學者最宜深究，與發軔參觀。 </abstract><identifier type="mh">book_383</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E1AA39A1-1537-4CA2-A37B-CC9F1E514AEB">
+    <titleInfo lang="chi" script="Hant">
+        <title>汽機必以</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiji bi yi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note>
+    <abstract lang="chi" type="summary">汽機必以十二卷首一卷圖一冊 製造局本六冊　富強叢書本 [英]蒲而捺著，[英]傅蘭雅譯，徐建寅述，汽機之制愈出愈精，此書所論諸法頗詳。 首卷言造機公法，乃推論其理，講此學者最宜深究，與發軔參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_383</identifier>
+</mods>

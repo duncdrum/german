@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2B0B27D9-5CF2-4CFF-9389-2F22C279AF10"><titleInfo lang="chi" script="Hant"><title>攷工記要</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,工學,p 143</note><abstract type="summary"> 攷工記要十七卷 製造局本八冊　西政叢書本   [英]瑪體生著，[英]傅蘭雅、鍾天緯同譯，言辦理各種工程器具材料，如何立合同 ，如何購買，如何定尺寸成色，即工程、致富之二集，兩書相為表裏，原名製造須 知。 求是報印，有曾仰東譯，工程選料書，未成。  </abstract><identifier type="mh">book_362</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2B0B27D9-5CF2-4CFF-9389-2F22C279AF10">
+    <titleInfo lang="chi" script="Hant">
+        <title>攷工記要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kao gong jiyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,工學,p 143</note>
+    <abstract lang="chi" type="summary">攷工記要十七卷 製造局本八冊　西政叢書本 [英]瑪體生著，[英]傅蘭雅、鍾天緯同譯，言辦理各種工程器具材料，如何立合同 ，如何購買，如何定尺寸成色，即工程、致富之二集，兩書相為表裏，原名製造須 知。 求是報印，有曾仰東譯，工程選料書，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_362</identifier>
+</mods>

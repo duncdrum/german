@@ -1,1 +1,19 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-189EB030-0C72-43A9-A8F1-EA46C8732D1D"><titleInfo lang="chi" script="Hant"><title>法律叢書</title></titleInfo><note type="citation">日本書目志,卷六,法律門,現行法律,p 786</note><identifier type="mh">book_3227</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-189EB030-0C72-43A9-A8F1-EA46C8732D1D">
+    <titleInfo lang="chi" script="Hant">
+        <title>法律叢書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Falü congshu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,現行法律,p 786</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3227</identifier>
+</mods>

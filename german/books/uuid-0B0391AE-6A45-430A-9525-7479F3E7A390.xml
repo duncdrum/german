@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0B0391AE-6A45-430A-9525-7479F3E7A390"><titleInfo lang="chi" script="Hant"><title>八星之一總論</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 223</note><abstract type="summary"> 八星之一總論一卷 廣學會本一冊　格致彙編本   [英]李提摩太著，初名地理奇妙論，印入格致彙編中，後乃復有增損，更名地球 養民關係，以地球列於日月行星，故名八星之一，然其中言地不及言天之詳， 而言天又不及言地之暢，論種族異同宗教流派，極可觀。 </abstract><identifier type="mh">book_658</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0B0391AE-6A45-430A-9525-7479F3E7A390">
+    <titleInfo lang="chi" script="Hant">
+        <title>八星之一總論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ba xing zhiyi zonglun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地志學,p 223</note>
+    <abstract lang="chi" type="summary">八星之一總論一卷 廣學會本一冊　格致彙編本 [英]李提摩太著，初名地理奇妙論，印入格致彙編中，後乃復有增損，更名地球 養民關係，以地球列於日月行星，故名八星之一，然其中言地不及言天之詳， 而言天又不及言地之暢，論種族異同宗教流派，極可觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_658</identifier>
+</mods>

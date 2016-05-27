@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D20ADCC8-D51F-40C9-924C-21BD34D345B8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">柳亭種彥著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>淺間嶽面影雙紙</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1182</note><note type="price">六分</note><identifier type="mh">book_8170</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D20ADCC8-D51F-40C9-924C-21BD34D345B8">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">柳亭種彥著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Liu ting zhong yanzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>淺間嶽面影雙紙</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qian jian yue mianying shuang zhi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1182</note>
+    <note type="price">六分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8170</identifier>
+</mods>

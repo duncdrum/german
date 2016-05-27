@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FD73AB2D-D403-4431-B5D9-04F6BE173FC9"><titleInfo lang="chi" script="Hant"><title>西行瑣錄</title></titleInfo><note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note><abstract type="summary"> 西行瑣錄一卷 小方壺齋本   [德]福克著，此克氏與奧國人滿德至甘肅辦理織局時所紀行程及甘省風景 ，蓋光緒五年間情形也。 </abstract><identifier type="mh">book_834</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FD73AB2D-D403-4431-B5D9-04F6BE173FC9">
+    <titleInfo lang="chi" script="Hant">
+        <title>西行瑣錄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xixing suo lu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note>
+    <abstract lang="chi" type="summary">西行瑣錄一卷 小方壺齋本 [德]福克著，此克氏與奧國人滿德至甘肅辦理織局時所紀行程及甘省風景 ，蓋光緒五年間情形也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_834</identifier>
+</mods>

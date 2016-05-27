@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-867554BE-47BB-43DF-8278-4BCC10A15EC2"><titleInfo lang="chi" script="Hant"><title>中部美利加五小國會盟為共和國合盟條約</title></titleInfo><note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 91</note><abstract type="summary"> 中部美利加五小國會盟為共和國合盟條約一卷 譯書公會報本   [日本]中央新報本，譯書公會報館譯。 [顧補]  </abstract><identifier type="mh">book_173</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-867554BE-47BB-43DF-8278-4BCC10A15EC2">
+    <titleInfo lang="chi" script="Hant">
+        <title>中部美利加五小國會盟為共和國合盟條約</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhongbu mei li jia wu xiaoguo huimeng wei gongheguo he meng tiaoyue</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 91</note>
+    <abstract lang="chi" type="summary">中部美利加五小國會盟為共和國合盟條約一卷 譯書公會報本 [日本]中央新報本，譯書公會報館譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_173</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D4432E77-BDCC-4EB3-A956-E10AD4FDA746"><titleInfo lang="chi" script="Hant"><title>電學綱目</title></titleInfo><note type="citation">增版東西學書錄,卷三,電學第十四,p 199</note><abstract type="summary"> 電學綱目一卷 製造局本一冊　富強叢書本　西學大成本   [英]田大里輯，[英]傅蘭雅譯，周郇述，大凡三十九章，三百五十七款，但搜集諸電 學之大旨，提要分陳之，不詳言其理，初學宜先讀腦挨德之電學，復以此書作 門徑，推究其妙理最為有益。 </abstract><identifier type="mh">book_566</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D4432E77-BDCC-4EB3-A956-E10AD4FDA746">
+    <titleInfo lang="chi" script="Hant">
+        <title>電學綱目</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dianxue gangmu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,電學第十四,p 199</note>
+    <abstract lang="chi" type="summary">電學綱目一卷 製造局本一冊　富強叢書本　西學大成本 [英]田大里輯，[英]傅蘭雅譯，周郇述，大凡三十九章，三百五十七款，但搜集諸電 學之大旨，提要分陳之，不詳言其理，初學宜先讀腦挨德之電學，復以此書作 門徑，推究其妙理最為有益。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_566</identifier>
+</mods>

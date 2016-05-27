@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-37F9E5B2-D00E-4FE7-A5E9-52F9780F3E42"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">高崎正風作歌　伊澤修二、土真行作</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>天長節之歌 二種一種 </title></titleInfo><note type="citation">日本書目志,卷十一,文學門,唱歌集,p 994</note><note type="price">二分</note><identifier type="mh">book_5549</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-37F9E5B2-D00E-4FE7-A5E9-52F9780F3E42">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">高崎正風作歌　伊澤修二、土真行作</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao qi zhengfeng zuoge　yi ze xiu er, tu zhen xing zuo</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>天長節之歌 二種一種</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tian chang jie zhi ge er zhong yi zhong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,唱歌集,p 994</note>
+    <note type="price">二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5549</identifier>
+</mods>

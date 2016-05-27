@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D6218A9B-9E75-4BF4-9148-012F6F06A510"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">學海指針社編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>小學理科新書 甲種　高等科教師用 </title></titleInfo><note type="citation">日本書目志,卷二,理學門,理科學學校用,p 625</note><note type="price">一圓</note><identifier type="mh">book_1321</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D6218A9B-9E75-4BF4-9148-012F6F06A510">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">學海指針社編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Xuehai zhizhen she bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學理科新書 甲種　高等科教師用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue like xinshu jia zhong　gaodeng ke jiaoshi yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,理科學學校用,p 625</note>
+    <note type="price">一圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1321</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-19285837-FD03-451B-BEF7-207DE6B69364"><titleInfo lang="chi" script="Hant"><title>天文圖說</title></titleInfo><note type="citation">增版東西學書錄,卷三,天學第十九,p 216</note><abstract type="summary"> 天文圖說四卷 益智書會本一冊   [美]柯雅各著，[美]摩嘉立、薛承恩同譯，一卷論日月并各行星之次，末附八星日 月度里表、二卷論天文圖撮要；三卷論天空異象；四卷論天空星宿。簡要便讀， 圖在每卷之首，極為精美。 </abstract><identifier type="mh">book_633</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-19285837-FD03-451B-BEF7-207DE6B69364">
+    <titleInfo lang="chi" script="Hant">
+        <title>天文圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tianwen tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,天學第十九,p 216</note>
+    <abstract lang="chi" type="summary">天文圖說四卷 益智書會本一冊 [美]柯雅各著，[美]摩嘉立、薛承恩同譯，一卷論日月并各行星之次，末附八星日 月度里表、二卷論天文圖撮要；三卷論天空異象；四卷論天空星宿。簡要便讀， 圖在每卷之首，極為精美。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_633</identifier>
+</mods>

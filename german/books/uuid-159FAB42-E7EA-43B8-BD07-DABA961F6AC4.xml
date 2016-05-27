@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-159FAB42-E7EA-43B8-BD07-DABA961F6AC4"><titleInfo lang="chi" script="Hant"><title>實語教附童子教</title></titleInfo><note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 913</note><note type="price">七分</note><identifier type="mh">book_4489</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-159FAB42-E7EA-43B8-BD07-DABA961F6AC4">
+    <titleInfo lang="chi" script="Hant">
+        <title>實語教附童子教</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shi yu jiao fu tongzi jiao</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 913</note>
+    <note type="price">七分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4489</identifier>
+</mods>

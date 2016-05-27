@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4202FE81-4FF2-4328-AD67-4C8F58C28E15"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">農商務省地質調查所</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>地產要覽圖 洋本仕立 </title></titleInfo><note type="citation">日本書目志,卷二,理學門,地質學,p 638</note><note type="price">二圓三角五分</note><identifier type="mh">book_1459</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4202FE81-4FF2-4328-AD67-4C8F58C28E15">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">農商務省地質調查所</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Nong shangwu sheng dizhi diaocha suo</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>地產要覽圖 洋本仕立</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dichan yao lan tu yang ben shi li</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,地質學,p 638</note>
+    <note type="price">二圓三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1459</identifier>
+</mods>

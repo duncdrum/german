@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D6BC4A4A-8E7E-43D0-ABCB-2AE019E0B44F"><titleInfo lang="chi" script="Hant"><title>論近二十年間英國所執商業政策</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,商學,p 168</note><abstract type="summary"> 論近二十年間英國所執商業政策一卷 江南商務報本   江南商務報館譯。 [顧補]  </abstract><identifier type="mh">book_466</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D6BC4A4A-8E7E-43D0-ABCB-2AE019E0B44F">
+    <titleInfo lang="chi" script="Hant">
+        <title>論近二十年間英國所執商業政策</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lun jin ershi nianjian Yingguo suo zhi shangye zhengce</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 168</note>
+    <abstract lang="chi" type="summary">論近二十年間英國所執商業政策一卷 江南商務報本 江南商務報館譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_466</identifier>
+</mods>

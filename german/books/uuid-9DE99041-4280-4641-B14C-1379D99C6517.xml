@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9DE99041-4280-4641-B14C-1379D99C6517"><titleInfo lang="chi" script="Hant"><title>歐洲史略</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,通史,p 42</note><abstract type="summary"> 歐洲史略十三卷 西學啟蒙本一冊   [英]艾約瑟輯譯，卷一記歐洲諸族；卷二之五紀希臘、羅馬盛衰；卷六之八紀歐 洲諸國分并始基、戰爭顛末；卷九紀耶穌教源流並戰事；卷十之十二紀法國 諸政；卷十三紀德意志諸國聯盟。全書以事為綱，不分國隸事，體例似紀事本 末，遠勝萬國史記及通鑑，每卷後有總結一篇，蓋仿中史論贊，頗為醒目，雖譯 筆未佳，讀之可知遠西中古近今成迹也。 製造局印，有美林樂知、嚴良勳譯，歐羅巴史六冊；東亞書局譯，有歐洲列 國新史、日耳曼新史，均未出。  </abstract><identifier type="mh">book_5</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9DE99041-4280-4641-B14C-1379D99C6517">
+    <titleInfo lang="chi" script="Hant">
+        <title>歐洲史略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ouzhou shilüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 42</note>
+    <abstract lang="chi" type="summary">歐洲史略十三卷 西學啟蒙本一冊 [英]艾約瑟輯譯，卷一記歐洲諸族；卷二之五紀希臘、羅馬盛衰；卷六之八紀歐 洲諸國分并始基、戰爭顛末；卷九紀耶穌教源流並戰事；卷十之十二紀法國 諸政；卷十三紀德意志諸國聯盟。全書以事為綱，不分國隸事，體例似紀事本 末，遠勝萬國史記及通鑑，每卷後有總結一篇，蓋仿中史論贊，頗為醒目，雖譯 筆未佳，讀之可知遠西中古近今成迹也。 製造局印，有美林樂知、嚴良勳譯，歐羅巴史六冊；東亞書局譯，有歐洲列 國新史、日耳曼新史，均未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5</identifier>
+</mods>

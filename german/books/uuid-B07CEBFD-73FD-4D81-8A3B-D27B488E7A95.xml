@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B07CEBFD-73FD-4D81-8A3B-D27B488E7A95"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">東方覺之抄譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>綿花培養新論</title></titleInfo><note type="citation">日本書目志,卷七,農業門,圃業書,p 838</note><note type="price">二角五分</note><identifier type="mh">book_3745</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B07CEBFD-73FD-4D81-8A3B-D27B488E7A95">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">東方覺之抄譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Dongfang jue zhi chao yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>綿花培養新論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mian hua peiyang xin lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,圃業書,p 838</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3745</identifier>
+</mods>

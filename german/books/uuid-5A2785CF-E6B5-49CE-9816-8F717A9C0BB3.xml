@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5A2785CF-E6B5-49CE-9816-8F717A9C0BB3"><titleInfo lang="chi" script="Hant"><title>中亞洲俄屬遊記</title></titleInfo><note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note><abstract type="summary"> 中亞洲俄屬遊記二卷 時務報館印本　同文館本二冊   [英]蘭斯德路著，楊樞、莫鎮藩同譯，詳記俄人所屬諸部，足以見英人注視俄國 ，眉間所注出自李順德師及沈子培比部，手詳攷輿地為多，講西北地學者宜 取資於此。 </abstract><identifier type="mh">book_831</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5A2785CF-E6B5-49CE-9816-8F717A9C0BB3">
+    <titleInfo lang="chi" script="Hant">
+        <title>中亞洲俄屬遊記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong Yazhou e shu you ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note>
+    <abstract lang="chi" type="summary">中亞洲俄屬遊記二卷 時務報館印本　同文館本二冊 [英]蘭斯德路著，楊樞、莫鎮藩同譯，詳記俄人所屬諸部，足以見英人注視俄國 ，眉間所注出自李順德師及沈子培比部，手詳攷輿地為多，講西北地學者宜 取資於此。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_831</identifier>
+</mods>

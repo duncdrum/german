@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C2C5694C-D095-4867-8B4A-9B6468347F93"><titleInfo lang="chi" script="Hant"><title>昆蟲標品製作法</title></titleInfo><note type="citation">增版東西學書錄,卷三,動植物學第二十二,蟲學,p 240</note><abstract type="summary"> 昆蟲標品製作法一卷 農學報本   [日本]鳥羽源藏著，農學報館譯，大致與採蟲指南仝，惟所言昆蟲即六足蟲，人 所知者有三十餘萬種，而日本已有五萬種，於此可見日本人之留心學業矣。 附圖三十有五。 [顧補]  </abstract><identifier type="mh">book_730</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C2C5694C-D095-4867-8B4A-9B6468347F93">
+    <titleInfo lang="chi" script="Hant">
+        <title>昆蟲標品製作法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kunchong biao pin zhizuo fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,動植物學第二十二,蟲學,p 240</note>
+    <abstract lang="chi" type="summary">昆蟲標品製作法一卷 農學報本 [日本]鳥羽源藏著，農學報館譯，大致與採蟲指南仝，惟所言昆蟲即六足蟲，人 所知者有三十餘萬種，而日本已有五萬種，於此可見日本人之留心學業矣。 附圖三十有五。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_730</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-830CC3F5-C503-4939-AFCD-3B4FC24C1D57"><titleInfo lang="chi" script="Hant"><title>氣學須知</title></titleInfo><note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note><abstract type="summary"> 氣學須知一卷 格致須知初集本一冊   [英]傅蘭雅著，書列六章，畧論空氣之動靜性及靜力，又諸器及測候器推論試 驗理法，多以圖明之，甚為淺顯。 </abstract><identifier type="mh">book_613</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-830CC3F5-C503-4939-AFCD-3B4FC24C1D57">
+    <titleInfo lang="chi" script="Hant">
+        <title>氣學須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qi xue xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note>
+    <abstract lang="chi" type="summary">氣學須知一卷 格致須知初集本一冊 [英]傅蘭雅著，書列六章，畧論空氣之動靜性及靜力，又諸器及測候器推論試 驗理法，多以圖明之，甚為淺顯。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_613</identifier>
+</mods>

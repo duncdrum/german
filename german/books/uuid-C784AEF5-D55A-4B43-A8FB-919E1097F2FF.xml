@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C784AEF5-D55A-4B43-A8FB-919E1097F2FF"><titleInfo lang="chi" script="Hant"><title>牧草圖說</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 135</note><abstract type="summary"> 牧草圖說　卷附圖 農學報本   [日本]農商務省農務局編，周家樹譯，論取日本野草擇其富，於滋養適牛馬之 嗜好者，得最佳之二十種，繪圖二十附說以明之。 [顧補]  </abstract><identifier type="mh">book_327</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C784AEF5-D55A-4B43-A8FB-919E1097F2FF">
+    <titleInfo lang="chi" script="Hant">
+        <title>牧草圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mucao tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 135</note>
+    <abstract lang="chi" type="summary">牧草圖說　卷附圖 農學報本 [日本]農商務省農務局編，周家樹譯，論取日本野草擇其富，於滋養適牛馬之 嗜好者，得最佳之二十種，繪圖二十附說以明之。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_327</identifier>
+</mods>

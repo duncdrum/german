@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8365340D-1EC1-4FD2-8303-16622AAC6CF6"><titleInfo lang="chi" script="Hant"><title>泰西河防</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 144</note><abstract type="summary"> 泰西河防一卷續一卷 中西聞見錄本   [英]艾約瑟輯譯，此從英國名因賽格羅比帝亞白理達尼迦書中，采其論水利 之理者著之。凡地勢自成之江河與人工所治之水路無不詳論，艾氏復採中 國言治河之法反覆辨論，以證西法之周美，後有淘水澆灌法一篇，農家尤宜 致意。 </abstract><identifier type="mh">book_366</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8365340D-1EC1-4FD2-8303-16622AAC6CF6">
+    <titleInfo lang="chi" script="Hant">
+        <title>泰西河防</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Taixi hefang</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,塘工河工路工,p 144</note>
+    <abstract lang="chi" type="summary">泰西河防一卷續一卷 中西聞見錄本 [英]艾約瑟輯譯，此從英國名因賽格羅比帝亞白理達尼迦書中，采其論水利 之理者著之。凡地勢自成之江河與人工所治之水路無不詳論，艾氏復採中 國言治河之法反覆辨論，以證西法之周美，後有淘水澆灌法一篇，農家尤宜 致意。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_366</identifier>
+</mods>

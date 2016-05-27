@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-37A02445-EF9E-419D-941A-CB36FE3AC9C5"><titleInfo lang="chi" script="Hant"><title>中西四大政</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 278</note><abstract type="summary"> 中西四大政一卷 廣學會本一冊   [英]李提摩太著，即救世教益之第七章，所列之自與新政策同，此書合中西而 論之，其說稍詳。 </abstract><identifier type="mh">book_879</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-37A02445-EF9E-419D-941A-CB36FE3AC9C5">
+    <titleInfo lang="chi" script="Hant">
+        <title>中西四大政</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong-Xi sida zheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,通論,p 278</note>
+    <abstract lang="chi" type="summary">中西四大政一卷 廣學會本一冊 [英]李提摩太著，即救世教益之第七章，所列之自與新政策同，此書合中西而 論之，其說稍詳。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_879</identifier>
+</mods>

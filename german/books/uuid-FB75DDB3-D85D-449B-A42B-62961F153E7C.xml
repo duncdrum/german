@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FB75DDB3-D85D-449B-A42B-62961F153E7C"><titleInfo lang="chi" script="Hant"><title>重學圖說</title></titleInfo><note type="citation">增版東西學書錄,卷三,重學第十三,重學器,p 197</note><abstract type="summary"> 重學圖說一卷 益智書會本一冊　西學大成本   [英]傅蘭雅著，以重學中器具分為兩科，曰簡器、曰繁器，一一剖析，其理說頗簡 達。 </abstract><identifier type="mh">book_561</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FB75DDB3-D85D-449B-A42B-62961F153E7C">
+    <titleInfo lang="chi" script="Hant">
+        <title>重學圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhong xue tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,重學第十三,重學器,p 197</note>
+    <abstract lang="chi" type="summary">重學圖說一卷 益智書會本一冊　西學大成本 [英]傅蘭雅著，以重學中器具分為兩科，曰簡器、曰繁器，一一剖析，其理說頗簡 達。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_561</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C1F0A300-59C8-4E5E-8E1D-4027DF7C0B14"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">三昧露伴著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>戀之重荷七變化 《聚芳十種》第七 </title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1176</note><note type="price">一角三分</note><identifier type="mh">book_8077</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C1F0A300-59C8-4E5E-8E1D-4027DF7C0B14">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">三昧露伴著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Sanmei lu banzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>戀之重荷七變化 《聚芳十種》第七</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lian zhi zhonghe qi bianhua «ju fang shi zhong» di-qi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1176</note>
+    <note type="price">一角三分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8077</identifier>
+</mods>

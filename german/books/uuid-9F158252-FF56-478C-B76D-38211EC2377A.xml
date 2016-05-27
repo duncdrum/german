@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9F158252-FF56-478C-B76D-38211EC2377A"><titleInfo lang="chi" script="Hant"><title>心靈學</title></titleInfo><note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 234</note><abstract type="summary"> 心靈學無卷數 益智書會本一冊   [美]海文著，顏永京譯，西人論腦氣作用之說愈出愈精，大凡知覺為一綱，情欲 為一綱，志決為一綱。是書但譯智才一卷，餘未之及，顏氏所譯如此書及肄業 要覽，皆啟悟童蒙善本。 </abstract><identifier type="mh">book_709</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9F158252-FF56-478C-B76D-38211EC2377A">
+    <titleInfo lang="chi" script="Hant">
+        <title>心靈學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xinlingxue</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 234</note>
+    <abstract lang="chi" type="summary">心靈學無卷數 益智書會本一冊 [美]海文著，顏永京譯，西人論腦氣作用之說愈出愈精，大凡知覺為一綱，情欲 為一綱，志決為一綱。是書但譯智才一卷，餘未之及，顏氏所譯如此書及肄業 要覽，皆啟悟童蒙善本。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_709</identifier>
+</mods>

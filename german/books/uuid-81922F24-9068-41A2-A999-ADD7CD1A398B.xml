@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-81922F24-9068-41A2-A999-ADD7CD1A398B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">講義河島醇編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>憲法及行政法要義</title></titleInfo><note type="citation">日本書目志,卷六,法律門,帝國憲法,p 781</note><note type="price">四角</note><identifier type="mh">book_3157</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-81922F24-9068-41A2-A999-ADD7CD1A398B">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">講義河島醇編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jiangyi he dao chun bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>憲法及行政法要義</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xianfa ji xingzhengfa yaoyi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,帝國憲法,p 781</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3157</identifier>
+</mods>

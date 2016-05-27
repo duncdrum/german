@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-533D2F2B-0056-4FD6-868D-E58212E29B12"><titleInfo lang="chi" script="Hant"><title>西事略</title></titleInfo><note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note><abstract type="summary"> 西事略一卷 蒙學報本   曾廣銓譯，所言皆西國故事，意主箴規，使幼童易解。 [顧補]  </abstract><identifier type="mh">book_917</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-533D2F2B-0056-4FD6-868D-E58212E29B12">
+    <titleInfo lang="chi" script="Hant">
+        <title>西事略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi shilüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,雜著第三十一,雜記,p 289</note>
+    <abstract lang="chi" type="summary">西事略一卷 蒙學報本 曾廣銓譯，所言皆西國故事，意主箴規，使幼童易解。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_917</identifier>
+</mods>

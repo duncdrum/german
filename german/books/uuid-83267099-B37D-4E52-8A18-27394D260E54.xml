@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-83267099-B37D-4E52-8A18-27394D260E54"><titleInfo lang="chi" script="Hant"><title>性學舉隅</title></titleInfo><note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 235</note><abstract type="summary"> 性學舉隅二卷 廣學會本   [美]丁韙良著，先總論若干條，餘分上下二卷，上卷論靈才即智之屬，下卷論心 德兼仁勇言之。第十四、第十五兩章頗及哲學家之言，說理淺顯易解，屢引我 國古書以證，甚便初學。自序謂此等書徒強記無益，必能問能解方妙甚是。 [徐補]  </abstract><identifier type="mh">book_712</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-83267099-B37D-4E52-8A18-27394D260E54">
+    <titleInfo lang="chi" script="Hant">
+        <title>性學舉隅</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xingxue ju yu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,心靈學,p 235</note>
+    <abstract lang="chi" type="summary">性學舉隅二卷 廣學會本 [美]丁韙良著，先總論若干條，餘分上下二卷，上卷論靈才即智之屬，下卷論心 德兼仁勇言之。第十四、第十五兩章頗及哲學家之言，說理淺顯易解，屢引我 國古書以證，甚便初學。自序謂此等書徒強記無益，必能問能解方妙甚是。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_712</identifier>
+</mods>

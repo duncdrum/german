@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6D686A91-A2DE-4E96-B94A-8DB42D54D1EA"><titleInfo lang="chi" script="Hant"><title>農書初級</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 118</note><abstract type="summary"> 農書初級一卷 光緒戊戌製造局本一冊　農學報本   [英]旦爾恒理著，[英]秀耀春譯，范熙庸述，書凡十章，多一千八百七十八年後所 攷得之新法；中論農事公理，堪稱完備；末論撙節各法，尤不可不讀。五章以前 從第七次印本譯出，以下皆從新印第九次本。 </abstract><identifier type="mh">book_258</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6D686A91-A2DE-4E96-B94A-8DB42D54D1EA">
+    <titleInfo lang="chi" script="Hant">
+        <title>農書初級</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nong shu chuji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 118</note>
+    <abstract lang="chi" type="summary">農書初級一卷 光緒戊戌製造局本一冊　農學報本 [英]旦爾恒理著，[英]秀耀春譯，范熙庸述，書凡十章，多一千八百七十八年後所 攷得之新法；中論農事公理，堪稱完備；末論撙節各法，尤不可不讀。五章以前 從第七次印本譯出，以下皆從新印第九次本。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_258</identifier>
+</mods>

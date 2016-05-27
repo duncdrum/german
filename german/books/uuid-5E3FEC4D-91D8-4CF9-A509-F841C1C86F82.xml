@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5E3FEC4D-91D8-4CF9-A509-F841C1C86F82"><titleInfo lang="chi" script="Hant"><title>最近支那史</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note><abstract type="summary"> 最近支那史四卷 日本原刊本　光緒二十七年上海振東室學社編印本四冊   [日本]河野通之、石村貞一合著，自元明以至光緒乙未中日戰後止，仿編年體 ，刺取正史，復旁搜各家記載以成此書。其兵制原因、宗教沿革、外交始末亦間 載之，偶有攷證及註釋，均載書眉，尚便檢閱，惜搜採未廣，未為詳備耳。 [徐補]  </abstract><identifier type="mh">book_27</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5E3FEC4D-91D8-4CF9-A509-F841C1C86F82">
+    <titleInfo lang="chi" script="Hant">
+        <title>最近支那史</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zuijin Zhina shi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note>
+    <abstract lang="chi" type="summary">最近支那史四卷 日本原刊本　光緒二十七年上海振東室學社編印本四冊 [日本]河野通之、石村貞一合著，自元明以至光緒乙未中日戰後止，仿編年體 ，刺取正史，復旁搜各家記載以成此書。其兵制原因、宗教沿革、外交始末亦間 載之，偶有攷證及註釋，均載書眉，尚便檢閱，惜搜採未廣，未為詳備耳。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_27</identifier>
+</mods>

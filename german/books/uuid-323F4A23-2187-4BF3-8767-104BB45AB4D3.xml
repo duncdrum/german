@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-323F4A23-2187-4BF3-8767-104BB45AB4D3"><titleInfo lang="chi" script="Hant"><title>古克傳</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 70</note><abstract type="summary"> 古克傳一卷 滙報本   滙報館譯，乾隆三十三年西國天文家推算金星與日相蝕，擬至期細察其形， 墨大依地島尤為清晰，於是英廷遣都司名古克者駕舟前往攷察。傳中所記 皆古克塗中所經景象，亦尋覔新地者也。 [顧補]  </abstract><identifier type="mh">book_93</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-323F4A23-2187-4BF3-8767-104BB45AB4D3">
+    <titleInfo lang="chi" script="Hant">
+        <title>古克傳</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gu ke chuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 70</note>
+    <abstract lang="chi" type="summary">古克傳一卷 滙報本 滙報館譯，乾隆三十三年西國天文家推算金星與日相蝕，擬至期細察其形， 墨大依地島尤為清晰，於是英廷遣都司名古克者駕舟前往攷察。傳中所記 皆古克塗中所經景象，亦尋覔新地者也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_93</identifier>
+</mods>

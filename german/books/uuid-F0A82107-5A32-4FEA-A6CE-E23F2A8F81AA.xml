@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F0A82107-5A32-4FEA-A6CE-E23F2A8F81AA"><titleInfo lang="chi" script="Hant"><title>彗星論</title></titleInfo><note type="citation">增版東西學書錄,卷三,天學第十九,p 217</note><abstract type="summary"> 彗星論一卷 滙報本   滙報館著，彗星之體分為三，一曰核、二曰圈、三曰尾隨星，以易不一，其式其軌 道，有自右徂左者，有自左徂右者，按程以計，或數千年一返，或數萬年一返。西 人核知定時返復不過，十七星列表繪圖明之，其形有如刀、劍、冰雹者，未精天 文者不免疑其關災祥，今西學盛行，知彗星出沒皆有定期，即觸地球之說亦 復不確，雖天文家有測見日輪漸小，至十兆年日輪盡，而地無光之說，然亦未 足為定論焉。滙報九十二號有小行星考，百二十七號有流星圖說，可參觀。 [顧補]  </abstract><identifier type="mh">book_637</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F0A82107-5A32-4FEA-A6CE-E23F2A8F81AA">
+    <titleInfo lang="chi" script="Hant">
+        <title>彗星論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huixing lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,天學第十九,p 217</note>
+    <abstract lang="chi" type="summary">彗星論一卷 滙報本 滙報館著，彗星之體分為三，一曰核、二曰圈、三曰尾隨星，以易不一，其式其軌 道，有自右徂左者，有自左徂右者，按程以計，或數千年一返，或數萬年一返。西 人核知定時返復不過，十七星列表繪圖明之，其形有如刀、劍、冰雹者，未精天 文者不免疑其關災祥，今西學盛行，知彗星出沒皆有定期，即觸地球之說亦 復不確，雖天文家有測見日輪漸小，至十兆年日輪盡，而地無光之說，然亦未 足為定論焉。滙報九十二號有小行星考，百二十七號有流星圖說，可參觀。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_637</identifier>
+</mods>

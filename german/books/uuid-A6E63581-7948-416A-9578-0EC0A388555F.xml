@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A6E63581-7948-416A-9578-0EC0A388555F"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">十偏舍一九編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>江戶名所畫譜</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1099</note><note type="price">一角三分</note><identifier type="mh">book_6999</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A6E63581-7948-416A-9578-0EC0A388555F">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">十偏舍一九編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shi pian she yi jiu bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>江戶名所畫譜</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiang huming suo huapu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1099</note>
+    <note type="price">一角三分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6999</identifier>
+</mods>

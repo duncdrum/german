@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5E25CAAF-E6BB-411A-A559-B68095AEFA14"><titleInfo lang="chi" script="Hant"><title>日本水師艦隊報</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 107</note><abstract type="summary"> 日本水師艦隊報　卷 時務報本   時務報館譯 [顧補]  </abstract><identifier type="mh">book_222</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5E25CAAF-E6BB-411A-A559-B68095AEFA14">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本水師艦隊報</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben shuishi jiandui bao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,海軍,p 107</note>
+    <abstract lang="chi" type="summary">日本水師艦隊報　卷 時務報本 時務報館譯 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_222</identifier>
+</mods>

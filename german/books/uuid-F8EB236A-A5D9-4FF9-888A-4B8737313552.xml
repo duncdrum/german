@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F8EB236A-A5D9-4FF9-888A-4B8737313552"><titleInfo lang="chi" script="Hant"><title>蔔萄新書</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note><abstract type="summary"> 蔔萄新書二卷 農學報本   [日本]中城恒三郎著，林壬譯，上卷六節言種植之理，下卷十節言釀造之法。 滙報二十三號有蔔萄製酒法，可參觀。[顧補]  </abstract><identifier type="mh">book_316</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F8EB236A-A5D9-4FF9-888A-4B8737313552">
+    <titleInfo lang="chi" script="Hant">
+        <title>蔔萄新書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bo tao xinshu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 132</note>
+    <abstract lang="chi" type="summary">蔔萄新書二卷 農學報本 [日本]中城恒三郎著，林壬譯，上卷六節言種植之理，下卷十節言釀造之法。 滙報二十三號有蔔萄製酒法，可參觀。[顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_316</identifier>
+</mods>

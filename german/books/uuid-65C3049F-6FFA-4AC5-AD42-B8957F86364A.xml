@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-65C3049F-6FFA-4AC5-AD42-B8957F86364A"><titleInfo lang="chi" script="Hant"><title>歐洲列國慎戰論</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,論兵,p 288</note><abstract type="summary"> 歐洲列國慎戰論　卷 日本國光雜志本　通學齋叢書本   [日本]國光雜志著。 [顧補]  </abstract><identifier type="mh">book_913</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-65C3049F-6FFA-4AC5-AD42-B8957F86364A">
+    <titleInfo lang="chi" script="Hant">
+        <title>歐洲列國慎戰論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ouzhou lieguo shen zhan lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論兵,p 288</note>
+    <abstract lang="chi" type="summary">歐洲列國慎戰論　卷 日本國光雜志本　通學齋叢書本 [日本]國光雜志著。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_913</identifier>
+</mods>

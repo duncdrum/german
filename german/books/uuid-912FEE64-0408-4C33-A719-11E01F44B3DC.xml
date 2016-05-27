@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-912FEE64-0408-4C33-A719-11E01F44B3DC"><titleInfo lang="chi" script="Hant"><title>衛生要旨</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 252</note><abstract type="summary"> 衛生要旨一卷 上海石印本一冊　益智書會本   [美]嘉約翰譯，海琴氏校正，此書繼西醫內科大成而作，所言皆日用平常之事， 鄉曲貧民亦易採用，其立論周密精微，具有至理，後論整飭全家，推愛鄉邑，為 國培元，慨乎言之亦屬可取。 </abstract><identifier type="mh">book_779</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-912FEE64-0408-4C33-A719-11E01F44B3DC">
+    <titleInfo lang="chi" script="Hant">
+        <title>衛生要旨</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Weisheng yaozhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 252</note>
+    <abstract lang="chi" type="summary">衛生要旨一卷 上海石印本一冊　益智書會本 [美]嘉約翰譯，海琴氏校正，此書繼西醫內科大成而作，所言皆日用平常之事， 鄉曲貧民亦易採用，其立論周密精微，具有至理，後論整飭全家，推愛鄉邑，為 國培元，慨乎言之亦屬可取。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_779</identifier>
+</mods>

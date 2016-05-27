@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9405895A-A90E-4FEF-9381-79F456A737F7"><titleInfo lang="chi" script="Hant"><title>白虎隊自刃之圖 石版密刻 </title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1104</note><note type="price">大二角小八分</note><identifier type="mh">book_7068</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9405895A-A90E-4FEF-9381-79F456A737F7">
+    <titleInfo lang="chi" script="Hant">
+        <title>白虎隊自刃之圖 石版密刻</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Baihu dui zi ren zhi tu shiban mi ke</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1104</note>
+    <note type="price">大二角小八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7068</identifier>
+</mods>

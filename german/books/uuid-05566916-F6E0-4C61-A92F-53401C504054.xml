@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-05566916-F6E0-4C61-A92F-53401C504054"><titleInfo lang="chi" script="Hant"><title>火學測算</title></titleInfo><note type="citation">增版東西學書錄,卷三,氣學第十八,火學,p 213</note><abstract type="summary"> 火學測算一卷 同文館格物測算七種本   [美]丁韙良著，專論熱之功用，蓋熱者火之隱，火即熱之顯，因熱氣而究及漲力、 汽力，亦設為問答，繪圖衍式，演題附題與力學測算同例。 </abstract><identifier type="mh">book_623</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-05566916-F6E0-4C61-A92F-53401C504054">
+    <titleInfo lang="chi" script="Hant">
+        <title>火學測算</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huo xue cesuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,火學,p 213</note>
+    <abstract lang="chi" type="summary">火學測算一卷 同文館格物測算七種本 [美]丁韙良著，專論熱之功用，蓋熱者火之隱，火即熱之顯，因熱氣而究及漲力、 汽力，亦設為問答，繪圖衍式，演題附題與力學測算同例。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_623</identifier>
+</mods>

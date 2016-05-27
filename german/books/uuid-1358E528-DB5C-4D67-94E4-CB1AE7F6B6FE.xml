@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1358E528-DB5C-4D67-94E4-CB1AE7F6B6FE"><titleInfo lang="chi" script="Hant"><title>上海英工部局章程</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 76</note><abstract type="summary"> 上海英工部局章程一卷 萃報附印本　單行本   [英]工部局擬，計上海洋涇濱北首租界章程二十九條，美國新定西華德路虹 口租界章程八條，上海洋涇濱北首西國租界、田地章程四十二條。 [顧補]  </abstract><identifier type="mh">book_118</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1358E528-DB5C-4D67-94E4-CB1AE7F6B6FE">
+    <titleInfo lang="chi" script="Hant">
+        <title>上海英工部局章程</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shanghai ying gongbu ju zhangcheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,制度,p 76</note>
+    <abstract lang="chi" type="summary">上海英工部局章程一卷 萃報附印本　單行本 [英]工部局擬，計上海洋涇濱北首租界章程二十九條，美國新定西華德路虹 口租界章程八條，上海洋涇濱北首西國租界、田地章程四十二條。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_118</identifier>
+</mods>

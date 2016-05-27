@@ -1,1 +1,19 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5C7F8A90-A721-450E-A346-846631D36932"><titleInfo lang="chi" script="Hant"><title>攝州阿部野仇討</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1201</note><identifier type="mh">book_8457</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5C7F8A90-A721-450E-A346-846631D36932">
+    <titleInfo lang="chi" script="Hant">
+        <title>攝州阿部野仇討</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>She zhou a bu ye chou tao</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1201</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8457</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AA1908F4-9AE1-4A7D-8AA9-4C66A981024F"><titleInfo lang="chi" script="Hant"><title>代數備旨</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 187</note><abstract type="summary"> 代數備旨六卷 益智書會排印本一冊   [美]狄攷文著，鄒立文生福維同述，此書除加減乘除命分外，止有一次二次方 程式習問之多，與筆算數學同，蓋專為初學入門而設也。第二百零四五兩款 解二次方程之變法，立術甚新，又第二百零七款，第十六問光學題所論乘方 反比例之理甚詳，學者閱之，亦可略知光理。聞此六卷乃其上編，尚有下編已 譯出，未刊。 益智書會有美狄攷文代數初基，未印出。  </abstract><identifier type="mh">book_534</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AA1908F4-9AE1-4A7D-8AA9-4C66A981024F">
+    <titleInfo lang="chi" script="Hant">
+        <title>代數備旨</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Daishu bei zhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,代數,p 187</note>
+    <abstract lang="chi" type="summary">代數備旨六卷 益智書會排印本一冊 [美]狄攷文著，鄒立文生福維同述，此書除加減乘除命分外，止有一次二次方 程式習問之多，與筆算數學同，蓋專為初學入門而設也。第二百零四五兩款 解二次方程之變法，立術甚新，又第二百零七款，第十六問光學題所論乘方 反比例之理甚詳，學者閱之，亦可略知光理。聞此六卷乃其上編，尚有下編已 譯出，未刊。 益智書會有美狄攷文代數初基，未印出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_534</identifier>
+</mods>

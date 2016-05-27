@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-70A4885A-04D1-4F6A-8588-BE7F93F45FCE"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">明治法律學校講述</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 民法正義 財產篇第二部</title></titleInfo><note type="citation">日本書目志,卷六,法律門,民法,p 790</note><note type="price">二圓九角五分</note><identifier type="mh">book_3282</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-70A4885A-04D1-4F6A-8588-BE7F93F45FCE">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">明治法律學校講述</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ming zhi falü xuexiao jiangshu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>民法正義 財產篇第二部</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Minfa zhengyi caichan pian di-er bu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,民法,p 790</note>
+    <note type="price">二圓九角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3282</identifier>
+</mods>

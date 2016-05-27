@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E4D00226-7A3C-4054-B9DE-D4AB8E2799A1"><titleInfo lang="chi" script="Hant"><title>蒙學報</title></titleInfo><note type="citation">增版東西學書錄,卷四,報章第二十九,p 273</note><abstract type="summary"> 蒙學報 石印本，設上海。   中東人合譯，葉瀚等撰述，光緒二十三年十一月起，每七日一冊，所譯皆東西 文蒙養之書，最於童蒙有益，中文各種多出浩吾茂才一人手，立法之善可謂 苦心孤詣矣。 </abstract><identifier type="mh">book_861</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E4D00226-7A3C-4054-B9DE-D4AB8E2799A1">
+    <titleInfo lang="chi" script="Hant">
+        <title>蒙學報</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meng xuebao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 273</note>
+    <abstract lang="chi" type="summary">蒙學報 石印本，設上海。 中東人合譯，葉瀚等撰述，光緒二十三年十一月起，每七日一冊，所譯皆東西 文蒙養之書，最於童蒙有益，中文各種多出浩吾茂才一人手，立法之善可謂 苦心孤詣矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_861</identifier>
+</mods>

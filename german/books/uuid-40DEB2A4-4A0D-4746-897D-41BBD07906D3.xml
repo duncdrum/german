@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-40DEB2A4-4A0D-4746-897D-41BBD07906D3"><titleInfo lang="chi" script="Hant"><title>論各國交付罪人</title></titleInfo><note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 92</note><abstract type="summary"> 論各國交付罪人一卷 亞東時報本   亞東時報館譯，國家不得踰境而行法律，出界而執罪人，此公法家之通例也。 往往有甲國逋犯來役，乙國容放交付，皆屬其當然之權，甲國不能過問，故忽 其區別，不免毫釐千里之差，為逋逃淵藪，豈立法者之本意哉。末段引千八百 八十五年德俄兩國訂立條約，千八百六十一年美利堅墨斯古交付條約，皆 有公罪、私罪之別，非務為袒護匪黨也。謝希傅歸楂叢刻有義比交犯條約，可 以參觀。按此書係節錄萬國公法講演一節。 [顧補]  </abstract><identifier type="mh">book_177</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-40DEB2A4-4A0D-4746-897D-41BBD07906D3">
+    <titleInfo lang="chi" script="Hant">
+        <title>論各國交付罪人</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lun geguo jiaofu zuiren</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,交涉,p 92</note>
+    <abstract lang="chi" type="summary">論各國交付罪人一卷 亞東時報本 亞東時報館譯，國家不得踰境而行法律，出界而執罪人，此公法家之通例也。 往往有甲國逋犯來役，乙國容放交付，皆屬其當然之權，甲國不能過問，故忽 其區別，不免毫釐千里之差，為逋逃淵藪，豈立法者之本意哉。末段引千八百 八十五年德俄兩國訂立條約，千八百六十一年美利堅墨斯古交付條約，皆 有公罪、私罪之別，非務為袒護匪黨也。謝希傅歸楂叢刻有義比交犯條約，可 以參觀。按此書係節錄萬國公法講演一節。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_177</identifier>
+</mods>

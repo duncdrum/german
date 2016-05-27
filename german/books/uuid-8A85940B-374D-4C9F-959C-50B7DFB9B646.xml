@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8A85940B-374D-4C9F-959C-50B7DFB9B646"><titleInfo lang="chi" script="Hant"><title>附伏耳鑑廠管工章程</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,工學,p 144</note><abstract type="summary">  附 伏耳鑑廠管工章程一卷 格致彙編本   [德]伏耳鑑廠原本，[美]金楷理、徐建寅同譯，凡管工章程二十七條，救火章程四 條，病會章程十五條，皆極詳細。 </abstract><identifier type="mh">book_364</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8A85940B-374D-4C9F-959C-50B7DFB9B646">
+    <titleInfo lang="chi" script="Hant">
+        <title>附伏耳鑑廠管工章程</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu fu er jian chang guangong zhangcheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,工學,p 144</note>
+    <abstract lang="chi" type="summary">附 伏耳鑑廠管工章程一卷 格致彙編本 [德]伏耳鑑廠原本，[美]金楷理、徐建寅同譯，凡管工章程二十七條，救火章程四 條，病會章程十五條，皆極詳細。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_364</identifier>
+</mods>

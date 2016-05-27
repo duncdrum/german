@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5B76D92B-9536-43A6-8A84-8B27178C83B5"><titleInfo lang="chi" script="Hant"><title>譯書事略</title></titleInfo><note type="citation">增版東西學書錄,卷四,理學第二十五,書目,p 260</note><abstract type="summary"> 譯書事略一卷 格致彙編本一冊   [英]傅蘭雅著，凡製造局及局外譯述各書，無不詳列，檢閱亦便，中論譯書之法 譯書之益，頗可探取而設局源流亦載之。 實學報館印有朱樹人譯，巴黎書庫提要，未成。  </abstract><identifier type="mh">book_805</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5B76D92B-9536-43A6-8A84-8B27178C83B5">
+    <titleInfo lang="chi" script="Hant">
+        <title>譯書事略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yi shu shilüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,理學第二十五,書目,p 260</note>
+    <abstract lang="chi" type="summary">譯書事略一卷 格致彙編本一冊 [英]傅蘭雅著，凡製造局及局外譯述各書，無不詳列，檢閱亦便，中論譯書之法 譯書之益，頗可探取而設局源流亦載之。 實學報館印有朱樹人譯，巴黎書庫提要，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_805</identifier>
+</mods>

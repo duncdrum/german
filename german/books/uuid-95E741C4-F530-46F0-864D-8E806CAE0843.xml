@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-95E741C4-F530-46F0-864D-8E806CAE0843"><titleInfo lang="chi" script="Hant"><title>我自刊我叢書</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,類書,p 736</note><note type="price">正價不同</note><identifier type="mh">book_2682</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-95E741C4-F530-46F0-864D-8E806CAE0843">
+    <titleInfo lang="chi" script="Hant">
+        <title>我自刊我叢書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wo zi kan wo congshu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,類書,p 736</note>
+    <note type="price">正價不同</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2682</identifier>
+</mods>

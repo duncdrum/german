@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B67E3312-B9BF-46B4-A35A-CB2DA5A823B8"><titleInfo lang="chi" script="Hant"><title>算法圓理括囊</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,曲綫,p 192</note><abstract type="summary"> 算法圓理括囊一卷 白芙堂叢書本   [日本]加恍傳一郎俊興著，設題均甚奇奧，大率以級數立算，頗不易讀，其友邨 上國輝序謂其高妙精微，非入其室者不能輒解，信然。書序永嘉五年壬子按 即中國咸豐二年。 </abstract><identifier type="mh">book_549</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B67E3312-B9BF-46B4-A35A-CB2DA5A823B8">
+    <titleInfo lang="chi" script="Hant">
+        <title>算法圓理括囊</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Suanfa yuan li kuo nang</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,曲綫,p 192</note>
+    <abstract lang="chi" type="summary">算法圓理括囊一卷 白芙堂叢書本 [日本]加恍傳一郎俊興著，設題均甚奇奧，大率以級數立算，頗不易讀，其友邨 上國輝序謂其高妙精微，非入其室者不能輒解，信然。書序永嘉五年壬子按 即中國咸豐二年。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_549</identifier>
+</mods>

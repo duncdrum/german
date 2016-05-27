@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-79E2D03A-FF9E-460F-ACC9-FBC06C71FF6B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">岡村金太郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>植物學教科書</title></titleInfo><note type="citation">日本書目志,卷二,理學門,植物學,p 650</note><note type="price">九角</note><identifier type="mh">book_1583</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-79E2D03A-FF9E-460F-ACC9-FBC06C71FF6B">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">岡村金太郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gang cun jin tai lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>植物學教科書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhiwuxue jiaokeshu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,植物學,p 650</note>
+    <note type="price">九角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1583</identifier>
+</mods>

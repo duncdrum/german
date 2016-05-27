@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-71ECD82E-01B5-491A-B2E0-5692C08CA424"><titleInfo lang="chi" script="Hant"><title>格致舉隅</title></titleInfo><note type="citation">增版東西學書錄,卷三,格致總第十一,p 178</note><abstract type="summary"> 格致舉隅一卷 益智書會本一冊   [英]莫安仁譯，魏壽彭述，凡十章，多論聲光氣之淺理與花木之資，生煤之原因， 每論皆明以圖，最便初學，後論蜜蜂操作之理，可與格致彙編中養蜂法參看。 </abstract><identifier type="mh">book_501</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-71ECD82E-01B5-491A-B2E0-5692C08CA424">
+    <titleInfo lang="chi" script="Hant">
+        <title>格致舉隅</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gezhi ju yu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 178</note>
+    <abstract lang="chi" type="summary">格致舉隅一卷 益智書會本一冊 [英]莫安仁譯，魏壽彭述，凡十章，多論聲光氣之淺理與花木之資，生煤之原因， 每論皆明以圖，最便初學，後論蜜蜂操作之理，可與格致彙編中養蜂法參看。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_501</identifier>
+</mods>

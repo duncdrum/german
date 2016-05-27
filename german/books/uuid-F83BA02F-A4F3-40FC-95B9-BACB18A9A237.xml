@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F83BA02F-A4F3-40FC-95B9-BACB18A9A237"><titleInfo lang="chi" script="Hant"><title>化學材料中西名目表</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 206</note><abstract type="summary"> 化學材料中西名目表一冊 製造局本　富強叢書本   [英]傅蘭雅編，表成於同治九年，在江南製造局繙譯化學鑑原續編、補編時所 作，故為鑑原諸書之鈐鍵，惟此譯尚仍舊名，於近譯諸書無所用處。 </abstract><identifier type="mh">book_594</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F83BA02F-A4F3-40FC-95B9-BACB18A9A237">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學材料中西名目表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue cailiao Zhong-Xi mingmu biao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 206</note>
+    <abstract lang="chi" type="summary">化學材料中西名目表一冊 製造局本　富強叢書本 [英]傅蘭雅編，表成於同治九年，在江南製造局繙譯化學鑑原續編、補編時所 作，故為鑑原諸書之鈐鍵，惟此譯尚仍舊名，於近譯諸書無所用處。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_594</identifier>
+</mods>

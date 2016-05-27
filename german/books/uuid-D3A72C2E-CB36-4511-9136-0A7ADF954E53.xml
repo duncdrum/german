@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D3A72C2E-CB36-4511-9136-0A7ADF954E53"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">博物局藏板</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 教草一覽內 草綿一覽</title></titleInfo><note type="citation">日本書目志,卷七,農業門,農業雜書,p 826</note><note type="price">五分</note><identifier type="mh">book_3659</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D3A72C2E-CB36-4511-9136-0A7ADF954E53">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">博物局藏板</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Bowu ju cang ban</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>教草一覽內 草綿一覽</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiao cao yilan nei cao mian yilan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷七,農業門,農業雜書,p 826</note>
+    <note type="price">五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3659</identifier>
+</mods>

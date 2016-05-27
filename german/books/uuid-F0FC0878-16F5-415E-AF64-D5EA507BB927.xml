@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F0FC0878-16F5-415E-AF64-D5EA507BB927"><titleInfo lang="chi" script="Hant"><title>回特活德鋼礮說</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 111</note><abstract type="summary"> 回特活德鋼礮說一卷 製造局本在西藝知新中一冊　富強叢書本   [英]回特活德著，[英]傅蘭雅譯，徐壽述，論回特活德創制螺絲礮緣由及造法，內 有鋼性表，將鋼分紅、藍、椶、黃四類，並記各種鋼合宜之用，固製造軍器者所當 詳究。彙編二，有論可參觀。 </abstract><identifier type="mh">book_238</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F0FC0878-16F5-415E-AF64-D5EA507BB927">
+    <titleInfo lang="chi" script="Hant">
+        <title>回特活德鋼礮說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hui te huo de gang bao shuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,鎗礮,p 111</note>
+    <abstract lang="chi" type="summary">回特活德鋼礮說一卷 製造局本在西藝知新中一冊　富強叢書本 [英]回特活德著，[英]傅蘭雅譯，徐壽述，論回特活德創制螺絲礮緣由及造法，內 有鋼性表，將鋼分紅、藍、椶、黃四類，並記各種鋼合宜之用，固製造軍器者所當 詳究。彙編二，有論可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_238</identifier>
+</mods>

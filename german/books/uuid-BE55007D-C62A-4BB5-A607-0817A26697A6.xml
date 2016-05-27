@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-BE55007D-C62A-4BB5-A607-0817A26697A6"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大藏省租稅局翻譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>租稅論</title></titleInfo><note type="citation">日本書目志,卷五,政治門,財政學,p 757</note><note type="price">一圓二角</note><identifier type="mh">book_2886</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-BE55007D-C62A-4BB5-A607-0817A26697A6">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">大藏省租稅局翻譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Da cang sheng zushui ju fanyi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>租稅論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zushui lun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,財政學,p 757</note>
+    <note type="price">一圓二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2886</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F43E84AA-C381-41EF-9804-CCF1951F83F9"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">峰是三郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>明治修身書 高等小學教師用 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 917</note><note type="price">六角</note><identifier type="mh">book_4542</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F43E84AA-C381-41EF-9804-CCF1951F83F9">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">峰是三郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Feng shi san lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治修身書 高等小學教師用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming zhi xiushen shu gaodeng xiaoxue jiaoshi yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 917</note>
+    <note type="price">六角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4542</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-85AC1987-E449-4440-A1F1-9AE4A6CD5611"><titleInfo lang="chi" script="Hant"><title>全體圖說</title></titleInfo><note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 232</note><abstract type="summary"> 全體圖說二卷 益智書會本一冊   [英]稻惟德譯，圖凡八幅，演為圖說，上下二卷，第一幅圖說無上水泡骨與頭骨 八斤之說不合，閱者當參觀全體新論。 </abstract><identifier type="mh">book_700</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-85AC1987-E449-4440-A1F1-9AE4A6CD5611">
+    <titleInfo lang="chi" script="Hant">
+        <title>全體圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Quanti tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,全體學第二十一,全體學,p 232</note>
+    <abstract lang="chi" type="summary">全體圖說二卷 益智書會本一冊 [英]稻惟德譯，圖凡八幅，演為圖說，上下二卷，第一幅圖說無上水泡骨與頭骨 八斤之說不合，閱者當參觀全體新論。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_700</identifier>
+</mods>

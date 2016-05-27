@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C5846278-E47D-4EF5-A630-FAB0ACA874A8"><titleInfo lang="chi" script="Hant"><title>墨澳覔地記</title></titleInfo><note type="citation">增版東西學書錄,卷四,遊記第二十八,p 269</note><abstract type="summary"> 墨澳覔地記　卷 滙報本   滙報館譯，書中所記乃麥折倫尋覔新地之事，蓋繼高隆後一人而已。 [顧補]  </abstract><identifier type="mh">book_842</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C5846278-E47D-4EF5-A630-FAB0ACA874A8">
+    <titleInfo lang="chi" script="Hant">
+        <title>墨澳覔地記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mo ao mi de ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 269</note>
+    <abstract lang="chi" type="summary">墨澳覔地記　卷 滙報本 滙報館譯，書中所記乃麥折倫尋覔新地之事，蓋繼高隆後一人而已。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_842</identifier>
+</mods>

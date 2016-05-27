@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-04F40441-FC2E-4771-90B6-BC1C4847841B"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">秋庭守信譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>馬術說</title></titleInfo><note type="citation">日本書目志,卷十五,兵書門,馬政書,p 1215</note><note type="price">三角二分</note><identifier type="mh">book_8627</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-04F40441-FC2E-4771-90B6-BC1C4847841B">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">秋庭守信譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qiu ting shouxin yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>馬術說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Mashu shuo</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十五,兵書門,馬政書,p 1215</note>
+    <note type="price">三角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8627</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-84A9B2E3-6657-455A-BB69-9F8CF9388B0B"><titleInfo lang="chi" script="Hant"><title>化學原質新表</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 203</note><abstract type="summary"> 化學原質新表　卷 亞泉雜志本   杜亞泉譯，表中以原點重率序次，皆近世名家核定之最正確者，以便與化學 週期律相對○。按斯表所列原質七十六種，舊有譯名者六十三種，未有舊名 者十三種，皆近時所得之新原質也。 [顧補]  </abstract><identifier type="mh">book_585</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-84A9B2E3-6657-455A-BB69-9F8CF9388B0B">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學原質新表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue yuanzhi xin biao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 203</note>
+    <abstract lang="chi" type="summary">化學原質新表　卷 亞泉雜志本 杜亞泉譯，表中以原點重率序次，皆近世名家核定之最正確者，以便與化學 週期律相對○。按斯表所列原質七十六種，舊有譯名者六十三種，未有舊名 者十三種，皆近時所得之新原質也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_585</identifier>
+</mods>

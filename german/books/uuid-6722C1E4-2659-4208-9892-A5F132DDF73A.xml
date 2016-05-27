@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6722C1E4-2659-4208-9892-A5F132DDF73A"><titleInfo lang="chi" script="Hant"><title>合金錄</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 158</note><abstract type="summary"> 合金錄一卷 工蓺叢書本四冊   [日本]橋本奇策著，沈紘譯，外洋販賣金屬之物，多作純質一經化學分析，分劑 自明，故凡金屬結合者皆曰合金，近來創造合金新製以適用途，不勝枚舉，若 不明其學，不免絡繹輸入，以彼之合金易我之銀金，得失所關非細。茲編專載 金屬之物理及化學及特質，以導製造之法，附載色素名目合璧表，分主色染 料東西文並列，最便查檢。 [徐補]  </abstract><identifier type="mh">book_429</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6722C1E4-2659-4208-9892-A5F132DDF73A">
+    <titleInfo lang="chi" script="Hant">
+        <title>合金錄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Hejin lu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 158</note>
+    <abstract lang="chi" type="summary">合金錄一卷 工蓺叢書本四冊 [日本]橋本奇策著，沈紘譯，外洋販賣金屬之物，多作純質一經化學分析，分劑 自明，故凡金屬結合者皆曰合金，近來創造合金新製以適用途，不勝枚舉，若 不明其學，不免絡繹輸入，以彼之合金易我之銀金，得失所關非細。茲編專載 金屬之物理及化學及特質，以導製造之法，附載色素名目合璧表，分主色染 料東西文並列，最便查檢。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_429</identifier>
+</mods>

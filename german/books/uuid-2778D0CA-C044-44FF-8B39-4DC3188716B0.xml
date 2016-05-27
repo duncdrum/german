@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2778D0CA-C044-44FF-8B39-4DC3188716B0"><titleInfo lang="chi" script="Hant"><title>氣學測算</title></titleInfo><note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note><abstract type="summary"> 氣學測算一卷 同文館格物測算七種本   [美]丁韙良著，凡二章，上章論天氣，下章論熱地，附測算音學亦設為問答繪圖， 衍式演題，附題與力學測算同例。 </abstract><identifier type="mh">book_615</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2778D0CA-C044-44FF-8B39-4DC3188716B0">
+    <titleInfo lang="chi" script="Hant">
+        <title>氣學測算</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qi xue cesuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,氣學第十八,氣學,p 211</note>
+    <abstract lang="chi" type="summary">氣學測算一卷 同文館格物測算七種本 [美]丁韙良著，凡二章，上章論天氣，下章論熱地，附測算音學亦設為問答繪圖， 衍式演題，附題與力學測算同例。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_615</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-37DE4445-D132-423D-B87F-73A1535774B1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">林甕臣著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 開發新式 日本文典</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1059</note><note type="price">一圓八角</note><identifier type="mh">book_6452</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-37DE4445-D132-423D-B87F-73A1535774B1">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">林甕臣著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lin weng chenzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>開發新式 日本文典</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kaifa xinshi Riben wendian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1059</note>
+    <note type="price">一圓八角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6452</identifier>
+</mods>

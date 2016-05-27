@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-564AC904-98BC-46BB-92C2-27D76D506FF2"><titleInfo lang="chi" script="Hant"><title>舊約合參</title></titleInfo><note type="citation">增版東西學書錄,卷四,宗教第二十七,p 264</note><abstract type="summary"> 舊約合參一卷 滙報本   章旌雲譯，於舊例一切要事備舉大綱，略仿年表體裁，依次編錄。 [顧補]  </abstract><identifier type="mh">book_822</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-564AC904-98BC-46BB-92C2-27D76D506FF2">
+    <titleInfo lang="chi" script="Hant">
+        <title>舊約合參</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiuyue he can</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,宗教第二十七,p 264</note>
+    <abstract lang="chi" type="summary">舊約合參一卷 滙報本 章旌雲譯，於舊例一切要事備舉大綱，略仿年表體裁，依次編錄。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_822</identifier>
+</mods>

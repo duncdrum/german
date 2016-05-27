@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8546F3EF-8CF4-4841-82B3-8D4A0B78A1E3"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大橋順造著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>周易述義</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,占筮書,p 1134</note><note type="price">一圓二角</note><identifier type="mh">book_7479</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8546F3EF-8CF4-4841-82B3-8D4A0B78A1E3">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">大橋順造著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Da qiao shun zaozhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>周易述義</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhouyi shu yi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,占筮書,p 1134</note>
+    <note type="price">一圓二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7479</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AB606A82-EC5D-4648-B926-0D2620B96421"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">木戶麟編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>小學修身書</title></titleInfo><note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 918</note><note type="price">九角七分</note><identifier type="mh">book_4561</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AB606A82-EC5D-4648-B926-0D2620B96421">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">木戶麟編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Mu hu lin bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小學修身書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiaoxue xiushen shu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,修身書小學校用,p 918</note>
+    <note type="price">九角七分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4561</identifier>
+</mods>

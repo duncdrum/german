@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6450B3E3-D2F6-470F-B3DD-7BB2CDE9D9F2"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">河鍋曉齋畫</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>猩猩曉齋狂畫</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1097</note><note type="price">三角</note><identifier type="mh">book_6971</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6450B3E3-D2F6-470F-B3DD-7BB2CDE9D9F2">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">河鍋曉齋畫</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">He guo xiao zhai hua</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>猩猩曉齋狂畫</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xingxing xiao zhai kuang hua</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1097</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6971</identifier>
+</mods>

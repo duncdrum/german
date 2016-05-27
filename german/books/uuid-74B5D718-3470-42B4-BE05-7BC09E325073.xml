@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-74B5D718-3470-42B4-BE05-7BC09E325073"><titleInfo lang="chi" script="Hant"><title>英俄印度交涉書</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,政記,p 55</note><abstract type="summary"> 英俄印度交涉書一卷續編一卷附圖 製造局本一冊　上海石印本　軍政全書本   [英]馬文著，[英]羅亨利、瞿昂來同譯，全書凡十四章，續編一卷，多記俄在中亞細 亞之策，皆雜採英俄官報而成，讀之知阿富汗、波斯之可危，與德奧土之為俄 所忌，俄知謀印不易，改而圖亞之心已非一日，觀俄波和約宜知警矣。 </abstract><identifier type="mh">book_45</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-74B5D718-3470-42B4-BE05-7BC09E325073">
+    <titleInfo lang="chi" script="Hant">
+        <title>英俄印度交涉書</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ying-E Yindu jiaoshe shu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,政記,p 55</note>
+    <abstract lang="chi" type="summary">英俄印度交涉書一卷續編一卷附圖 製造局本一冊　上海石印本　軍政全書本 [英]馬文著，[英]羅亨利、瞿昂來同譯，全書凡十四章，續編一卷，多記俄在中亞細 亞之策，皆雜採英俄官報而成，讀之知阿富汗、波斯之可危，與德奧土之為俄 所忌，俄知謀印不易，改而圖亞之心已非一日，觀俄波和約宜知警矣。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_45</identifier>
+</mods>

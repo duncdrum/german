@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-748CBB55-7691-444C-9E0A-3FF778BD76DE"><titleInfo lang="chi" script="Hant"><title>附英倫務農會章程</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 120</note><abstract type="summary">  附 英倫務農會章程一卷附錄一卷 農學報本   [英]務農會原書，吳治儉譯，首載英君主准設會詔，次欽定會章，次化學分原之 例，次化學分原之價，次買賣糞壅、畜牧食料規例，次會友醫治牲畜條例，次請 本會除動物之害規例，次請本會查騐植物規條，次論買種子，次擇植物樣至 本會查騐之法。此章定於英君主即位之第三年，首列大旨十事，可謂握得其 要。 求是報譯有墨西哥開墾章程，未全。  </abstract><identifier type="mh">book_269</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-748CBB55-7691-444C-9E0A-3FF778BD76DE">
+    <titleInfo lang="chi" script="Hant">
+        <title>附英倫務農會章程</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu ying lun wu nonghui zhangcheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 120</note>
+    <abstract lang="chi" type="summary">附 英倫務農會章程一卷附錄一卷 農學報本 [英]務農會原書，吳治儉譯，首載英君主准設會詔，次欽定會章，次化學分原之 例，次化學分原之價，次買賣糞壅、畜牧食料規例，次會友醫治牲畜條例，次請 本會除動物之害規例，次請本會查騐植物規條，次論買種子，次擇植物樣至 本會查騐之法。此章定於英君主即位之第三年，首列大旨十事，可謂握得其 要。 求是報譯有墨西哥開墾章程，未全。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_269</identifier>
+</mods>

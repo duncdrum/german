@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-AF711A96-37F7-4C53-B626-0BDA4ABF423A"><titleInfo lang="chi" script="Hant"><title>地利花奇案全錄</title></titleInfo><note type="citation">增版東西學書錄,卷一,交涉第四,案牘,p 93</note><abstract type="summary"> 地利花奇案全錄一卷 知新報本   [英]倫敦溫故報著，周靈生譯，地利花法之都司即脫雷福斯事也。 [顧補]  </abstract><identifier type="mh">book_181</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-AF711A96-37F7-4C53-B626-0BDA4ABF423A">
+    <titleInfo lang="chi" script="Hant">
+        <title>地利花奇案全錄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dili hua qi an quan lu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,交涉第四,案牘,p 93</note>
+    <abstract lang="chi" type="summary">地利花奇案全錄一卷 知新報本 [英]倫敦溫故報著，周靈生譯，地利花法之都司即脫雷福斯事也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_181</identifier>
+</mods>

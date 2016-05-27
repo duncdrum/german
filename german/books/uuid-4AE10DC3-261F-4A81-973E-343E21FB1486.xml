@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4AE10DC3-261F-4A81-973E-343E21FB1486"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">後藤敬太、三宅米吉合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 簡易器械 理化學試驗法</title></titleInfo><note type="citation">日本書目志,卷二,理學門,理化學,p 629</note><note type="price">三角五分</note><identifier type="mh">book_1367</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4AE10DC3-261F-4A81-973E-343E21FB1486">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">後藤敬太、三宅米吉合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Hou teng jing tai, san zhai mi ji hezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>簡易器械 理化學試驗法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jianyi qixie li huaxue shiyan fa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,理化學,p 629</note>
+    <note type="price">三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1367</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-322EE30C-53DF-41EC-953D-0FD5D5C0B580"><titleInfo lang="chi" script="Hant"><title>整頓中國條陳</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 283</note><abstract type="summary"> 整頓中國條陳一卷 時務報本   [美]福士達著，一曰成陸軍、二曰興鐵路、三曰整國課、四曰改刑律、五曰更取士 之法。雖寥寥數百言，而中國近來亟應更改之要政，幾洞徹無遺。 </abstract><identifier type="mh">book_896</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-322EE30C-53DF-41EC-953D-0FD5D5C0B580">
+    <titleInfo lang="chi" script="Hant">
+        <title>整頓中國條陳</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhengdun Zhongguo tiaochen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 283</note>
+    <abstract lang="chi" type="summary">整頓中國條陳一卷 時務報本 [美]福士達著，一曰成陸軍、二曰興鐵路、三曰整國課、四曰改刑律、五曰更取士 之法。雖寥寥數百言，而中國近來亟應更改之要政，幾洞徹無遺。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_896</identifier>
+</mods>

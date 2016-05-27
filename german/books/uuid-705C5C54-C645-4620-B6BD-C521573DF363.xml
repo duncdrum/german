@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-705C5C54-C645-4620-B6BD-C521573DF363"><titleInfo lang="chi" script="Hant"><title>英國印花稅例摘要</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 170</note><abstract type="summary"> 英國印花稅例摘要一卷 江南商務報本   鄧廷鑑譯，李企晟編輯。 [顧補]  </abstract><identifier type="mh">book_474</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-705C5C54-C645-4620-B6BD-C521573DF363">
+    <titleInfo lang="chi" script="Hant">
+        <title>英國印花稅例摘要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yingguo yinhuashui li zhaiyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,稅則,p 170</note>
+    <abstract lang="chi" type="summary">英國印花稅例摘要一卷 江南商務報本 鄧廷鑑譯，李企晟編輯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_474</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CDC4C0E4-C105-4B9D-9D4A-14908CAE23A6"><titleInfo lang="chi" script="Hant"><title>蝶花形小坂部館之段八冊目</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1008</note><note type="price">五分七釐</note><identifier type="mh">book_5750</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CDC4C0E4-C105-4B9D-9D4A-14908CAE23A6">
+    <titleInfo lang="chi" script="Hant">
+        <title>蝶花形小坂部館之段八冊目</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Die hua xing xiao ban bu guan zhi duan ba ce mu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1008</note>
+    <note type="price">五分七釐</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5750</identifier>
+</mods>

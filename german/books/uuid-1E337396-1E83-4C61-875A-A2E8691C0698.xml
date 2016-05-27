@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1E337396-1E83-4C61-875A-A2E8691C0698"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">宫崎三昧著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>親之恩 《少年文學》第十編 </title></titleInfo><note type="citation">日本書目志,卷十,教育門,少年教育書,p 956</note><note type="price">一角二分</note><identifier type="mh">book_5049</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1E337396-1E83-4C61-875A-A2E8691C0698">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">宫崎三昧著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gong qi sanmeizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>親之恩 《少年文學》第十編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qin zhi en «shaonian wenxue» di-shi bian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,少年教育書,p 956</note>
+    <note type="price">一角二分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5049</identifier>
+</mods>

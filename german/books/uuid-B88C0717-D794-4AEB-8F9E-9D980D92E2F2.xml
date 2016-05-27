@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B88C0717-D794-4AEB-8F9E-9D980D92E2F2"><titleInfo lang="chi" script="Hant"><title> 義太夫丸本 花之曇佐倉曙</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 999</note><note type="price">一角</note><identifier type="mh">book_5619</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B88C0717-D794-4AEB-8F9E-9D980D92E2F2">
+    <titleInfo lang="chi" script="Hant">
+        <title>義太夫丸本 花之曇佐倉曙</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yi tai fu wan ben hua zhi tan zuo cang shu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 999</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5619</identifier>
+</mods>

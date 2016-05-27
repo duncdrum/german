@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C8900647-3253-4540-A16A-1B21371CD46B"><titleInfo lang="chi" script="Hant"><title>華盛頓傳</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 64</note><abstract type="summary"> 華盛頓傳　卷 時務報本止刻一卷　另行本，改名泰西史略。　石印小字本   [合衆國]耳汾華盛頓著，黎汝謙、蔡國昭譯，書分七十六章。其中皆紀華盛頓事 蹟，然美國創立民主合衆之規則，與夫用兵、徵餉、制度、人物大致無不具，閱此 於美國未闢以前，既闢以後數十年中事已瞭如指掌，謂之美國開國史略亦 無不可。 </abstract><identifier type="mh">book_74</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C8900647-3253-4540-A16A-1B21371CD46B">
+    <titleInfo lang="chi" script="Hant">
+        <title>華盛頓傳</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huashengdun chuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 64</note>
+    <abstract lang="chi" type="summary">華盛頓傳　卷 時務報本止刻一卷　另行本，改名泰西史略。　石印小字本 [合衆國]耳汾華盛頓著，黎汝謙、蔡國昭譯，書分七十六章。其中皆紀華盛頓事 蹟，然美國創立民主合衆之規則，與夫用兵、徵餉、制度、人物大致無不具，閱此 於美國未闢以前，既闢以後數十年中事已瞭如指掌，謂之美國開國史略亦 無不可。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_74</identifier>
+</mods>

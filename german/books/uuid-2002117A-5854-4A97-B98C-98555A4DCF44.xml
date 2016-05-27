@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2002117A-5854-4A97-B98C-98555A4DCF44"><titleInfo lang="chi" script="Hant"><title>中東戰記本末</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 60</note><abstract type="summary"> 中東戰記本末八卷續編四卷 廣學會本八冊   [美]林樂知輯著，蔡爾康纂，所採皆甲午以後三年內中外文報私家議論，而未 戰以前、罷戰以後，中外人振興中國之策亦裒而附之，未嘗稍加編訂，有謂其 書當分別之者，蓋寓微詞，然甲午一役賴以知其始末，他日記中東事者或有 所取資也。 譯書公會報有俄來迪懋著，胡濬謨譯，中日構兵紀三卷，未印成；東亞書局譯有清日戰爭日記中陸海戰記，未出。  </abstract><identifier type="mh">book_63</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2002117A-5854-4A97-B98C-98555A4DCF44">
+    <titleInfo lang="chi" script="Hant">
+        <title>中東戰記本末</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhongdong zhan ji benmo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 60</note>
+    <abstract lang="chi" type="summary">中東戰記本末八卷續編四卷 廣學會本八冊 [美]林樂知輯著，蔡爾康纂，所採皆甲午以後三年內中外文報私家議論，而未 戰以前、罷戰以後，中外人振興中國之策亦裒而附之，未嘗稍加編訂，有謂其 書當分別之者，蓋寓微詞，然甲午一役賴以知其始末，他日記中東事者或有 所取資也。 譯書公會報有俄來迪懋著，胡濬謨譯，中日構兵紀三卷，未印成；東亞書局譯有清日戰爭日記中陸海戰記，未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_63</identifier>
+</mods>

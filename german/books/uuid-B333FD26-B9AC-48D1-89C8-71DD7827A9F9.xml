@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B333FD26-B9AC-48D1-89C8-71DD7827A9F9"><titleInfo lang="chi" script="Hant"><title>汽機入門</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note><abstract type="summary"> 汽機入門一卷附圖 西學大成本   [美]丁韙良著 </abstract><identifier type="mh">book_385</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B333FD26-B9AC-48D1-89C8-71DD7827A9F9">
+    <titleInfo lang="chi" script="Hant">
+        <title>汽機入門</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiji rumen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note>
+    <abstract lang="chi" type="summary">汽機入門一卷附圖 西學大成本 [美]丁韙良著</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_385</identifier>
+</mods>

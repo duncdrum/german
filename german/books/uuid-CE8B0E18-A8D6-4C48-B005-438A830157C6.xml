@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-CE8B0E18-A8D6-4C48-B005-438A830157C6"><titleInfo lang="chi" script="Hant"><title>各國硫礦同異</title></titleInfo><note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 142</note><abstract type="summary"> 各國硫礦同異　卷 知新報本   [英]倫敦礦務報著，周靈生譯。 [顧補]  </abstract><identifier type="mh">book_358</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-CE8B0E18-A8D6-4C48-B005-438A830157C6">
+    <titleInfo lang="chi" script="Hant">
+        <title>各國硫礦同異</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Geguo liukuang tong-yi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦工,p 142</note>
+    <abstract lang="chi" type="summary">各國硫礦同異　卷 知新報本 [英]倫敦礦務報著，周靈生譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_358</identifier>
+</mods>

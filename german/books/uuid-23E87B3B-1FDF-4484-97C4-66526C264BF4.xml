@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-23E87B3B-1FDF-4484-97C4-66526C264BF4"><titleInfo lang="chi" script="Hant"><title>孩童衛生論</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note><abstract type="summary"> 孩童衛生論一卷 益智書會本一冊   [英]傅蘭雅輯譯，極言血之功用，尤以飲酒、吸菸為大害，人身書中發明食物之 利害獨詳。 </abstract><identifier type="mh">book_772</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-23E87B3B-1FDF-4484-97C4-66526C264BF4">
+    <titleInfo lang="chi" script="Hant">
+        <title>孩童衛生論</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Haitong weisheng lun</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,方書,p 250</note>
+    <abstract lang="chi" type="summary">孩童衛生論一卷 益智書會本一冊 [英]傅蘭雅輯譯，極言血之功用，尤以飲酒、吸菸為大害，人身書中發明食物之 利害獨詳。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_772</identifier>
+</mods>

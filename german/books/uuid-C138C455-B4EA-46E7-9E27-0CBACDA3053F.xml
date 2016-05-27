@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C138C455-B4EA-46E7-9E27-0CBACDA3053F"><titleInfo lang="chi" script="Hant"><title>合數術</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,微績,p 193</note><abstract type="summary"> 合數術十一卷 製造局本未刊   [英]白爾尼著，[英]傅蘭雅譯，華蘅芳述，合諸項乘數之指數以成一數，故曰合數。 其法由古廉法表而生，以新埋發明指數之義蘊推廣真數之作用，凡真數、對 數之雜糅難明，與夫戴勞之例、馬格老臨之例、拉果闌諸之例、拉不拉斯之例 所難通者，以合數推之簡易什倍，實算學中之偏師制勝者。昆明林紹清曾本 其立術之旨，另述二卷，刊行名曰合數述，上卷明其法，下卷詳其用，簡明易曉， 學者先取讀之，亦足見合數之梗概。 </abstract><identifier type="mh">book_552</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C138C455-B4EA-46E7-9E27-0CBACDA3053F">
+    <titleInfo lang="chi" script="Hant">
+        <title>合數術</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Heshu shu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,微績,p 193</note>
+    <abstract lang="chi" type="summary">合數術十一卷 製造局本未刊 [英]白爾尼著，[英]傅蘭雅譯，華蘅芳述，合諸項乘數之指數以成一數，故曰合數。 其法由古廉法表而生，以新埋發明指數之義蘊推廣真數之作用，凡真數、對 數之雜糅難明，與夫戴勞之例、馬格老臨之例、拉果闌諸之例、拉不拉斯之例 所難通者，以合數推之簡易什倍，實算學中之偏師制勝者。昆明林紹清曾本 其立術之旨，另述二卷，刊行名曰合數述，上卷明其法，下卷詳其用，簡明易曉， 學者先取讀之，亦足見合數之梗概。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_552</identifier>
+</mods>

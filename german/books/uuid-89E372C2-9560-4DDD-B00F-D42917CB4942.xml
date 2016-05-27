@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-89E372C2-9560-4DDD-B00F-D42917CB4942"><titleInfo lang="chi" script="Hant"><title>教育學綱要</title></titleInfo><note type="citation">增版東西學書錄,卷一,學校第三,學校,p 82</note><abstract type="summary"> 教育學綱要　卷 亞東時報本   [奧]林度湼爾著，[日本]劍潭釣徒譯，凡六章，一論人所以必需教育，二論教育要 件並教育宗旨，三論所化性暨區分。每章各繫備考，以相發明。 [顧補]  </abstract><identifier type="mh">book_140</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-89E372C2-9560-4DDD-B00F-D42917CB4942">
+    <titleInfo lang="chi" script="Hant">
+        <title>教育學綱要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiaoyuxue gangyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,學校第三,學校,p 82</note>
+    <abstract lang="chi" type="summary">教育學綱要　卷 亞東時報本 [奧]林度湼爾著，[日本]劍潭釣徒譯，凡六章，一論人所以必需教育，二論教育要 件並教育宗旨，三論所化性暨區分。每章各繫備考，以相發明。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_140</identifier>
+</mods>

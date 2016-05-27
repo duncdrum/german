@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-907C9E60-D01E-4995-B540-3C6EA8DDA90B"><titleInfo lang="chi" script="Hant"><title>歐洲近世史</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,通史,p 43</note><abstract type="summary"> 歐洲近世史　卷 勵學譯編本   [英]闞磻師著，顧培基譯述，所記係十六世紀歐洲各事，以斯紀為歐洲進步之 始書，宗教改革之故特詳，攷察教務者不可不讀也。 [顧補]  </abstract><identifier type="mh">book_8</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-907C9E60-D01E-4995-B540-3C6EA8DDA90B">
+    <titleInfo lang="chi" script="Hant">
+        <title>歐洲近世史</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ouzhou jinshishi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,通史,p 43</note>
+    <abstract lang="chi" type="summary">歐洲近世史　卷 勵學譯編本 [英]闞磻師著，顧培基譯述，所記係十六世紀歐洲各事，以斯紀為歐洲進步之 始書，宗教改革之故特詳，攷察教務者不可不讀也。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8</identifier>
+</mods>

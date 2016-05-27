@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-38DE7492-2399-4AD4-90A7-5FC2E558B89E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">安幸吟光畫作</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>美術吟光畫譜</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1101</note><note type="price">二角</note><identifier type="mh">book_7028</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-38DE7492-2399-4AD4-90A7-5FC2E558B89E">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">安幸吟光畫作</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">An xing yin guang hua zuo</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>美術吟光畫譜</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meishu yin guang huapu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,繪畫書,p 1101</note>
+    <note type="price">二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7028</identifier>
+</mods>

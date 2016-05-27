@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-10AA9702-9C33-4C41-A27C-6BBF7442555E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">三尾重定編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>掌中明治字典</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1069</note><note type="price">一圓一角</note><identifier type="mh">book_6599</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-10AA9702-9C33-4C41-A27C-6BBF7442555E">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">三尾重定編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">San wei zhong ding bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>掌中明治字典</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhang zhong ming zhi zidian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1069</note>
+    <note type="price">一圓一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6599</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6EA2DA08-582C-4E8B-B888-7A891F3D952D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">中村五六編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>中等地理 日本誌萬國誌 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,萬國地理,p 674</note><note type="price">二圓</note><identifier type="mh">book_1837</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6EA2DA08-582C-4E8B-B888-7A891F3D952D">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">中村五六編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhong cun wu liu bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>中等地理 日本誌萬國誌</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhongdeng dili Riben zhi wanguo zhi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,萬國地理,p 674</note>
+    <note type="price">二圓</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1837</identifier>
+</mods>

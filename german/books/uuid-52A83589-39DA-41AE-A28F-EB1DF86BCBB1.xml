@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-52A83589-39DA-41AE-A28F-EB1DF86BCBB1"><titleInfo lang="chi" script="Hant"><title>化學入門</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 201</note><abstract type="summary"> 化學入門一冊 廣州刊本   [泰西]美安著，以火氣水土四行為大綱，與化學須知體例畧同，詞意簡顯，最便 初學，圖乃西印，較為精細。 </abstract><identifier type="mh">book_577</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-52A83589-39DA-41AE-A28F-EB1DF86BCBB1">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學入門</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue rumen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 201</note>
+    <abstract lang="chi" type="summary">化學入門一冊 廣州刊本 [泰西]美安著，以火氣水土四行為大綱，與化學須知體例畧同，詞意簡顯，最便 初學，圖乃西印，較為精細。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_577</identifier>
+</mods>

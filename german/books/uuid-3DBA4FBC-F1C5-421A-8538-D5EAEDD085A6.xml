@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3DBA4FBC-F1C5-421A-8538-D5EAEDD085A6"><titleInfo lang="chi" script="Hant"><title>印度隸英十二益說</title></titleInfo><note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 286</note><abstract type="summary"> 印度隸英十二益說　卷 萬國公報本　廣學會單行本　新學彙編本   [美]林樂知著，金襄如譯，篇中言印度隸英之益有十二，曰息紛爭、禁盜賊正律 法、拯疾苦、築鐵路、興營繕、課吏治、論時政、增進益、通聲氣，然英之虐待印度，不 得舉議員，不得為兵官，則所謂十二益者，僅英人受之，印度君民何與焉。 [顧補]  </abstract><identifier type="mh">book_907</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3DBA4FBC-F1C5-421A-8538-D5EAEDD085A6">
+    <titleInfo lang="chi" script="Hant">
+        <title>印度隸英十二益說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yindu li ying shi'er yi shuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,議論第三十,論政,p 286</note>
+    <abstract lang="chi" type="summary">印度隸英十二益說　卷 萬國公報本　廣學會單行本　新學彙編本 [美]林樂知著，金襄如譯，篇中言印度隸英之益有十二，曰息紛爭、禁盜賊正律 法、拯疾苦、築鐵路、興營繕、課吏治、論時政、增進益、通聲氣，然英之虐待印度，不 得舉議員，不得為兵官，則所謂十二益者，僅英人受之，印度君民何與焉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_907</identifier>
+</mods>

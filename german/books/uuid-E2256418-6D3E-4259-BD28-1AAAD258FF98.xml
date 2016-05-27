@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E2256418-6D3E-4259-BD28-1AAAD258FF98"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">龜谷省軒著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>和漢修身訓</title></titleInfo><note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 912</note><note type="price">九角一分</note><identifier type="mh">book_4461</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E2256418-6D3E-4259-BD28-1AAAD258FF98">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">龜谷省軒著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gui gu sheng xuanzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>和漢修身訓</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>He han xiushen xun</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教訓教草修身雜書類,p 912</note>
+    <note type="price">九角一分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4461</identifier>
+</mods>

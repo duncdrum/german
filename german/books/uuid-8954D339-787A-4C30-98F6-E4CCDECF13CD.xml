@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8954D339-787A-4C30-98F6-E4CCDECF13CD"><titleInfo lang="chi" script="Hant"><title>汽機發軔</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note><abstract type="summary"> 汽機發軔九卷表一卷 製造局本四冊　西學大成本無表   [英]美以納白勞耶合著，[英]偉烈亞力譯，徐壽述，先論汽機公理，末論真理，中論 機件論行船泊船及兵船所司事，大旨與必以相同，此於水面所用之汽機尤 加詳。彙編一有汽機要說，可參觀。 </abstract><identifier type="mh">book_382</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8954D339-787A-4C30-98F6-E4CCDECF13CD">
+    <titleInfo lang="chi" script="Hant">
+        <title>汽機發軔</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Qiji faren</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,汽機總,p 149</note>
+    <abstract lang="chi" type="summary">汽機發軔九卷表一卷 製造局本四冊　西學大成本無表 [英]美以納白勞耶合著，[英]偉烈亞力譯，徐壽述，先論汽機公理，末論真理，中論 機件論行船泊船及兵船所司事，大旨與必以相同，此於水面所用之汽機尤 加詳。彙編一有汽機要說，可參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_382</identifier>
+</mods>

@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FA6B4FC1-E6A0-4320-A34B-9116F794437C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">清水吉之助編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 高等中學 入學試驗例題解答</title></titleInfo><note type="citation">日本書目志,卷十,教育門,教育雜書,p 946</note><note type="price">二角五分</note><identifier type="mh">book_4904</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FA6B4FC1-E6A0-4320-A34B-9116F794437C">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">清水吉之助編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qingshui ji zhi zhu bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>高等中學 入學試驗例題解答</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaodeng zhongxue ruxue shiyan liti jieda</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教育雜書,p 946</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4904</identifier>
+</mods>

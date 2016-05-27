@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-57211211-4F53-4DE4-AF17-B41A97B44134"><titleInfo lang="chi" script="Hant"><title>記美日兩國戰爭緣起</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 61</note><abstract type="summary"> 記美日兩國戰爭緣起一卷 亞東時報本   [日本]有賀長雄著，亞東時報館譯，美國遺訓不許干與國外紛爭，自孟路氏結 盟於英，以拒法日，一變以保全本國利益為宗旨。迨一千八百四十五年單星 黨起於美之南方，主張古巴不可屬日之說，終以不敵而敗，然美之欲圖古巴 實基於此。篇中所言美日啟釁之故極詳，惜未譯全。 [顧補]  </abstract><identifier type="mh">book_65</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-57211211-4F53-4DE4-AF17-B41A97B44134">
+    <titleInfo lang="chi" script="Hant">
+        <title>記美日兩國戰爭緣起</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ji mei ri liang guo zhanzheng yuanqi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 61</note>
+    <abstract lang="chi" type="summary">記美日兩國戰爭緣起一卷 亞東時報本 [日本]有賀長雄著，亞東時報館譯，美國遺訓不許干與國外紛爭，自孟路氏結 盟於英，以拒法日，一變以保全本國利益為宗旨。迨一千八百四十五年單星 黨起於美之南方，主張古巴不可屬日之說，終以不敵而敗，然美之欲圖古巴 實基於此。篇中所言美日啟釁之故極詳，惜未譯全。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_65</identifier>
+</mods>

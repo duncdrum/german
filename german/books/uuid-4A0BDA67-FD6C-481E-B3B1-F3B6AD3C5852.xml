@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4A0BDA67-FD6C-481E-B3B1-F3B6AD3C5852"><titleInfo lang="chi" script="Hant"><title>日本軍隊給與法</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 102</note><abstract type="summary"> 日本軍隊給與法一冊 南洋公學本   [日本]陸軍成規類聚原本，南洋公學譯書院摘譯，彼國稱凡頒給在官員役錢 物，曰給與屬軍隊者，有平時、戰時二種，所給有俸給、房租、糧食、被服、馬匹、消耗 物陳、營具、旅費、演習津貼等類。是書據明治三十二年定章分類，條載，凡三篇， 首篇敍會計出納定則，二三篇論給與之法，一平時、一戰時也，戰時給與較平 時略增，然大致無甚殊異，故二篇紀述獨詳。 [徐補]  </abstract><identifier type="mh">book_204</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4A0BDA67-FD6C-481E-B3B1-F3B6AD3C5852">
+    <titleInfo lang="chi" script="Hant">
+        <title>日本軍隊給與法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben jundui gei yu fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 102</note>
+    <abstract lang="chi" type="summary">日本軍隊給與法一冊 南洋公學本 [日本]陸軍成規類聚原本，南洋公學譯書院摘譯，彼國稱凡頒給在官員役錢 物，曰給與屬軍隊者，有平時、戰時二種，所給有俸給、房租、糧食、被服、馬匹、消耗 物陳、營具、旅費、演習津貼等類。是書據明治三十二年定章分類，條載，凡三篇， 首篇敍會計出納定則，二三篇論給與之法，一平時、一戰時也，戰時給與較平 時略增，然大致無甚殊異，故二篇紀述獨詳。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_204</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D3029D17-B385-452A-AB0C-65DF0DD3D3E4"><titleInfo lang="chi" script="Hant"><title>附茶事試騐報告</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 129</note><abstract type="summary">  附 茶事試騐報告二卷 農學報本   [日本]農商務省編，[日本]藤田豐八譯，卷中列表考證中國、印度茶種頗詳。 [顧補]  </abstract><identifier type="mh">book_304</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D3029D17-B385-452A-AB0C-65DF0DD3D3E4">
+    <titleInfo lang="chi" script="Hant">
+        <title>附茶事試騐報告</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu cha shi shi yan baogao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,樹蓺,p 129</note>
+    <abstract lang="chi" type="summary">附 茶事試騐報告二卷 農學報本 [日本]農商務省編，[日本]藤田豐八譯，卷中列表考證中國、印度茶種頗詳。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_304</identifier>
+</mods>

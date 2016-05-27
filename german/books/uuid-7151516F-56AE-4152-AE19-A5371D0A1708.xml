@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7151516F-56AE-4152-AE19-A5371D0A1708"><titleInfo lang="chi" script="Hant"><title>陸操近義</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 95</note><abstract type="summary"> 陸操近義四卷附錄一卷 天津機器局印本　上海石印本　西學大成本　坊間改名德國練兵書   [德]康貝著，李鳳苞譯，首論一隊，自戰全營合戰；次論奮勇進攻，不可坐守；終論 攻法以何種排列為最。自同治五年戰事，始至光緒七年止，叠有增益，德國陸 軍為全球冠，師丹一役成效顯著，其致勝之法不出乎各小綜自為戰，仍成一 大軍，以合戰在因地因人，時有變化而已。 製造局有英傅蘭雅譯，陸軍戰法；時務報館譯，有陸戰新法，均未印出。  </abstract><identifier type="mh">book_186</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7151516F-56AE-4152-AE19-A5371D0A1708">
+    <titleInfo lang="chi" script="Hant">
+        <title>陸操近義</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lu cao jin yi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 95</note>
+    <abstract lang="chi" type="summary">陸操近義四卷附錄一卷 天津機器局印本　上海石印本　西學大成本　坊間改名德國練兵書 [德]康貝著，李鳳苞譯，首論一隊，自戰全營合戰；次論奮勇進攻，不可坐守；終論 攻法以何種排列為最。自同治五年戰事，始至光緒七年止，叠有增益，德國陸 軍為全球冠，師丹一役成效顯著，其致勝之法不出乎各小綜自為戰，仍成一 大軍，以合戰在因地因人，時有變化而已。 製造局有英傅蘭雅譯，陸軍戰法；時務報館譯，有陸戰新法，均未印出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_186</identifier>
+</mods>

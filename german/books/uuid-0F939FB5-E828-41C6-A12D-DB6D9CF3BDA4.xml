@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0F939FB5-E828-41C6-A12D-DB6D9CF3BDA4"><titleInfo lang="chi" script="Hant"><title>古雄逸語</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 66</note><abstract type="summary"> 古雄逸語一卷 蒙學報本   [日本]幸田露伴著，[日本]松林孝純譯。 [顧補]  </abstract><identifier type="mh">book_80</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0F939FB5-E828-41C6-A12D-DB6D9CF3BDA4">
+    <titleInfo lang="chi" script="Hant">
+        <title>古雄逸語</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gu xiong yi yu</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,臣民傳記,p 66</note>
+    <abstract lang="chi" type="summary">古雄逸語一卷 蒙學報本 [日本]幸田露伴著，[日本]松林孝純譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_80</identifier>
+</mods>

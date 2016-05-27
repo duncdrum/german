@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9F5DEE1E-A05B-46B6-B0F1-C109B5219312"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">石原健三、木下新三郎合著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>政治學</title></titleInfo><note type="citation">日本書目志,卷五,政治門,國家政治學,p 741</note><note type="price">一圓二角</note><identifier type="mh">book_2716</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9F5DEE1E-A05B-46B6-B0F1-C109B5219312">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">石原健三、木下新三郎合著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shi yuan jian san, mu xia xin san lang hezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>政治學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhengzhixue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,國家政治學,p 741</note>
+    <note type="price">一圓二角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2716</identifier>
+</mods>

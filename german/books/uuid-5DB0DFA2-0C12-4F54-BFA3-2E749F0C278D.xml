@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-5DB0DFA2-0C12-4F54-BFA3-2E749F0C278D"><titleInfo lang="chi" script="Hant"><title>太平洋商戰說</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,商學,p 167</note><abstract type="summary"> 太平洋商戰說一卷 江南商務報本　萬國公報本   [美]佑尼干著，[美]林樂知、蔡爾康合譯，斯書言大西洋之商務，以開通蘇彝士河 而盛，今世美商業日隆，乃擬仿蘇彝士河故事鑿通泥加瀨瓜、派那馬兩地頸 ，以通大西洋、太平洋，從此商途大暢。太平洋一帶皆為利藪，且美與中國緯度 土產亦大半從同，更可從新河販運，不必沾沾於蘇彝士河矣。 [顧補]  </abstract><identifier type="mh">book_461</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-5DB0DFA2-0C12-4F54-BFA3-2E749F0C278D">
+    <titleInfo lang="chi" script="Hant">
+        <title>太平洋商戰說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Taiping Yang shangzhan shuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,商學,p 167</note>
+    <abstract lang="chi" type="summary">太平洋商戰說一卷 江南商務報本　萬國公報本 [美]佑尼干著，[美]林樂知、蔡爾康合譯，斯書言大西洋之商務，以開通蘇彝士河 而盛，今世美商業日隆，乃擬仿蘇彝士河故事鑿通泥加瀨瓜、派那馬兩地頸 ，以通大西洋、太平洋，從此商途大暢。太平洋一帶皆為利藪，且美與中國緯度 土產亦大半從同，更可從新河販運，不必沾沾於蘇彝士河矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_461</identifier>
+</mods>

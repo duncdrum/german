@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8D6BDA72-352B-40F8-A647-EEE57E95E3FF"><titleInfo lang="chi" script="Hant"><title>博物新聞</title></titleInfo><note type="citation">增版東西學書錄,卷三,格致總第十一,p 180</note><abstract type="summary"> 博物新聞無卷數 格致彙編本   [英]艾約瑟譯，此書疑即艾氏之日記，擇其聞見涉於博物者，條論其理，與格物 雜說相同。 </abstract><identifier type="mh">book_512</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8D6BDA72-352B-40F8-A647-EEE57E95E3FF">
+    <titleInfo lang="chi" script="Hant">
+        <title>博物新聞</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bowu xinwen</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 180</note>
+    <abstract lang="chi" type="summary">博物新聞無卷數 格致彙編本 [英]艾約瑟譯，此書疑即艾氏之日記，擇其聞見涉於博物者，條論其理，與格物 雜說相同。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_512</identifier>
+</mods>

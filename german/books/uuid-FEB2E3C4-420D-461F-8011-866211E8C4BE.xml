@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FEB2E3C4-420D-461F-8011-866211E8C4BE"><titleInfo lang="chi" script="Hant"><title>英維多利亞大事記</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 64</note><abstract type="summary"> 英維多利亞大事記一卷 杭洲譯林本   [英]某氏著譯，林館譯，泰西以商立國，而十九世紀英為獨雄，雖由立法定制之 善，議院宰相之力，然其君不為無功，百年以來英國領地面積，自一百四萬二 千五百九十五方英里，擴張至一千二百十五萬一千方英里，他如定巴黎、柏 林之盟，平孟加拉椶種之亂，澳非、坎拿大、印度、緬甸以次賓服，遂能以英倫三 島控制五洲，為地球一等強國者，君主維多利亞之力也。斯書所記起西歷一 千八百十九年迄九十六年間維多利亞死，故此四年闕不譯。 [顧補]  </abstract><identifier type="mh">book_75</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FEB2E3C4-420D-461F-8011-866211E8C4BE">
+    <titleInfo lang="chi" script="Hant">
+        <title>英維多利亞大事記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ying Weiduoliya dashiji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,帝王傳,p 64</note>
+    <abstract lang="chi" type="summary">英維多利亞大事記一卷 杭洲譯林本 [英]某氏著譯，林館譯，泰西以商立國，而十九世紀英為獨雄，雖由立法定制之 善，議院宰相之力，然其君不為無功，百年以來英國領地面積，自一百四萬二 千五百九十五方英里，擴張至一千二百十五萬一千方英里，他如定巴黎、柏 林之盟，平孟加拉椶種之亂，澳非、坎拿大、印度、緬甸以次賓服，遂能以英倫三 島控制五洲，為地球一等強國者，君主維多利亞之力也。斯書所記起西歷一 千八百十九年迄九十六年間維多利亞死，故此四年闕不譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_75</identifier>
+</mods>

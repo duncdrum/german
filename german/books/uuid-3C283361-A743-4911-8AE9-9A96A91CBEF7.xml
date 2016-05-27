@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3C283361-A743-4911-8AE9-9A96A91CBEF7"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">秋野要藏編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>高等小學歷史字引</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1079</note><note type="price">一角五分</note><identifier type="mh">book_6743</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3C283361-A743-4911-8AE9-9A96A91CBEF7">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">秋野要藏編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Qiu ye yao cang bianzuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>高等小學歷史字引</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaodeng xiaoxue lishi zi yin</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,讀書字類,p 1079</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6743</identifier>
+</mods>

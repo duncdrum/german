@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F6AAD47B-5E5C-433F-BA58-96CA85E70479"><titleInfo lang="chi" script="Hant"><title>附日本農會章程</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 121</note><abstract type="summary">  附 日本農會章程一卷 農學報本   [日本]古城貞吉譯，分為四科，曰農學、曰農蓻化學、曰林學、曰獸醫學，首大學章 程，次大學乙科章程，次卒業獸醫學章程，次篤志農學章程。此乃日本國家大 學堂章程，從大學一覽譯出者，所列各學條理繁瑣，並三年為期日本所定學 章皆攷求西例，復酌劑己意，故詳善勝於西。 </abstract><identifier type="mh">book_271</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F6AAD47B-5E5C-433F-BA58-96CA85E70479">
+    <titleInfo lang="chi" script="Hant">
+        <title>附日本農會章程</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Fu Riben nonghui zhangcheng</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 121</note>
+    <abstract lang="chi" type="summary">附 日本農會章程一卷 農學報本 [日本]古城貞吉譯，分為四科，曰農學、曰農蓻化學、曰林學、曰獸醫學，首大學章 程，次大學乙科章程，次卒業獸醫學章程，次篤志農學章程。此乃日本國家大 學堂章程，從大學一覽譯出者，所列各學條理繁瑣，並三年為期日本所定學 章皆攷求西例，復酌劑己意，故詳善勝於西。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_271</identifier>
+</mods>

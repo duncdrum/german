@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B53D388C-515C-4140-BEEA-69148DF835BB"><titleInfo lang="chi" script="Hant"><title>西國近事</title></titleInfo><note type="citation">增版東西學書錄,卷四,報章第二十九,p 271</note><abstract type="summary"> 西國近事　卷 製造局本   鳳儀譯述，專譯西報中所載大事，每月一冊鈔送總署及南北洋通商大臣、江 海關道，惜未刻印。 </abstract><identifier type="mh">book_851</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B53D388C-515C-4140-BEEA-69148DF835BB">
+    <titleInfo lang="chi" script="Hant">
+        <title>西國近事</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi guo jin shi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 271</note>
+    <abstract lang="chi" type="summary">西國近事　卷 製造局本 鳳儀譯述，專譯西報中所載大事，每月一冊鈔送總署及南北洋通商大臣、江 海關道，惜未刻印。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_851</identifier>
+</mods>

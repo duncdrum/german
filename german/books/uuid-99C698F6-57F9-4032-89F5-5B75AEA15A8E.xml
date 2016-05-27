@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-99C698F6-57F9-4032-89F5-5B75AEA15A8E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">馬琴等著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>兔園小說 十二集大尾百家說林卷十 </title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1207</note><note type="price">四角</note><identifier type="mh">book_8540</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-99C698F6-57F9-4032-89F5-5B75AEA15A8E">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">馬琴等著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ma qin dengzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>兔園小說 十二集大尾百家說林卷十</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tu yuan xiaoshuo shi'er ji da wei baijia shuo lin juan shi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1207</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8540</identifier>
+</mods>

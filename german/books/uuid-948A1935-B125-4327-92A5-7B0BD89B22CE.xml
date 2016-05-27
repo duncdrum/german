@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-948A1935-B125-4327-92A5-7B0BD89B22CE"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">後藤本馬著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>民事訴訟書式案內</title></titleInfo><note type="citation">日本書目志,卷六,法律門,民事訴訟法,p 799</note><note type="price">一角</note><identifier type="mh">book_3410</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-948A1935-B125-4327-92A5-7B0BD89B22CE">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">後藤本馬著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Hou teng ben mazhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>民事訴訟書式案內</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Minshi susong shu shi an nei</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,民事訴訟法,p 799</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3410</identifier>
+</mods>

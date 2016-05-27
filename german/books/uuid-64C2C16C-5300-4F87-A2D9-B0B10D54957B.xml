@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-64C2C16C-5300-4F87-A2D9-B0B10D54957B"><titleInfo lang="chi" script="Hant"><title>西國寫字機器圖說</title></titleInfo><note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 159</note><abstract type="summary"> 西國寫字機器圖說一卷 格致彙編本   [英]傅蘭雅著，所載二種，一為哈門德機器，一為卡利古拉夫機器，卷葉無多未 能成書，以其有合於用，姑載其目。彙編一有印書機器圖說，又二有丁韙良論 代筆新機，又石板印圖法，又寫字機器，又七有石印新法，皆足參證。 </abstract><identifier type="mh">book_431</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-64C2C16C-5300-4F87-A2D9-B0B10D54957B">
+    <titleInfo lang="chi" script="Hant">
+        <title>西國寫字機器圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xi guo xiezi jiqi tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,工蓺第八,雜蓺,p 159</note>
+    <abstract lang="chi" type="summary">西國寫字機器圖說一卷 格致彙編本 [英]傅蘭雅著，所載二種，一為哈門德機器，一為卡利古拉夫機器，卷葉無多未 能成書，以其有合於用，姑載其目。彙編一有印書機器圖說，又二有丁韙良論 代筆新機，又石板印圖法，又寫字機器，又七有石印新法，皆足參證。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_431</identifier>
+</mods>

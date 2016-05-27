@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B29BD6A5-9721-4356-8BEE-A2A06FF48D07"><titleInfo lang="chi" script="Hant"><title>大英國志</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note><abstract type="summary"> 大英國志八卷 益智書會本二冊　墨海書院刊本　西學大成本　上海排印本   [英]慕維廉譯、依英士托馬斯、米爾納所作史記譯出，嫌太略，首列維多利亞世 系表，與英興記所載，足以互勘。其議院、教堂、地理等圖，尚明爽可觀。 製造局印，有美林樂知譯，印度國史二冊。譯書公會印，有英極盎而里雀搿林著，胡濬謨譯，英民史畧十卷，附圖大事表一卷，皇家世系表一卷，未成；東亞書局譯，有英國古今歷史，亦未出。  </abstract><identifier type="mh">book_28</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B29BD6A5-9721-4356-8BEE-A2A06FF48D07">
+    <titleInfo lang="chi" script="Hant">
+        <title>大英國志</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Da Yingguo zhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,專史,p 50</note>
+    <abstract lang="chi" type="summary">大英國志八卷 益智書會本二冊　墨海書院刊本　西學大成本　上海排印本 [英]慕維廉譯、依英士托馬斯、米爾納所作史記譯出，嫌太略，首列維多利亞世 系表，與英興記所載，足以互勘。其議院、教堂、地理等圖，尚明爽可觀。 製造局印，有美林樂知譯，印度國史二冊。譯書公會印，有英極盎而里雀搿林著，胡濬謨譯，英民史畧十卷，附圖大事表一卷，皇家世系表一卷，未成；東亞書局譯，有英國古今歷史，亦未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_28</identifier>
+</mods>

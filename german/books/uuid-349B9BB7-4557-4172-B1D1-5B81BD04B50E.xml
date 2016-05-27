@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-349B9BB7-4557-4172-B1D1-5B81BD04B50E"><titleInfo lang="chi" script="Hant"><title>列國歲計政要</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 71</note><abstract type="summary"> 列國歲計政要十二卷首一卷 光緒元年製造局本六冊　富強叢書本　軍政全書本　西學大成本　慎記書莊石印本，易名海國大政記。   [英]麥丁富得力編，[美]林樂知譯，鄭昌校述，各國此類之書或官撰或私著，歲歲 有之。是書編於同治十二年，英公使彙寄而成，篇中述歐洲各國疆域、戶口、官 制、教門、學校、國用、商務、兵政諸大事，雖澳洲、紐薩、威爾士、紐齊蘭等地之政俗 亦無不載，可謂勤矣。惜皆二十餘年前陳迹，聞日本每年有譯本，若由東文按 年譯之，則甚易。 東亞書局譯有日本歲紀政要，未見；知新報印有英咳咖路地輯，周逢源譯，丁酉年列國歲計政要六卷，首一卷未成；東亞書局又有萬國憲法國情新論，均未出。  </abstract><identifier type="mh">book_99</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-349B9BB7-4557-4172-B1D1-5B81BD04B50E">
+    <titleInfo lang="chi" script="Hant">
+        <title>列國歲計政要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Lieguo suiji zhengyao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,政治,p 71</note>
+    <abstract lang="chi" type="summary">列國歲計政要十二卷首一卷 光緒元年製造局本六冊　富強叢書本　軍政全書本　西學大成本　慎記書莊石印本，易名海國大政記。 [英]麥丁富得力編，[美]林樂知譯，鄭昌校述，各國此類之書或官撰或私著，歲歲 有之。是書編於同治十二年，英公使彙寄而成，篇中述歐洲各國疆域、戶口、官 制、教門、學校、國用、商務、兵政諸大事，雖澳洲、紐薩、威爾士、紐齊蘭等地之政俗 亦無不載，可謂勤矣。惜皆二十餘年前陳迹，聞日本每年有譯本，若由東文按 年譯之，則甚易。 東亞書局譯有日本歲紀政要，未見；知新報印有英咳咖路地輯，周逢源譯，丁酉年列國歲計政要六卷，首一卷未成；東亞書局又有萬國憲法國情新論，均未出。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_99</identifier>
+</mods>

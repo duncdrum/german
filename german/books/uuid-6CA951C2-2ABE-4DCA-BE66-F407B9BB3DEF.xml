@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6CA951C2-2ABE-4DCA-BE66-F407B9BB3DEF"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">齋藤實堯譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 增訂 西洋染色法</title></titleInfo><note type="citation">日本書目志,卷八,工業門,染色書,p 882</note><note type="price">五角</note><identifier type="mh">book_4178</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6CA951C2-2ABE-4DCA-BE66-F407B9BB3DEF">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">齋藤實堯譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhai teng shi yao yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>增訂 西洋染色法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zengding xiyang ranse fa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷八,工業門,染色書,p 882</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4178</identifier>
+</mods>

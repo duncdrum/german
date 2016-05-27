@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-E85F1336-BE62-47A1-84BB-BB63F512045B"><titleInfo lang="chi" script="Hant"><title>電學須知</title></titleInfo><note type="citation">增版東西學書錄,卷三,電學第十四,p 198</note><abstract type="summary"> 電學須知一卷 格致須知三集本一冊   [英]傅蘭雅著，書凡六章，畧論電性、摩電氣、吸鐵氣、化電氣以及發電諸器之利 用，皆取淺近不及深奧，雖簡略，頗多新理。 求是報有曾仰東譯，格致訓蒙電學，未成。  </abstract><identifier type="mh">book_563</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-E85F1336-BE62-47A1-84BB-BB63F512045B">
+    <titleInfo lang="chi" script="Hant">
+        <title>電學須知</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dianxue xuzhi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,電學第十四,p 198</note>
+    <abstract lang="chi" type="summary">電學須知一卷 格致須知三集本一冊 [英]傅蘭雅著，書凡六章，畧論電性、摩電氣、吸鐵氣、化電氣以及發電諸器之利 用，皆取淺近不及深奧，雖簡略，頗多新理。 求是報有曾仰東譯，格致訓蒙電學，未成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_563</identifier>
+</mods>

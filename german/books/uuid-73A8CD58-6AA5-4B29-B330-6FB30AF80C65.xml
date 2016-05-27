@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-73A8CD58-6AA5-4B29-B330-6FB30AF80C65"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">野口幾太郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>尋常小學日課表</title></titleInfo><note type="citation">日本書目志,卷十,教育門,教育雜書,p 946</note><note type="price">一分五釐</note><identifier type="mh">book_4895</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-73A8CD58-6AA5-4B29-B330-6FB30AF80C65">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">野口幾太郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ye kou ji tai lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>尋常小學日課表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xunchang xiaoxue ri kebiao</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十,教育門,教育雜書,p 946</note>
+    <note type="price">一分五釐</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_4895</identifier>
+</mods>

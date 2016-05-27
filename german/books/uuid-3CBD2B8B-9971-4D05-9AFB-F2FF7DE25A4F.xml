@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3CBD2B8B-9971-4D05-9AFB-F2FF7DE25A4F"><titleInfo lang="chi" script="Hant"><title>平假名盛衰記源太勘當段</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,戲曲,p 1012</note><note type="price">五分三釐</note><identifier type="mh">book_5811</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3CBD2B8B-9971-4D05-9AFB-F2FF7DE25A4F">
+    <titleInfo lang="chi" script="Hant">
+        <title>平假名盛衰記源太勘當段</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ping jiaming sheng-shuai ji yuan tai kan dang duan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,戲曲,p 1012</note>
+    <note type="price">五分三釐</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5811</identifier>
+</mods>

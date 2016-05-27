@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2117931E-C390-46B2-8035-EE95EB6CD4A4"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">今田束著譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>神經一覽</title></titleInfo><note type="citation">日本書目志,卷一,生理門,解剖學,p 595</note><note type="price">二圓一角</note><identifier type="mh">book_982</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2117931E-C390-46B2-8035-EE95EB6CD4A4">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">今田束著譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jin tian shuzhe yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>神經一覽</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shenjing yilan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,解剖學,p 595</note>
+    <note type="price">二圓一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_982</identifier>
+</mods>

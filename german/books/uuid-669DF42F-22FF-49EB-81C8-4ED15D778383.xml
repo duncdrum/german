@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-669DF42F-22FF-49EB-81C8-4ED15D778383"><titleInfo lang="chi" script="Hant"><title>工蓺報</title></titleInfo><note type="citation">增版東西學書錄,卷四,報章第二十九,p 277</note><abstract type="summary"> 工蓺報及工蓺叢書 排印本，設上海。   奚世幹、沈紘輯譯，光緒二十六年十月始振興工蓺，為近日中國救貧之要政。 奚君本有譯印日本工蓺製造之書，為工蓺叢書復慮行之不廣，乃依東西洋 各國雜誌之體，與工蓺叢書皆月出一冊，俾人人便於購閱，報中採譯皆近年 各國新出之法，並中國各報之關於蓺事者，凡可以自成一種者入叢書，餘皆 編入報章，曩為巾箱本，自二十八年正月始改為大本，奚君字挺筠為南滙鄉 人乃能出資，以作斯報，可謂難得，特附記之。 [徐補]  </abstract><identifier type="mh">book_873</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-669DF42F-22FF-49EB-81C8-4ED15D778383">
+    <titleInfo lang="chi" script="Hant">
+        <title>工蓺報</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gong yi bao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,報章第二十九,p 277</note>
+    <abstract lang="chi" type="summary">工蓺報及工蓺叢書 排印本，設上海。 奚世幹、沈紘輯譯，光緒二十六年十月始振興工蓺，為近日中國救貧之要政。 奚君本有譯印日本工蓺製造之書，為工蓺叢書復慮行之不廣，乃依東西洋 各國雜誌之體，與工蓺叢書皆月出一冊，俾人人便於購閱，報中採譯皆近年 各國新出之法，並中國各報之關於蓺事者，凡可以自成一種者入叢書，餘皆 編入報章，曩為巾箱本，自二十八年正月始改為大本，奚君字挺筠為南滙鄉 人乃能出資，以作斯報，可謂難得，特附記之。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_873</identifier>
+</mods>

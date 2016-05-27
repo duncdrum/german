@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6D4320BE-342D-4319-B84C-20F35E778CCB"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">林誠四郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 明治新撰 東京玉篇</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1065</note><note type="price">一角一分</note><identifier type="mh">book_6540</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6D4320BE-342D-4319-B84C-20F35E778CCB">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">林誠四郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Lin cheng si lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>明治新撰 東京玉篇</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming zhi xin zhuan Dongjing Yupian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,辭書,p 1065</note>
+    <note type="price">一角一分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6540</identifier>
+</mods>

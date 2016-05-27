@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-905AAD7B-4D03-4E5F-B065-7F866FCF82BC"><titleInfo lang="chi" script="Hant"><title>形性學要</title></titleInfo><note type="citation">增版東西學書錄,卷三,格致總第十一,p 179</note><abstract type="summary"> 形性學要十卷附圖 格致益聞報館印本四冊   [法]迦諾著，滙報館譯，第一冊四卷，講力重氣水諸學，附圖一百三十餘；二冊二 卷，論聲學熱學附圖八十六；三冊二卷，論光學磁學附圖一百餘；四冊二卷論 電學氣候學附圖百餘。鈎元提要，與格物質學用意相同，而較為簡顯易曉。 [顧補]  </abstract><identifier type="mh">book_504</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-905AAD7B-4D03-4E5F-B065-7F866FCF82BC">
+    <titleInfo lang="chi" script="Hant">
+        <title>形性學要</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xing xingxue yao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,格致總第十一,p 179</note>
+    <abstract lang="chi" type="summary">形性學要十卷附圖 格致益聞報館印本四冊 [法]迦諾著，滙報館譯，第一冊四卷，講力重氣水諸學，附圖一百三十餘；二冊二 卷，論聲學熱學附圖八十六；三冊二卷，論光學磁學附圖一百餘；四冊二卷論 電學氣候學附圖百餘。鈎元提要，與格物質學用意相同，而較為簡顯易曉。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_504</identifier>
+</mods>

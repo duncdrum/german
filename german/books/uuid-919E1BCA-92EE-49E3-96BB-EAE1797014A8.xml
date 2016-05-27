@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-919E1BCA-92EE-49E3-96BB-EAE1797014A8"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">曾我彥廢譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>畜疫治法</title></titleInfo><note type="citation">日本書目志,卷一,生理門,獸醫學,p 618</note><note type="price">一角二分五釐</note><identifier type="mh">book_1271</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-919E1BCA-92EE-49E3-96BB-EAE1797014A8">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">曾我彥廢譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ceng wo yan fei yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>畜疫治法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Chuyi zhifa</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷一,生理門,獸醫學,p 618</note>
+    <note type="price">一角二分五釐</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1271</identifier>
+</mods>

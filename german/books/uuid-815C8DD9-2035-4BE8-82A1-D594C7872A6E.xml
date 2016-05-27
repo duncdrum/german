@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-815C8DD9-2035-4BE8-82A1-D594C7872A6E"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">大和田健樹著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 高等小學 帝國唱歌</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,唱歌集,p 994</note><note type="price">二角四分</note><identifier type="mh">book_5547</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-815C8DD9-2035-4BE8-82A1-D594C7872A6E">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">大和田健樹著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Da he tian jian shuzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>高等小學 帝國唱歌</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaodeng xiaoxue diguo changge</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,唱歌集,p 994</note>
+    <note type="price">二角四分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5547</identifier>
+</mods>

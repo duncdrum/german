@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7B03C08D-23AB-4D4E-8882-9C27FFFF4EE6"><titleInfo lang="chi" script="Hant"><title>屑繭製絲法</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 125</note><abstract type="summary"> 屑繭製絲法一卷附圖 工蓻叢書本一冊   [日本]竹澤章輯著，沈紘譯，曰釋器、曰練繭、曰練絲、曰漂絲、曰儲料、曰計利，皆攷 究以最次之繭用藥料製成良絲之法器，簡製便而利頗厚，是不可不仿行。 [徐補]  </abstract><identifier type="mh">book_287</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7B03C08D-23AB-4D4E-8882-9C27FFFF4EE6">
+    <titleInfo lang="chi" script="Hant">
+        <title>屑繭製絲法</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xie jian zhi si fa</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,蠶務,p 125</note>
+    <abstract lang="chi" type="summary">屑繭製絲法一卷附圖 工蓻叢書本一冊 [日本]竹澤章輯著，沈紘譯，曰釋器、曰練繭、曰練絲、曰漂絲、曰儲料、曰計利，皆攷 究以最次之繭用藥料製成良絲之法器，簡製便而利頗厚，是不可不仿行。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_287</identifier>
+</mods>

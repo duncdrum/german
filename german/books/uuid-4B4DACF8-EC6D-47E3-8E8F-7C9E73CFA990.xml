@@ -1,1 +1,19 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4B4DACF8-EC6D-47E3-8E8F-7C9E73CFA990"><titleInfo lang="chi" script="Hant"><title> 明治地誌附錄 練習地圖 小學校用 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 687</note><identifier type="mh">book_2019</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4B4DACF8-EC6D-47E3-8E8F-7C9E73CFA990">
+    <titleInfo lang="chi" script="Hant">
+        <title>明治地誌附錄 練習地圖 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ming zhi de zhi fulu lianxi ditu xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地圖小學校用,p 687</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2019</identifier>
+</mods>

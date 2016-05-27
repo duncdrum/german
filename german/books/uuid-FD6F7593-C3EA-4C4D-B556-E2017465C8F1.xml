@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-FD6F7593-C3EA-4C4D-B556-E2017465C8F1"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">湯本武比古譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>學校實用心理學</title></titleInfo><note type="citation">日本書目志,卷二,理學門,心理學,p 657</note><note type="price">六角</note><identifier type="mh">book_1673</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-FD6F7593-C3EA-4C4D-B556-E2017465C8F1">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">湯本武比古譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Tang ben wu bi gu yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>學校實用心理學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xuexiao shiyong xinlixue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,心理學,p 657</note>
+    <note type="price">六角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1673</identifier>
+</mods>

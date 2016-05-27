@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6E6F660B-6F0E-4F5C-BD18-31806E8E42D7"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">朝夷六郎、松本貢編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>日本小地理 小學校用 </title></titleInfo><note type="citation">日本書目志,卷四,圖史門,地理小學校,p 677</note><note type="price">一角七分</note><identifier type="mh">book_1875</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6E6F660B-6F0E-4F5C-BD18-31806E8E42D7">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">朝夷六郎、松本貢編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Chao yi liu lang, song ben gong bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>日本小地理 小學校用</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Riben xiao dili xiaoxuexiao yong</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,地理小學校,p 677</note>
+    <note type="price">一角七分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1875</identifier>
+</mods>

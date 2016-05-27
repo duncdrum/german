@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0DC83B91-2496-4FF7-9D51-B0B34FD76B15"><titleInfo lang="chi" script="Hant"><title>化學初桄</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 205</note><abstract type="summary"> 化學初桄　卷 勵學繹編本   [泰西]李姆孫著，楊學斌譯，書中試騐設問於化學之事，言之明晰，殊便學者。 [顧補]  </abstract><identifier type="mh">book_590</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0DC83B91-2496-4FF7-9D51-B0B34FD76B15">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學初桄</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue chu guang</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 205</note>
+    <abstract lang="chi" type="summary">化學初桄　卷 勵學繹編本 [泰西]李姆孫著，楊學斌譯，書中試騐設問於化學之事，言之明晰，殊便學者。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_590</identifier>
+</mods>

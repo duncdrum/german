@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-556FDC9D-E0A8-4B56-8437-80608D3F4FE0"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">中根重一著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>鐵道問題</title></titleInfo><note type="citation">日本書目志,卷五,政治門,財政學,p 758</note><note type="price">一角</note><identifier type="mh">book_2905</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-556FDC9D-E0A8-4B56-8437-80608D3F4FE0">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">中根重一著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Zhong gen zhong yizhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>鐵道問題</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tiedao wenti</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,財政學,p 758</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2905</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7C64D2D9-08BF-43C6-A027-F79581998CF9"><titleInfo lang="chi" script="Hant"><title> 家庭教育 伊吕波問答</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1163</note><note type="price">二角五分</note><identifier type="mh">book_7891</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7C64D2D9-08BF-43C6-A027-F79581998CF9">
+    <titleInfo lang="chi" script="Hant">
+        <title>家庭教育 伊吕波問答</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Jiating jiaoyu yi lü bo wen-da</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1163</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7891</identifier>
+</mods>

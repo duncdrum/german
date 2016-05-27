@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A2FBDF26-E0A9-44FC-B3EF-8935E46399A5"><titleInfo lang="chi" script="Hant"><title>東方交涉記</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 58</note><abstract type="summary"> 東方交涉記十二卷 製造局刻本　軍政全書本　富強叢書本   [英]麥高爾輯著，[美]林樂知、瞿昂來同譯，是書詳叙俄土之戰及山斯替夫伯靈 兩約始末，其第十卷載俄皇與英使西麻之言，以見兩國之注意與政策之所 在，是英俄交涉尤汲汲矣。 譯書公會報有美威廉司著，張書紳譯，交涉記事本末，未印成。  </abstract><identifier type="mh">book_57</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A2FBDF26-E0A9-44FC-B3EF-8935E46399A5">
+    <titleInfo lang="chi" script="Hant">
+        <title>東方交涉記</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dongfang jiaoshe ji</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 58</note>
+    <abstract lang="chi" type="summary">東方交涉記十二卷 製造局刻本　軍政全書本　富強叢書本 [英]麥高爾輯著，[美]林樂知、瞿昂來同譯，是書詳叙俄土之戰及山斯替夫伯靈 兩約始末，其第十卷載俄皇與英使西麻之言，以見兩國之注意與政策之所 在，是英俄交涉尤汲汲矣。 譯書公會報有美威廉司著，張書紳譯，交涉記事本末，未印成。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_57</identifier>
+</mods>

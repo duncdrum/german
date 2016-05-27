@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B766E6A7-35CE-4384-B60C-DDAC9CD8FC3C"><titleInfo lang="chi" script="Hant"><title>體用十章</title></titleInfo><note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 242</note><abstract type="summary"> 體用十章四卷 光緒十年博濟醫局刊本四冊   [英]哈士烈著，孔慶高譯，西醫詳體而略用，並言體用既不失之蹈空，亦不過於 徵實，可以郵通中西。蓋是書繼體質窮源而譯，所謂體者指全體，所謂用者指 功用，書中所用名目皆依全體闡微，以歸畫一。 </abstract><identifier type="mh">book_737</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B766E6A7-35CE-4384-B60C-DDAC9CD8FC3C">
+    <titleInfo lang="chi" script="Hant">
+        <title>體用十章</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tiyong shi zhang</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,醫學第二十三,內科,p 242</note>
+    <abstract lang="chi" type="summary">體用十章四卷 光緒十年博濟醫局刊本四冊 [英]哈士烈著，孔慶高譯，西醫詳體而略用，並言體用既不失之蹈空，亦不過於 徵實，可以郵通中西。蓋是書繼體質窮源而譯，所謂體者指全體，所謂用者指 功用，書中所用名目皆依全體闡微，以歸畫一。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_737</identifier>
+</mods>

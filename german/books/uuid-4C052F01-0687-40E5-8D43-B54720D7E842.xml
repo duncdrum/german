@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4C052F01-0687-40E5-8D43-B54720D7E842"><titleInfo lang="chi" script="Hant"><title>印度蠶食戰史</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 59</note><abstract type="summary"> 印度蠶食戰史　卷 勵學譯編本　杭州譯林館單行本   [日本]澁江保著，汪郁年譯，戴昌熙校定，言印度宗教哲學甚詳，杭州譯林本 文詞微有不同。 [顧補]  </abstract><identifier type="mh">book_61</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4C052F01-0687-40E5-8D43-B54720D7E842">
+    <titleInfo lang="chi" script="Hant">
+        <title>印度蠶食戰史</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yindu canshi zhanshi</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,戰記,p 59</note>
+    <abstract lang="chi" type="summary">印度蠶食戰史　卷 勵學譯編本　杭州譯林館單行本 [日本]澁江保著，汪郁年譯，戴昌熙校定，言印度宗教哲學甚詳，杭州譯林本 文詞微有不同。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_61</identifier>
+</mods>

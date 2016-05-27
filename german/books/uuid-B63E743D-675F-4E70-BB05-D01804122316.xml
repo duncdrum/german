@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B63E743D-675F-4E70-BB05-D01804122316"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">金子源治編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 疑義說明 刑法實用大全</title></titleInfo><note type="citation">日本書目志,卷六,法律門,刑法書,p 787</note><note type="price">三角</note><identifier type="mh">book_3246</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B63E743D-675F-4E70-BB05-D01804122316">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">金子源治編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jinzi yuan zhi bianzuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>疑義說明 刑法實用大全</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yiyi shuoming xingfa shiyong daquan</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷六,法律門,刑法書,p 787</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3246</identifier>
+</mods>

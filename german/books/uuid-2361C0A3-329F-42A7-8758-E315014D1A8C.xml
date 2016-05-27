@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-2361C0A3-329F-42A7-8758-E315014D1A8C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">松迺舍著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 改正明細 東京全圖</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,東京圖,p 692</note><note type="price">五分</note><identifier type="mh">book_2079</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-2361C0A3-329F-42A7-8758-E315014D1A8C">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">松迺舍著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Song nai shezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>改正明細 東京全圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Gaizheng mingxi Dongjing quan tu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,東京圖,p 692</note>
+    <note type="price">五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2079</identifier>
+</mods>

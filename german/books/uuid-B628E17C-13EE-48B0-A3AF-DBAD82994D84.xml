@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B628E17C-13EE-48B0-A3AF-DBAD82994D84"><titleInfo lang="chi" script="Hant"><title>厯覽記略</title></titleInfo><note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note><abstract type="summary"> 厯覽記略一卷 格致彙編本　製造局本一冊   [英]傅蘭雅、徐壽譯，斯為傅氏請假回國時厯覽製造各廠日記，詳言機器製造 ，而於規模制度房屋之壯麗，汽機之鼓鑄，輪軸之斡旋，無不繪圖詳載，講工程 學者當瀏覽也。彙編一傅氏又有遊覽東洋日記。 </abstract><identifier type="mh">book_832</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B628E17C-13EE-48B0-A3AF-DBAD82994D84">
+    <titleInfo lang="chi" script="Hant">
+        <title>厯覽記略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Li lan ji lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷四,遊記第二十八,p 266</note>
+    <abstract lang="chi" type="summary">厯覽記略一卷 格致彙編本　製造局本一冊 [英]傅蘭雅、徐壽譯，斯為傅氏請假回國時厯覽製造各廠日記，詳言機器製造 ，而於規模制度房屋之壯麗，汽機之鼓鑄，輪軸之斡旋，無不繪圖詳載，講工程 學者當瀏覽也。彙編一傅氏又有遊覽東洋日記。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_832</identifier>
+</mods>

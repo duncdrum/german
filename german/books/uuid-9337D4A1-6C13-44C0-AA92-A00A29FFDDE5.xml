@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9337D4A1-6C13-44C0-AA92-A00A29FFDDE5"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">井原西鶴著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>小夜嵐物語</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1183</note><note type="price">三角</note><identifier type="mh">book_8185</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9337D4A1-6C13-44C0-AA92-A00A29FFDDE5">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">井原西鶴著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Jing yuan xi hezhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>小夜嵐物語</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xiao ye lan wu yu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1183</note>
+    <note type="price">三角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8185</identifier>
+</mods>

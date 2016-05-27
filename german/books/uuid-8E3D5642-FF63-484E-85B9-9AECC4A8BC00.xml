@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8E3D5642-FF63-484E-85B9-9AECC4A8BC00"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">深井鑑一郎編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 中等教育 國語漢文講義錄 每月二回 </title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1061</note><note type="price">一角</note><identifier type="mh">book_6493</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8E3D5642-FF63-484E-85B9-9AECC4A8BC00">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">深井鑑一郎編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shenjing jian yi lang bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>中等教育 國語漢文講義錄 每月二回</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhongdeng jiaoyu Guoyu Hanwen jiangyi lu mei yue er hui</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1061</note>
+    <note type="price">一角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6493</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F83FA6F4-5A59-4377-963A-327685760378"><titleInfo lang="chi" script="Hant"><title>農事論略</title></titleInfo><note type="citation">增版東西學書錄,卷二,農政第六,農務,p 117</note><abstract type="summary"> 農事論略一卷附圖 格致彙編本　西政叢書本   [英]傅蘭雅輯譯，近年西國農事日精，農器日繁，今檢其易明者載之，中記英國 農會略章，足備參用。 </abstract><identifier type="mh">book_254</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F83FA6F4-5A59-4377-963A-327685760378">
+    <titleInfo lang="chi" script="Hant">
+        <title>農事論略</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Nongshi lun lüe</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,農政第六,農務,p 117</note>
+    <abstract lang="chi" type="summary">農事論略一卷附圖 格致彙編本　西政叢書本 [英]傅蘭雅輯譯，近年西國農事日精，農器日繁，今檢其易明者載之，中記英國 農會略章，足備參用。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_254</identifier>
+</mods>

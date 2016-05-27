@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-A1FDF533-474E-4E40-8B73-71E9516DDFBD"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">賀田貞一編輯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>遊米紀事</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,記行,p 731</note><note type="price">五角</note><identifier type="mh">book_2610</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-A1FDF533-474E-4E40-8B73-71E9516DDFBD">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">賀田貞一編輯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">He tian zhen yi bianji</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>遊米紀事</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>You mi jishi</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,記行,p 731</note>
+    <note type="price">五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2610</identifier>
+</mods>

@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-4160657A-EDD5-4760-9396-78CBF25A370F"><titleInfo lang="chi" script="Hant"><title>新排對數表</title></titleInfo><note type="citation">增版東西學書錄,卷三,算學第十二,三角八綫,p 191</note><abstract type="summary"> 新排對數表無卷數 益智書會排印本一冊   [美]路密司原書，[美]赫士譯，朱葆琛述，首真數對數表，次弦切對數表及輔表，次弦 切真數表及正割真數表，次弧真數表，次經緯表。每篇皆列較數，甚省推算之 煩，觀三角數理六卷摘刻一篇，知西國對數表皆如是，其弦切表即八綫表矢 無所用，割綫則可依代數對數求之甚易，故不列也。卷首略述用表各法數目 ，全用西文對數，雖止一萬，旁列較數可備十萬之用，八綫亦列較數可求零秒， 清晰便檢，實善本也。 </abstract><identifier type="mh">book_545</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-4160657A-EDD5-4760-9396-78CBF25A370F">
+    <titleInfo lang="chi" script="Hant">
+        <title>新排對數表</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Xin pai duishubiao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,算學第十二,三角八綫,p 191</note>
+    <abstract lang="chi" type="summary">新排對數表無卷數 益智書會排印本一冊 [美]路密司原書，[美]赫士譯，朱葆琛述，首真數對數表，次弦切對數表及輔表，次弦 切真數表及正割真數表，次弧真數表，次經緯表。每篇皆列較數，甚省推算之 煩，觀三角數理六卷摘刻一篇，知西國對數表皆如是，其弦切表即八綫表矢 無所用，割綫則可依代數對數求之甚易，故不列也。卷首略述用表各法數目 ，全用西文對數，雖止一萬，旁列較數可備十萬之用，八綫亦列較數可求零秒， 清晰便檢，實善本也。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_545</identifier>
+</mods>

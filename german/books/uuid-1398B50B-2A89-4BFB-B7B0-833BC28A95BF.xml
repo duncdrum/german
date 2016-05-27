@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1398B50B-2A89-4BFB-B7B0-833BC28A95BF"><titleInfo lang="chi" script="Hant"><title>鐵路律例</title></titleInfo><note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 78</note><abstract type="summary"> 鐵路律例一卷 己亥中外有報本   沈道梅譯，凡十六款，附以載客律例十款，可與時務報館所譯，各鐵路章程參觀。 </abstract><identifier type="mh">book_127</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1398B50B-2A89-4BFB-B7B0-833BC28A95BF">
+    <titleInfo lang="chi" script="Hant">
+        <title>鐵路律例</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Tielu lüli</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,政治法律第二,律例,p 78</note>
+    <abstract lang="chi" type="summary">鐵路律例一卷 己亥中外有報本 沈道梅譯，凡十六款，附以載客律例十款，可與時務報館所譯，各鐵路章程參觀。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_127</identifier>
+</mods>

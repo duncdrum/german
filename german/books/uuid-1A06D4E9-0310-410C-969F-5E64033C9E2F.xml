@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-1A06D4E9-0310-410C-969F-5E64033C9E2F"><titleInfo lang="chi" script="Hant"><title>步兵射擊教範</title></titleInfo><note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 96</note><abstract type="summary"> 步兵射擊教範　卷[南洋公學本]  [日本]陸軍省原書，南洋公學譯書院譯，射擊教範為陸軍省頒行各部隊教育 步兵射擊之書，與步兵操典相濟為用。是編據明治二十八年改正本譯出，凡 四篇，首射擊學理，次射擊教育，三場地器具，四簿記報告，末附圖十七，說理者 七，證器具者十，表十三，據實測者四，示成式者九。 [徐補]  </abstract><identifier type="mh">book_189</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-1A06D4E9-0310-410C-969F-5E64033C9E2F">
+    <titleInfo lang="chi" script="Hant">
+        <title>步兵射擊教範</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Bubing sheji jiaofan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,兵制第五,陸軍,p 96</note>
+    <abstract lang="chi" type="summary">步兵射擊教範　卷[南洋公學本] [日本]陸軍省原書，南洋公學譯書院譯，射擊教範為陸軍省頒行各部隊教育 步兵射擊之書，與步兵操典相濟為用。是編據明治二十八年改正本譯出，凡 四篇，首射擊學理，次射擊教育，三場地器具，四簿記報告，末附圖十七，說理者 七，證器具者十，表十三，據實測者四，示成式者九。 [徐補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_189</identifier>
+</mods>

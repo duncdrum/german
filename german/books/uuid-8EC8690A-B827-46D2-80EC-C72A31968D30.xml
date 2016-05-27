@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-8EC8690A-B827-46D2-80EC-C72A31968D30"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">北山編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>楊誠齋詩鈔</title></titleInfo><note type="citation">日本書目志,卷十一,文學門,詩集,p 971</note><note type="price">四角八分</note><identifier type="mh">book_5212</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-8EC8690A-B827-46D2-80EC-C72A31968D30">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">北山編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Bei shan bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>楊誠齋詩鈔</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Yang cheng zhai shi chao</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,詩集,p 971</note>
+    <note type="price">四角八分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5212</identifier>
+</mods>

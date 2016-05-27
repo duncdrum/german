@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-63683058-36BB-4DCC-9E73-2B6F5AFE0C63"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">山崎美成著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>世事百談 百家說林卷六 </title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1212</note><note type="price">四角</note><identifier type="mh">book_8617</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-63683058-36BB-4DCC-9E73-2B6F5AFE0C63">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">山崎美成著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shan qi mei chengzhe</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>世事百談 百家說林卷六</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shishi bai tan baijia shuo lin juan liu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1212</note>
+    <note type="price">四角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_8617</identifier>
+</mods>

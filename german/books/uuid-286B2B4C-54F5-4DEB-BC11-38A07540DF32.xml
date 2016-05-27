@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-286B2B4C-54F5-4DEB-BC11-38A07540DF32"><titleInfo lang="chi" script="Hant"><title>礦石輯要編</title></titleInfo><note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 140</note><abstract type="summary"> 礦石輯要編一卷 格致彙編本   [英]傅蘭雅輯譯，先論金銀銅鐵之礦，後略論諸寶石之礦，雖形性名目極繁，而 辨別精細，復列圖以明之，似繼圖說而作。 </abstract><identifier type="mh">book_350</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-286B2B4C-54F5-4DEB-BC11-38A07540DF32">
+    <titleInfo lang="chi" script="Hant">
+        <title>礦石輯要編</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Kuangshi jiyao bian</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,礦務第七,礦學,p 140</note>
+    <abstract lang="chi" type="summary">礦石輯要編一卷 格致彙編本 [英]傅蘭雅輯譯，先論金銀銅鐵之礦，後略論諸寶石之礦，雖形性名目極繁，而 辨別精細，復列圖以明之，似繼圖說而作。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_350</identifier>
+</mods>

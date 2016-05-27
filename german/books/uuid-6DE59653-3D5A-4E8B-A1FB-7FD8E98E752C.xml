@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6DE59653-3D5A-4E8B-A1FB-7FD8E98E752C"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">高橋省三作</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 少年狂言二十五番 太郎冠者</title></titleInfo><note type="citation">日本書目志,卷十四,小說門,小說,p 1163</note><note type="price">一角五分</note><identifier type="mh">book_7878</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6DE59653-3D5A-4E8B-A1FB-7FD8E98E752C">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">高橋省三作</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Gao qiao sheng san zuo</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>少年狂言二十五番 太郎冠者</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shaonian kuangyan ershiwu fan tai lang guan zhe</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十四,小說門,小說,p 1163</note>
+    <note type="price">一角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7878</identifier>
+</mods>

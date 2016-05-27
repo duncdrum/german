@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-0FF62BA7-F5AA-4872-8C0C-F6231BE8ABC5"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">永井永三編著</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 文家必攜 助字彙註</title></titleInfo><note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1062</note><note type="price">五分</note><identifier type="mh">book_6502</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-0FF62BA7-F5AA-4872-8C0C-F6231BE8ABC5">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">永井永三編著</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yong jing yong san bianzhu</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>文家必攜 助字彙註</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Wen jia bi xie zhu zi huizhu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十二,文字語言門,文典及假名遣,p 1062</note>
+    <note type="price">五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_6502</identifier>
+</mods>

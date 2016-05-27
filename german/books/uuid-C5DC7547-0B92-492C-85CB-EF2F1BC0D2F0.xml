@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-C5DC7547-0B92-492C-85CB-EF2F1BC0D2F0"><titleInfo lang="chi" script="Hant"><title>普通地理學</title></titleInfo><note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 219</note><abstract type="summary"> 普通地理學　卷 勵學譯編本   [美]福來著，周先振譯。 [顧補]  </abstract><identifier type="mh">book_644</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-C5DC7547-0B92-492C-85CB-EF2F1BC0D2F0">
+    <titleInfo lang="chi" script="Hant">
+        <title>普通地理學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Putong dilixue</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,地學第二十,地理學,p 219</note>
+    <abstract lang="chi" type="summary">普通地理學　卷 勵學譯編本 [美]福來著，周先振譯。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_644</identifier>
+</mods>

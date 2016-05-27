@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-B4F98AFA-4C50-45AB-8FB0-86DB547A431D"><titleInfo lang="chi" script="Hant"><title>亞述國沿革攷</title></titleInfo><note type="citation">增版東西學書錄,卷一,史志第一,古史,p 47</note><abstract type="summary"> 亞述國沿革攷一卷 嶺學報本   尹端模譯，西方之人重教教之所至，國之興替因之而所紀，類不出示拿之間， 文字不備諸國蠭起，紛如亂絲，萬國史記詳而滋惑，斯編為調理亞述以來，似 續之迹，差為可據矣。 [顧補]  </abstract><identifier type="mh">book_18</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-B4F98AFA-4C50-45AB-8FB0-86DB547A431D">
+    <titleInfo lang="chi" script="Hant">
+        <title>亞述國沿革攷</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Ya shu guo yange kao</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷一,史志第一,古史,p 47</note>
+    <abstract lang="chi" type="summary">亞述國沿革攷一卷 嶺學報本 尹端模譯，西方之人重教教之所至，國之興替因之而所紀，類不出示拿之間， 文字不備諸國蠭起，紛如亂絲，萬國史記詳而滋惑，斯編為調理亞述以來，似 續之迹，差為可據矣。 [顧補]</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_18</identifier>
+</mods>

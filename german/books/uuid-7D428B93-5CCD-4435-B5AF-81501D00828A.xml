@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-7D428B93-5CCD-4435-B5AF-81501D00828A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">吉田磯次郎編纂</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 生徒必攜 新撰小學體操術</title></titleInfo><note type="citation">日本書目志,卷十三,美術門,體操書,p 1122</note><note type="price">二角二分五</note><identifier type="mh">book_7319</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-7D428B93-5CCD-4435-B5AF-81501D00828A">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">吉田磯次郎編纂</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ji tian ji ci lang bianzuan</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>生徒必攜 新撰小學體操術</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Shengtu bi xie xin zhuan xiaoxue ticao shu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十三,美術門,體操書,p 1122</note>
+    <note type="price">二角二分五</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_7319</identifier>
+</mods>

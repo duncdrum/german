@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-899F2FC6-A3C4-4612-AAF3-8A13DFBE16A4"><titleInfo lang="chi" script="Hant"><title>美國博物大會圖說</title></titleInfo><note type="citation">增版東西學書錄,卷二,商務第九,會例,p 171</note><abstract type="summary"> 美國博物大會圖說一卷 格致彙編本   [英]傅蘭雅著，專記光緒十九年美洲希加哥地方之會，西人博物會之設專攷 究五洲工藝、商業，以振厲國人。是編凡為院十有五所，章程二十有四條，各院 細自一百七十六門制度精美，指陳繁富，其有益於工商業者誠非淺尠。彙編 二有美國百年大會紀略一卷，記其圖說章程，足稱後先輝映。 </abstract><identifier type="mh">book_480</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-899F2FC6-A3C4-4612-AAF3-8A13DFBE16A4">
+    <titleInfo lang="chi" script="Hant">
+        <title>美國博物大會圖說</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Meiguo bowu dahui tushuo</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷二,商務第九,會例,p 171</note>
+    <abstract lang="chi" type="summary">美國博物大會圖說一卷 格致彙編本 [英]傅蘭雅著，專記光緒十九年美洲希加哥地方之會，西人博物會之設專攷 究五洲工藝、商業，以振厲國人。是編凡為院十有五所，章程二十有四條，各院 細自一百七十六門制度精美，指陳繁富，其有益於工商業者誠非淺尠。彙編 二有美國百年大會紀略一卷，記其圖說章程，足稱後先輝映。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_480</identifier>
+</mods>

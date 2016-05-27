@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-D59EE5FB-143A-458A-84B7-57BC2D95F87A"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">英國氏原著　千本松美郎譯</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title> 訂正四版 羅斯珂氏小化學</title></titleInfo><note type="citation">日本書目志,卷二,理學門,化學,p 630</note><note type="price">二角五分</note><identifier type="mh">book_1373</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-D59EE5FB-143A-458A-84B7-57BC2D95F87A">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">英國氏原著　千本松美郎譯</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yingguo shi yuanzhu　qian ben song mei lang yi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>訂正四版 羅斯珂氏小化學</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Dingzheng si ban luo si ke shi xiao huaxue</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷二,理學門,化學,p 630</note>
+    <note type="price">二角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_1373</identifier>
+</mods>

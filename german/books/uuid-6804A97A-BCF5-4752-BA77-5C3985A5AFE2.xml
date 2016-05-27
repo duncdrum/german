@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-6804A97A-BCF5-4752-BA77-5C3985A5AFE2"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">吉田太藏、關本寅合講義</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>三體詩唐詩選講義 《漢文學講義》第十二篇 </title></titleInfo><note type="citation">日本書目志,卷十一,文學門,詩集,p 973</note><note type="price">三角五分</note><identifier type="mh">book_5234</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-6804A97A-BCF5-4752-BA77-5C3985A5AFE2">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">吉田太藏、關本寅合講義</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Ji tian tai cang, guan ben yin he jiangyi</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>三體詩唐詩選講義 《漢文學講義》第十二篇</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>San ti shi Tangshi xuan jiangyi «han wenxue jiangyi» di shi'er pian</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷十一,文學門,詩集,p 973</note>
+    <note type="price">三角五分</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_5234</identifier>
+</mods>

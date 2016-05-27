@@ -1,1 +1,20 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-3763FF46-9ED5-40D0-B05E-A9747B7E09E3"><titleInfo lang="chi" script="Hant"><title>化學闡原</title></titleInfo><note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 204</note><abstract type="summary"> 化學闡原十五卷 同文館本十六冊   [法]畢利幹譯，承霖王鍾祥述，畢氏既譯指南，復譯此以續之，蓋指南論化合之 理，此書詳化分之法，化學中法文譯本祇此兩種，此外製造局譯本皆英文也。 論體例名目則譯英與譯法者不相謀，論學問階級則鑑原及續編補編為入 手功夫，分原、考質、求數、闡原為精深地步，學者拾級而上，得英法文兩種譯本 攷證之，較為詳審。 </abstract><identifier type="mh">book_587</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-3763FF46-9ED5-40D0-B05E-A9747B7E09E3">
+    <titleInfo lang="chi" script="Hant">
+        <title>化學闡原</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Huaxue chan yuan</title>
+    </titleInfo>
+    <note type="citation">增版東西學書錄,卷三,化學第十五,化學,p 204</note>
+    <abstract lang="chi" type="summary">化學闡原十五卷 同文館本十六冊 [法]畢利幹譯，承霖王鍾祥述，畢氏既譯指南，復譯此以續之，蓋指南論化合之 理，此書詳化分之法，化學中法文譯本祇此兩種，此外製造局譯本皆英文也。 論體例名目則譯英與譯法者不相謀，論學問階級則鑑原及續編補編為入 手功夫，分原、考質、求數、闡原為精深地步，學者拾級而上，得英法文兩種譯本 攷證之，較為詳審。</abstract>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_587</identifier>
+</mods>

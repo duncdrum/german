@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-F859B4EB-5BBA-4517-B521-9984393D0E2D"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">印刷局</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>紙幣附錄藩札部 《大日本貨幣史》之內 </title></titleInfo><note type="citation">日本書目志,卷五,政治門,經濟學,p 768</note><note type="price">二圓五角</note><identifier type="mh">book_3030</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-F859B4EB-5BBA-4517-B521-9984393D0E2D">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">印刷局</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Yinshua ju</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>紙幣附錄藩札部 《大日本貨幣史》之內</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Zhibi fulu fan zha bu «da Riben huobi shi» zhinei</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷五,政治門,經濟學,p 768</note>
+    <note type="price">二圓五角</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_3030</identifier>
+</mods>

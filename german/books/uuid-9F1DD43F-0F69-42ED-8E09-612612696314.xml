@@ -1,1 +1,26 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd" ID="uuid-9F1DD43F-0F69-42ED-8E09-612612696314"><name type="personal" xlink:href=""><namePart lang="chi" script="Hant">蒔田本野編</namePart><role><roleTerm type="text">author</roleTerm></role></name><titleInfo lang="chi" script="Hant"><title>大日本輿地全圖</title></titleInfo><note type="citation">日本書目志,卷四,圖史門,日本地圖,p 689</note><identifier type="mh">book_2047</identifier></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="3.6"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://cluster-schemas.uni-hd.de/modsCluster.xsd"
+    ID="uuid-9F1DD43F-0F69-42ED-8E09-612612696314">
+    <name type="personal">
+        <namePart lang="chi" script="Hant">蒔田本野編</namePart>
+        <namePart lang="chi" transliteration="chinese/ala-lc">Shi tian ben ye bian</namePart>
+        <role>
+            <roleTerm type="text">author</roleTerm>
+        </role>
+    </name>
+    <titleInfo lang="chi" script="Hant">
+        <title>大日本輿地全圖</title>
+    </titleInfo>
+    <titleInfo type="translated" transliteration="chinese/ala-lc">
+        <title>Da Riben yudi quan tu</title>
+    </titleInfo>
+    <note type="citation">日本書目志,卷四,圖史門,日本地圖,p 689</note>
+    <language>
+        <languageTerm type="code" authority="iso639-2b"/>
+    </language>
+    <recordInfo>
+        <recordOrigin>exported from MHDB database</recordOrigin>
+    </recordInfo>
+    <identifier type="mh">book_2047</identifier>
+</mods>
